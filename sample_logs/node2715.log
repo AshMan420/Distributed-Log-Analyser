@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.585221] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585213] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.585214] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585217] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.585219] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.585197] [INFO] Database query executed
+[2025-11-07T11:40:29.585202] [INFO] Connection established
+[2025-11-07T11:40:29.585201] [INFO] Database query executed
+[2025-11-07T11:40:29.585204] [INFO] Session started
+[2025-11-07T11:40:29.585216] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.585211] [ERROR] Permission denied
+[2025-11-07T11:40:29.585199] [INFO] Cache hit
+[2025-11-07T11:40:29.585210] [WARN] Timeout warning
+[2025-11-07T11:40:29.585208] [WARN] Slow query performance
+[2025-11-07T11:40:29.585206] [INFO] Transaction completed
+[2025-11-07T11:40:29.585220] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585203] [INFO] Database query executed
+[2025-11-07T11:40:29.585198] [INFO] Session started
+[2025-11-07T11:40:29.585209] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.585212] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.585207] [WARN] Slow query performance
+[2025-11-07T11:40:29.585215] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.585205] [INFO] Health check passed
+[2025-11-07T11:40:29.585200] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585218] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585194] [INFO] Database query executed
+[2025-11-07T11:40:29.585196] [INFO] Health check passed

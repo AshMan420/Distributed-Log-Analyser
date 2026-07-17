@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.429588] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.429590] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.429578] [INFO] Cache hit
+[2025-11-07T11:40:29.429565] [INFO] Request processed successfully
+[2025-11-07T11:40:29.429580] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.429587] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.429584] [WARN] Cache miss
+[2025-11-07T11:40:29.429579] [INFO] Service initialized
+[2025-11-07T11:40:29.429582] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.429575] [INFO] Configuration loaded
+[2025-11-07T11:40:29.429566] [INFO] Configuration loaded
+[2025-11-07T11:40:29.429589] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.429567] [INFO] Health check passed
+[2025-11-07T11:40:29.429581] [WARN] High memory usage detected
+[2025-11-07T11:40:29.429585] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.429576] [INFO] User logged in
+[2025-11-07T11:40:29.429574] [INFO] Configuration loaded
+[2025-11-07T11:40:29.429571] [INFO] Health check passed
+[2025-11-07T11:40:29.429569] [INFO] Request processed successfully
+[2025-11-07T11:40:29.429586] [ERROR] Network timeout
+[2025-11-07T11:40:29.429568] [INFO] Health check passed
+[2025-11-07T11:40:29.429573] [INFO] Request processed successfully
+[2025-11-07T11:40:29.429572] [INFO] Cache hit
+[2025-11-07T11:40:29.429592] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.429577] [INFO] Request processed successfully
+[2025-11-07T11:40:29.429570] [INFO] User logged in
+[2025-11-07T11:40:29.429591] [DEBUG] Variable value: x=42

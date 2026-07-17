@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.369856] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.369833] [INFO] Cache hit
+[2025-11-07T11:40:29.369828] [INFO] Configuration loaded
+[2025-11-07T11:40:29.369834] [INFO] Connection established
+[2025-11-07T11:40:29.369845] [INFO] Request processed successfully
+[2025-11-07T11:40:29.369851] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.369857] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.369859] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.369850] [ERROR] File not found
+[2025-11-07T11:40:29.369853] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.369855] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.369836] [INFO] Connection established
+[2025-11-07T11:40:29.369838] [INFO] Cache hit
+[2025-11-07T11:40:29.369844] [INFO] Session started
+[2025-11-07T11:40:29.369835] [INFO] Request processed successfully
+[2025-11-07T11:40:29.369842] [INFO] Connection established
+[2025-11-07T11:40:29.369858] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.369849] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.369837] [INFO] Cache hit
+[2025-11-07T11:40:29.369846] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.369830] [INFO] Cache hit
+[2025-11-07T11:40:29.369840] [INFO] Transaction completed
+[2025-11-07T11:40:29.369831] [INFO] Request processed successfully
+[2025-11-07T11:40:29.369843] [INFO] Cache hit
+[2025-11-07T11:40:29.369848] [WARN] Queue size growing
+[2025-11-07T11:40:29.369847] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.369841] [INFO] Service initialized
+[2025-11-07T11:40:29.369839] [INFO] Transaction completed
+[2025-11-07T11:40:29.369854] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.369852] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.369832] [INFO] Connection established

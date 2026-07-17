@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.498753] [WARN] Timeout warning
+[2025-11-07T11:40:29.498762] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.498743] [INFO] Health check passed
+[2025-11-07T11:40:29.498745] [INFO] Cache hit
+[2025-11-07T11:40:29.498737] [INFO] Transaction completed
+[2025-11-07T11:40:29.498746] [INFO] Request processed successfully
+[2025-11-07T11:40:29.498761] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.498759] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.498751] [INFO] Connection established
+[2025-11-07T11:40:29.498748] [INFO] Connection established
+[2025-11-07T11:40:29.498741] [INFO] User logged in
+[2025-11-07T11:40:29.498757] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.498744] [INFO] User logged in
+[2025-11-07T11:40:29.498739] [INFO] Configuration loaded
+[2025-11-07T11:40:29.498760] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.498742] [INFO] Connection established
+[2025-11-07T11:40:29.498747] [INFO] Configuration loaded
+[2025-11-07T11:40:29.498757] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.498754] [ERROR] Disk read failed
+[2025-11-07T11:40:29.498750] [INFO] Cache hit
+[2025-11-07T11:40:29.498749] [INFO] Request processed successfully
+[2025-11-07T11:40:29.498752] [INFO] Health check passed
+[2025-11-07T11:40:29.498756] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.498744] [INFO] Connection established
+[2025-11-07T11:40:29.498740] [INFO] Session started
+[2025-11-07T11:40:29.498759] [DEBUG] Buffer size: 4096 bytes

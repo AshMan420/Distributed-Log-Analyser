@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.614398] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.614393] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.614388] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.614373] [INFO] Health check passed
+[2025-11-07T11:40:29.614372] [INFO] Connection established
+[2025-11-07T11:40:29.614387] [WARN] Cache miss
+[2025-11-07T11:40:29.614389] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.614377] [INFO] Configuration loaded
+[2025-11-07T11:40:29.614392] [ERROR] Authentication failed
+[2025-11-07T11:40:29.614399] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.614376] [INFO] Health check passed
+[2025-11-07T11:40:29.614375] [INFO] User logged in
+[2025-11-07T11:40:29.614383] [INFO] Cache hit
+[2025-11-07T11:40:29.614384] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.614370] [INFO] Transaction completed
+[2025-11-07T11:40:29.614386] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.614367] [INFO] User logged in
+[2025-11-07T11:40:29.614395] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.614397] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.614374] [INFO] User logged in
+[2025-11-07T11:40:29.614380] [INFO] User logged in
+[2025-11-07T11:40:29.614379] [INFO] User logged in
+[2025-11-07T11:40:29.614391] [ERROR] Authentication failed
+[2025-11-07T11:40:29.614369] [INFO] Transaction completed
+[2025-11-07T11:40:29.614378] [INFO] User logged in
+[2025-11-07T11:40:29.614396] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.614385] [WARN] Timeout warning
+[2025-11-07T11:40:29.614401] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.614371] [INFO] User logged in
+[2025-11-07T11:40:29.614400] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.614390] [WARN] Slow query performance
+[2025-11-07T11:40:29.614381] [INFO] Database query executed

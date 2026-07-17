@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.472872] [INFO] Database query executed
+[2025-11-07T11:40:29.472871] [INFO] Configuration loaded
+[2025-11-07T11:40:29.472894] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.472870] [INFO] Connection established
+[2025-11-07T11:40:29.472899] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.472880] [INFO] User logged in
+[2025-11-07T11:40:29.472877] [INFO] Health check passed
+[2025-11-07T11:40:29.472898] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.472891] [ERROR] Network timeout
+[2025-11-07T11:40:29.472893] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.472890] [ERROR] Disk read failed
+[2025-11-07T11:40:29.472895] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.472874] [INFO] Configuration loaded
+[2025-11-07T11:40:29.472878] [INFO] Database query executed
+[2025-11-07T11:40:29.472892] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.472900] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.472884] [INFO] Request processed successfully
+[2025-11-07T11:40:29.472887] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.472897] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.472889] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.472886] [WARN] Queue size growing
+[2025-11-07T11:40:29.472875] [INFO] Session started
+[2025-11-07T11:40:29.472883] [INFO] Request processed successfully
+[2025-11-07T11:40:29.472882] [INFO] Configuration loaded
+[2025-11-07T11:40:29.472881] [INFO] Request processed successfully
+[2025-11-07T11:40:29.472879] [INFO] Service initialized
+[2025-11-07T11:40:29.472896] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.472876] [INFO] Configuration loaded
+[2025-11-07T11:40:29.472885] [INFO] Request processed successfully

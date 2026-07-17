@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.157283] [INFO] Configuration loaded
+[2025-11-07T11:40:30.157410] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.157412] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.157266] [INFO] Database query executed
+[2025-11-07T11:40:30.157263] [INFO] Transaction completed
+[2025-11-07T11:40:30.157281] [INFO] Database query executed
+[2025-11-07T11:40:30.157394] [WARN] Cache miss
+[2025-11-07T11:40:30.157422] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.157419] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.157329] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.157407] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.157417] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.157274] [INFO] Session started
+[2025-11-07T11:40:30.157384] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.157285] [INFO] Session started
+[2025-11-07T11:40:30.157199] [INFO] Connection established
+[2025-11-07T11:40:30.157415] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.157404] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.157261] [INFO] User logged in
+[2025-11-07T11:40:30.157259] [INFO] Request processed successfully
+[2025-11-07T11:40:30.157317] [INFO] Connection established
+[2025-11-07T11:40:30.157314] [INFO] Configuration loaded
+[2025-11-07T11:40:30.157269] [INFO] Service initialized
+[2025-11-07T11:40:30.157256] [INFO] Session started
+[2025-11-07T11:40:30.157278] [INFO] Service initialized
+[2025-11-07T11:40:30.157401] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.157271] [INFO] Connection established
+[2025-11-07T11:40:30.157391] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.157398] [ERROR] Network timeout
+[2025-11-07T11:40:30.157276] [INFO] Connection established
+[2025-11-07T11:40:30.157326] [WARN] Resource threshold approaching

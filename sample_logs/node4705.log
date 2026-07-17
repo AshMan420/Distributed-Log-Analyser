@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.793046] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793041] [ERROR] Authentication failed
+[2025-11-07T11:40:29.793033] [INFO] Health check passed
+[2025-11-07T11:40:29.793050] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.793024] [INFO] Health check passed
+[2025-11-07T11:40:29.793049] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.793038] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.793023] [INFO] Cache hit
+[2025-11-07T11:40:29.793028] [INFO] Service initialized
+[2025-11-07T11:40:29.793042] [ERROR] Invalid input data
+[2025-11-07T11:40:29.793034] [INFO] Service initialized
+[2025-11-07T11:40:29.793045] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.793043] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.793027] [INFO] Health check passed
+[2025-11-07T11:40:29.793051] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.793044] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.793037] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.793036] [WARN] Queue size growing
+[2025-11-07T11:40:29.793020] [INFO] Health check passed
+[2025-11-07T11:40:29.793031] [INFO] Database query executed
+[2025-11-07T11:40:29.793035] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793052] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793032] [INFO] Cache hit
+[2025-11-07T11:40:29.793025] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793026] [INFO] Service initialized
+[2025-11-07T11:40:29.793029] [INFO] Configuration loaded
+[2025-11-07T11:40:29.793047] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.793030] [INFO] Transaction completed
+[2025-11-07T11:40:29.793022] [INFO] Cache hit
+[2025-11-07T11:40:29.793039] [WARN] Resource threshold approaching

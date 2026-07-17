@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.937705] [ERROR] Request failed
+[2025-11-07T11:40:29.937707] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.937704] [ERROR] Network timeout
+[2025-11-07T11:40:29.937713] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.937716] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.937709] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.937714] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.937719] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.937684] [INFO] Request processed successfully
+[2025-11-07T11:40:29.937712] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.937698] [INFO] Request processed successfully
+[2025-11-07T11:40:29.937708] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.937697] [INFO] Configuration loaded
+[2025-11-07T11:40:29.937690] [INFO] Configuration loaded
+[2025-11-07T11:40:29.937711] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.937715] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.937696] [INFO] Transaction completed
+[2025-11-07T11:40:29.937686] [INFO] Cache hit
+[2025-11-07T11:40:29.937703] [WARN] Queue size growing
+[2025-11-07T11:40:29.937691] [INFO] Configuration loaded
+[2025-11-07T11:40:29.937693] [INFO] Request processed successfully
+[2025-11-07T11:40:29.937702] [WARN] Cache miss
+[2025-11-07T11:40:29.937717] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.937688] [INFO] Connection established
+[2025-11-07T11:40:29.937701] [WARN] Cache miss
+[2025-11-07T11:40:29.937689] [INFO] Cache hit
+[2025-11-07T11:40:29.937687] [INFO] Session started
+[2025-11-07T11:40:29.937692] [INFO] Cache hit
+[2025-11-07T11:40:29.937700] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.937718] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.937706] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.937695] [INFO] Session started
+[2025-11-07T11:40:29.937694] [INFO] Service initialized
+[2025-11-07T11:40:29.937710] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.937720] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.937699] [WARN] Slow query performance

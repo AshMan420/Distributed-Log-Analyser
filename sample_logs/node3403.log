@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.658420] [INFO] Request processed successfully
+[2025-11-07T11:40:29.658440] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.658438] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.658431] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.658430] [WARN] Queue size growing
+[2025-11-07T11:40:29.658418] [INFO] Request processed successfully
+[2025-11-07T11:40:29.658427] [INFO] Service initialized
+[2025-11-07T11:40:29.658422] [INFO] Transaction completed
+[2025-11-07T11:40:29.658423] [INFO] Request processed successfully
+[2025-11-07T11:40:29.658416] [INFO] Request processed successfully
+[2025-11-07T11:40:29.658443] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.658437] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.658425] [INFO] Configuration loaded
+[2025-11-07T11:40:29.658439] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.658434] [ERROR] Request failed
+[2025-11-07T11:40:29.658423] [INFO] Session started
+[2025-11-07T11:40:29.658444] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.658432] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.658435] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.658419] [INFO] Transaction completed
+[2025-11-07T11:40:29.658426] [INFO] Service initialized
+[2025-11-07T11:40:29.658417] [INFO] Health check passed
+[2025-11-07T11:40:29.658441] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.658433] [ERROR] Database connection lost
+[2025-11-07T11:40:29.658429] [WARN] Cache miss
+[2025-11-07T11:40:29.658424] [INFO] Cache hit
+[2025-11-07T11:40:29.658436] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.658442] [DEBUG] Loop iteration: 15

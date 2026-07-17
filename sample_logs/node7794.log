@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.119076] [INFO] Transaction completed
+[2025-11-07T11:40:30.119085] [WARN] Queue size growing
+[2025-11-07T11:40:30.119068] [INFO] Configuration loaded
+[2025-11-07T11:40:30.119081] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.119092] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.119070] [INFO] Session started
+[2025-11-07T11:40:30.119073] [INFO] Transaction completed
+[2025-11-07T11:40:30.119095] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.119087] [ERROR] Authentication failed
+[2025-11-07T11:40:30.119075] [INFO] Session started
+[2025-11-07T11:40:30.119094] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.119074] [INFO] Service initialized
+[2025-11-07T11:40:30.119071] [INFO] User logged in
+[2025-11-07T11:40:30.119096] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.119090] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.119088] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.119069] [INFO] Database query executed
+[2025-11-07T11:40:30.119078] [INFO] Configuration loaded
+[2025-11-07T11:40:30.119083] [WARN] Slow query performance
+[2025-11-07T11:40:30.119091] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.119082] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.119080] [INFO] Service initialized
+[2025-11-07T11:40:30.119089] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.119086] [ERROR] Permission denied
+[2025-11-07T11:40:30.119093] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.119076] [INFO] Service initialized
+[2025-11-07T11:40:30.119079] [INFO] Database query executed
+[2025-11-07T11:40:30.119067] [INFO] User logged in
+[2025-11-07T11:40:30.119079] [INFO] Database query executed

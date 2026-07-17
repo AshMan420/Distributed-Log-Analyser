@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.625312] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.625302] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.625291] [INFO] Request processed successfully
+[2025-11-07T11:40:29.625285] [INFO] Database query executed
+[2025-11-07T11:40:29.625304] [ERROR] Request failed
+[2025-11-07T11:40:29.625300] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.625287] [INFO] Transaction completed
+[2025-11-07T11:40:29.625307] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.625297] [INFO] Request processed successfully
+[2025-11-07T11:40:29.625308] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.625286] [INFO] Configuration loaded
+[2025-11-07T11:40:29.625299] [WARN] Cache miss
+[2025-11-07T11:40:29.625305] [ERROR] Authentication failed
+[2025-11-07T11:40:29.625284] [INFO] Service initialized
+[2025-11-07T11:40:29.625313] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.625311] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.625281] [INFO] Configuration loaded
+[2025-11-07T11:40:29.625276] [INFO] Health check passed
+[2025-11-07T11:40:29.625289] [INFO] Service initialized
+[2025-11-07T11:40:29.625306] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.625288] [INFO] Transaction completed
+[2025-11-07T11:40:29.625279] [INFO] User logged in
+[2025-11-07T11:40:29.625294] [INFO] Cache hit
+[2025-11-07T11:40:29.625282] [INFO] Connection established
+[2025-11-07T11:40:29.625283] [INFO] Service initialized
+[2025-11-07T11:40:29.625290] [INFO] Health check passed
+[2025-11-07T11:40:29.625293] [INFO] Transaction completed
+[2025-11-07T11:40:29.625278] [INFO] Service initialized
+[2025-11-07T11:40:29.625298] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.625296] [INFO] Connection established
+[2025-11-07T11:40:29.625315] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.625301] [WARN] High memory usage detected
+[2025-11-07T11:40:29.625303] [ERROR] Disk read failed
+[2025-11-07T11:40:29.625292] [INFO] User logged in
+[2025-11-07T11:40:29.625295] [INFO] Request processed successfully
+[2025-11-07T11:40:29.625314] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.625309] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.625280] [INFO] Connection established

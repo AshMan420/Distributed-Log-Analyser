@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.447040] [INFO] Session started
+[2025-11-07T11:40:29.447061] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.447056] [WARN] Timeout warning
+[2025-11-07T11:40:29.447066] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.447069] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.447064] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.447044] [INFO] Configuration loaded
+[2025-11-07T11:40:29.447057] [ERROR] Disk read failed
+[2025-11-07T11:40:29.447051] [INFO] Session started
+[2025-11-07T11:40:29.447046] [INFO] Database query executed
+[2025-11-07T11:40:29.447056] [WARN] Queue size growing
+[2025-11-07T11:40:29.447042] [INFO] Session started
+[2025-11-07T11:40:29.447063] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.447053] [INFO] Health check passed
+[2025-11-07T11:40:29.447048] [INFO] Health check passed
+[2025-11-07T11:40:29.447039] [INFO] Health check passed
+[2025-11-07T11:40:29.447062] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.447049] [INFO] Transaction completed
+[2025-11-07T11:40:29.447043] [INFO] Service initialized
+[2025-11-07T11:40:29.447060] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.447068] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.447041] [INFO] Service initialized
+[2025-11-07T11:40:29.447055] [INFO] User logged in
+[2025-11-07T11:40:29.447050] [INFO] Service initialized
+[2025-11-07T11:40:29.447067] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.447054] [INFO] Configuration loaded
+[2025-11-07T11:40:29.447045] [INFO] Configuration loaded
+[2025-11-07T11:40:29.447047] [INFO] Connection established
+[2025-11-07T11:40:29.447065] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.447058] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.447052] [INFO] Transaction completed
+[2025-11-07T11:40:29.447038] [INFO] Health check passed
+[2025-11-07T11:40:29.447062] [DEBUG] Connection pool status checked

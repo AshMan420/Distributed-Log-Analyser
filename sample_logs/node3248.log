@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.641538] [ERROR] Authentication failed
+[2025-11-07T11:40:29.641541] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.641548] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.641543] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641527] [INFO] Health check passed
+[2025-11-07T11:40:29.641525] [INFO] Connection established
+[2025-11-07T11:40:29.641521] [INFO] Transaction completed
+[2025-11-07T11:40:29.641544] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.641529] [INFO] Request processed successfully
+[2025-11-07T11:40:29.641520] [INFO] Request processed successfully
+[2025-11-07T11:40:29.641526] [INFO] User logged in
+[2025-11-07T11:40:29.641522] [INFO] Database query executed
+[2025-11-07T11:40:29.641536] [WARN] High memory usage detected
+[2025-11-07T11:40:29.641530] [INFO] Session started
+[2025-11-07T11:40:29.641531] [INFO] Session started
+[2025-11-07T11:40:29.641542] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.641540] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.641532] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.641539] [ERROR] Disk read failed
+[2025-11-07T11:40:29.641518] [INFO] Cache hit
+[2025-11-07T11:40:29.641528] [INFO] Service initialized
+[2025-11-07T11:40:29.641524] [INFO] Configuration loaded
+[2025-11-07T11:40:29.641533] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.641523] [INFO] Configuration loaded
+[2025-11-07T11:40:29.641517] [INFO] Database query executed
+[2025-11-07T11:40:29.641547] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.641534] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.641519] [INFO] Transaction completed
+[2025-11-07T11:40:29.641536] [WARN] Queue size growing
+[2025-11-07T11:40:29.641545] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.641546] [DEBUG] Thread pool size: 8

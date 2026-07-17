@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.744926] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.744914] [INFO] Configuration loaded
+[2025-11-07T11:40:29.744915] [INFO] Session started
+[2025-11-07T11:40:29.744908] [INFO] Database query executed
+[2025-11-07T11:40:29.744921] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.744903] [INFO] Database query executed
+[2025-11-07T11:40:29.744906] [INFO] Request processed successfully
+[2025-11-07T11:40:29.744920] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.744905] [INFO] Session started
+[2025-11-07T11:40:29.744916] [WARN] High memory usage detected
+[2025-11-07T11:40:29.744913] [INFO] Health check passed
+[2025-11-07T11:40:29.744909] [INFO] Request processed successfully
+[2025-11-07T11:40:29.744904] [INFO] Cache hit
+[2025-11-07T11:40:29.744925] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.744919] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.744902] [INFO] Connection established
+[2025-11-07T11:40:29.744918] [ERROR] Authentication failed
+[2025-11-07T11:40:29.744907] [INFO] Health check passed
+[2025-11-07T11:40:29.744924] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.744929] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.744923] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.744917] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.744911] [INFO] Configuration loaded
+[2025-11-07T11:40:29.744927] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.744928] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.744912] [INFO] Request processed successfully
+[2025-11-07T11:40:29.744900] [INFO] Transaction completed
+[2025-11-07T11:40:29.744922] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.744910] [INFO] User logged in

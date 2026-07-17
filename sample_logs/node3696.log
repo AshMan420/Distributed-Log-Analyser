@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.690197] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.690175] [INFO] Connection established
+[2025-11-07T11:40:29.690189] [WARN] Disk space low
+[2025-11-07T11:40:29.690191] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.690199] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.690201] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.690193] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.690188] [INFO] Health check passed
+[2025-11-07T11:40:29.690205] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.690202] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.690204] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.690187] [INFO] Database query executed
+[2025-11-07T11:40:29.690190] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.690179] [INFO] Health check passed
+[2025-11-07T11:40:29.690192] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.690180] [INFO] Cache hit
+[2025-11-07T11:40:29.690186] [INFO] Database query executed
+[2025-11-07T11:40:29.690196] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.690203] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.690174] [INFO] Connection established
+[2025-11-07T11:40:29.690176] [INFO] Transaction completed
+[2025-11-07T11:40:29.690181] [INFO] Configuration loaded
+[2025-11-07T11:40:29.690195] [ERROR] Invalid input data
+[2025-11-07T11:40:29.690171] [INFO] Configuration loaded
+[2025-11-07T11:40:29.690173] [INFO] Request processed successfully
+[2025-11-07T11:40:29.690184] [INFO] Configuration loaded
+[2025-11-07T11:40:29.690194] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.690198] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.690200] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.690185] [INFO] Database query executed
+[2025-11-07T11:40:29.690178] [INFO] Request processed successfully
+[2025-11-07T11:40:29.690177] [INFO] Connection established

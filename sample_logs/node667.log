@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.361339] [INFO] User logged in
+[2025-11-07T11:40:29.361362] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.361361] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.361371] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.361348] [INFO] Request processed successfully
+[2025-11-07T11:40:29.361368] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.361353] [INFO] Request processed successfully
+[2025-11-07T11:40:29.361356] [WARN] Disk space low
+[2025-11-07T11:40:29.361345] [INFO] Configuration loaded
+[2025-11-07T11:40:29.361369] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.361367] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.361365] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.361350] [INFO] Connection established
+[2025-11-07T11:40:29.361366] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.361357] [WARN] High memory usage detected
+[2025-11-07T11:40:29.361351] [INFO] Database query executed
+[2025-11-07T11:40:29.361343] [INFO] Connection established
+[2025-11-07T11:40:29.361364] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.361346] [INFO] Health check passed
+[2025-11-07T11:40:29.361360] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.361352] [INFO] Cache hit
+[2025-11-07T11:40:29.361367] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.361359] [ERROR] Permission denied
+[2025-11-07T11:40:29.361363] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.361340] [INFO] Database query executed
+[2025-11-07T11:40:29.361341] [INFO] Cache hit
+[2025-11-07T11:40:29.361358] [ERROR] Service unavailable
+[2025-11-07T11:40:29.361354] [WARN] High memory usage detected
+[2025-11-07T11:40:29.361370] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.361344] [INFO] Session started
+[2025-11-07T11:40:29.361355] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.361342] [INFO] Cache hit
+[2025-11-07T11:40:29.361349] [INFO] Request processed successfully
+[2025-11-07T11:40:29.361347] [INFO] Database query executed

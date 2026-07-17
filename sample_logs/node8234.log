@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.168064] [WARN] High memory usage detected
+[2025-11-07T11:40:30.168066] [WARN] Queue size growing
+[2025-11-07T11:40:30.168054] [INFO] Cache hit
+[2025-11-07T11:40:30.168067] [ERROR] Disk read failed
+[2025-11-07T11:40:30.168074] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.168072] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.168063] [WARN] Disk space low
+[2025-11-07T11:40:30.168075] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.168046] [INFO] Request processed successfully
+[2025-11-07T11:40:30.168048] [INFO] Session started
+[2025-11-07T11:40:30.168073] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.168055] [INFO] Cache hit
+[2025-11-07T11:40:30.168062] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.168049] [INFO] Transaction completed
+[2025-11-07T11:40:30.168058] [INFO] Request processed successfully
+[2025-11-07T11:40:30.168050] [INFO] Request processed successfully
+[2025-11-07T11:40:30.168057] [INFO] Database query executed
+[2025-11-07T11:40:30.168069] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.168060] [INFO] Cache hit
+[2025-11-07T11:40:30.168071] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.168061] [INFO] User logged in
+[2025-11-07T11:40:30.168065] [WARN] Slow query performance
+[2025-11-07T11:40:30.168070] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.168051] [INFO] Request processed successfully
+[2025-11-07T11:40:30.168056] [INFO] Service initialized
+[2025-11-07T11:40:30.168076] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.168059] [INFO] Service initialized
+[2025-11-07T11:40:30.168068] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.168053] [INFO] Service initialized
+[2025-11-07T11:40:30.168052] [INFO] Transaction completed

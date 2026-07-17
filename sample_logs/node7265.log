@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.064516] [INFO] User logged in
+[2025-11-07T11:40:30.064531] [ERROR] Disk read failed
+[2025-11-07T11:40:30.064529] [WARN] High memory usage detected
+[2025-11-07T11:40:30.064513] [INFO] Request processed successfully
+[2025-11-07T11:40:30.064512] [INFO] Session started
+[2025-11-07T11:40:30.064528] [WARN] Timeout warning
+[2025-11-07T11:40:30.064514] [INFO] Session started
+[2025-11-07T11:40:30.064538] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.064534] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.064518] [INFO] User logged in
+[2025-11-07T11:40:30.064530] [ERROR] Request failed
+[2025-11-07T11:40:30.064524] [INFO] User logged in
+[2025-11-07T11:40:30.064523] [INFO] User logged in
+[2025-11-07T11:40:30.064521] [INFO] Session started
+[2025-11-07T11:40:30.064519] [INFO] Session started
+[2025-11-07T11:40:30.064532] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.064527] [WARN] Queue size growing
+[2025-11-07T11:40:30.064525] [WARN] High memory usage detected
+[2025-11-07T11:40:30.064520] [INFO] Health check passed
+[2025-11-07T11:40:30.064517] [INFO] Configuration loaded
+[2025-11-07T11:40:30.064533] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.064510] [INFO] Request processed successfully
+[2025-11-07T11:40:30.064540] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.064536] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.064522] [INFO] Cache hit
+[2025-11-07T11:40:30.064535] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.064526] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.064511] [INFO] User logged in
+[2025-11-07T11:40:30.064537] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.064539] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.064541] [DEBUG] Variable value: x=42

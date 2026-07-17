@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.696590] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.696563] [INFO] Configuration loaded
+[2025-11-07T11:40:29.696591] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.696588] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.696586] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.696574] [INFO] Transaction completed
+[2025-11-07T11:40:29.696581] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.696589] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.696582] [ERROR] Disk read failed
+[2025-11-07T11:40:29.696587] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.696585] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.696583] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.696571] [INFO] Health check passed
+[2025-11-07T11:40:29.696580] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.696572] [INFO] Cache hit
+[2025-11-07T11:40:29.696569] [INFO] Configuration loaded
+[2025-11-07T11:40:29.696565] [INFO] Health check passed
+[2025-11-07T11:40:29.696575] [INFO] Request processed successfully
+[2025-11-07T11:40:29.696584] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.696579] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.696567] [INFO] Session started
+[2025-11-07T11:40:29.696570] [INFO] Database query executed
+[2025-11-07T11:40:29.696564] [INFO] Service initialized
+[2025-11-07T11:40:29.696576] [INFO] Service initialized
+[2025-11-07T11:40:29.696562] [INFO] User logged in
+[2025-11-07T11:40:29.696578] [WARN] Cache miss
+[2025-11-07T11:40:29.696573] [INFO] Session started
+[2025-11-07T11:40:29.696566] [INFO] User logged in
+[2025-11-07T11:40:29.696577] [INFO] Health check passed

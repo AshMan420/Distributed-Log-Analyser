@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.516346] [INFO] Request processed successfully
+[2025-11-07T11:40:29.516347] [INFO] User logged in
+[2025-11-07T11:40:29.516343] [INFO] User logged in
+[2025-11-07T11:40:29.516355] [WARN] Cache miss
+[2025-11-07T11:40:29.516352] [INFO] Health check passed
+[2025-11-07T11:40:29.516339] [INFO] Configuration loaded
+[2025-11-07T11:40:29.516359] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.516345] [INFO] User logged in
+[2025-11-07T11:40:29.516363] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.516356] [ERROR] Invalid input data
+[2025-11-07T11:40:29.516348] [INFO] Configuration loaded
+[2025-11-07T11:40:29.516351] [INFO] User logged in
+[2025-11-07T11:40:29.516364] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.516345] [INFO] Health check passed
+[2025-11-07T11:40:29.516361] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.516350] [INFO] Transaction completed
+[2025-11-07T11:40:29.516365] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.516366] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.516349] [INFO] Transaction completed
+[2025-11-07T11:40:29.516365] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.516342] [INFO] Transaction completed
+[2025-11-07T11:40:29.516353] [INFO] Service initialized
+[2025-11-07T11:40:29.516341] [INFO] Request processed successfully
+[2025-11-07T11:40:29.516344] [INFO] Service initialized
+[2025-11-07T11:40:29.516358] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.516360] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.516357] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.516354] [INFO] Cache hit

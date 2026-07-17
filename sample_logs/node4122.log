@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.733699] [INFO] Cache hit
+[2025-11-07T11:40:29.733722] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.733700] [INFO] Service initialized
+[2025-11-07T11:40:29.733719] [WARN] Disk space low
+[2025-11-07T11:40:29.733714] [INFO] User logged in
+[2025-11-07T11:40:29.733727] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.733701] [INFO] Cache hit
+[2025-11-07T11:40:29.733724] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.733707] [INFO] User logged in
+[2025-11-07T11:40:29.733706] [INFO] Transaction completed
+[2025-11-07T11:40:29.733713] [INFO] Request processed successfully
+[2025-11-07T11:40:29.733715] [WARN] Queue size growing
+[2025-11-07T11:40:29.733730] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.733723] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.733703] [INFO] User logged in
+[2025-11-07T11:40:29.733717] [WARN] Cache miss
+[2025-11-07T11:40:29.733728] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.733721] [ERROR] Disk read failed
+[2025-11-07T11:40:29.733725] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733710] [INFO] Database query executed
+[2025-11-07T11:40:29.733712] [INFO] Service initialized
+[2025-11-07T11:40:29.733729] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.733718] [WARN] Timeout warning
+[2025-11-07T11:40:29.733716] [WARN] Queue size growing
+[2025-11-07T11:40:29.733720] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.733705] [INFO] Transaction completed
+[2025-11-07T11:40:29.733708] [INFO] Service initialized
+[2025-11-07T11:40:29.733711] [INFO] Configuration loaded
+[2025-11-07T11:40:29.733709] [INFO] Connection established
+[2025-11-07T11:40:29.733704] [INFO] Configuration loaded
+[2025-11-07T11:40:29.733726] [DEBUG] Variable value: x=42

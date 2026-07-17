@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.690681] [INFO] Session started
+[2025-11-07T11:40:29.690674] [INFO] Connection established
+[2025-11-07T11:40:29.690692] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.690684] [INFO] Cache hit
+[2025-11-07T11:40:29.690687] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.690693] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.690683] [INFO] Transaction completed
+[2025-11-07T11:40:29.690695] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.690694] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.690676] [INFO] Transaction completed
+[2025-11-07T11:40:29.690675] [INFO] Database query executed
+[2025-11-07T11:40:29.690689] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.690685] [WARN] Disk space low
+[2025-11-07T11:40:29.690690] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.690680] [INFO] Health check passed
+[2025-11-07T11:40:29.690679] [INFO] Configuration loaded
+[2025-11-07T11:40:29.690672] [INFO] User logged in
+[2025-11-07T11:40:29.690688] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.690671] [INFO] Database query executed
+[2025-11-07T11:40:29.690677] [INFO] Configuration loaded
+[2025-11-07T11:40:29.690691] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.690682] [INFO] Transaction completed
+[2025-11-07T11:40:29.690686] [ERROR] Disk read failed
+[2025-11-07T11:40:29.690678] [INFO] Configuration loaded

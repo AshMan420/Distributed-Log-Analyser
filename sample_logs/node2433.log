@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.551229] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.551217] [INFO] Connection established
+[2025-11-07T11:40:29.551216] [INFO] Request processed successfully
+[2025-11-07T11:40:29.551230] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.551218] [INFO] User logged in
+[2025-11-07T11:40:29.551215] [INFO] Request processed successfully
+[2025-11-07T11:40:29.551232] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.551220] [WARN] Queue size growing
+[2025-11-07T11:40:29.551204] [INFO] Configuration loaded
+[2025-11-07T11:40:29.551211] [INFO] User logged in
+[2025-11-07T11:40:29.551232] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.551212] [INFO] User logged in
+[2025-11-07T11:40:29.551206] [INFO] Cache hit
+[2025-11-07T11:40:29.551221] [WARN] Timeout warning
+[2025-11-07T11:40:29.551205] [INFO] Health check passed
+[2025-11-07T11:40:29.551208] [INFO] Service initialized
+[2025-11-07T11:40:29.551207] [INFO] Database query executed
+[2025-11-07T11:40:29.551227] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.551225] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.551219] [INFO] Configuration loaded
+[2025-11-07T11:40:29.551222] [ERROR] Database connection lost
+[2025-11-07T11:40:29.551213] [INFO] Database query executed
+[2025-11-07T11:40:29.551209] [INFO] User logged in
+[2025-11-07T11:40:29.551223] [ERROR] Invalid input data
+[2025-11-07T11:40:29.551228] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.551231] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.551224] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.551214] [INFO] Configuration loaded

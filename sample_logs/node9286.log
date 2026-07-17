@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.286860] [WARN] Slow query performance
+[2025-11-07T11:40:30.286860] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.286865] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.286857] [INFO] Health check passed
+[2025-11-07T11:40:30.286859] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.286866] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.286858] [WARN] Queue size growing
+[2025-11-07T11:40:30.286864] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.286845] [INFO] Transaction completed
+[2025-11-07T11:40:30.286854] [INFO] Health check passed
+[2025-11-07T11:40:30.286853] [INFO] User logged in
+[2025-11-07T11:40:30.286862] [ERROR] Database connection lost
+[2025-11-07T11:40:30.286850] [INFO] Request processed successfully
+[2025-11-07T11:40:30.286848] [INFO] Connection established
+[2025-11-07T11:40:30.286842] [INFO] Transaction completed
+[2025-11-07T11:40:30.286851] [INFO] Cache hit
+[2025-11-07T11:40:30.286868] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.286866] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.286847] [INFO] Database query executed
+[2025-11-07T11:40:30.286846] [INFO] Service initialized
+[2025-11-07T11:40:30.286843] [INFO] Request processed successfully
+[2025-11-07T11:40:30.286849] [INFO] Health check passed
+[2025-11-07T11:40:30.286862] [ERROR] Invalid input data
+[2025-11-07T11:40:30.286855] [INFO] Health check passed
+[2025-11-07T11:40:30.286867] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.286852] [INFO] Service initialized
+[2025-11-07T11:40:30.286856] [INFO] Cache hit
+[2025-11-07T11:40:30.286844] [INFO] Health check passed

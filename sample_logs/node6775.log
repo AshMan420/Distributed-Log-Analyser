@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.013923] [INFO] Session started
+[2025-11-07T11:40:30.013921] [INFO] Cache hit
+[2025-11-07T11:40:30.013920] [INFO] Database query executed
+[2025-11-07T11:40:30.013918] [INFO] Health check passed
+[2025-11-07T11:40:30.013925] [INFO] Database query executed
+[2025-11-07T11:40:30.013941] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.013911] [INFO] Service initialized
+[2025-11-07T11:40:30.013937] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.013914] [INFO] Request processed successfully
+[2025-11-07T11:40:30.013931] [WARN] Queue size growing
+[2025-11-07T11:40:30.013942] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.013940] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.013916] [INFO] Session started
+[2025-11-07T11:40:30.013938] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.013930] [WARN] Timeout warning
+[2025-11-07T11:40:30.013913] [INFO] Health check passed
+[2025-11-07T11:40:30.013929] [WARN] Timeout warning
+[2025-11-07T11:40:30.013915] [INFO] User logged in
+[2025-11-07T11:40:30.013928] [WARN] Timeout warning
+[2025-11-07T11:40:30.013917] [INFO] Transaction completed
+[2025-11-07T11:40:30.013925] [INFO] Health check passed
+[2025-11-07T11:40:30.013936] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.013922] [INFO] Database query executed
+[2025-11-07T11:40:30.013932] [WARN] Slow query performance
+[2025-11-07T11:40:30.013924] [INFO] Health check passed
+[2025-11-07T11:40:30.013927] [WARN] Queue size growing
+[2025-11-07T11:40:30.013943] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.013934] [ERROR] Disk read failed
+[2025-11-07T11:40:30.013933] [ERROR] Disk read failed
+[2025-11-07T11:40:30.013939] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.013935] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.013912] [INFO] Health check passed

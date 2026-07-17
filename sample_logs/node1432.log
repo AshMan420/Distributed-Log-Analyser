@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.441785] [ERROR] Network timeout
+[2025-11-07T11:40:29.441768] [INFO] User logged in
+[2025-11-07T11:40:29.441796] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.441787] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.441772] [INFO] Service initialized
+[2025-11-07T11:40:29.441777] [INFO] Database query executed
+[2025-11-07T11:40:29.441795] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.441776] [INFO] Configuration loaded
+[2025-11-07T11:40:29.441780] [INFO] User logged in
+[2025-11-07T11:40:29.441781] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.441778] [INFO] User logged in
+[2025-11-07T11:40:29.441782] [WARN] Slow query performance
+[2025-11-07T11:40:29.441790] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.441791] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.441784] [WARN] High memory usage detected
+[2025-11-07T11:40:29.441794] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.441783] [WARN] Cache miss
+[2025-11-07T11:40:29.441771] [INFO] User logged in
+[2025-11-07T11:40:29.441792] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.441775] [INFO] Configuration loaded
+[2025-11-07T11:40:29.441773] [INFO] Request processed successfully
+[2025-11-07T11:40:29.441770] [INFO] Request processed successfully
+[2025-11-07T11:40:29.441774] [INFO] User logged in
+[2025-11-07T11:40:29.441786] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.441779] [INFO] Cache hit
+[2025-11-07T11:40:29.441793] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.441789] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.441788] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.441797] [DEBUG] Loop iteration: 15

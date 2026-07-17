@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.253498] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.253499] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.253491] [WARN] High memory usage detected
+[2025-11-07T11:40:30.253487] [INFO] Session started
+[2025-11-07T11:40:30.253495] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.253479] [INFO] Request processed successfully
+[2025-11-07T11:40:30.253473] [INFO] Health check passed
+[2025-11-07T11:40:30.253475] [INFO] Session started
+[2025-11-07T11:40:30.253505] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.253494] [ERROR] Service unavailable
+[2025-11-07T11:40:30.253493] [WARN] Slow query performance
+[2025-11-07T11:40:30.253504] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.253471] [INFO] Database query executed
+[2025-11-07T11:40:30.253485] [INFO] Transaction completed
+[2025-11-07T11:40:30.253486] [INFO] Transaction completed
+[2025-11-07T11:40:30.253480] [INFO] Configuration loaded
+[2025-11-07T11:40:30.253474] [INFO] Session started
+[2025-11-07T11:40:30.253484] [INFO] Connection established
+[2025-11-07T11:40:30.253478] [INFO] Database query executed
+[2025-11-07T11:40:30.253489] [WARN] Timeout warning
+[2025-11-07T11:40:30.253503] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.253501] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.253482] [INFO] Transaction completed
+[2025-11-07T11:40:30.253490] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.253477] [INFO] Cache hit
+[2025-11-07T11:40:30.253481] [INFO] Health check passed
+[2025-11-07T11:40:30.253476] [INFO] Service initialized
+[2025-11-07T11:40:30.253502] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.253507] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.253496] [DEBUG] Cache key generated

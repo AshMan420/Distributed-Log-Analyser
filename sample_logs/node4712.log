@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.793709] [INFO] Connection established
+[2025-11-07T11:40:29.793720] [INFO] Cache hit
+[2025-11-07T11:40:29.793714] [INFO] Cache hit
+[2025-11-07T11:40:29.793727] [WARN] Cache miss
+[2025-11-07T11:40:29.793732] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.793717] [INFO] Session started
+[2025-11-07T11:40:29.793731] [ERROR] Disk read failed
+[2025-11-07T11:40:29.793716] [INFO] Health check passed
+[2025-11-07T11:40:29.793719] [INFO] Cache hit
+[2025-11-07T11:40:29.793715] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793730] [ERROR] Authentication failed
+[2025-11-07T11:40:29.793721] [INFO] Session started
+[2025-11-07T11:40:29.793736] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.793723] [INFO] Connection established
+[2025-11-07T11:40:29.793738] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793720] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793728] [WARN] High memory usage detected
+[2025-11-07T11:40:29.793735] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.793733] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.793724] [WARN] High memory usage detected
+[2025-11-07T11:40:29.793739] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.793711] [INFO] Cache hit
+[2025-11-07T11:40:29.793729] [ERROR] Disk read failed
+[2025-11-07T11:40:29.793712] [INFO] Health check passed
+[2025-11-07T11:40:29.793713] [INFO] Connection established
+[2025-11-07T11:40:29.793722] [INFO] Transaction completed
+[2025-11-07T11:40:29.793737] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.793734] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.793718] [INFO] Session started
+[2025-11-07T11:40:29.793725] [WARN] Cache miss
+[2025-11-07T11:40:29.793738] [DEBUG] Loop iteration: 15

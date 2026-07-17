@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.447932] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.447921] [WARN] High memory usage detected
+[2025-11-07T11:40:29.447919] [INFO] Cache hit
+[2025-11-07T11:40:29.447923] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.447927] [ERROR] Database connection lost
+[2025-11-07T11:40:29.447916] [INFO] Service initialized
+[2025-11-07T11:40:29.447928] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.447937] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.447935] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.447933] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.447924] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.447913] [INFO] Transaction completed
+[2025-11-07T11:40:29.447934] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.447929] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.447926] [ERROR] Database connection lost
+[2025-11-07T11:40:29.447917] [INFO] Health check passed
+[2025-11-07T11:40:29.447912] [INFO] Transaction completed
+[2025-11-07T11:40:29.447915] [INFO] User logged in
+[2025-11-07T11:40:29.447936] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.447930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.447918] [INFO] Transaction completed
+[2025-11-07T11:40:29.447922] [WARN] Slow query performance
+[2025-11-07T11:40:29.447914] [INFO] Request processed successfully
+[2025-11-07T11:40:29.447931] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.447920] [INFO] Health check passed

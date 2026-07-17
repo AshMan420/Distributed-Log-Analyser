@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.246598] [INFO] Database query executed
+[2025-11-07T11:40:30.246605] [INFO] Transaction completed
+[2025-11-07T11:40:30.246610] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.246613] [ERROR] Request failed
+[2025-11-07T11:40:30.246596] [INFO] Session started
+[2025-11-07T11:40:30.246615] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.246597] [INFO] Database query executed
+[2025-11-07T11:40:30.246623] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.246608] [WARN] Timeout warning
+[2025-11-07T11:40:30.246599] [INFO] Session started
+[2025-11-07T11:40:30.246600] [INFO] Cache hit
+[2025-11-07T11:40:30.246622] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.246604] [INFO] Session started
+[2025-11-07T11:40:30.246611] [ERROR] Request failed
+[2025-11-07T11:40:30.246606] [WARN] Cache miss
+[2025-11-07T11:40:30.246618] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.246624] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.246593] [INFO] Health check passed
+[2025-11-07T11:40:30.246603] [INFO] Request processed successfully
+[2025-11-07T11:40:30.246620] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.246601] [INFO] User logged in
+[2025-11-07T11:40:30.246617] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.246602] [INFO] Service initialized
+[2025-11-07T11:40:30.246609] [WARN] Cache miss
+[2025-11-07T11:40:30.246614] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.246619] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.246595] [INFO] Database query executed

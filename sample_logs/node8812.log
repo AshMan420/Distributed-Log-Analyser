@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.238741] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.238725] [INFO] Session started
+[2025-11-07T11:40:30.238721] [INFO] Session started
+[2025-11-07T11:40:30.238731] [INFO] Cache hit
+[2025-11-07T11:40:30.238728] [INFO] Request processed successfully
+[2025-11-07T11:40:30.238723] [INFO] User logged in
+[2025-11-07T11:40:30.238747] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.238734] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.238736] [WARN] Timeout warning
+[2025-11-07T11:40:30.238743] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238716] [INFO] Cache hit
+[2025-11-07T11:40:30.238745] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.238727] [INFO] Health check passed
+[2025-11-07T11:40:30.238738] [ERROR] Database connection lost
+[2025-11-07T11:40:30.238724] [INFO] Configuration loaded
+[2025-11-07T11:40:30.238720] [INFO] Service initialized
+[2025-11-07T11:40:30.238730] [INFO] Connection established
+[2025-11-07T11:40:30.238719] [INFO] Session started
+[2025-11-07T11:40:30.238729] [INFO] Connection established
+[2025-11-07T11:40:30.238744] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.238722] [INFO] Request processed successfully
+[2025-11-07T11:40:30.238740] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.238742] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.238733] [WARN] Cache miss
+[2025-11-07T11:40:30.238737] [ERROR] Request failed
+[2025-11-07T11:40:30.238739] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238726] [INFO] Health check passed
+[2025-11-07T11:40:30.238732] [WARN] Disk space low
+[2025-11-07T11:40:30.238746] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238735] [WARN] Timeout warning
+[2025-11-07T11:40:30.238718] [INFO] Service initialized

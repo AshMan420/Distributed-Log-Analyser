@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.252272] [INFO] Connection established
+[2025-11-07T11:40:30.252277] [INFO] Configuration loaded
+[2025-11-07T11:40:30.252282] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.252278] [INFO] Service initialized
+[2025-11-07T11:40:30.252270] [INFO] Service initialized
+[2025-11-07T11:40:30.252287] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.252275] [INFO] Service initialized
+[2025-11-07T11:40:30.252267] [INFO] Transaction completed
+[2025-11-07T11:40:30.252289] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.252273] [INFO] User logged in
+[2025-11-07T11:40:30.252290] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.252281] [ERROR] Database connection lost
+[2025-11-07T11:40:30.252288] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.252268] [INFO] Configuration loaded
+[2025-11-07T11:40:30.252263] [INFO] Transaction completed
+[2025-11-07T11:40:30.252264] [INFO] Session started
+[2025-11-07T11:40:30.252271] [INFO] Cache hit
+[2025-11-07T11:40:30.252279] [WARN] Disk space low
+[2025-11-07T11:40:30.252285] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.252262] [INFO] Database query executed
+[2025-11-07T11:40:30.252265] [INFO] Session started
+[2025-11-07T11:40:30.252286] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.252274] [INFO] Transaction completed
+[2025-11-07T11:40:30.252283] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.252284] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.252266] [INFO] Session started
+[2025-11-07T11:40:30.252276] [INFO] Request processed successfully
+[2025-11-07T11:40:30.252269] [INFO] Connection established
+[2025-11-07T11:40:30.252280] [ERROR] Authentication failed

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.706279] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.706266] [WARN] Queue size growing
+[2025-11-07T11:40:29.706277] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.706276] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706254] [INFO] Transaction completed
+[2025-11-07T11:40:29.706275] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.706268] [WARN] Queue size growing
+[2025-11-07T11:40:29.706264] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706256] [INFO] Service initialized
+[2025-11-07T11:40:29.706269] [WARN] Queue size growing
+[2025-11-07T11:40:29.706280] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706251] [INFO] Database query executed
+[2025-11-07T11:40:29.706259] [INFO] User logged in
+[2025-11-07T11:40:29.706255] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706280] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.706281] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.706272] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.706253] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706270] [ERROR] Database connection lost
+[2025-11-07T11:40:29.706260] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706252] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706267] [WARN] Timeout warning
+[2025-11-07T11:40:29.706263] [INFO] Cache hit
+[2025-11-07T11:40:29.706273] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706274] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.706261] [INFO] User logged in
+[2025-11-07T11:40:29.706271] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.706262] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706258] [INFO] User logged in
+[2025-11-07T11:40:29.706257] [INFO] Session started
+[2025-11-07T11:40:29.706265] [INFO] Transaction completed

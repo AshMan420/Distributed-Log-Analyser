@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.864127] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.864098] [INFO] Health check passed
+[2025-11-07T11:40:29.864117] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.864105] [INFO] Health check passed
+[2025-11-07T11:40:29.864118] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.864110] [INFO] Health check passed
+[2025-11-07T11:40:29.864102] [INFO] Service initialized
+[2025-11-07T11:40:29.864106] [INFO] Configuration loaded
+[2025-11-07T11:40:29.864119] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.864112] [INFO] User logged in
+[2025-11-07T11:40:29.864107] [INFO] Transaction completed
+[2025-11-07T11:40:29.864122] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.864116] [ERROR] Service unavailable
+[2025-11-07T11:40:29.864099] [INFO] User logged in
+[2025-11-07T11:40:29.864101] [INFO] Session started
+[2025-11-07T11:40:29.864113] [WARN] Cache miss
+[2025-11-07T11:40:29.864103] [INFO] Health check passed
+[2025-11-07T11:40:29.864108] [INFO] Session started
+[2025-11-07T11:40:29.864104] [INFO] Session started
+[2025-11-07T11:40:29.864111] [INFO] Transaction completed
+[2025-11-07T11:40:29.864109] [INFO] Transaction completed
+[2025-11-07T11:40:29.864115] [ERROR] Disk read failed
+[2025-11-07T11:40:29.864120] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.864114] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.864125] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.864121] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.864126] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.864123] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.864124] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.864097] [INFO] Session started

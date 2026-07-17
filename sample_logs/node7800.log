@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.119802] [INFO] Transaction completed
+[2025-11-07T11:40:30.119815] [WARN] Timeout warning
+[2025-11-07T11:40:30.119813] [INFO] Connection established
+[2025-11-07T11:40:30.119810] [INFO] Request processed successfully
+[2025-11-07T11:40:30.119804] [INFO] Service initialized
+[2025-11-07T11:40:30.119825] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.119820] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.119807] [INFO] Connection established
+[2025-11-07T11:40:30.119812] [INFO] Transaction completed
+[2025-11-07T11:40:30.119821] [ERROR] Disk read failed
+[2025-11-07T11:40:30.119822] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.119806] [INFO] Transaction completed
+[2025-11-07T11:40:30.119816] [WARN] Cache miss
+[2025-11-07T11:40:30.119824] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.119827] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.119808] [INFO] Database query executed
+[2025-11-07T11:40:30.119818] [WARN] High memory usage detected
+[2025-11-07T11:40:30.119826] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.119811] [INFO] Database query executed
+[2025-11-07T11:40:30.119829] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.119830] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.119805] [INFO] Health check passed
+[2025-11-07T11:40:30.119817] [WARN] Timeout warning
+[2025-11-07T11:40:30.119809] [INFO] Cache hit
+[2025-11-07T11:40:30.119829] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.119819] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.119827] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.119814] [WARN] Slow query performance
+[2025-11-07T11:40:30.119831] [DEBUG] HTTP request headers parsed

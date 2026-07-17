@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.828055] [WARN] Disk space low
+[2025-11-07T11:40:29.828050] [INFO] User logged in
+[2025-11-07T11:40:29.828060] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.828059] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.828064] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.828065] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.828049] [INFO] Health check passed
+[2025-11-07T11:40:29.828045] [INFO] Cache hit
+[2025-11-07T11:40:29.828062] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.828051] [INFO] Session started
+[2025-11-07T11:40:29.828063] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.828066] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.828046] [INFO] User logged in
+[2025-11-07T11:40:29.828047] [INFO] Cache hit
+[2025-11-07T11:40:29.828044] [INFO] Database query executed
+[2025-11-07T11:40:29.828048] [INFO] Connection established
+[2025-11-07T11:40:29.828054] [INFO] Database query executed
+[2025-11-07T11:40:29.828053] [INFO] Configuration loaded
+[2025-11-07T11:40:29.828042] [INFO] Cache hit
+[2025-11-07T11:40:29.828061] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.828058] [ERROR] Disk read failed
+[2025-11-07T11:40:29.828057] [ERROR] File not found
+[2025-11-07T11:40:29.828056] [ERROR] File not found
+[2025-11-07T11:40:29.828052] [INFO] Service initialized

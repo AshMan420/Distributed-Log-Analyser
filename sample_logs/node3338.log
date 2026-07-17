@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.651792] [INFO] Health check passed
+[2025-11-07T11:40:29.651796] [INFO] Connection established
+[2025-11-07T11:40:29.651817] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.651793] [INFO] Connection established
+[2025-11-07T11:40:29.651800] [INFO] Database query executed
+[2025-11-07T11:40:29.651814] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.651811] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.651788] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651802] [INFO] Service initialized
+[2025-11-07T11:40:29.651815] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.651812] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.651786] [INFO] Database query executed
+[2025-11-07T11:40:29.651782] [INFO] Cache hit
+[2025-11-07T11:40:29.651818] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651813] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.651789] [INFO] Database query executed
+[2025-11-07T11:40:29.651787] [INFO] Connection established
+[2025-11-07T11:40:29.651791] [INFO] Connection established
+[2025-11-07T11:40:29.651805] [WARN] Queue size growing
+[2025-11-07T11:40:29.651806] [ERROR] Invalid input data
+[2025-11-07T11:40:29.651803] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.651785] [INFO] Transaction completed
+[2025-11-07T11:40:29.651810] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.651799] [INFO] User logged in
+[2025-11-07T11:40:29.651816] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.651804] [WARN] Queue size growing
+[2025-11-07T11:40:29.651794] [INFO] User logged in
+[2025-11-07T11:40:29.651790] [INFO] Cache hit
+[2025-11-07T11:40:29.651784] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651801] [INFO] Session started
+[2025-11-07T11:40:29.651798] [INFO] Cache hit
+[2025-11-07T11:40:29.651797] [INFO] Service initialized
+[2025-11-07T11:40:29.651795] [INFO] Session started
+[2025-11-07T11:40:29.651808] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.651807] [ERROR] Request failed

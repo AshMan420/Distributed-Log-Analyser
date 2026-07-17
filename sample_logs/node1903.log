@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.494980] [INFO] Session started
+[2025-11-07T11:40:29.494990] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.494983] [INFO] Database query executed
+[2025-11-07T11:40:29.494984] [INFO] User logged in
+[2025-11-07T11:40:29.494996] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.494986] [INFO] User logged in
+[2025-11-07T11:40:29.494995] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.494982] [INFO] Service initialized
+[2025-11-07T11:40:29.494985] [INFO] Database query executed
+[2025-11-07T11:40:29.494977] [INFO] Service initialized
+[2025-11-07T11:40:29.494976] [INFO] Health check passed
+[2025-11-07T11:40:29.495002] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.494987] [INFO] Configuration loaded
+[2025-11-07T11:40:29.494998] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.494993] [ERROR] Authentication failed
+[2025-11-07T11:40:29.495003] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.494988] [INFO] User logged in
+[2025-11-07T11:40:29.494999] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.494991] [WARN] Timeout warning
+[2025-11-07T11:40:29.494974] [INFO] Request processed successfully
+[2025-11-07T11:40:29.494989] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.495004] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.495000] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.494981] [INFO] Cache hit
+[2025-11-07T11:40:29.494992] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.495001] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.494978] [INFO] Transaction completed
+[2025-11-07T11:40:29.494994] [ERROR] Invalid input data
+[2025-11-07T11:40:29.494979] [INFO] Service initialized

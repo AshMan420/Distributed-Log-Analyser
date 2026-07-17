@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.373759] [ERROR] File not found
+[2025-11-07T11:40:29.373753] [WARN] Slow query performance
+[2025-11-07T11:40:29.373744] [INFO] Connection established
+[2025-11-07T11:40:29.373762] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.373768] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.373743] [INFO] Service initialized
+[2025-11-07T11:40:29.373756] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.373760] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.373751] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.373741] [INFO] Health check passed
+[2025-11-07T11:40:29.373767] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.373748] [INFO] Transaction completed
+[2025-11-07T11:40:29.373765] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.373770] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.373742] [INFO] Health check passed
+[2025-11-07T11:40:29.373739] [INFO] Cache hit
+[2025-11-07T11:40:29.373740] [INFO] Cache hit
+[2025-11-07T11:40:29.373771] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.373766] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.373758] [ERROR] Database connection lost
+[2025-11-07T11:40:29.373737] [INFO] Cache hit
+[2025-11-07T11:40:29.373749] [INFO] Connection established
+[2025-11-07T11:40:29.373764] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.373763] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.373745] [INFO] Connection established
+[2025-11-07T11:40:29.373769] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.373746] [INFO] Connection established
+[2025-11-07T11:40:29.373755] [WARN] Disk space low
+[2025-11-07T11:40:29.373750] [INFO] Request processed successfully
+[2025-11-07T11:40:29.373747] [INFO] Service initialized
+[2025-11-07T11:40:29.373754] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.373757] [ERROR] Authentication failed
+[2025-11-07T11:40:29.373761] [DEBUG] Variable value: x=42

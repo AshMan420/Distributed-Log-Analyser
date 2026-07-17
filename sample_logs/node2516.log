@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.559752] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.559742] [INFO] Health check passed
+[2025-11-07T11:40:29.559739] [INFO] Transaction completed
+[2025-11-07T11:40:29.559748] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.559737] [INFO] Transaction completed
+[2025-11-07T11:40:29.559753] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.559734] [INFO] User logged in
+[2025-11-07T11:40:29.559732] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559731] [INFO] Session started
+[2025-11-07T11:40:29.559746] [WARN] High memory usage detected
+[2025-11-07T11:40:29.559755] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.559758] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.559759] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.559735] [INFO] Health check passed
+[2025-11-07T11:40:29.559744] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559762] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.559750] [ERROR] File not found
+[2025-11-07T11:40:29.559754] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.559743] [INFO] Request processed successfully
+[2025-11-07T11:40:29.559760] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.559756] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.559745] [WARN] Slow query performance
+[2025-11-07T11:40:29.559747] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.559757] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.559762] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.559741] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559730] [INFO] Database query executed
+[2025-11-07T11:40:29.559760] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.559740] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559738] [INFO] Session started
+[2025-11-07T11:40:29.559749] [ERROR] File not found
+[2025-11-07T11:40:29.559736] [INFO] Health check passed
+[2025-11-07T11:40:29.559733] [INFO] Request processed successfully

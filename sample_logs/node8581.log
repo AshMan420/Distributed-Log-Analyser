@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.203179] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.203156] [INFO] Request processed successfully
+[2025-11-07T11:40:30.203175] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.203153] [INFO] Connection established
+[2025-11-07T11:40:30.203171] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.203164] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.203167] [WARN] Cache miss
+[2025-11-07T11:40:30.203148] [INFO] Cache hit
+[2025-11-07T11:40:30.203178] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.203173] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.203159] [INFO] Service initialized
+[2025-11-07T11:40:30.203166] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.203163] [INFO] Transaction completed
+[2025-11-07T11:40:30.203162] [INFO] Request processed successfully
+[2025-11-07T11:40:30.203160] [INFO] Transaction completed
+[2025-11-07T11:40:30.203170] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.203169] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.203168] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.203154] [INFO] Cache hit
+[2025-11-07T11:40:30.203177] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.203155] [INFO] Transaction completed
+[2025-11-07T11:40:30.203151] [INFO] Transaction completed
+[2025-11-07T11:40:30.203152] [INFO] Transaction completed
+[2025-11-07T11:40:30.203176] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.203161] [INFO] Configuration loaded
+[2025-11-07T11:40:30.203172] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.203157] [INFO] Database query executed
+[2025-11-07T11:40:30.203165] [WARN] Queue size growing
+[2025-11-07T11:40:30.203150] [INFO] Session started
+[2025-11-07T11:40:30.203158] [INFO] Connection established
+[2025-11-07T11:40:30.203174] [DEBUG] Thread pool size: 8

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.355005] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.355007] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.354995] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.354979] [INFO] Request processed successfully
+[2025-11-07T11:40:30.354982] [INFO] Configuration loaded
+[2025-11-07T11:40:30.354983] [INFO] Session started
+[2025-11-07T11:40:30.355003] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.355012] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.355009] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.355006] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.355001] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.355011] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.354986] [INFO] Cache hit
+[2025-11-07T11:40:30.354999] [WARN] Queue size growing
+[2025-11-07T11:40:30.354987] [INFO] Connection established
+[2025-11-07T11:40:30.354988] [INFO] Health check passed
+[2025-11-07T11:40:30.354981] [INFO] Connection established
+[2025-11-07T11:40:30.354992] [INFO] Connection established
+[2025-11-07T11:40:30.354990] [INFO] Database query executed
+[2025-11-07T11:40:30.354989] [INFO] Cache hit
+[2025-11-07T11:40:30.355002] [ERROR] Network timeout
+[2025-11-07T11:40:30.354985] [INFO] Connection established
+[2025-11-07T11:40:30.354991] [INFO] Database query executed
+[2025-11-07T11:40:30.354984] [INFO] Connection established
+[2025-11-07T11:40:30.355000] [ERROR] Invalid input data
+[2025-11-07T11:40:30.354998] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.354997] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.354993] [INFO] Health check passed
+[2025-11-07T11:40:30.355008] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.355010] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.354996] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.354994] [INFO] Connection established

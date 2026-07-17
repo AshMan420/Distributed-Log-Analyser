@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.251090] [INFO] Service initialized
+[2025-11-07T11:40:30.251089] [INFO] User logged in
+[2025-11-07T11:40:30.251107] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.251102] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251076] [INFO] Cache hit
+[2025-11-07T11:40:30.251074] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251081] [INFO] Request processed successfully
+[2025-11-07T11:40:30.251082] [INFO] Session started
+[2025-11-07T11:40:30.251106] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251093] [WARN] Timeout warning
+[2025-11-07T11:40:30.251084] [INFO] Request processed successfully
+[2025-11-07T11:40:30.251080] [INFO] Service initialized
+[2025-11-07T11:40:30.251092] [WARN] Timeout warning
+[2025-11-07T11:40:30.251085] [INFO] Cache hit
+[2025-11-07T11:40:30.251099] [ERROR] Authentication failed
+[2025-11-07T11:40:30.251101] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.251096] [WARN] Cache miss
+[2025-11-07T11:40:30.251073] [INFO] Database query executed
+[2025-11-07T11:40:30.251078] [INFO] User logged in
+[2025-11-07T11:40:30.251075] [INFO] Connection established
+[2025-11-07T11:40:30.251077] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251111] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.251098] [ERROR] Request failed
+[2025-11-07T11:40:30.251094] [WARN] Queue size growing
+[2025-11-07T11:40:30.251103] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251086] [INFO] Transaction completed
+[2025-11-07T11:40:30.251088] [INFO] Session started
+[2025-11-07T11:40:30.251095] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.251072] [INFO] Transaction completed
+[2025-11-07T11:40:30.251104] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251110] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.251108] [DEBUG] Cache key generated

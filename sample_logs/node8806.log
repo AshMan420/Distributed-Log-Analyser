@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.238146] [INFO] Cache hit
+[2025-11-07T11:40:30.238164] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.238153] [INFO] Transaction completed
+[2025-11-07T11:40:30.238169] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.238156] [INFO] Configuration loaded
+[2025-11-07T11:40:30.238161] [WARN] Queue size growing
+[2025-11-07T11:40:30.238144] [INFO] Session started
+[2025-11-07T11:40:30.238166] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.238170] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.238150] [INFO] Request processed successfully
+[2025-11-07T11:40:30.238167] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.238165] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.238168] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.238169] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.238154] [INFO] Configuration loaded
+[2025-11-07T11:40:30.238147] [INFO] Health check passed
+[2025-11-07T11:40:30.238148] [INFO] Session started
+[2025-11-07T11:40:30.238157] [INFO] Cache hit
+[2025-11-07T11:40:30.238163] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.238171] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238151] [INFO] Transaction completed
+[2025-11-07T11:40:30.238149] [INFO] Transaction completed
+[2025-11-07T11:40:30.238152] [INFO] Cache hit
+[2025-11-07T11:40:30.238172] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.238162] [ERROR] Permission denied
+[2025-11-07T11:40:30.238154] [INFO] Request processed successfully
+[2025-11-07T11:40:30.238158] [INFO] Health check passed
+[2025-11-07T11:40:30.238160] [WARN] High memory usage detected
+[2025-11-07T11:40:30.238159] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.238155] [INFO] Configuration loaded

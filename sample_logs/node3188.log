@@ -1,0 +1,40 @@
+[2025-11-07T11:40:29.633865] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.633853] [WARN] Disk space low
+[2025-11-07T11:40:29.633824] [INFO] Transaction completed
+[2025-11-07T11:40:29.633848] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.633863] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.633819] [INFO] Request processed successfully
+[2025-11-07T11:40:29.633861] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.633857] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.633854] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.633837] [INFO] Connection established
+[2025-11-07T11:40:29.633851] [WARN] Slow query performance
+[2025-11-07T11:40:29.633864] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.633846] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.633826] [INFO] Cache hit
+[2025-11-07T11:40:29.633824] [INFO] Cache hit
+[2025-11-07T11:40:29.633821] [INFO] Health check passed
+[2025-11-07T11:40:29.633838] [INFO] Database query executed
+[2025-11-07T11:40:29.633835] [INFO] Session started
+[2025-11-07T11:40:29.633844] [WARN] Queue size growing
+[2025-11-07T11:40:29.633841] [INFO] Transaction completed
+[2025-11-07T11:40:29.633856] [ERROR] Authentication failed
+[2025-11-07T11:40:29.633845] [WARN] Queue size growing
+[2025-11-07T11:40:29.633822] [INFO] Configuration loaded
+[2025-11-07T11:40:29.633860] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.633852] [WARN] Timeout warning
+[2025-11-07T11:40:29.633840] [INFO] Health check passed
+[2025-11-07T11:40:29.633834] [INFO] Database query executed
+[2025-11-07T11:40:29.633820] [INFO] Health check passed
+[2025-11-07T11:40:29.633849] [WARN] Queue size growing
+[2025-11-07T11:40:29.633843] [WARN] Timeout warning
+[2025-11-07T11:40:29.633842] [INFO] Transaction completed
+[2025-11-07T11:40:29.633850] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.633858] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.633833] [INFO] Cache hit
+[2025-11-07T11:40:29.633839] [INFO] Connection established
+[2025-11-07T11:40:29.633862] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.633847] [WARN] High memory usage detected
+[2025-11-07T11:40:29.633859] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.633836] [INFO] Health check passed
+[2025-11-07T11:40:29.633818] [INFO] Request processed successfully

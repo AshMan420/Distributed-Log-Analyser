@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.824296] [INFO] Cache hit
+[2025-11-07T11:40:29.824302] [INFO] Session started
+[2025-11-07T11:40:29.824318] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.824304] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.824305] [WARN] High memory usage detected
+[2025-11-07T11:40:29.824291] [INFO] Database query executed
+[2025-11-07T11:40:29.824298] [INFO] User logged in
+[2025-11-07T11:40:29.824300] [INFO] Database query executed
+[2025-11-07T11:40:29.824312] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.824295] [INFO] Connection established
+[2025-11-07T11:40:29.824293] [INFO] Cache hit
+[2025-11-07T11:40:29.824287] [INFO] Database query executed
+[2025-11-07T11:40:29.824294] [INFO] Service initialized
+[2025-11-07T11:40:29.824311] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.824286] [INFO] User logged in
+[2025-11-07T11:40:29.824306] [WARN] Cache miss
+[2025-11-07T11:40:29.824315] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.824316] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.824314] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.824319] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.824309] [ERROR] Database connection lost
+[2025-11-07T11:40:29.824313] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.824310] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.824317] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.824285] [INFO] Database query executed
+[2025-11-07T11:40:29.824284] [INFO] Session started
+[2025-11-07T11:40:29.824300] [INFO] Service initialized
+[2025-11-07T11:40:29.824307] [ERROR] Database connection lost
+[2025-11-07T11:40:29.824288] [INFO] Health check passed
+[2025-11-07T11:40:29.824292] [INFO] Cache hit
+[2025-11-07T11:40:29.824297] [INFO] Request processed successfully
+[2025-11-07T11:40:29.824318] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.824303] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.824303] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.824295] [INFO] Cache hit
+[2025-11-07T11:40:29.824290] [INFO] User logged in

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.527825] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.527810] [INFO] Service initialized
+[2025-11-07T11:40:29.527806] [INFO] Session started
+[2025-11-07T11:40:29.527821] [ERROR] Invalid input data
+[2025-11-07T11:40:29.527813] [INFO] Configuration loaded
+[2025-11-07T11:40:29.527802] [INFO] Cache hit
+[2025-11-07T11:40:29.527811] [INFO] User logged in
+[2025-11-07T11:40:29.527816] [WARN] Slow query performance
+[2025-11-07T11:40:29.527806] [INFO] Configuration loaded
+[2025-11-07T11:40:29.527826] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.527809] [INFO] Session started
+[2025-11-07T11:40:29.527803] [INFO] User logged in
+[2025-11-07T11:40:29.527805] [INFO] Configuration loaded
+[2025-11-07T11:40:29.527828] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.527810] [INFO] Health check passed
+[2025-11-07T11:40:29.527823] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.527817] [WARN] Queue size growing
+[2025-11-07T11:40:29.527815] [WARN] Disk space low
+[2025-11-07T11:40:29.527824] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.527814] [WARN] Queue size growing
+[2025-11-07T11:40:29.527803] [INFO] Connection established
+[2025-11-07T11:40:29.527819] [WARN] Disk space low
+[2025-11-07T11:40:29.527799] [INFO] Database query executed
+[2025-11-07T11:40:29.527807] [INFO] Database query executed
+[2025-11-07T11:40:29.527800] [INFO] Transaction completed
+[2025-11-07T11:40:29.527822] [ERROR] Network timeout
+[2025-11-07T11:40:29.527827] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.527812] [INFO] Cache hit
+[2025-11-07T11:40:29.527820] [WARN] Deprecated API usage

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.370968] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.370969] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370964] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370957] [ERROR] Service unavailable
+[2025-11-07T11:40:29.370965] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.370947] [INFO] Request processed successfully
+[2025-11-07T11:40:29.370940] [INFO] Service initialized
+[2025-11-07T11:40:29.370937] [INFO] Session started
+[2025-11-07T11:40:29.370943] [INFO] Database query executed
+[2025-11-07T11:40:29.370945] [INFO] Health check passed
+[2025-11-07T11:40:29.370948] [INFO] Health check passed
+[2025-11-07T11:40:29.370960] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.370951] [INFO] Cache hit
+[2025-11-07T11:40:29.370950] [INFO] Database query executed
+[2025-11-07T11:40:29.370941] [INFO] User logged in
+[2025-11-07T11:40:29.370962] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.370953] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.370939] [INFO] Request processed successfully
+[2025-11-07T11:40:29.370966] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.370949] [INFO] Database query executed
+[2025-11-07T11:40:29.370967] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370961] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.370955] [WARN] Slow query performance
+[2025-11-07T11:40:29.370946] [INFO] Cache hit
+[2025-11-07T11:40:29.370942] [INFO] Request processed successfully
+[2025-11-07T11:40:29.370959] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370958] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.370963] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370954] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.370944] [INFO] Configuration loaded
+[2025-11-07T11:40:29.370952] [INFO] Transaction completed
+[2025-11-07T11:40:29.370956] [WARN] Cache miss

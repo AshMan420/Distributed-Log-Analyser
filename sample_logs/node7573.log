@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.096369] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.096343] [INFO] Request processed successfully
+[2025-11-07T11:40:30.096348] [INFO] Request processed successfully
+[2025-11-07T11:40:30.096344] [INFO] Service initialized
+[2025-11-07T11:40:30.096342] [INFO] User logged in
+[2025-11-07T11:40:30.096341] [INFO] Transaction completed
+[2025-11-07T11:40:30.096370] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.096365] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.096358] [WARN] High memory usage detected
+[2025-11-07T11:40:30.096345] [INFO] Health check passed
+[2025-11-07T11:40:30.096357] [WARN] Disk space low
+[2025-11-07T11:40:30.096372] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.096339] [INFO] User logged in
+[2025-11-07T11:40:30.096355] [INFO] Service initialized
+[2025-11-07T11:40:30.096373] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.096347] [INFO] Health check passed
+[2025-11-07T11:40:30.096361] [WARN] Cache miss
+[2025-11-07T11:40:30.096353] [INFO] Configuration loaded
+[2025-11-07T11:40:30.096349] [INFO] User logged in
+[2025-11-07T11:40:30.096351] [INFO] Service initialized
+[2025-11-07T11:40:30.096367] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.096346] [INFO] Cache hit
+[2025-11-07T11:40:30.096354] [INFO] Cache hit
+[2025-11-07T11:40:30.096368] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.096362] [ERROR] Network timeout
+[2025-11-07T11:40:30.096364] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.096350] [INFO] Database query executed
+[2025-11-07T11:40:30.096371] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.096360] [WARN] Cache miss

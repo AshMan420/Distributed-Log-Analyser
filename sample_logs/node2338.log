@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.541263] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.541257] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.541228] [INFO] Session started
+[2025-11-07T11:40:29.541227] [INFO] User logged in
+[2025-11-07T11:40:29.541260] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.541246] [INFO] User logged in
+[2025-11-07T11:40:29.541253] [WARN] Timeout warning
+[2025-11-07T11:40:29.541252] [WARN] Cache miss
+[2025-11-07T11:40:29.541245] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541248] [INFO] Health check passed
+[2025-11-07T11:40:29.541265] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.541241] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541244] [INFO] Cache hit
+[2025-11-07T11:40:29.541236] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541229] [INFO] Session started
+[2025-11-07T11:40:29.541247] [INFO] Service initialized
+[2025-11-07T11:40:29.541258] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.541250] [WARN] Slow query performance
+[2025-11-07T11:40:29.541254] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.541224] [INFO] Health check passed
+[2025-11-07T11:40:29.541267] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.541222] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541239] [INFO] Request processed successfully
+[2025-11-07T11:40:29.541226] [INFO] Database query executed
+[2025-11-07T11:40:29.541266] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.541230] [INFO] Session started
+[2025-11-07T11:40:29.541242] [INFO] Request processed successfully
+[2025-11-07T11:40:29.541251] [WARN] Cache miss
+[2025-11-07T11:40:29.541261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.541243] [INFO] Health check passed
+[2025-11-07T11:40:29.541225] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541262] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.541255] [ERROR] Database connection lost
+[2025-11-07T11:40:29.541264] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.541256] [ERROR] Database connection lost

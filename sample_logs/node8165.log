@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.158608] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.158582] [INFO] Service initialized
+[2025-11-07T11:40:30.158583] [INFO] Configuration loaded
+[2025-11-07T11:40:30.158604] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.158609] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.158587] [INFO] Connection established
+[2025-11-07T11:40:30.158588] [INFO] Connection established
+[2025-11-07T11:40:30.158594] [WARN] Timeout warning
+[2025-11-07T11:40:30.158590] [INFO] Request processed successfully
+[2025-11-07T11:40:30.158589] [INFO] Database query executed
+[2025-11-07T11:40:30.158591] [INFO] User logged in
+[2025-11-07T11:40:30.158593] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.158598] [ERROR] Request failed
+[2025-11-07T11:40:30.158607] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.158584] [INFO] Session started
+[2025-11-07T11:40:30.158579] [INFO] Transaction completed
+[2025-11-07T11:40:30.158586] [INFO] User logged in
+[2025-11-07T11:40:30.158606] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.158599] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.158581] [INFO] Connection established
+[2025-11-07T11:40:30.158585] [INFO] Request processed successfully
+[2025-11-07T11:40:30.158580] [INFO] Configuration loaded
+[2025-11-07T11:40:30.158600] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.158603] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.158602] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.158597] [ERROR] Authentication failed
+[2025-11-07T11:40:30.158605] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.158577] [INFO] Health check passed
+[2025-11-07T11:40:30.158595] [WARN] Slow query performance
+[2025-11-07T11:40:30.158592] [INFO] Cache hit
+[2025-11-07T11:40:30.158601] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.158596] [WARN] Disk space low

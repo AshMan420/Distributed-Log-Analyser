@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.484330] [INFO] User logged in
+[2025-11-07T11:40:29.484334] [INFO] Service initialized
+[2025-11-07T11:40:29.484344] [WARN] Cache miss
+[2025-11-07T11:40:29.484336] [INFO] Configuration loaded
+[2025-11-07T11:40:29.484332] [INFO] Database query executed
+[2025-11-07T11:40:29.484353] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.484338] [INFO] User logged in
+[2025-11-07T11:40:29.484343] [WARN] High memory usage detected
+[2025-11-07T11:40:29.484350] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.484346] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.484351] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.484352] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.484355] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.484328] [INFO] Cache hit
+[2025-11-07T11:40:29.484331] [INFO] Configuration loaded
+[2025-11-07T11:40:29.484347] [WARN] Cache miss
+[2025-11-07T11:40:29.484337] [INFO] Health check passed
+[2025-11-07T11:40:29.484348] [ERROR] Permission denied
+[2025-11-07T11:40:29.484354] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.484340] [INFO] Cache hit
+[2025-11-07T11:40:29.484349] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.484357] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.484345] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.484339] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484333] [INFO] Database query executed
+[2025-11-07T11:40:29.484356] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.484329] [INFO] Connection established
+[2025-11-07T11:40:29.484342] [INFO] Configuration loaded
+[2025-11-07T11:40:29.484335] [INFO] Service initialized
+[2025-11-07T11:40:29.484341] [INFO] Database query executed

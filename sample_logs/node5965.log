@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.925280] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.925273] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.925282] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.925276] [ERROR] Authentication failed
+[2025-11-07T11:40:29.925263] [INFO] Health check passed
+[2025-11-07T11:40:29.925284] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.925267] [INFO] Request processed successfully
+[2025-11-07T11:40:29.925256] [INFO] Configuration loaded
+[2025-11-07T11:40:29.925278] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.925260] [INFO] Transaction completed
+[2025-11-07T11:40:29.925259] [INFO] Connection established
+[2025-11-07T11:40:29.925264] [INFO] Connection established
+[2025-11-07T11:40:29.925285] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.925270] [INFO] User logged in
+[2025-11-07T11:40:29.925286] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.925281] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.925272] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.925268] [INFO] Request processed successfully
+[2025-11-07T11:40:29.925261] [INFO] Database query executed
+[2025-11-07T11:40:29.925262] [INFO] Cache hit
+[2025-11-07T11:40:29.925275] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.925274] [WARN] Cache miss
+[2025-11-07T11:40:29.925258] [INFO] Configuration loaded
+[2025-11-07T11:40:29.925279] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.925271] [INFO] Cache hit
+[2025-11-07T11:40:29.925277] [ERROR] Disk read failed
+[2025-11-07T11:40:29.925265] [INFO] Transaction completed
+[2025-11-07T11:40:29.925266] [INFO] Transaction completed
+[2025-11-07T11:40:29.925257] [INFO] Connection established
+[2025-11-07T11:40:29.925283] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.209293] [WARN] Slow query performance
+[2025-11-07T11:40:30.209301] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.209300] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.209303] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.209298] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.209287] [INFO] Service initialized
+[2025-11-07T11:40:30.209290] [INFO] Cache hit
+[2025-11-07T11:40:30.209282] [INFO] Health check passed
+[2025-11-07T11:40:30.209302] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.209299] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.209280] [INFO] Request processed successfully
+[2025-11-07T11:40:30.209277] [INFO] Cache hit
+[2025-11-07T11:40:30.209284] [INFO] Request processed successfully
+[2025-11-07T11:40:30.209288] [INFO] Transaction completed
+[2025-11-07T11:40:30.209278] [INFO] Transaction completed
+[2025-11-07T11:40:30.209283] [INFO] Health check passed
+[2025-11-07T11:40:30.209293] [WARN] Queue size growing
+[2025-11-07T11:40:30.209291] [INFO] Session started
+[2025-11-07T11:40:30.209294] [WARN] Timeout warning
+[2025-11-07T11:40:30.209286] [INFO] Health check passed
+[2025-11-07T11:40:30.209281] [INFO] Request processed successfully
+[2025-11-07T11:40:30.209297] [ERROR] Request failed
+[2025-11-07T11:40:30.209284] [INFO] Health check passed
+[2025-11-07T11:40:30.209291] [INFO] Health check passed
+[2025-11-07T11:40:30.209276] [INFO] Request processed successfully
+[2025-11-07T11:40:30.209296] [ERROR] Permission denied
+[2025-11-07T11:40:30.209289] [INFO] Session started

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.269715] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.269691] [INFO] Request processed successfully
+[2025-11-07T11:40:30.269722] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.269719] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.269707] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.269708] [WARN] Timeout warning
+[2025-11-07T11:40:30.269706] [INFO] Configuration loaded
+[2025-11-07T11:40:30.269693] [INFO] Request processed successfully
+[2025-11-07T11:40:30.269692] [INFO] Request processed successfully
+[2025-11-07T11:40:30.269700] [INFO] Database query executed
+[2025-11-07T11:40:30.269704] [INFO] Configuration loaded
+[2025-11-07T11:40:30.269717] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.269689] [INFO] Request processed successfully
+[2025-11-07T11:40:30.269711] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.269694] [INFO] User logged in
+[2025-11-07T11:40:30.269723] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.269721] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.269699] [INFO] User logged in
+[2025-11-07T11:40:30.269714] [ERROR] File not found
+[2025-11-07T11:40:30.269696] [INFO] Cache hit
+[2025-11-07T11:40:30.269720] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.269695] [INFO] Session started
+[2025-11-07T11:40:30.269712] [ERROR] Invalid input data
+[2025-11-07T11:40:30.269702] [INFO] Request processed successfully
+[2025-11-07T11:40:30.269698] [INFO] Configuration loaded
+[2025-11-07T11:40:30.269687] [INFO] Connection established
+[2025-11-07T11:40:30.269703] [INFO] User logged in
+[2025-11-07T11:40:30.269718] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.269690] [INFO] User logged in
+[2025-11-07T11:40:30.269710] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.269688] [INFO] Health check passed

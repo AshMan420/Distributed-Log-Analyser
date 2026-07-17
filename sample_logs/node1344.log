@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.432152] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.432147] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.432130] [INFO] Service initialized
+[2025-11-07T11:40:29.432131] [INFO] Configuration loaded
+[2025-11-07T11:40:29.432150] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.432133] [INFO] Service initialized
+[2025-11-07T11:40:29.432126] [INFO] Database query executed
+[2025-11-07T11:40:29.432128] [INFO] Database query executed
+[2025-11-07T11:40:29.432137] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.432121] [INFO] Configuration loaded
+[2025-11-07T11:40:29.432127] [INFO] Cache hit
+[2025-11-07T11:40:29.432117] [INFO] Transaction completed
+[2025-11-07T11:40:29.432146] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.432139] [WARN] Queue size growing
+[2025-11-07T11:40:29.432119] [INFO] Database query executed
+[2025-11-07T11:40:29.432116] [INFO] Session started
+[2025-11-07T11:40:29.432140] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.432125] [INFO] User logged in
+[2025-11-07T11:40:29.432122] [INFO] Session started
+[2025-11-07T11:40:29.432148] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.432123] [INFO] Database query executed
+[2025-11-07T11:40:29.432141] [ERROR] Permission denied
+[2025-11-07T11:40:29.432151] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.432135] [WARN] Cache miss
+[2025-11-07T11:40:29.432129] [INFO] Request processed successfully
+[2025-11-07T11:40:29.432134] [INFO] Database query executed
+[2025-11-07T11:40:29.432120] [INFO] Transaction completed
+[2025-11-07T11:40:29.432132] [INFO] Session started
+[2025-11-07T11:40:29.432118] [INFO] Health check passed
+[2025-11-07T11:40:29.432144] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.432124] [INFO] Transaction completed
+[2025-11-07T11:40:29.432136] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.432149] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.432114] [INFO] Database query executed
+[2025-11-07T11:40:29.432142] [ERROR] Authentication failed
+[2025-11-07T11:40:29.432143] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.432145] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.432138] [WARN] Rate limit approaching

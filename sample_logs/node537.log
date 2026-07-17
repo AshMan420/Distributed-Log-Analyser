@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.347935] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.347918] [INFO] Transaction completed
+[2025-11-07T11:40:29.347913] [INFO] Transaction completed
+[2025-11-07T11:40:29.347927] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.347915] [INFO] Transaction completed
+[2025-11-07T11:40:29.347930] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.347928] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.347919] [INFO] Configuration loaded
+[2025-11-07T11:40:29.347931] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.347912] [INFO] Cache hit
+[2025-11-07T11:40:29.347908] [INFO] Transaction completed
+[2025-11-07T11:40:29.347904] [INFO] Database query executed
+[2025-11-07T11:40:29.347921] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.347905] [INFO] Transaction completed
+[2025-11-07T11:40:29.347909] [INFO] Cache hit
+[2025-11-07T11:40:29.347932] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.347933] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.347910] [INFO] Connection established
+[2025-11-07T11:40:29.347911] [INFO] Database query executed
+[2025-11-07T11:40:29.347916] [INFO] Request processed successfully
+[2025-11-07T11:40:29.347934] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.347923] [WARN] Slow query performance
+[2025-11-07T11:40:29.347924] [ERROR] Authentication failed
+[2025-11-07T11:40:29.347907] [INFO] Cache hit
+[2025-11-07T11:40:29.347922] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.347925] [ERROR] Permission denied
+[2025-11-07T11:40:29.347926] [ERROR] Authentication failed
+[2025-11-07T11:40:29.347929] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.347917] [INFO] User logged in
+[2025-11-07T11:40:29.347920] [WARN] Queue size growing
+[2025-11-07T11:40:29.347914] [INFO] Database query executed
+[2025-11-07T11:40:29.347906] [INFO] Request processed successfully

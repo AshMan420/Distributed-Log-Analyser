@@ -1,0 +1,23 @@
+[2025-11-07T11:40:30.088635] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.088622] [INFO] Session started
+[2025-11-07T11:40:30.088628] [INFO] Health check passed
+[2025-11-07T11:40:30.088633] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.088620] [INFO] Session started
+[2025-11-07T11:40:30.088624] [INFO] Health check passed
+[2025-11-07T11:40:30.088632] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.088627] [INFO] Cache hit
+[2025-11-07T11:40:30.088634] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.088619] [INFO] Connection established
+[2025-11-07T11:40:30.088625] [INFO] Service initialized
+[2025-11-07T11:40:30.088618] [INFO] User logged in
+[2025-11-07T11:40:30.088629] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.088635] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.088623] [INFO] Transaction completed
+[2025-11-07T11:40:30.088637] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.088617] [INFO] User logged in
+[2025-11-07T11:40:30.088621] [INFO] User logged in
+[2025-11-07T11:40:30.088630] [ERROR] Invalid input data
+[2025-11-07T11:40:30.088615] [INFO] User logged in
+[2025-11-07T11:40:30.088636] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.088631] [ERROR] Disk read failed
+[2025-11-07T11:40:30.088626] [INFO] Connection established

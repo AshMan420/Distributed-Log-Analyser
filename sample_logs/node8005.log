@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.140634] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.140618] [INFO] Connection established
+[2025-11-07T11:40:30.140617] [INFO] Configuration loaded
+[2025-11-07T11:40:30.140615] [INFO] User logged in
+[2025-11-07T11:40:30.140610] [INFO] Session started
+[2025-11-07T11:40:30.140619] [INFO] Cache hit
+[2025-11-07T11:40:30.140628] [ERROR] Permission denied
+[2025-11-07T11:40:30.140623] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.140611] [INFO] User logged in
+[2025-11-07T11:40:30.140614] [INFO] User logged in
+[2025-11-07T11:40:30.140616] [INFO] Health check passed
+[2025-11-07T11:40:30.140609] [INFO] Session started
+[2025-11-07T11:40:30.140604] [INFO] User logged in
+[2025-11-07T11:40:30.140635] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.140637] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.140625] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.140622] [WARN] Slow query performance
+[2025-11-07T11:40:30.140631] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.140612] [INFO] Configuration loaded
+[2025-11-07T11:40:30.140636] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.140630] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.140606] [INFO] Database query executed
+[2025-11-07T11:40:30.140613] [INFO] Cache hit
+[2025-11-07T11:40:30.140608] [INFO] Health check passed
+[2025-11-07T11:40:30.140626] [WARN] Disk space low
+[2025-11-07T11:40:30.140632] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.140621] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.140605] [INFO] User logged in
+[2025-11-07T11:40:30.140629] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.140633] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.140624] [WARN] Cache miss
+[2025-11-07T11:40:30.140627] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.140620] [INFO] Cache hit

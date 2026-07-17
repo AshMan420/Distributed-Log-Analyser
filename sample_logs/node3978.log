@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.719138] [INFO] Connection established
+[2025-11-07T11:40:29.719159] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.719139] [INFO] Transaction completed
+[2025-11-07T11:40:29.719145] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.719147] [WARN] Cache miss
+[2025-11-07T11:40:29.719161] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.719141] [INFO] User logged in
+[2025-11-07T11:40:29.719140] [INFO] Session started
+[2025-11-07T11:40:29.719134] [INFO] Health check passed
+[2025-11-07T11:40:29.719150] [WARN] Queue size growing
+[2025-11-07T11:40:29.719162] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.719151] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.719143] [INFO] Session started
+[2025-11-07T11:40:29.719160] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.719135] [INFO] User logged in
+[2025-11-07T11:40:29.719142] [INFO] Service initialized
+[2025-11-07T11:40:29.719153] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.719163] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.719157] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.719137] [INFO] Cache hit
+[2025-11-07T11:40:29.719156] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.719149] [WARN] High memory usage detected
+[2025-11-07T11:40:29.719146] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.719152] [ERROR] File not found
+[2025-11-07T11:40:29.719154] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.719155] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.719148] [WARN] Disk space low
+[2025-11-07T11:40:29.719158] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.719136] [INFO] Configuration loaded

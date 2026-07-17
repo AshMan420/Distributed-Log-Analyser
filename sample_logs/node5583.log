@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.881091] [INFO] Configuration loaded
+[2025-11-07T11:40:29.881112] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.881099] [INFO] Health check passed
+[2025-11-07T11:40:29.881097] [INFO] Cache hit
+[2025-11-07T11:40:29.881113] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.881096] [INFO] Cache hit
+[2025-11-07T11:40:29.881103] [WARN] Disk space low
+[2025-11-07T11:40:29.881105] [ERROR] Authentication failed
+[2025-11-07T11:40:29.881100] [INFO] Service initialized
+[2025-11-07T11:40:29.881098] [INFO] User logged in
+[2025-11-07T11:40:29.881104] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.881110] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.881101] [INFO] Session started
+[2025-11-07T11:40:29.881114] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.881111] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.881106] [ERROR] Network timeout
+[2025-11-07T11:40:29.881115] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.881093] [INFO] Session started
+[2025-11-07T11:40:29.881092] [INFO] Database query executed
+[2025-11-07T11:40:29.881090] [INFO] Request processed successfully
+[2025-11-07T11:40:29.881109] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.881107] [ERROR] Request failed
+[2025-11-07T11:40:29.881108] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.881095] [INFO] Request processed successfully
+[2025-11-07T11:40:29.881116] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.881094] [INFO] User logged in

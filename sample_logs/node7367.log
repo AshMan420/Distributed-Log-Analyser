@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.075505] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.075517] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.075504] [WARN] Timeout warning
+[2025-11-07T11:40:30.075516] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.075489] [INFO] Configuration loaded
+[2025-11-07T11:40:30.075492] [INFO] Cache hit
+[2025-11-07T11:40:30.075511] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.075498] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.075512] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.075515] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.075519] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.075507] [WARN] Cache miss
+[2025-11-07T11:40:30.075485] [INFO] Transaction completed
+[2025-11-07T11:40:30.075496] [INFO] Service initialized
+[2025-11-07T11:40:30.075488] [INFO] Transaction completed
+[2025-11-07T11:40:30.075520] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.075487] [INFO] Session started
+[2025-11-07T11:40:30.075500] [WARN] Slow query performance
+[2025-11-07T11:40:30.075501] [WARN] Cache miss
+[2025-11-07T11:40:30.075497] [INFO] Connection established
+[2025-11-07T11:40:30.075484] [INFO] Database query executed
+[2025-11-07T11:40:30.075508] [WARN] Cache miss
+[2025-11-07T11:40:30.075509] [ERROR] Permission denied
+[2025-11-07T11:40:30.075495] [INFO] Cache hit
+[2025-11-07T11:40:30.075491] [INFO] Configuration loaded
+[2025-11-07T11:40:30.075514] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.075518] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.075493] [INFO] Service initialized
+[2025-11-07T11:40:30.075502] [WARN] Queue size growing
+[2025-11-07T11:40:30.075486] [INFO] Database query executed
+[2025-11-07T11:40:30.075490] [INFO] Health check passed

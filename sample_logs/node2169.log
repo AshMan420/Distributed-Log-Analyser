@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.524000] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.524007] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.524001] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.523990] [INFO] Service initialized
+[2025-11-07T11:40:29.523998] [WARN] Slow query performance
+[2025-11-07T11:40:29.523986] [INFO] Configuration loaded
+[2025-11-07T11:40:29.523997] [WARN] Slow query performance
+[2025-11-07T11:40:29.524006] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.523987] [INFO] Connection established
+[2025-11-07T11:40:29.523988] [INFO] Service initialized
+[2025-11-07T11:40:29.523985] [INFO] Session started
+[2025-11-07T11:40:29.523996] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.523984] [INFO] Session started
+[2025-11-07T11:40:29.523991] [INFO] Transaction completed
+[2025-11-07T11:40:29.523999] [ERROR] Database connection lost
+[2025-11-07T11:40:29.523992] [INFO] Request processed successfully
+[2025-11-07T11:40:29.523980] [INFO] Cache hit
+[2025-11-07T11:40:29.523994] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.523981] [INFO] User logged in
+[2025-11-07T11:40:29.524003] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.524005] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.524003] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.524009] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.523989] [INFO] Session started
+[2025-11-07T11:40:29.523983] [INFO] Connection established
+[2025-11-07T11:40:29.524008] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.523993] [INFO] Transaction completed
+[2025-11-07T11:40:29.523982] [INFO] Connection established
+[2025-11-07T11:40:29.523995] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.523979] [INFO] Connection established

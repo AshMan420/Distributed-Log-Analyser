@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.442095] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.442103] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.442093] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.442089] [WARN] Disk space low
+[2025-11-07T11:40:29.442101] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.442092] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.442091] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.442086] [INFO] User logged in
+[2025-11-07T11:40:29.442104] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.442102] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.442096] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.442085] [INFO] Service initialized
+[2025-11-07T11:40:29.442074] [INFO] Cache hit
+[2025-11-07T11:40:29.442071] [INFO] Health check passed
+[2025-11-07T11:40:29.442072] [INFO] User logged in
+[2025-11-07T11:40:29.442087] [WARN] Disk space low
+[2025-11-07T11:40:29.442090] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.442084] [INFO] Service initialized
+[2025-11-07T11:40:29.442079] [INFO] Connection established
+[2025-11-07T11:40:29.442099] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.442082] [INFO] Service initialized
+[2025-11-07T11:40:29.442081] [INFO] Connection established
+[2025-11-07T11:40:29.442077] [INFO] Cache hit
+[2025-11-07T11:40:29.442088] [WARN] Queue size growing
+[2025-11-07T11:40:29.442073] [INFO] Transaction completed
+[2025-11-07T11:40:29.442098] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.442080] [INFO] Request processed successfully
+[2025-11-07T11:40:29.442100] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.442078] [INFO] Request processed successfully
+[2025-11-07T11:40:29.442076] [INFO] Database query executed
+[2025-11-07T11:40:29.442083] [INFO] User logged in
+[2025-11-07T11:40:29.442078] [INFO] Database query executed
+[2025-11-07T11:40:29.442097] [DEBUG] Connection pool status checked

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.901996] [WARN] Cache miss
+[2025-11-07T11:40:29.901993] [WARN] Queue size growing
+[2025-11-07T11:40:29.902003] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.902007] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.902003] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.901981] [INFO] Service initialized
+[2025-11-07T11:40:29.901994] [WARN] High memory usage detected
+[2025-11-07T11:40:29.902000] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.901992] [INFO] User logged in
+[2025-11-07T11:40:29.901983] [INFO] Configuration loaded
+[2025-11-07T11:40:29.901982] [INFO] Session started
+[2025-11-07T11:40:29.901999] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.901989] [INFO] Session started
+[2025-11-07T11:40:29.902004] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.902005] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.901980] [INFO] Database query executed
+[2025-11-07T11:40:29.901978] [INFO] Configuration loaded
+[2025-11-07T11:40:29.901990] [INFO] User logged in
+[2025-11-07T11:40:29.902006] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.902001] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.901987] [INFO] Database query executed
+[2025-11-07T11:40:29.901985] [INFO] Session started
+[2025-11-07T11:40:29.901991] [INFO] Cache hit
+[2025-11-07T11:40:29.901986] [INFO] Session started
+[2025-11-07T11:40:29.901984] [INFO] Configuration loaded
+[2025-11-07T11:40:29.901997] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.901976] [INFO] Configuration loaded
+[2025-11-07T11:40:29.901998] [ERROR] File not found
+[2025-11-07T11:40:29.901979] [INFO] Transaction completed
+[2025-11-07T11:40:29.901995] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.901988] [INFO] Cache hit

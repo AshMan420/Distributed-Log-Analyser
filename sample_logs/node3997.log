@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.721129] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.721117] [INFO] Cache hit
+[2025-11-07T11:40:29.721132] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.721124] [INFO] Cache hit
+[2025-11-07T11:40:29.721113] [INFO] User logged in
+[2025-11-07T11:40:29.721136] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.721116] [INFO] User logged in
+[2025-11-07T11:40:29.721119] [INFO] Connection established
+[2025-11-07T11:40:29.721123] [INFO] Cache hit
+[2025-11-07T11:40:29.721130] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.721112] [INFO] Request processed successfully
+[2025-11-07T11:40:29.721121] [INFO] Cache hit
+[2025-11-07T11:40:29.721139] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.721120] [INFO] User logged in
+[2025-11-07T11:40:29.721126] [INFO] Connection established
+[2025-11-07T11:40:29.721131] [ERROR] Request failed
+[2025-11-07T11:40:29.721125] [INFO] Connection established
+[2025-11-07T11:40:29.721118] [INFO] Connection established
+[2025-11-07T11:40:29.721127] [WARN] Cache miss
+[2025-11-07T11:40:29.721134] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.721138] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.721115] [INFO] Connection established
+[2025-11-07T11:40:29.721114] [INFO] Health check passed
+[2025-11-07T11:40:29.721134] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.721137] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.721122] [INFO] Connection established
+[2025-11-07T11:40:29.721128] [WARN] Timeout warning

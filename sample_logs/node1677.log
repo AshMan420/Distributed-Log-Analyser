@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.467560] [INFO] User logged in
+[2025-11-07T11:40:29.467579] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.467567] [ERROR] Database connection lost
+[2025-11-07T11:40:29.467562] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.467582] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.467551] [INFO] Cache hit
+[2025-11-07T11:40:29.467552] [INFO] Service initialized
+[2025-11-07T11:40:29.467546] [INFO] Health check passed
+[2025-11-07T11:40:29.467578] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.467570] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.467572] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.467573] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.467554] [INFO] Database query executed
+[2025-11-07T11:40:29.467559] [INFO] Health check passed
+[2025-11-07T11:40:29.467568] [ERROR] Service unavailable
+[2025-11-07T11:40:29.467548] [INFO] Health check passed
+[2025-11-07T11:40:29.467556] [INFO] Transaction completed
+[2025-11-07T11:40:29.467549] [INFO] Session started
+[2025-11-07T11:40:29.467553] [INFO] Cache hit
+[2025-11-07T11:40:29.467583] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.467561] [INFO] Session started
+[2025-11-07T11:40:29.467563] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.467576] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.467571] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.467569] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.467566] [ERROR] Authentication failed
+[2025-11-07T11:40:29.467581] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.467555] [INFO] Session started
+[2025-11-07T11:40:29.467557] [INFO] Configuration loaded
+[2025-11-07T11:40:29.467575] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.467577] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.467550] [INFO] Transaction completed
+[2025-11-07T11:40:29.467564] [WARN] Slow query performance
+[2025-11-07T11:40:29.467565] [ERROR] Request failed
+[2025-11-07T11:40:29.467580] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.467574] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.467558] [INFO] Transaction completed

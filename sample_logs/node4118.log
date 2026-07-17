@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.733317] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733294] [INFO] Cache hit
+[2025-11-07T11:40:29.733290] [INFO] Service initialized
+[2025-11-07T11:40:29.733293] [INFO] Service initialized
+[2025-11-07T11:40:29.733295] [INFO] Health check passed
+[2025-11-07T11:40:29.733298] [INFO] User logged in
+[2025-11-07T11:40:29.733301] [INFO] Configuration loaded
+[2025-11-07T11:40:29.733318] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.733314] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.733313] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.733302] [INFO] Service initialized
+[2025-11-07T11:40:29.733296] [INFO] Transaction completed
+[2025-11-07T11:40:29.733316] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733308] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.733303] [INFO] Connection established
+[2025-11-07T11:40:29.733319] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.733292] [INFO] Transaction completed
+[2025-11-07T11:40:29.733299] [INFO] Request processed successfully
+[2025-11-07T11:40:29.733307] [ERROR] Network timeout
+[2025-11-07T11:40:29.733312] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.733288] [INFO] Transaction completed
+[2025-11-07T11:40:29.733311] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.733304] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.733309] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.733305] [ERROR] Permission denied
+[2025-11-07T11:40:29.733297] [INFO] Health check passed
+[2025-11-07T11:40:29.733315] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.733300] [INFO] Request processed successfully
+[2025-11-07T11:40:29.733310] [DEBUG] Loop iteration: 15

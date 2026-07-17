@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.343633] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.343607] [INFO] Cache hit
+[2025-11-07T11:40:30.343610] [INFO] User logged in
+[2025-11-07T11:40:30.343612] [INFO] User logged in
+[2025-11-07T11:40:30.343635] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.343626] [INFO] Session started
+[2025-11-07T11:40:30.343613] [INFO] Health check passed
+[2025-11-07T11:40:30.343627] [INFO] User logged in
+[2025-11-07T11:40:30.343632] [ERROR] Database connection lost
+[2025-11-07T11:40:30.343630] [WARN] Queue size growing
+[2025-11-07T11:40:30.343611] [INFO] Session started
+[2025-11-07T11:40:30.343609] [INFO] Transaction completed
+[2025-11-07T11:40:30.343625] [INFO] Request processed successfully
+[2025-11-07T11:40:30.343623] [INFO] Health check passed
+[2025-11-07T11:40:30.343641] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.343638] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.343624] [INFO] Session started
+[2025-11-07T11:40:30.343628] [INFO] Configuration loaded
+[2025-11-07T11:40:30.343634] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.343640] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.343639] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.343637] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.343622] [INFO] Session started
+[2025-11-07T11:40:30.343608] [INFO] User logged in
+[2025-11-07T11:40:30.343605] [INFO] Cache hit
+[2025-11-07T11:40:30.343631] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.343636] [DEBUG] Variable value: x=42

@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.212953] [INFO] Database query executed
+[2025-11-07T11:40:30.212964] [INFO] Service initialized
+[2025-11-07T11:40:30.212967] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.212965] [INFO] Request processed successfully
+[2025-11-07T11:40:30.212980] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.212979] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.212971] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.212962] [INFO] Session started
+[2025-11-07T11:40:30.212970] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.212960] [INFO] Session started
+[2025-11-07T11:40:30.212973] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.212978] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.212959] [INFO] Cache hit
+[2025-11-07T11:40:30.212957] [INFO] Cache hit
+[2025-11-07T11:40:30.212969] [ERROR] Database connection lost
+[2025-11-07T11:40:30.212977] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.212955] [INFO] Request processed successfully
+[2025-11-07T11:40:30.212972] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.212966] [INFO] Database query executed
+[2025-11-07T11:40:30.212961] [INFO] User logged in
+[2025-11-07T11:40:30.212958] [INFO] Connection established
+[2025-11-07T11:40:30.212981] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.212956] [INFO] Cache hit
+[2025-11-07T11:40:30.212963] [INFO] User logged in
+[2025-11-07T11:40:30.212968] [ERROR] Request failed
+[2025-11-07T11:40:30.212974] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.212975] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.212976] [DEBUG] Connection pool status checked

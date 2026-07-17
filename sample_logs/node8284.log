@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.172987] [INFO] Cache hit
+[2025-11-07T11:40:30.173004] [INFO] Cache hit
+[2025-11-07T11:40:30.172997] [INFO] Service initialized
+[2025-11-07T11:40:30.173003] [INFO] Request processed successfully
+[2025-11-07T11:40:30.173016] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.173021] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.173000] [INFO] Health check passed
+[2025-11-07T11:40:30.173015] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.173022] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.173024] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.173018] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.173018] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.173001] [INFO] Health check passed
+[2025-11-07T11:40:30.173014] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.173006] [INFO] Database query executed
+[2025-11-07T11:40:30.173013] [ERROR] Network timeout
+[2025-11-07T11:40:30.172986] [INFO] Database query executed
+[2025-11-07T11:40:30.173008] [INFO] Health check passed
+[2025-11-07T11:40:30.173017] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.172988] [INFO] Configuration loaded
+[2025-11-07T11:40:30.173007] [INFO] Session started
+[2025-11-07T11:40:30.172999] [INFO] User logged in
+[2025-11-07T11:40:30.172998] [INFO] Cache hit
+[2025-11-07T11:40:30.173011] [ERROR] Invalid input data
+[2025-11-07T11:40:30.173002] [INFO] Request processed successfully
+[2025-11-07T11:40:30.173023] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.173005] [INFO] Service initialized
+[2025-11-07T11:40:30.173009] [WARN] Cache miss
+[2025-11-07T11:40:30.172985] [INFO] Health check passed
+[2025-11-07T11:40:30.173012] [ERROR] Disk read failed
+[2025-11-07T11:40:30.172989] [INFO] User logged in
+[2025-11-07T11:40:30.173019] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.173010] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.173020] [DEBUG] Timer set: 30 seconds

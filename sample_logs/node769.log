@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.371992] [WARN] Cache miss
+[2025-11-07T11:40:29.372001] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.371978] [INFO] Configuration loaded
+[2025-11-07T11:40:29.371997] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.371979] [INFO] Service initialized
+[2025-11-07T11:40:29.371984] [INFO] Request processed successfully
+[2025-11-07T11:40:29.371983] [INFO] Service initialized
+[2025-11-07T11:40:29.371982] [INFO] Connection established
+[2025-11-07T11:40:29.371999] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.371991] [WARN] High memory usage detected
+[2025-11-07T11:40:29.371995] [WARN] Disk space low
+[2025-11-07T11:40:29.372003] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.371989] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.372002] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.371975] [INFO] Cache hit
+[2025-11-07T11:40:29.371981] [INFO] Connection established
+[2025-11-07T11:40:29.371987] [WARN] Queue size growing
+[2025-11-07T11:40:29.371990] [WARN] Disk space low
+[2025-11-07T11:40:29.371996] [ERROR] Network timeout
+[2025-11-07T11:40:29.371977] [INFO] Request processed successfully
+[2025-11-07T11:40:29.371994] [WARN] Disk space low
+[2025-11-07T11:40:29.371998] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.371980] [INFO] Transaction completed
+[2025-11-07T11:40:29.371976] [INFO] Configuration loaded
+[2025-11-07T11:40:29.371985] [INFO] Request processed successfully
+[2025-11-07T11:40:29.371993] [WARN] Slow query performance
+[2025-11-07T11:40:29.371988] [WARN] Queue size growing
+[2025-11-07T11:40:29.371974] [INFO] Cache hit

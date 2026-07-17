@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.386505] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.386491] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.386474] [INFO] User logged in
+[2025-11-07T11:40:29.386486] [WARN] Cache miss
+[2025-11-07T11:40:29.386475] [INFO] User logged in
+[2025-11-07T11:40:29.386502] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.386473] [INFO] Cache hit
+[2025-11-07T11:40:29.386493] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.386490] [ERROR] Disk read failed
+[2025-11-07T11:40:29.386496] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.386477] [INFO] Session started
+[2025-11-07T11:40:29.386476] [INFO] Database query executed
+[2025-11-07T11:40:29.386481] [INFO] Connection established
+[2025-11-07T11:40:29.386487] [WARN] Cache miss
+[2025-11-07T11:40:29.386480] [INFO] Configuration loaded
+[2025-11-07T11:40:29.386482] [INFO] User logged in
+[2025-11-07T11:40:29.386472] [INFO] Configuration loaded
+[2025-11-07T11:40:29.386479] [INFO] Connection established
+[2025-11-07T11:40:29.386499] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.386485] [WARN] Disk space low
+[2025-11-07T11:40:29.386484] [INFO] Service initialized
+[2025-11-07T11:40:29.386478] [INFO] User logged in
+[2025-11-07T11:40:29.386500] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.386471] [INFO] Session started
+[2025-11-07T11:40:29.386494] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.386503] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.386489] [ERROR] Invalid input data
+[2025-11-07T11:40:29.386470] [INFO] Request processed successfully
+[2025-11-07T11:40:29.386492] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.386501] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.386504] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.386488] [WARN] Slow query performance
+[2025-11-07T11:40:29.386483] [INFO] Cache hit
+[2025-11-07T11:40:29.386498] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.386497] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.386495] [DEBUG] HTTP request headers parsed

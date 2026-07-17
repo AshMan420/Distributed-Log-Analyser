@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.800692] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.800669] [INFO] Cache hit
+[2025-11-07T11:40:29.800684] [ERROR] Request failed
+[2025-11-07T11:40:29.800673] [INFO] Cache hit
+[2025-11-07T11:40:29.800690] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.800691] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.800677] [WARN] High memory usage detected
+[2025-11-07T11:40:29.800667] [INFO] Request processed successfully
+[2025-11-07T11:40:29.800693] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.800688] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.800685] [ERROR] Service unavailable
+[2025-11-07T11:40:29.800689] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.800664] [INFO] Database query executed
+[2025-11-07T11:40:29.800672] [INFO] Database query executed
+[2025-11-07T11:40:29.800668] [INFO] Cache hit
+[2025-11-07T11:40:29.800671] [INFO] Configuration loaded
+[2025-11-07T11:40:29.800682] [WARN] Queue size growing
+[2025-11-07T11:40:29.800676] [WARN] High memory usage detected
+[2025-11-07T11:40:29.800661] [INFO] Connection established
+[2025-11-07T11:40:29.800687] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.800665] [INFO] Cache hit
+[2025-11-07T11:40:29.800666] [INFO] Request processed successfully
+[2025-11-07T11:40:29.800674] [INFO] Cache hit
+[2025-11-07T11:40:29.800681] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.800675] [INFO] Service initialized
+[2025-11-07T11:40:29.800686] [ERROR] Authentication failed
+[2025-11-07T11:40:29.800663] [INFO] User logged in
+[2025-11-07T11:40:29.800678] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.800670] [INFO] Database query executed
+[2025-11-07T11:40:29.800683] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.800680] [WARN] Resource threshold approaching

@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.299450] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.299430] [INFO] Health check passed
+[2025-11-07T11:40:29.299437] [WARN] Timeout warning
+[2025-11-07T11:40:29.299427] [INFO] User logged in
+[2025-11-07T11:40:29.299425] [INFO] Configuration loaded
+[2025-11-07T11:40:29.299448] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.299428] [INFO] Database query executed
+[2025-11-07T11:40:29.299429] [INFO] Session started
+[2025-11-07T11:40:29.299447] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.299439] [WARN] Slow query performance
+[2025-11-07T11:40:29.299436] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.299431] [INFO] Configuration loaded
+[2025-11-07T11:40:29.299442] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.299423] [INFO] Service initialized
+[2025-11-07T11:40:29.299443] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.299446] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.299445] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.299434] [INFO] Request processed successfully
+[2025-11-07T11:40:29.299440] [WARN] Slow query performance
+[2025-11-07T11:40:29.299424] [INFO] Database query executed
+[2025-11-07T11:40:29.299433] [INFO] Connection established
+[2025-11-07T11:40:29.299449] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.299426] [INFO] Session started
+[2025-11-07T11:40:29.299435] [INFO] Transaction completed
+[2025-11-07T11:40:29.299441] [ERROR] Permission denied
+[2025-11-07T11:40:29.299444] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.299432] [INFO] Configuration loaded

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.052937] [INFO] Session started
+[2025-11-07T11:40:30.052932] [INFO] Configuration loaded
+[2025-11-07T11:40:30.052938] [INFO] Service initialized
+[2025-11-07T11:40:30.052935] [INFO] Transaction completed
+[2025-11-07T11:40:30.052959] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.052957] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.052929] [INFO] Request processed successfully
+[2025-11-07T11:40:30.052955] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.052931] [INFO] Service initialized
+[2025-11-07T11:40:30.052945] [WARN] Cache miss
+[2025-11-07T11:40:30.052939] [INFO] Service initialized
+[2025-11-07T11:40:30.052928] [INFO] Session started
+[2025-11-07T11:40:30.052934] [INFO] Request processed successfully
+[2025-11-07T11:40:30.052953] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.052940] [INFO] Database query executed
+[2025-11-07T11:40:30.052930] [INFO] Connection established
+[2025-11-07T11:40:30.052933] [INFO] Transaction completed
+[2025-11-07T11:40:30.052956] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.052927] [INFO] User logged in
+[2025-11-07T11:40:30.052950] [ERROR] Invalid input data
+[2025-11-07T11:40:30.052942] [INFO] Database query executed
+[2025-11-07T11:40:30.052948] [ERROR] Authentication failed
+[2025-11-07T11:40:30.052954] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.052941] [INFO] User logged in
+[2025-11-07T11:40:30.052958] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.052949] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.052943] [INFO] Cache hit
+[2025-11-07T11:40:30.052951] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.052947] [WARN] Slow query performance
+[2025-11-07T11:40:30.052946] [WARN] Cache miss
+[2025-11-07T11:40:30.052960] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.052944] [INFO] Cache hit
+[2025-11-07T11:40:30.052936] [INFO] Request processed successfully

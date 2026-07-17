@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.552389] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.552388] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.552353] [INFO] Request processed successfully
+[2025-11-07T11:40:29.552382] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.552386] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.552352] [INFO] Configuration loaded
+[2025-11-07T11:40:29.552367] [WARN] Timeout warning
+[2025-11-07T11:40:29.552385] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.552349] [INFO] Transaction completed
+[2025-11-07T11:40:29.552351] [INFO] User logged in
+[2025-11-07T11:40:29.552369] [WARN] Queue size growing
+[2025-11-07T11:40:29.552355] [INFO] Database query executed
+[2025-11-07T11:40:29.552356] [INFO] Connection established
+[2025-11-07T11:40:29.552361] [INFO] User logged in
+[2025-11-07T11:40:29.552383] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.552370] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.552379] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.552357] [INFO] Database query executed
+[2025-11-07T11:40:29.552381] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.552380] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.552387] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.552365] [INFO] Connection established
+[2025-11-07T11:40:29.552372] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.552366] [WARN] Timeout warning
+[2025-11-07T11:40:29.552359] [INFO] Request processed successfully
+[2025-11-07T11:40:29.552358] [INFO] Session started
+[2025-11-07T11:40:29.552375] [ERROR] Network timeout
+[2025-11-07T11:40:29.552384] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.552376] [ERROR] Request failed
+[2025-11-07T11:40:29.552362] [INFO] Transaction completed
+[2025-11-07T11:40:29.552350] [INFO] Health check passed
+[2025-11-07T11:40:29.552378] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.552374] [WARN] Slow query performance
+[2025-11-07T11:40:29.552371] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.552354] [INFO] Cache hit
+[2025-11-07T11:40:29.552363] [INFO] Database query executed

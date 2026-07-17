@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.300903] [INFO] Transaction completed
+[2025-11-07T11:40:29.300920] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.300904] [INFO] Service initialized
+[2025-11-07T11:40:29.300904] [INFO] Database query executed
+[2025-11-07T11:40:29.300919] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.300914] [WARN] Cache miss
+[2025-11-07T11:40:29.300909] [INFO] Database query executed
+[2025-11-07T11:40:29.300910] [WARN] Cache miss
+[2025-11-07T11:40:29.300901] [INFO] Session started
+[2025-11-07T11:40:29.300908] [INFO] Session started
+[2025-11-07T11:40:29.300911] [WARN] Queue size growing
+[2025-11-07T11:40:29.300921] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.300916] [ERROR] Service unavailable
+[2025-11-07T11:40:29.300902] [INFO] Session started
+[2025-11-07T11:40:29.300907] [INFO] Configuration loaded
+[2025-11-07T11:40:29.300924] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.300925] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.300913] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.300918] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.300912] [WARN] Slow query performance
+[2025-11-07T11:40:29.300899] [INFO] Request processed successfully
+[2025-11-07T11:40:29.300922] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.300923] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.300926] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.300905] [INFO] Connection established
+[2025-11-07T11:40:29.300906] [INFO] Session started
+[2025-11-07T11:40:29.300915] [ERROR] Permission denied

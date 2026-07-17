@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.536121] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.536122] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.536112] [ERROR] File not found
+[2025-11-07T11:40:29.536115] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.536118] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.536106] [INFO] Database query executed
+[2025-11-07T11:40:29.536096] [INFO] Health check passed
+[2025-11-07T11:40:29.536102] [INFO] Transaction completed
+[2025-11-07T11:40:29.536103] [INFO] Service initialized
+[2025-11-07T11:40:29.536101] [INFO] Configuration loaded
+[2025-11-07T11:40:29.536100] [INFO] Health check passed
+[2025-11-07T11:40:29.536097] [INFO] Session started
+[2025-11-07T11:40:29.536098] [INFO] Configuration loaded
+[2025-11-07T11:40:29.536117] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.536113] [ERROR] Service unavailable
+[2025-11-07T11:40:29.536105] [INFO] Session started
+[2025-11-07T11:40:29.536109] [INFO] Database query executed
+[2025-11-07T11:40:29.536104] [INFO] Session started
+[2025-11-07T11:40:29.536111] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.536119] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.536120] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.536122] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.536099] [INFO] Request processed successfully
+[2025-11-07T11:40:29.536108] [INFO] Connection established
+[2025-11-07T11:40:29.536107] [INFO] Request processed successfully
+[2025-11-07T11:40:29.536110] [INFO] Service initialized
+[2025-11-07T11:40:29.536116] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.536114] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.536095] [INFO] Service initialized
+[2025-11-07T11:40:29.536093] [INFO] Transaction completed

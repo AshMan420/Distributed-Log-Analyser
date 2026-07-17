@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.025960] [INFO] Service initialized
+[2025-11-07T11:40:30.025961] [INFO] Session started
+[2025-11-07T11:40:30.025952] [INFO] Health check passed
+[2025-11-07T11:40:30.025965] [INFO] Health check passed
+[2025-11-07T11:40:30.025970] [ERROR] Disk read failed
+[2025-11-07T11:40:30.025956] [INFO] Health check passed
+[2025-11-07T11:40:30.025951] [INFO] Session started
+[2025-11-07T11:40:30.025967] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.025957] [INFO] Service initialized
+[2025-11-07T11:40:30.025972] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.025968] [WARN] Cache miss
+[2025-11-07T11:40:30.025959] [INFO] User logged in
+[2025-11-07T11:40:30.025980] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.025976] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.025977] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.025963] [INFO] Request processed successfully
+[2025-11-07T11:40:30.025971] [ERROR] Service unavailable
+[2025-11-07T11:40:30.025969] [ERROR] Request failed
+[2025-11-07T11:40:30.025954] [INFO] Database query executed
+[2025-11-07T11:40:30.025975] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.025973] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.025966] [WARN] Timeout warning
+[2025-11-07T11:40:30.025978] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.025955] [INFO] User logged in
+[2025-11-07T11:40:30.025962] [INFO] Health check passed
+[2025-11-07T11:40:30.025974] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.025979] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.025964] [INFO] Request processed successfully
+[2025-11-07T11:40:30.025958] [INFO] Service initialized
+[2025-11-07T11:40:30.025953] [INFO] Connection established

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.720281] [INFO] Connection established
+[2025-11-07T11:40:29.720306] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.720298] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.720299] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.720291] [WARN] Queue size growing
+[2025-11-07T11:40:29.720303] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.720288] [INFO] Session started
+[2025-11-07T11:40:29.720278] [INFO] Transaction completed
+[2025-11-07T11:40:29.720286] [INFO] Request processed successfully
+[2025-11-07T11:40:29.720290] [INFO] Service initialized
+[2025-11-07T11:40:29.720297] [ERROR] Database connection lost
+[2025-11-07T11:40:29.720276] [INFO] Connection established
+[2025-11-07T11:40:29.720279] [INFO] Configuration loaded
+[2025-11-07T11:40:29.720301] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.720285] [INFO] Configuration loaded
+[2025-11-07T11:40:29.720296] [ERROR] Service unavailable
+[2025-11-07T11:40:29.720283] [INFO] Health check passed
+[2025-11-07T11:40:29.720289] [INFO] Health check passed
+[2025-11-07T11:40:29.720293] [WARN] Cache miss
+[2025-11-07T11:40:29.720294] [WARN] Slow query performance
+[2025-11-07T11:40:29.720277] [INFO] Health check passed
+[2025-11-07T11:40:29.720282] [INFO] Health check passed
+[2025-11-07T11:40:29.720305] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.720292] [WARN] High memory usage detected
+[2025-11-07T11:40:29.720284] [INFO] Health check passed
+[2025-11-07T11:40:29.720304] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.720300] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.720302] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.720280] [INFO] Cache hit
+[2025-11-07T11:40:29.720287] [INFO] Transaction completed
+[2025-11-07T11:40:29.720295] [WARN] Deprecated API usage

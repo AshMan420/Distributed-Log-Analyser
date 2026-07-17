@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.760799] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.760801] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.760785] [INFO] User logged in
+[2025-11-07T11:40:29.760783] [INFO] Cache hit
+[2025-11-07T11:40:29.760795] [WARN] Timeout warning
+[2025-11-07T11:40:29.760793] [WARN] Disk space low
+[2025-11-07T11:40:29.760789] [INFO] Session started
+[2025-11-07T11:40:29.760803] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.760791] [INFO] Cache hit
+[2025-11-07T11:40:29.760776] [INFO] Transaction completed
+[2025-11-07T11:40:29.760797] [ERROR] Service unavailable
+[2025-11-07T11:40:29.760782] [INFO] Connection established
+[2025-11-07T11:40:29.760790] [INFO] Database query executed
+[2025-11-07T11:40:29.760778] [INFO] Health check passed
+[2025-11-07T11:40:29.760792] [WARN] Queue size growing
+[2025-11-07T11:40:29.760788] [INFO] User logged in
+[2025-11-07T11:40:29.760780] [INFO] Database query executed
+[2025-11-07T11:40:29.760787] [INFO] Session started
+[2025-11-07T11:40:29.760806] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.760796] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.760802] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.760804] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.760777] [INFO] Cache hit
+[2025-11-07T11:40:29.760786] [INFO] Health check passed
+[2025-11-07T11:40:29.760800] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.760807] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.760794] [WARN] Cache miss
+[2025-11-07T11:40:29.760805] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.760779] [INFO] Health check passed
+[2025-11-07T11:40:29.760781] [INFO] User logged in

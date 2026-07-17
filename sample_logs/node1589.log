@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.458785] [INFO] Configuration loaded
+[2025-11-07T11:40:29.458784] [INFO] Connection established
+[2025-11-07T11:40:29.458795] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.458791] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.458778] [INFO] Session started
+[2025-11-07T11:40:29.458794] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.458782] [INFO] Session started
+[2025-11-07T11:40:29.458771] [INFO] Transaction completed
+[2025-11-07T11:40:29.458772] [INFO] Session started
+[2025-11-07T11:40:29.458783] [INFO] Transaction completed
+[2025-11-07T11:40:29.458779] [INFO] Service initialized
+[2025-11-07T11:40:29.458793] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.458778] [INFO] Connection established
+[2025-11-07T11:40:29.458786] [INFO] Session started
+[2025-11-07T11:40:29.458773] [INFO] Cache hit
+[2025-11-07T11:40:29.458790] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.458788] [WARN] Disk space low
+[2025-11-07T11:40:29.458789] [WARN] Slow query performance
+[2025-11-07T11:40:29.458776] [INFO] Transaction completed
+[2025-11-07T11:40:29.458797] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.458777] [INFO] Connection established
+[2025-11-07T11:40:29.458787] [WARN] Queue size growing
+[2025-11-07T11:40:29.458781] [INFO] Service initialized
+[2025-11-07T11:40:29.458780] [INFO] Connection established
+[2025-11-07T11:40:29.458774] [INFO] Service initialized
+[2025-11-07T11:40:29.458796] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.458792] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.458798] [DEBUG] Memory allocation: 2048 bytes

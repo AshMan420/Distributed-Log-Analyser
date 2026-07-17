@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.577805] [WARN] Cache miss
+[2025-11-07T11:40:29.577812] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.577820] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.577810] [WARN] Queue size growing
+[2025-11-07T11:40:29.577788] [INFO] Cache hit
+[2025-11-07T11:40:29.577794] [INFO] Database query executed
+[2025-11-07T11:40:29.577797] [INFO] Service initialized
+[2025-11-07T11:40:29.577801] [INFO] Session started
+[2025-11-07T11:40:29.577791] [INFO] Database query executed
+[2025-11-07T11:40:29.577797] [INFO] Request processed successfully
+[2025-11-07T11:40:29.577808] [WARN] Queue size growing
+[2025-11-07T11:40:29.577821] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.577816] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.577807] [WARN] Slow query performance
+[2025-11-07T11:40:29.577800] [INFO] Configuration loaded
+[2025-11-07T11:40:29.577803] [INFO] Session started
+[2025-11-07T11:40:29.577792] [INFO] Database query executed
+[2025-11-07T11:40:29.577793] [INFO] Transaction completed
+[2025-11-07T11:40:29.577802] [INFO] Service initialized
+[2025-11-07T11:40:29.577814] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.577818] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.577795] [INFO] Cache hit
+[2025-11-07T11:40:29.577796] [INFO] Health check passed
+[2025-11-07T11:40:29.577802] [INFO] Service initialized
+[2025-11-07T11:40:29.577819] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.577817] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.577809] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.577806] [WARN] Disk space low
+[2025-11-07T11:40:29.577816] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.577798] [INFO] Session started
+[2025-11-07T11:40:29.577815] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.577789] [INFO] User logged in
+[2025-11-07T11:40:29.577805] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.577811] [WARN] Connection retry attempt

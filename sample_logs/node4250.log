@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.746913] [INFO] User logged in
+[2025-11-07T11:40:29.746919] [INFO] Cache hit
+[2025-11-07T11:40:29.746912] [INFO] Transaction completed
+[2025-11-07T11:40:29.746930] [ERROR] File not found
+[2025-11-07T11:40:29.746926] [WARN] High memory usage detected
+[2025-11-07T11:40:29.746938] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.746928] [WARN] Cache miss
+[2025-11-07T11:40:29.746922] [INFO] Session started
+[2025-11-07T11:40:29.746925] [WARN] Slow query performance
+[2025-11-07T11:40:29.746938] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.746931] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.746936] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.746923] [INFO] Cache hit
+[2025-11-07T11:40:29.746921] [INFO] Connection established
+[2025-11-07T11:40:29.746924] [INFO] Cache hit
+[2025-11-07T11:40:29.746916] [INFO] Connection established
+[2025-11-07T11:40:29.746903] [INFO] User logged in
+[2025-11-07T11:40:29.746935] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.746932] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.746927] [WARN] Slow query performance
+[2025-11-07T11:40:29.746908] [INFO] Connection established
+[2025-11-07T11:40:29.746909] [INFO] User logged in
+[2025-11-07T11:40:29.746933] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.746905] [INFO] Request processed successfully
+[2025-11-07T11:40:29.746929] [WARN] Disk space low
+[2025-11-07T11:40:29.746907] [INFO] Configuration loaded
+[2025-11-07T11:40:29.746918] [INFO] Cache hit
+[2025-11-07T11:40:29.746914] [INFO] Session started
+[2025-11-07T11:40:29.746934] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.746904] [INFO] Database query executed
+[2025-11-07T11:40:29.746910] [INFO] Transaction completed
+[2025-11-07T11:40:29.746915] [INFO] Transaction completed
+[2025-11-07T11:40:29.746940] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.746917] [INFO] Cache hit
+[2025-11-07T11:40:29.746911] [INFO] User logged in
+[2025-11-07T11:40:29.746906] [INFO] Database query executed
+[2025-11-07T11:40:29.746920] [INFO] Connection established

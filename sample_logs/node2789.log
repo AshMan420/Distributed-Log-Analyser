@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.592701] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.592687] [INFO] Connection established
+[2025-11-07T11:40:29.592688] [INFO] Health check passed
+[2025-11-07T11:40:29.592682] [INFO] Configuration loaded
+[2025-11-07T11:40:29.592678] [INFO] Configuration loaded
+[2025-11-07T11:40:29.592697] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.592685] [INFO] Session started
+[2025-11-07T11:40:29.592680] [INFO] User logged in
+[2025-11-07T11:40:29.592696] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.592693] [ERROR] Authentication failed
+[2025-11-07T11:40:29.592699] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.592680] [INFO] User logged in
+[2025-11-07T11:40:29.592702] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.592689] [INFO] Database query executed
+[2025-11-07T11:40:29.592695] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.592692] [ERROR] Network timeout
+[2025-11-07T11:40:29.592698] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.592690] [INFO] Health check passed
+[2025-11-07T11:40:29.592675] [INFO] User logged in
+[2025-11-07T11:40:29.592691] [WARN] Slow query performance
+[2025-11-07T11:40:29.592676] [INFO] Service initialized
+[2025-11-07T11:40:29.592694] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.592681] [INFO] Connection established
+[2025-11-07T11:40:29.592700] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.592674] [INFO] Transaction completed
+[2025-11-07T11:40:29.592678] [INFO] Request processed successfully
+[2025-11-07T11:40:29.592686] [INFO] User logged in

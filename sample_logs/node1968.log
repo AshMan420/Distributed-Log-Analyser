@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.501598] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.501595] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.501593] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.501572] [INFO] Service initialized
+[2025-11-07T11:40:29.501592] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.501590] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.501582] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.501576] [INFO] User logged in
+[2025-11-07T11:40:29.501573] [INFO] Connection established
+[2025-11-07T11:40:29.501568] [INFO] Health check passed
+[2025-11-07T11:40:29.501570] [INFO] Transaction completed
+[2025-11-07T11:40:29.501578] [INFO] Database query executed
+[2025-11-07T11:40:29.501583] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.501569] [INFO] User logged in
+[2025-11-07T11:40:29.501585] [WARN] Queue size growing
+[2025-11-07T11:40:29.501580] [INFO] Connection established
+[2025-11-07T11:40:29.501589] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.501579] [INFO] Database query executed
+[2025-11-07T11:40:29.501574] [INFO] Database query executed
+[2025-11-07T11:40:29.501577] [INFO] Request processed successfully
+[2025-11-07T11:40:29.501596] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.501571] [INFO] Request processed successfully
+[2025-11-07T11:40:29.501591] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.501587] [ERROR] Network timeout
+[2025-11-07T11:40:29.501581] [INFO] Session started
+[2025-11-07T11:40:29.501588] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.501586] [ERROR] Invalid input data
+[2025-11-07T11:40:29.501575] [INFO] Session started
+[2025-11-07T11:40:29.501597] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.501594] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.501584] [WARN] Slow query performance

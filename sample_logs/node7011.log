@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.038649] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.038645] [ERROR] Network timeout
+[2025-11-07T11:40:30.038658] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.038656] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.038651] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.038638] [INFO] User logged in
+[2025-11-07T11:40:30.038634] [INFO] Database query executed
+[2025-11-07T11:40:30.038643] [ERROR] Authentication failed
+[2025-11-07T11:40:30.038639] [INFO] Cache hit
+[2025-11-07T11:40:30.038646] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.038652] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.038628] [INFO] User logged in
+[2025-11-07T11:40:30.038631] [INFO] Service initialized
+[2025-11-07T11:40:30.038637] [INFO] Transaction completed
+[2025-11-07T11:40:30.038635] [INFO] Health check passed
+[2025-11-07T11:40:30.038657] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.038642] [WARN] Slow query performance
+[2025-11-07T11:40:30.038640] [INFO] Service initialized
+[2025-11-07T11:40:30.038629] [INFO] Configuration loaded
+[2025-11-07T11:40:30.038654] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.038636] [INFO] Request processed successfully
+[2025-11-07T11:40:30.038650] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.038660] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.038630] [INFO] Database query executed
+[2025-11-07T11:40:30.038655] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.038647] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.038653] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.038633] [INFO] Service initialized
+[2025-11-07T11:40:30.038644] [ERROR] Database connection lost
+[2025-11-07T11:40:30.038659] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.038648] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.038627] [INFO] Configuration loaded
+[2025-11-07T11:40:30.038632] [INFO] User logged in

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.758692] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.758688] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.758673] [INFO] Configuration loaded
+[2025-11-07T11:40:29.758687] [WARN] Queue size growing
+[2025-11-07T11:40:29.758686] [WARN] Cache miss
+[2025-11-07T11:40:29.758684] [WARN] High memory usage detected
+[2025-11-07T11:40:29.758689] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.758669] [INFO] Connection established
+[2025-11-07T11:40:29.758678] [INFO] Configuration loaded
+[2025-11-07T11:40:29.758698] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.758679] [INFO] Request processed successfully
+[2025-11-07T11:40:29.758699] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.758672] [INFO] Database query executed
+[2025-11-07T11:40:29.758675] [INFO] User logged in
+[2025-11-07T11:40:29.758668] [INFO] Session started
+[2025-11-07T11:40:29.758700] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.758677] [INFO] Cache hit
+[2025-11-07T11:40:29.758683] [INFO] Database query executed
+[2025-11-07T11:40:29.758691] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.758676] [INFO] Database query executed
+[2025-11-07T11:40:29.758690] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.758695] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.758694] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.758681] [INFO] Database query executed
+[2025-11-07T11:40:29.758680] [INFO] Health check passed
+[2025-11-07T11:40:29.758693] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.758674] [INFO] Session started
+[2025-11-07T11:40:29.758682] [INFO] Request processed successfully
+[2025-11-07T11:40:29.758696] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.758697] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.758671] [INFO] Transaction completed
+[2025-11-07T11:40:29.758685] [WARN] Connection retry attempt

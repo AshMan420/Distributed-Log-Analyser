@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.682790] [INFO] Service initialized
+[2025-11-07T11:40:29.682788] [INFO] Service initialized
+[2025-11-07T11:40:29.682777] [INFO] Database query executed
+[2025-11-07T11:40:29.682804] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.682776] [INFO] Database query executed
+[2025-11-07T11:40:29.682787] [INFO] Session started
+[2025-11-07T11:40:29.682793] [INFO] User logged in
+[2025-11-07T11:40:29.682795] [ERROR] Authentication failed
+[2025-11-07T11:40:29.682805] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.682784] [INFO] Session started
+[2025-11-07T11:40:29.682801] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.682782] [INFO] Cache hit
+[2025-11-07T11:40:29.682807] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.682789] [INFO] User logged in
+[2025-11-07T11:40:29.682796] [ERROR] Request failed
+[2025-11-07T11:40:29.682797] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.682786] [INFO] Configuration loaded
+[2025-11-07T11:40:29.682791] [INFO] Database query executed
+[2025-11-07T11:40:29.682779] [INFO] Transaction completed
+[2025-11-07T11:40:29.682785] [INFO] Request processed successfully
+[2025-11-07T11:40:29.682794] [WARN] Timeout warning
+[2025-11-07T11:40:29.682780] [INFO] Health check passed
+[2025-11-07T11:40:29.682798] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.682792] [INFO] User logged in
+[2025-11-07T11:40:29.682803] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.682802] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.682781] [INFO] Transaction completed
+[2025-11-07T11:40:29.682808] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.682800] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.682806] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.682799] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.682783] [INFO] Transaction completed

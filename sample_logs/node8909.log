@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.248839] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.248844] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.248848] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.248822] [INFO] Health check passed
+[2025-11-07T11:40:30.248826] [INFO] Service initialized
+[2025-11-07T11:40:30.248835] [ERROR] Request failed
+[2025-11-07T11:40:30.248834] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.248842] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.248847] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.248837] [ERROR] Network timeout
+[2025-11-07T11:40:30.248820] [INFO] Service initialized
+[2025-11-07T11:40:30.248816] [INFO] Request processed successfully
+[2025-11-07T11:40:30.248827] [INFO] Transaction completed
+[2025-11-07T11:40:30.248815] [INFO] Database query executed
+[2025-11-07T11:40:30.248829] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.248818] [INFO] Configuration loaded
+[2025-11-07T11:40:30.248846] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.248823] [INFO] Database query executed
+[2025-11-07T11:40:30.248833] [WARN] Timeout warning
+[2025-11-07T11:40:30.248830] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.248831] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.248838] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.248819] [INFO] Request processed successfully
+[2025-11-07T11:40:30.248818] [INFO] User logged in
+[2025-11-07T11:40:30.248824] [INFO] Configuration loaded
+[2025-11-07T11:40:30.248821] [INFO] Connection established
+[2025-11-07T11:40:30.248843] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.248825] [INFO] Configuration loaded
+[2025-11-07T11:40:30.248841] [DEBUG] Cache key generated

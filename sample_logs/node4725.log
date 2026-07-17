@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.795035] [INFO] Session started
+[2025-11-07T11:40:29.795052] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.795057] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.795028] [INFO] Health check passed
+[2025-11-07T11:40:29.795059] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.795034] [INFO] Service initialized
+[2025-11-07T11:40:29.795056] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.795055] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.795044] [WARN] Cache miss
+[2025-11-07T11:40:29.795054] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.795027] [INFO] Session started
+[2025-11-07T11:40:29.795049] [ERROR] Authentication failed
+[2025-11-07T11:40:29.795026] [INFO] User logged in
+[2025-11-07T11:40:29.795045] [WARN] Timeout warning
+[2025-11-07T11:40:29.795058] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.795042] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.795029] [INFO] Health check passed
+[2025-11-07T11:40:29.795047] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.795033] [INFO] User logged in
+[2025-11-07T11:40:29.795060] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.795031] [INFO] Configuration loaded
+[2025-11-07T11:40:29.795051] [ERROR] Database connection lost
+[2025-11-07T11:40:29.795039] [INFO] Session started
+[2025-11-07T11:40:29.795041] [INFO] Configuration loaded
+[2025-11-07T11:40:29.795036] [INFO] User logged in
+[2025-11-07T11:40:29.795038] [INFO] Database query executed
+[2025-11-07T11:40:29.795061] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.795032] [INFO] Service initialized
+[2025-11-07T11:40:29.795030] [INFO] Transaction completed
+[2025-11-07T11:40:29.795024] [INFO] Database query executed
+[2025-11-07T11:40:29.795046] [WARN] Rate limit approaching

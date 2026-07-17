@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.382171] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.382173] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.382157] [INFO] Database query executed
+[2025-11-07T11:40:29.382176] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.382163] [INFO] Database query executed
+[2025-11-07T11:40:29.382159] [INFO] Configuration loaded
+[2025-11-07T11:40:29.382172] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.382152] [INFO] Request processed successfully
+[2025-11-07T11:40:29.382155] [INFO] User logged in
+[2025-11-07T11:40:29.382150] [INFO] User logged in
+[2025-11-07T11:40:29.382177] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.382154] [INFO] Health check passed
+[2025-11-07T11:40:29.382178] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.382165] [WARN] Slow query performance
+[2025-11-07T11:40:29.382153] [INFO] Database query executed
+[2025-11-07T11:40:29.382160] [INFO] Database query executed
+[2025-11-07T11:40:29.382174] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.382170] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.382175] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.382158] [INFO] Connection established
+[2025-11-07T11:40:29.382161] [INFO] Connection established
+[2025-11-07T11:40:29.382162] [INFO] User logged in
+[2025-11-07T11:40:29.382169] [ERROR] Database connection lost
+[2025-11-07T11:40:29.382168] [ERROR] Database connection lost
+[2025-11-07T11:40:29.382167] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.382166] [WARN] Queue size growing
+[2025-11-07T11:40:29.382164] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.382156] [INFO] Service initialized

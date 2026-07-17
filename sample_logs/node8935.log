@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.251772] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251764] [WARN] Cache miss
+[2025-11-07T11:40:30.251779] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.251748] [INFO] Cache hit
+[2025-11-07T11:40:30.251769] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.251767] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.251778] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.251747] [INFO] Request processed successfully
+[2025-11-07T11:40:30.251773] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.251770] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.251768] [ERROR] Service unavailable
+[2025-11-07T11:40:30.251751] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251750] [INFO] Connection established
+[2025-11-07T11:40:30.251777] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.251763] [WARN] Cache miss
+[2025-11-07T11:40:30.251774] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.251766] [WARN] Queue size growing
+[2025-11-07T11:40:30.251775] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.251776] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.251757] [INFO] User logged in
+[2025-11-07T11:40:30.251755] [INFO] User logged in
+[2025-11-07T11:40:30.251753] [INFO] Session started
+[2025-11-07T11:40:30.251760] [INFO] Transaction completed
+[2025-11-07T11:40:30.251749] [INFO] Connection established
+[2025-11-07T11:40:30.251778] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.251754] [INFO] User logged in
+[2025-11-07T11:40:30.251752] [INFO] Connection established
+[2025-11-07T11:40:30.251762] [INFO] Service initialized
+[2025-11-07T11:40:30.251761] [INFO] Service initialized
+[2025-11-07T11:40:30.251765] [WARN] High memory usage detected
+[2025-11-07T11:40:30.251756] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251758] [INFO] Connection established

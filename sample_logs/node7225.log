@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.060646] [ERROR] Network timeout
+[2025-11-07T11:40:30.060654] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.060642] [INFO] User logged in
+[2025-11-07T11:40:30.060649] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.060629] [INFO] Transaction completed
+[2025-11-07T11:40:30.060657] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.060638] [INFO] Transaction completed
+[2025-11-07T11:40:30.060647] [ERROR] Request failed
+[2025-11-07T11:40:30.060648] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.060637] [INFO] Cache hit
+[2025-11-07T11:40:30.060640] [INFO] Connection established
+[2025-11-07T11:40:30.060633] [INFO] Connection established
+[2025-11-07T11:40:30.060632] [INFO] Database query executed
+[2025-11-07T11:40:30.060639] [INFO] Database query executed
+[2025-11-07T11:40:30.060652] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.060644] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.060636] [INFO] Request processed successfully
+[2025-11-07T11:40:30.060634] [INFO] Health check passed
+[2025-11-07T11:40:30.060651] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.060656] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.060653] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.060641] [INFO] Session started
+[2025-11-07T11:40:30.060630] [INFO] Session started
+[2025-11-07T11:40:30.060636] [INFO] Transaction completed
+[2025-11-07T11:40:30.060643] [WARN] Disk space low
+[2025-11-07T11:40:30.060634] [INFO] Configuration loaded
+[2025-11-07T11:40:30.060655] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.060645] [WARN] Queue size growing
+[2025-11-07T11:40:30.060650] [DEBUG] Memory allocation: 2048 bytes

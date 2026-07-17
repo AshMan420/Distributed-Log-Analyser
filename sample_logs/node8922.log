@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.250276] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.250251] [INFO] Cache hit
+[2025-11-07T11:40:30.250256] [INFO] User logged in
+[2025-11-07T11:40:30.250270] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.250274] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.250262] [WARN] Disk space low
+[2025-11-07T11:40:30.250265] [ERROR] Disk read failed
+[2025-11-07T11:40:30.250271] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.250253] [INFO] Cache hit
+[2025-11-07T11:40:30.250266] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.250272] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.250258] [INFO] Service initialized
+[2025-11-07T11:40:30.250273] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.250275] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.250267] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.250261] [WARN] Queue size growing
+[2025-11-07T11:40:30.250255] [INFO] Session started
+[2025-11-07T11:40:30.250269] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.250259] [INFO] Cache hit
+[2025-11-07T11:40:30.250268] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.250254] [INFO] Session started
+[2025-11-07T11:40:30.250264] [ERROR] Disk read failed
+[2025-11-07T11:40:30.250260] [INFO] Configuration loaded
+[2025-11-07T11:40:30.250257] [INFO] Configuration loaded

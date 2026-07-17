@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.022140] [INFO] Transaction completed
+[2025-11-07T11:40:30.022152] [WARN] Queue size growing
+[2025-11-07T11:40:30.022142] [INFO] Request processed successfully
+[2025-11-07T11:40:30.022157] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.022149] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.022154] [ERROR] Service unavailable
+[2025-11-07T11:40:30.022137] [INFO] Health check passed
+[2025-11-07T11:40:30.022159] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.022161] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.022135] [INFO] Configuration loaded
+[2025-11-07T11:40:30.022151] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.022144] [INFO] Session started
+[2025-11-07T11:40:30.022148] [INFO] Service initialized
+[2025-11-07T11:40:30.022155] [ERROR] Permission denied
+[2025-11-07T11:40:30.022143] [INFO] Cache hit
+[2025-11-07T11:40:30.022160] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.022146] [INFO] User logged in
+[2025-11-07T11:40:30.022145] [INFO] Session started
+[2025-11-07T11:40:30.022153] [ERROR] Authentication failed
+[2025-11-07T11:40:30.022158] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.022156] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.022139] [INFO] Session started
+[2025-11-07T11:40:30.022164] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.022147] [INFO] Session started
+[2025-11-07T11:40:30.022141] [INFO] User logged in
+[2025-11-07T11:40:30.022163] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.022150] [WARN] Cache miss
+[2025-11-07T11:40:30.022162] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.022138] [INFO] Request processed successfully

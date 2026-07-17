@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.726316] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.726319] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.726296] [INFO] User logged in
+[2025-11-07T11:40:29.726297] [INFO] Database query executed
+[2025-11-07T11:40:29.726317] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.726313] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.726292] [INFO] Cache hit
+[2025-11-07T11:40:29.726294] [INFO] Cache hit
+[2025-11-07T11:40:29.726302] [INFO] Service initialized
+[2025-11-07T11:40:29.726310] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.726306] [INFO] Health check passed
+[2025-11-07T11:40:29.726300] [INFO] Session started
+[2025-11-07T11:40:29.726293] [INFO] Health check passed
+[2025-11-07T11:40:29.726308] [WARN] Disk space low
+[2025-11-07T11:40:29.726301] [INFO] Service initialized
+[2025-11-07T11:40:29.726295] [INFO] User logged in
+[2025-11-07T11:40:29.726305] [INFO] User logged in
+[2025-11-07T11:40:29.726304] [INFO] Database query executed
+[2025-11-07T11:40:29.726307] [WARN] Queue size growing
+[2025-11-07T11:40:29.726311] [ERROR] Permission denied
+[2025-11-07T11:40:29.726320] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.726299] [INFO] Connection established
+[2025-11-07T11:40:29.726315] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.726309] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.726318] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.726314] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.726303] [INFO] Database query executed
+[2025-11-07T11:40:29.726298] [INFO] Health check passed
+[2025-11-07T11:40:29.726312] [ERROR] Authentication failed

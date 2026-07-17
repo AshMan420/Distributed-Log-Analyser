@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.824779] [INFO] Connection established
+[2025-11-07T11:40:29.824796] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.824797] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.824790] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.824787] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.824786] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.824795] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.824784] [WARN] High memory usage detected
+[2025-11-07T11:40:29.824776] [INFO] Configuration loaded
+[2025-11-07T11:40:29.824788] [ERROR] Database connection lost
+[2025-11-07T11:40:29.824793] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.824781] [INFO] Session started
+[2025-11-07T11:40:29.824777] [INFO] Transaction completed
+[2025-11-07T11:40:29.824791] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.824782] [INFO] Cache hit
+[2025-11-07T11:40:29.824774] [INFO] Database query executed
+[2025-11-07T11:40:29.824785] [WARN] Slow query performance
+[2025-11-07T11:40:29.824769] [INFO] User logged in
+[2025-11-07T11:40:29.824775] [INFO] Transaction completed
+[2025-11-07T11:40:29.824794] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.824772] [INFO] Service initialized
+[2025-11-07T11:40:29.824778] [INFO] User logged in
+[2025-11-07T11:40:29.824792] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.824783] [INFO] Connection established
+[2025-11-07T11:40:29.824789] [ERROR] File not found
+[2025-11-07T11:40:29.824768] [INFO] Transaction completed
+[2025-11-07T11:40:29.824780] [INFO] Session started
+[2025-11-07T11:40:29.824798] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.824773] [INFO] User logged in
+[2025-11-07T11:40:29.824771] [INFO] Health check passed

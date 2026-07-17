@@ -1,0 +1,41 @@
+[2025-11-07T11:40:29.849241] [INFO] Session started
+[2025-11-07T11:40:29.849255] [INFO] Configuration loaded
+[2025-11-07T11:40:29.849251] [INFO] Configuration loaded
+[2025-11-07T11:40:29.849242] [INFO] Session started
+[2025-11-07T11:40:29.849245] [INFO] User logged in
+[2025-11-07T11:40:29.849268] [ERROR] Invalid input data
+[2025-11-07T11:40:29.849276] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.849262] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.849244] [INFO] Service initialized
+[2025-11-07T11:40:29.849250] [INFO] Transaction completed
+[2025-11-07T11:40:29.849270] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.849258] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.849257] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.849267] [ERROR] File not found
+[2025-11-07T11:40:29.849249] [INFO] Service initialized
+[2025-11-07T11:40:29.849275] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.849273] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.849243] [INFO] Service initialized
+[2025-11-07T11:40:29.849280] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.849269] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.849277] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.849264] [ERROR] Request failed
+[2025-11-07T11:40:29.849266] [ERROR] Disk read failed
+[2025-11-07T11:40:29.849254] [INFO] Request processed successfully
+[2025-11-07T11:40:29.849253] [INFO] Configuration loaded
+[2025-11-07T11:40:29.849261] [WARN] Disk space low
+[2025-11-07T11:40:29.849265] [ERROR] Database connection lost
+[2025-11-07T11:40:29.849247] [INFO] Configuration loaded
+[2025-11-07T11:40:29.849274] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.849252] [INFO] Request processed successfully
+[2025-11-07T11:40:29.849248] [INFO] Transaction completed
+[2025-11-07T11:40:29.849246] [INFO] Database query executed
+[2025-11-07T11:40:29.849259] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.849263] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.849278] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.849272] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.849256] [WARN] High memory usage detected
+[2025-11-07T11:40:29.849271] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.849260] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.849240] [INFO] Service initialized
+[2025-11-07T11:40:29.849279] [DEBUG] Timer set: 30 seconds

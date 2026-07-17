@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.284520] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.284503] [INFO] Cache hit
+[2025-11-07T11:40:30.284502] [INFO] Request processed successfully
+[2025-11-07T11:40:30.284519] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.284497] [INFO] Request processed successfully
+[2025-11-07T11:40:30.284516] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.284509] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.284522] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.284515] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.284521] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.284501] [INFO] Health check passed
+[2025-11-07T11:40:30.284488] [INFO] Cache hit
+[2025-11-07T11:40:30.284498] [INFO] Transaction completed
+[2025-11-07T11:40:30.284491] [INFO] Health check passed
+[2025-11-07T11:40:30.284517] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.284511] [ERROR] Service unavailable
+[2025-11-07T11:40:30.284495] [INFO] Database query executed
+[2025-11-07T11:40:30.284492] [INFO] Health check passed
+[2025-11-07T11:40:30.284499] [INFO] Transaction completed
+[2025-11-07T11:40:30.284494] [INFO] Configuration loaded
+[2025-11-07T11:40:30.284512] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.284496] [INFO] Database query executed
+[2025-11-07T11:40:30.284490] [INFO] Transaction completed
+[2025-11-07T11:40:30.284508] [WARN] Cache miss
+[2025-11-07T11:40:30.284493] [INFO] Request processed successfully
+[2025-11-07T11:40:30.284500] [INFO] Request processed successfully
+[2025-11-07T11:40:30.284518] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.284514] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.284510] [WARN] Cache miss
+[2025-11-07T11:40:30.284504] [INFO] Health check passed
+[2025-11-07T11:40:30.284506] [INFO] Cache hit
+[2025-11-07T11:40:30.284513] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.284507] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.284505] [INFO] Cache hit

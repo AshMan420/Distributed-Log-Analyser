@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.689785] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.689767] [INFO] Connection established
+[2025-11-07T11:40:29.689779] [WARN] Cache miss
+[2025-11-07T11:40:29.689763] [INFO] Database query executed
+[2025-11-07T11:40:29.689789] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.689772] [INFO] Transaction completed
+[2025-11-07T11:40:29.689764] [INFO] Request processed successfully
+[2025-11-07T11:40:29.689762] [INFO] Cache hit
+[2025-11-07T11:40:29.689788] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.689770] [INFO] Transaction completed
+[2025-11-07T11:40:29.689792] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.689782] [ERROR] Authentication failed
+[2025-11-07T11:40:29.689766] [INFO] Service initialized
+[2025-11-07T11:40:29.689777] [WARN] Slow query performance
+[2025-11-07T11:40:29.689775] [INFO] Health check passed
+[2025-11-07T11:40:29.689781] [ERROR] Disk read failed
+[2025-11-07T11:40:29.689765] [INFO] User logged in
+[2025-11-07T11:40:29.689774] [INFO] Request processed successfully
+[2025-11-07T11:40:29.689791] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.689776] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.689784] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.689771] [INFO] Transaction completed
+[2025-11-07T11:40:29.689769] [INFO] Cache hit
+[2025-11-07T11:40:29.689783] [ERROR] Database connection lost
+[2025-11-07T11:40:29.689787] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.689761] [INFO] Session started
+[2025-11-07T11:40:29.689790] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.689768] [INFO] Configuration loaded
+[2025-11-07T11:40:29.689780] [WARN] Slow query performance
+[2025-11-07T11:40:29.689773] [INFO] Database query executed
+[2025-11-07T11:40:29.689786] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.689778] [WARN] Cache miss

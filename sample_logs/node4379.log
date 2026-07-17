@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.760171] [INFO] Request processed successfully
+[2025-11-07T11:40:29.760201] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.760170] [INFO] Request processed successfully
+[2025-11-07T11:40:29.760191] [ERROR] File not found
+[2025-11-07T11:40:29.760194] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.760173] [INFO] Configuration loaded
+[2025-11-07T11:40:29.760198] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.760179] [INFO] Request processed successfully
+[2025-11-07T11:40:29.760197] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.760182] [INFO] Service initialized
+[2025-11-07T11:40:29.760192] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.760172] [INFO] Session started
+[2025-11-07T11:40:29.760203] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.760200] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.760196] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.760199] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.760193] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.760176] [INFO] Configuration loaded
+[2025-11-07T11:40:29.760181] [INFO] Database query executed
+[2025-11-07T11:40:29.760175] [INFO] Request processed successfully
+[2025-11-07T11:40:29.760204] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.760168] [INFO] Session started
+[2025-11-07T11:40:29.760188] [INFO] Service initialized
+[2025-11-07T11:40:29.760202] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.760174] [INFO] Transaction completed
+[2025-11-07T11:40:29.760190] [ERROR] Disk read failed
+[2025-11-07T11:40:29.760180] [INFO] Request processed successfully
+[2025-11-07T11:40:29.760177] [INFO] User logged in
+[2025-11-07T11:40:29.760189] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.760178] [INFO] Transaction completed

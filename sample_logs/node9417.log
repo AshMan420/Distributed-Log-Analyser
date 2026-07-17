@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.299756] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.299751] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.299733] [INFO] Health check passed
+[2025-11-07T11:40:30.299739] [INFO] Transaction completed
+[2025-11-07T11:40:30.299755] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.299753] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.299740] [INFO] Health check passed
+[2025-11-07T11:40:30.299730] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299757] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.299743] [INFO] Connection established
+[2025-11-07T11:40:30.299736] [INFO] User logged in
+[2025-11-07T11:40:30.299752] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.299734] [INFO] Database query executed
+[2025-11-07T11:40:30.299741] [INFO] Database query executed
+[2025-11-07T11:40:30.299745] [WARN] Slow query performance
+[2025-11-07T11:40:30.299746] [WARN] Timeout warning
+[2025-11-07T11:40:30.299737] [INFO] Request processed successfully
+[2025-11-07T11:40:30.299748] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.299742] [INFO] Database query executed
+[2025-11-07T11:40:30.299732] [INFO] Transaction completed
+[2025-11-07T11:40:30.299749] [WARN] Disk space low
+[2025-11-07T11:40:30.299735] [INFO] Transaction completed
+[2025-11-07T11:40:30.299754] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.299747] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.299728] [INFO] User logged in
+[2025-11-07T11:40:30.299750] [ERROR] Service unavailable
+[2025-11-07T11:40:30.299731] [INFO] Transaction completed
+[2025-11-07T11:40:30.299744] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.299738] [INFO] Connection established

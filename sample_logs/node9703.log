@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.341020] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.341028] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.341025] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.341003] [INFO] Connection established
+[2025-11-07T11:40:30.341002] [INFO] Database query executed
+[2025-11-07T11:40:30.341005] [INFO] Request processed successfully
+[2025-11-07T11:40:30.341027] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.340997] [INFO] Service initialized
+[2025-11-07T11:40:30.340996] [INFO] User logged in
+[2025-11-07T11:40:30.341009] [INFO] Health check passed
+[2025-11-07T11:40:30.341001] [INFO] Session started
+[2025-11-07T11:40:30.341006] [INFO] Service initialized
+[2025-11-07T11:40:30.341013] [INFO] Cache hit
+[2025-11-07T11:40:30.341026] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.341023] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.341024] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.340999] [INFO] Connection established
+[2025-11-07T11:40:30.341012] [INFO] Session started
+[2025-11-07T11:40:30.341004] [INFO] Database query executed
+[2025-11-07T11:40:30.341016] [ERROR] Permission denied
+[2025-11-07T11:40:30.341018] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.340998] [INFO] Connection established
+[2025-11-07T11:40:30.341021] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.341007] [INFO] User logged in
+[2025-11-07T11:40:30.341015] [WARN] Timeout warning
+[2025-11-07T11:40:30.340992] [INFO] Transaction completed
+[2025-11-07T11:40:30.341014] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.341000] [INFO] Health check passed
+[2025-11-07T11:40:30.341026] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.341011] [INFO] Request processed successfully
+[2025-11-07T11:40:30.341019] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.341022] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.341010] [INFO] User logged in
+[2025-11-07T11:40:30.340995] [INFO] Health check passed
+[2025-11-07T11:40:30.341017] [ERROR] Database connection lost
+[2025-11-07T11:40:30.340994] [INFO] Cache hit
+[2025-11-07T11:40:30.341008] [INFO] Transaction completed

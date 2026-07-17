@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.361571] [WARN] Disk space low
+[2025-11-07T11:40:29.361559] [INFO] Session started
+[2025-11-07T11:40:29.361553] [INFO] Transaction completed
+[2025-11-07T11:40:29.361573] [ERROR] File not found
+[2025-11-07T11:40:29.361550] [INFO] Configuration loaded
+[2025-11-07T11:40:29.361579] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.361578] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.361569] [WARN] Cache miss
+[2025-11-07T11:40:29.361548] [INFO] User logged in
+[2025-11-07T11:40:29.361564] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.361567] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.361568] [WARN] Timeout warning
+[2025-11-07T11:40:29.361580] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.361552] [INFO] Session started
+[2025-11-07T11:40:29.361555] [INFO] User logged in
+[2025-11-07T11:40:29.361581] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.361565] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.361556] [INFO] Connection established
+[2025-11-07T11:40:29.361561] [WARN] Queue size growing
+[2025-11-07T11:40:29.361577] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.361560] [INFO] Request processed successfully
+[2025-11-07T11:40:29.361575] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.361572] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.361557] [INFO] Request processed successfully
+[2025-11-07T11:40:29.361551] [INFO] Database query executed
+[2025-11-07T11:40:29.361576] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.361549] [INFO] User logged in
+[2025-11-07T11:40:29.361554] [INFO] Service initialized
+[2025-11-07T11:40:29.361563] [WARN] Slow query performance

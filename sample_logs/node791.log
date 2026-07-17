@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.374305] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.374292] [WARN] High memory usage detected
+[2025-11-07T11:40:29.374284] [INFO] Configuration loaded
+[2025-11-07T11:40:29.374298] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.374282] [INFO] Session started
+[2025-11-07T11:40:29.374277] [INFO] Database query executed
+[2025-11-07T11:40:29.374281] [INFO] Health check passed
+[2025-11-07T11:40:29.374301] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.374304] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.374278] [INFO] Cache hit
+[2025-11-07T11:40:29.374287] [INFO] User logged in
+[2025-11-07T11:40:29.374290] [INFO] Connection established
+[2025-11-07T11:40:29.374285] [INFO] Connection established
+[2025-11-07T11:40:29.374297] [ERROR] Network timeout
+[2025-11-07T11:40:29.374289] [INFO] Request processed successfully
+[2025-11-07T11:40:29.374283] [INFO] Connection established
+[2025-11-07T11:40:29.374296] [ERROR] Request failed
+[2025-11-07T11:40:29.374280] [INFO] Health check passed
+[2025-11-07T11:40:29.374307] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.374286] [INFO] Transaction completed
+[2025-11-07T11:40:29.374293] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.374291] [WARN] Timeout warning
+[2025-11-07T11:40:29.374284] [INFO] Session started
+[2025-11-07T11:40:29.374295] [WARN] Timeout warning
+[2025-11-07T11:40:29.374302] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.374276] [INFO] Configuration loaded
+[2025-11-07T11:40:29.374300] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.374303] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.374294] [WARN] Disk space low
+[2025-11-07T11:40:29.374288] [INFO] Cache hit
+[2025-11-07T11:40:29.374304] [DEBUG] Timer set: 30 seconds

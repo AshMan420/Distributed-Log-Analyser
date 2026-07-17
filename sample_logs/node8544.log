@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.198607] [INFO] Service initialized
+[2025-11-07T11:40:30.198616] [ERROR] Database connection lost
+[2025-11-07T11:40:30.198605] [INFO] Database query executed
+[2025-11-07T11:40:30.198614] [ERROR] Disk read failed
+[2025-11-07T11:40:30.198595] [INFO] User logged in
+[2025-11-07T11:40:30.198604] [INFO] Transaction completed
+[2025-11-07T11:40:30.198627] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.198602] [INFO] Health check passed
+[2025-11-07T11:40:30.198596] [INFO] Cache hit
+[2025-11-07T11:40:30.198611] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.198608] [WARN] Queue size growing
+[2025-11-07T11:40:30.198626] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.198609] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.198625] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.198622] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.198620] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.198600] [INFO] Session started
+[2025-11-07T11:40:30.198619] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.198618] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.198599] [INFO] Transaction completed
+[2025-11-07T11:40:30.198623] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.198621] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.198598] [INFO] Health check passed
+[2025-11-07T11:40:30.198617] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.198613] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.198603] [INFO] Session started
+[2025-11-07T11:40:30.198594] [INFO] Connection established
+[2025-11-07T11:40:30.198610] [WARN] Timeout warning
+[2025-11-07T11:40:30.198624] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.198628] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.198606] [INFO] Request processed successfully
+[2025-11-07T11:40:30.198597] [INFO] Session started
+[2025-11-07T11:40:30.198612] [WARN] Slow query performance
+[2025-11-07T11:40:30.198601] [INFO] Transaction completed
+[2025-11-07T11:40:30.198593] [INFO] Session started

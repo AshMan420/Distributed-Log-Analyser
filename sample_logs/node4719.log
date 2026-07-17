@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.794464] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.794442] [INFO] Health check passed
+[2025-11-07T11:40:29.794458] [WARN] Disk space low
+[2025-11-07T11:40:29.794460] [WARN] Slow query performance
+[2025-11-07T11:40:29.794470] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.794447] [INFO] Configuration loaded
+[2025-11-07T11:40:29.794448] [INFO] Health check passed
+[2025-11-07T11:40:29.794454] [INFO] Request processed successfully
+[2025-11-07T11:40:29.794453] [INFO] Session started
+[2025-11-07T11:40:29.794467] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.794449] [INFO] Service initialized
+[2025-11-07T11:40:29.794446] [INFO] Service initialized
+[2025-11-07T11:40:29.794469] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.794465] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.794468] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.794466] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.794457] [WARN] Cache miss
+[2025-11-07T11:40:29.794472] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.794471] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.794473] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.794443] [INFO] Health check passed
+[2025-11-07T11:40:29.794445] [INFO] Health check passed
+[2025-11-07T11:40:29.794461] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.794452] [INFO] Transaction completed
+[2025-11-07T11:40:29.794450] [INFO] Request processed successfully
+[2025-11-07T11:40:29.794463] [ERROR] Service unavailable
+[2025-11-07T11:40:29.794444] [INFO] Request processed successfully
+[2025-11-07T11:40:29.794456] [WARN] Disk space low
+[2025-11-07T11:40:29.794451] [INFO] User logged in
+[2025-11-07T11:40:29.794459] [WARN] Queue size growing
+[2025-11-07T11:40:29.794455] [WARN] Disk space low
+[2025-11-07T11:40:29.794440] [INFO] Health check passed

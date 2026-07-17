@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.407679] [INFO] Session started
+[2025-11-07T11:40:29.407675] [INFO] Request processed successfully
+[2025-11-07T11:40:29.407678] [INFO] Session started
+[2025-11-07T11:40:29.407694] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.407673] [INFO] Service initialized
+[2025-11-07T11:40:29.407671] [INFO] Cache hit
+[2025-11-07T11:40:29.407682] [INFO] Configuration loaded
+[2025-11-07T11:40:29.407685] [WARN] Cache miss
+[2025-11-07T11:40:29.407691] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.407692] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.407674] [INFO] Request processed successfully
+[2025-11-07T11:40:29.407689] [WARN] Timeout warning
+[2025-11-07T11:40:29.407672] [INFO] Request processed successfully
+[2025-11-07T11:40:29.407677] [INFO] Health check passed
+[2025-11-07T11:40:29.407680] [INFO] Request processed successfully
+[2025-11-07T11:40:29.407686] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.407681] [INFO] User logged in
+[2025-11-07T11:40:29.407697] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.407690] [ERROR] Network timeout
+[2025-11-07T11:40:29.407696] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.407684] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.407676] [INFO] Request processed successfully
+[2025-11-07T11:40:29.407687] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.407687] [WARN] Slow query performance
+[2025-11-07T11:40:29.407693] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.407695] [DEBUG] Variable value: x=42

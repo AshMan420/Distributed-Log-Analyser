@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.006068] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.006062] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.006043] [INFO] User logged in
+[2025-11-07T11:40:30.006053] [INFO] Transaction completed
+[2025-11-07T11:40:30.006055] [INFO] Connection established
+[2025-11-07T11:40:30.006060] [ERROR] Permission denied
+[2025-11-07T11:40:30.006074] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.006046] [INFO] Request processed successfully
+[2025-11-07T11:40:30.006057] [INFO] Health check passed
+[2025-11-07T11:40:30.006050] [INFO] Configuration loaded
+[2025-11-07T11:40:30.006056] [INFO] Service initialized
+[2025-11-07T11:40:30.006070] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.006054] [INFO] Connection established
+[2025-11-07T11:40:30.006061] [ERROR] Request failed
+[2025-11-07T11:40:30.006064] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.006047] [INFO] Cache hit
+[2025-11-07T11:40:30.006073] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.006069] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.006075] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.006042] [INFO] Cache hit
+[2025-11-07T11:40:30.006072] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.006067] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.006063] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.006045] [INFO] Configuration loaded
+[2025-11-07T11:40:30.006059] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.006049] [INFO] Service initialized
+[2025-11-07T11:40:30.006041] [INFO] Cache hit
+[2025-11-07T11:40:30.006044] [INFO] Cache hit
+[2025-11-07T11:40:30.006051] [INFO] Connection established
+[2025-11-07T11:40:30.006065] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.006066] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.006048] [INFO] Health check passed
+[2025-11-07T11:40:30.006052] [INFO] Connection established
+[2025-11-07T11:40:30.006071] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.006074] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.006058] [INFO] Cache hit

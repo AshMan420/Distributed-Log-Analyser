@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.667141] [ERROR] Service unavailable
+[2025-11-07T11:40:29.667147] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.667136] [WARN] Slow query performance
+[2025-11-07T11:40:29.667124] [INFO] Database query executed
+[2025-11-07T11:40:29.667129] [INFO] Connection established
+[2025-11-07T11:40:29.667132] [INFO] Request processed successfully
+[2025-11-07T11:40:29.667122] [INFO] Request processed successfully
+[2025-11-07T11:40:29.667150] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.667148] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.667144] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.667135] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.667150] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.667140] [ERROR] Service unavailable
+[2025-11-07T11:40:29.667133] [INFO] Database query executed
+[2025-11-07T11:40:29.667131] [INFO] Database query executed
+[2025-11-07T11:40:29.667115] [INFO] Service initialized
+[2025-11-07T11:40:29.667126] [INFO] Session started
+[2025-11-07T11:40:29.667123] [INFO] Request processed successfully
+[2025-11-07T11:40:29.667125] [INFO] Request processed successfully
+[2025-11-07T11:40:29.667121] [INFO] Session started
+[2025-11-07T11:40:29.667134] [INFO] Configuration loaded
+[2025-11-07T11:40:29.667120] [INFO] Transaction completed
+[2025-11-07T11:40:29.667151] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.667138] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.667127] [INFO] Cache hit
+[2025-11-07T11:40:29.667119] [INFO] Database query executed
+[2025-11-07T11:40:29.667118] [INFO] Database query executed
+[2025-11-07T11:40:29.667143] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.667142] [ERROR] File not found
+[2025-11-07T11:40:29.667117] [INFO] Service initialized
+[2025-11-07T11:40:29.667145] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.667137] [WARN] Timeout warning
+[2025-11-07T11:40:29.667139] [WARN] Timeout warning
+[2025-11-07T11:40:29.667128] [INFO] Session started
+[2025-11-07T11:40:29.667130] [INFO] Connection established
+[2025-11-07T11:40:29.667152] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.667148] [DEBUG] Variable value: x=42

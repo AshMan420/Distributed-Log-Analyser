@@ -1,0 +1,42 @@
+[2025-11-07T11:40:30.312040] [WARN] Slow query performance
+[2025-11-07T11:40:30.312056] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.312043] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.312028] [INFO] User logged in
+[2025-11-07T11:40:30.312059] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.312036] [WARN] Cache miss
+[2025-11-07T11:40:30.312049] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.312030] [INFO] Transaction completed
+[2025-11-07T11:40:30.312034] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.312058] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.312045] [ERROR] Permission denied
+[2025-11-07T11:40:30.312055] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.312042] [WARN] Queue size growing
+[2025-11-07T11:40:30.312022] [INFO] Health check passed
+[2025-11-07T11:40:30.312026] [INFO] Cache hit
+[2025-11-07T11:40:30.312020] [INFO] Health check passed
+[2025-11-07T11:40:30.312027] [INFO] Health check passed
+[2025-11-07T11:40:30.312044] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.312050] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.312047] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.312025] [INFO] Connection established
+[2025-11-07T11:40:30.312032] [INFO] Session started
+[2025-11-07T11:40:30.312024] [INFO] Health check passed
+[2025-11-07T11:40:30.312037] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.312051] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.312057] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.312041] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.312018] [INFO] Configuration loaded
+[2025-11-07T11:40:30.312033] [INFO] Database query executed
+[2025-11-07T11:40:30.312023] [INFO] Cache hit
+[2025-11-07T11:40:30.312035] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.312052] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.312048] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.312060] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.312031] [INFO] Request processed successfully
+[2025-11-07T11:40:30.312021] [INFO] Service initialized
+[2025-11-07T11:40:30.312046] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.312039] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.312053] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.312054] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.312038] [WARN] Slow query performance
+[2025-11-07T11:40:30.312029] [INFO] Database query executed

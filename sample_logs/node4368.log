@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.759084] [INFO] Service initialized
+[2025-11-07T11:40:29.759097] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.759082] [INFO] Service initialized
+[2025-11-07T11:40:29.759094] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.759093] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.759083] [INFO] Database query executed
+[2025-11-07T11:40:29.759088] [WARN] Slow query performance
+[2025-11-07T11:40:29.759092] [ERROR] Disk read failed
+[2025-11-07T11:40:29.759081] [INFO] Transaction completed
+[2025-11-07T11:40:29.759077] [INFO] Cache hit
+[2025-11-07T11:40:29.759074] [INFO] Cache hit
+[2025-11-07T11:40:29.759096] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.759079] [INFO] Database query executed
+[2025-11-07T11:40:29.759075] [INFO] User logged in
+[2025-11-07T11:40:29.759090] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.759073] [INFO] Database query executed
+[2025-11-07T11:40:29.759089] [WARN] Slow query performance
+[2025-11-07T11:40:29.759080] [INFO] Service initialized
+[2025-11-07T11:40:29.759098] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.759086] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759076] [INFO] Health check passed
+[2025-11-07T11:40:29.759087] [INFO] Connection established
+[2025-11-07T11:40:29.759072] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759099] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.759078] [INFO] Session started
+[2025-11-07T11:40:29.759085] [INFO] Database query executed
+[2025-11-07T11:40:29.759095] [DEBUG] Cache key generated

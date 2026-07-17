@@ -1,0 +1,38 @@
+[2025-11-07T11:40:30.020866] [INFO] Service initialized
+[2025-11-07T11:40:30.020892] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.020877] [WARN] Slow query performance
+[2025-11-07T11:40:30.020860] [INFO] Session started
+[2025-11-07T11:40:30.020868] [INFO] Session started
+[2025-11-07T11:40:30.020862] [INFO] Service initialized
+[2025-11-07T11:40:30.020891] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.020870] [INFO] Service initialized
+[2025-11-07T11:40:30.020853] [INFO] Service initialized
+[2025-11-07T11:40:30.020888] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.020861] [INFO] Service initialized
+[2025-11-07T11:40:30.020878] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.020884] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.020882] [ERROR] Authentication failed
+[2025-11-07T11:40:30.020885] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.020867] [INFO] Database query executed
+[2025-11-07T11:40:30.020873] [INFO] Transaction completed
+[2025-11-07T11:40:30.020889] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.020881] [WARN] Slow query performance
+[2025-11-07T11:40:30.020863] [INFO] Transaction completed
+[2025-11-07T11:40:30.020871] [INFO] Connection established
+[2025-11-07T11:40:30.020869] [INFO] Cache hit
+[2025-11-07T11:40:30.020875] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.020887] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.020883] [ERROR] Request failed
+[2025-11-07T11:40:30.020865] [INFO] Health check passed
+[2025-11-07T11:40:30.020890] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.020858] [INFO] Request processed successfully
+[2025-11-07T11:40:30.020864] [INFO] Cache hit
+[2025-11-07T11:40:30.020874] [WARN] Disk space low
+[2025-11-07T11:40:30.020856] [INFO] Database query executed
+[2025-11-07T11:40:30.020859] [INFO] User logged in
+[2025-11-07T11:40:30.020872] [INFO] User logged in
+[2025-11-07T11:40:30.020855] [INFO] Health check passed
+[2025-11-07T11:40:30.020886] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.020880] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.020857] [INFO] Session started
+[2025-11-07T11:40:30.020876] [WARN] Queue size growing

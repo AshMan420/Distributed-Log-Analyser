@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.688021] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.688024] [WARN] Disk space low
+[2025-11-07T11:40:29.688003] [INFO] Request processed successfully
+[2025-11-07T11:40:29.688037] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.688004] [INFO] Request processed successfully
+[2025-11-07T11:40:29.688025] [ERROR] Authentication failed
+[2025-11-07T11:40:29.688012] [INFO] User logged in
+[2025-11-07T11:40:29.688031] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.688016] [INFO] User logged in
+[2025-11-07T11:40:29.688018] [INFO] Service initialized
+[2025-11-07T11:40:29.688033] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.688014] [INFO] Configuration loaded
+[2025-11-07T11:40:29.688028] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688008] [INFO] Health check passed
+[2025-11-07T11:40:29.688035] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.688032] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.688015] [INFO] Cache hit
+[2025-11-07T11:40:29.688034] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.688029] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.688036] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.688009] [INFO] Session started
+[2025-11-07T11:40:29.688010] [INFO] Cache hit
+[2025-11-07T11:40:29.688019] [INFO] Service initialized
+[2025-11-07T11:40:29.688013] [INFO] Connection established
+[2025-11-07T11:40:29.688006] [INFO] Service initialized
+[2025-11-07T11:40:29.688027] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688007] [INFO] Connection established
+[2025-11-07T11:40:29.688030] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.688001] [INFO] Service initialized
+[2025-11-07T11:40:29.688023] [WARN] Timeout warning
+[2025-11-07T11:40:29.688011] [INFO] Transaction completed
+[2025-11-07T11:40:29.688017] [INFO] Connection established
+[2025-11-07T11:40:29.688026] [ERROR] Permission denied
+[2025-11-07T11:40:29.688020] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.688022] [WARN] High memory usage detected
+[2025-11-07T11:40:29.688005] [INFO] Cache hit

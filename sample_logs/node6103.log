@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.941219] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.941220] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.941216] [ERROR] Service unavailable
+[2025-11-07T11:40:29.941225] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.941205] [INFO] Request processed successfully
+[2025-11-07T11:40:29.941207] [INFO] Session started
+[2025-11-07T11:40:29.941214] [INFO] Request processed successfully
+[2025-11-07T11:40:29.941202] [INFO] Connection established
+[2025-11-07T11:40:29.941206] [INFO] Connection established
+[2025-11-07T11:40:29.941204] [INFO] Request processed successfully
+[2025-11-07T11:40:29.941215] [WARN] Cache miss
+[2025-11-07T11:40:29.941226] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.941209] [INFO] Configuration loaded
+[2025-11-07T11:40:29.941224] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.941217] [ERROR] Disk read failed
+[2025-11-07T11:40:29.941223] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.941218] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.941213] [INFO] User logged in
+[2025-11-07T11:40:29.941208] [INFO] Session started
+[2025-11-07T11:40:29.941221] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.941210] [INFO] Database query executed
+[2025-11-07T11:40:29.941222] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.941211] [INFO] Health check passed
+[2025-11-07T11:40:29.941212] [INFO] Health check passed

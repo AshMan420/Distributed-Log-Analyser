@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.622205] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.622177] [INFO] Session started
+[2025-11-07T11:40:29.622195] [ERROR] Permission denied
+[2025-11-07T11:40:29.622175] [INFO] Health check passed
+[2025-11-07T11:40:29.622179] [INFO] Configuration loaded
+[2025-11-07T11:40:29.622183] [INFO] Connection established
+[2025-11-07T11:40:29.622185] [INFO] Cache hit
+[2025-11-07T11:40:29.622174] [INFO] Database query executed
+[2025-11-07T11:40:29.622190] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.622180] [INFO] Cache hit
+[2025-11-07T11:40:29.622184] [INFO] Service initialized
+[2025-11-07T11:40:29.622192] [WARN] Timeout warning
+[2025-11-07T11:40:29.622189] [INFO] Health check passed
+[2025-11-07T11:40:29.622191] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.622187] [INFO] User logged in
+[2025-11-07T11:40:29.622181] [INFO] Cache hit
+[2025-11-07T11:40:29.622196] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.622199] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.622193] [WARN] Timeout warning
+[2025-11-07T11:40:29.622198] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.622202] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.622200] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.622201] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.622186] [INFO] Session started
+[2025-11-07T11:40:29.622176] [INFO] Transaction completed
+[2025-11-07T11:40:29.622203] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.622188] [INFO] Request processed successfully
+[2025-11-07T11:40:29.622178] [INFO] Request processed successfully
+[2025-11-07T11:40:29.622204] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.622197] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.622194] [WARN] High memory usage detected

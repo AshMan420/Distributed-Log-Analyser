@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.295633] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295625] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.295618] [INFO] Configuration loaded
+[2025-11-07T11:40:29.295632] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295627] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.295609] [INFO] Configuration loaded
+[2025-11-07T11:40:29.295613] [INFO] Service initialized
+[2025-11-07T11:40:29.295622] [WARN] Queue size growing
+[2025-11-07T11:40:29.295617] [INFO] User logged in
+[2025-11-07T11:40:29.295616] [INFO] Configuration loaded
+[2025-11-07T11:40:29.295634] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.295614] [INFO] Transaction completed
+[2025-11-07T11:40:29.295621] [INFO] Session started
+[2025-11-07T11:40:29.295615] [INFO] Service initialized
+[2025-11-07T11:40:29.295631] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295629] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295630] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.295626] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295610] [INFO] Health check passed
+[2025-11-07T11:40:29.295608] [INFO] Connection established
+[2025-11-07T11:40:29.295612] [INFO] Request processed successfully
+[2025-11-07T11:40:29.295619] [INFO] Service initialized
+[2025-11-07T11:40:29.295607] [INFO] Configuration loaded
+[2025-11-07T11:40:29.295620] [INFO] Connection established
+[2025-11-07T11:40:29.295611] [INFO] Database query executed
+[2025-11-07T11:40:29.295628] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295624] [ERROR] Database connection lost

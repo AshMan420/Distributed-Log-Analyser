@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.832160] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.832156] [ERROR] Database connection lost
+[2025-11-07T11:40:29.832168] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.832162] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.832141] [INFO] Transaction completed
+[2025-11-07T11:40:29.832159] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.832140] [INFO] Service initialized
+[2025-11-07T11:40:29.832148] [INFO] Service initialized
+[2025-11-07T11:40:29.832163] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.832169] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.832143] [INFO] Health check passed
+[2025-11-07T11:40:29.832158] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.832144] [INFO] Connection established
+[2025-11-07T11:40:29.832149] [INFO] Connection established
+[2025-11-07T11:40:29.832155] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.832151] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.832142] [INFO] Session started
+[2025-11-07T11:40:29.832164] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.832147] [INFO] User logged in
+[2025-11-07T11:40:29.832146] [INFO] Transaction completed
+[2025-11-07T11:40:29.832153] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.832145] [INFO] Session started
+[2025-11-07T11:40:29.832165] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.832138] [INFO] Configuration loaded
+[2025-11-07T11:40:29.832166] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.832170] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.832139] [INFO] Request processed successfully
+[2025-11-07T11:40:29.832171] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.832152] [WARN] Resource threshold approaching

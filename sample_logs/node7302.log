@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.068499] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.068498] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.068489] [ERROR] Network timeout
+[2025-11-07T11:40:30.068495] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.068484] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.068482] [INFO] Cache hit
+[2025-11-07T11:40:30.068493] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.068488] [ERROR] File not found
+[2025-11-07T11:40:30.068480] [INFO] Connection established
+[2025-11-07T11:40:30.068496] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.068491] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.068475] [INFO] Transaction completed
+[2025-11-07T11:40:30.068468] [INFO] Health check passed
+[2025-11-07T11:40:30.068477] [INFO] Cache hit
+[2025-11-07T11:40:30.068471] [INFO] Configuration loaded
+[2025-11-07T11:40:30.068479] [INFO] Connection established
+[2025-11-07T11:40:30.068476] [INFO] Transaction completed
+[2025-11-07T11:40:30.068470] [INFO] Session started
+[2025-11-07T11:40:30.068466] [INFO] Session started
+[2025-11-07T11:40:30.068481] [INFO] Database query executed
+[2025-11-07T11:40:30.068492] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.068487] [WARN] Timeout warning
+[2025-11-07T11:40:30.068469] [INFO] Service initialized
+[2025-11-07T11:40:30.068490] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.068483] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.068474] [INFO] Session started
+[2025-11-07T11:40:30.068485] [WARN] Slow query performance
+[2025-11-07T11:40:30.068497] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.068494] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.068478] [INFO] Connection established
+[2025-11-07T11:40:30.068473] [INFO] Request processed successfully
+[2025-11-07T11:40:30.068486] [WARN] High memory usage detected
+[2025-11-07T11:40:30.068472] [INFO] Cache hit

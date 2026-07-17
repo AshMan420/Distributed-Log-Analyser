@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.893594] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.893585] [INFO] Request processed successfully
+[2025-11-07T11:40:29.893595] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.893578] [INFO] Session started
+[2025-11-07T11:40:29.893587] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.893598] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.893582] [INFO] Transaction completed
+[2025-11-07T11:40:29.893599] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.893577] [INFO] Transaction completed
+[2025-11-07T11:40:29.893600] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.893593] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.893584] [INFO] Connection established
+[2025-11-07T11:40:29.893583] [INFO] Health check passed
+[2025-11-07T11:40:29.893582] [INFO] Request processed successfully
+[2025-11-07T11:40:29.893591] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.893597] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.893596] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.893586] [INFO] Transaction completed
+[2025-11-07T11:40:29.893579] [INFO] Health check passed
+[2025-11-07T11:40:29.893575] [INFO] Cache hit
+[2025-11-07T11:40:29.893589] [ERROR] Permission denied
+[2025-11-07T11:40:29.893578] [INFO] Configuration loaded
+[2025-11-07T11:40:29.893580] [INFO] Service initialized
+[2025-11-07T11:40:29.893576] [INFO] Database query executed
+[2025-11-07T11:40:29.893573] [INFO] Service initialized
+[2025-11-07T11:40:29.893592] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.893572] [INFO] Health check passed
+[2025-11-07T11:40:29.893590] [ERROR] Authentication failed
+[2025-11-07T11:40:29.893598] [DEBUG] Thread pool size: 8

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.753293] [WARN] Slow query performance
+[2025-11-07T11:40:29.753284] [INFO] Database query executed
+[2025-11-07T11:40:29.753282] [INFO] User logged in
+[2025-11-07T11:40:29.753301] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.753289] [INFO] Service initialized
+[2025-11-07T11:40:29.753286] [INFO] Request processed successfully
+[2025-11-07T11:40:29.753280] [INFO] Database query executed
+[2025-11-07T11:40:29.753287] [INFO] Request processed successfully
+[2025-11-07T11:40:29.753279] [INFO] Service initialized
+[2025-11-07T11:40:29.753292] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.753283] [INFO] Health check passed
+[2025-11-07T11:40:29.753294] [WARN] High memory usage detected
+[2025-11-07T11:40:29.753295] [WARN] High memory usage detected
+[2025-11-07T11:40:29.753281] [INFO] Configuration loaded
+[2025-11-07T11:40:29.753299] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.753300] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.753303] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.753290] [INFO] Cache hit
+[2025-11-07T11:40:29.753291] [INFO] Health check passed
+[2025-11-07T11:40:29.753304] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.753305] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.753276] [INFO] Transaction completed
+[2025-11-07T11:40:29.753285] [INFO] User logged in
+[2025-11-07T11:40:29.753302] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.753277] [INFO] Session started
+[2025-11-07T11:40:29.753296] [ERROR] Disk read failed
+[2025-11-07T11:40:29.753298] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.753288] [INFO] Health check passed
+[2025-11-07T11:40:29.753297] [DEBUG] Memory allocation: 2048 bytes

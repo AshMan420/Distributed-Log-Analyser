@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.129952] [INFO] Health check passed
+[2025-11-07T11:40:30.129976] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.129966] [INFO] Cache hit
+[2025-11-07T11:40:30.129961] [INFO] Database query executed
+[2025-11-07T11:40:30.129955] [INFO] Health check passed
+[2025-11-07T11:40:30.129953] [INFO] Health check passed
+[2025-11-07T11:40:30.129974] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.129975] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.129979] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.129954] [INFO] User logged in
+[2025-11-07T11:40:30.129964] [INFO] Session started
+[2025-11-07T11:40:30.129959] [INFO] Configuration loaded
+[2025-11-07T11:40:30.129958] [INFO] Transaction completed
+[2025-11-07T11:40:30.129960] [INFO] Connection established
+[2025-11-07T11:40:30.129978] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.129956] [INFO] Service initialized
+[2025-11-07T11:40:30.129965] [INFO] Service initialized
+[2025-11-07T11:40:30.129969] [WARN] Slow query performance
+[2025-11-07T11:40:30.129971] [ERROR] Invalid input data
+[2025-11-07T11:40:30.129959] [INFO] Transaction completed
+[2025-11-07T11:40:30.129972] [ERROR] Service unavailable
+[2025-11-07T11:40:30.129968] [WARN] High memory usage detected
+[2025-11-07T11:40:30.129967] [WARN] Queue size growing
+[2025-11-07T11:40:30.129977] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.129970] [WARN] Queue size growing
+[2025-11-07T11:40:30.129962] [INFO] Session started
+[2025-11-07T11:40:30.129963] [INFO] User logged in

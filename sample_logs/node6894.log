@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.026574] [INFO] User logged in
+[2025-11-07T11:40:30.026583] [INFO] Database query executed
+[2025-11-07T11:40:30.026597] [ERROR] Database connection lost
+[2025-11-07T11:40:30.026585] [INFO] User logged in
+[2025-11-07T11:40:30.026587] [WARN] High memory usage detected
+[2025-11-07T11:40:30.026601] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.026606] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.026592] [WARN] High memory usage detected
+[2025-11-07T11:40:30.026577] [INFO] Cache hit
+[2025-11-07T11:40:30.026595] [WARN] Queue size growing
+[2025-11-07T11:40:30.026578] [INFO] Session started
+[2025-11-07T11:40:30.026573] [INFO] Transaction completed
+[2025-11-07T11:40:30.026579] [INFO] User logged in
+[2025-11-07T11:40:30.026572] [INFO] Health check passed
+[2025-11-07T11:40:30.026582] [INFO] Cache hit
+[2025-11-07T11:40:30.026594] [WARN] Disk space low
+[2025-11-07T11:40:30.026571] [INFO] Session started
+[2025-11-07T11:40:30.026600] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.026570] [INFO] Cache hit
+[2025-11-07T11:40:30.026581] [INFO] Database query executed
+[2025-11-07T11:40:30.026598] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.026586] [INFO] Request processed successfully
+[2025-11-07T11:40:30.026588] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.026591] [WARN] Queue size growing
+[2025-11-07T11:40:30.026575] [INFO] Configuration loaded
+[2025-11-07T11:40:30.026604] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.026599] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.026584] [INFO] User logged in
+[2025-11-07T11:40:30.026603] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.026605] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.026602] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.026589] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.026593] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.026590] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.026576] [INFO] Request processed successfully
+[2025-11-07T11:40:30.026580] [INFO] Cache hit
+[2025-11-07T11:40:30.026596] [ERROR] Memory allocation error

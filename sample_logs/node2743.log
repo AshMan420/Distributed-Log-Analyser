@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.588134] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.588118] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.588135] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.588133] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.588103] [INFO] Database query executed
+[2025-11-07T11:40:29.588111] [INFO] Session started
+[2025-11-07T11:40:29.588120] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.588112] [INFO] Transaction completed
+[2025-11-07T11:40:29.588108] [INFO] Request processed successfully
+[2025-11-07T11:40:29.588123] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.588121] [WARN] Queue size growing
+[2025-11-07T11:40:29.588127] [ERROR] Network timeout
+[2025-11-07T11:40:29.588117] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.588132] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.588102] [INFO] Transaction completed
+[2025-11-07T11:40:29.588114] [INFO] Transaction completed
+[2025-11-07T11:40:29.588106] [INFO] Request processed successfully
+[2025-11-07T11:40:29.588115] [INFO] Cache hit
+[2025-11-07T11:40:29.588109] [INFO] Database query executed
+[2025-11-07T11:40:29.588136] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.588122] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.588132] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.588130] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.588108] [INFO] Session started
+[2025-11-07T11:40:29.588129] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.588112] [INFO] Session started
+[2025-11-07T11:40:29.588105] [INFO] Configuration loaded
+[2025-11-07T11:40:29.588124] [WARN] Queue size growing
+[2025-11-07T11:40:29.588104] [INFO] Configuration loaded
+[2025-11-07T11:40:29.588101] [INFO] Database query executed
+[2025-11-07T11:40:29.588119] [WARN] Cache miss
+[2025-11-07T11:40:29.588131] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.588126] [ERROR] Authentication failed
+[2025-11-07T11:40:29.588125] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.588113] [INFO] Request processed successfully
+[2025-11-07T11:40:29.588120] [WARN] High memory usage detected

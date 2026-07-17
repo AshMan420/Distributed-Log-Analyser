@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.336984] [WARN] High memory usage detected
+[2025-11-07T11:40:29.336980] [INFO] Session started
+[2025-11-07T11:40:29.336995] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.336996] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.336989] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.336969] [INFO] Request processed successfully
+[2025-11-07T11:40:29.336972] [INFO] Health check passed
+[2025-11-07T11:40:29.336978] [INFO] Health check passed
+[2025-11-07T11:40:29.336982] [WARN] High memory usage detected
+[2025-11-07T11:40:29.336988] [ERROR] Service unavailable
+[2025-11-07T11:40:29.336973] [INFO] Health check passed
+[2025-11-07T11:40:29.336970] [INFO] Session started
+[2025-11-07T11:40:29.336985] [WARN] Queue size growing
+[2025-11-07T11:40:29.336981] [INFO] Configuration loaded
+[2025-11-07T11:40:29.336966] [INFO] Cache hit
+[2025-11-07T11:40:29.336990] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.336998] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.336976] [INFO] Service initialized
+[2025-11-07T11:40:29.336974] [INFO] Connection established
+[2025-11-07T11:40:29.336993] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.336971] [INFO] Configuration loaded
+[2025-11-07T11:40:29.336986] [ERROR] Network timeout
+[2025-11-07T11:40:29.336967] [INFO] Database query executed
+[2025-11-07T11:40:29.336992] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.336968] [INFO] User logged in
+[2025-11-07T11:40:29.336977] [INFO] Database query executed
+[2025-11-07T11:40:29.336997] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.336994] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.336964] [INFO] Transaction completed

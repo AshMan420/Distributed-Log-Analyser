@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.470448] [INFO] Health check passed
+[2025-11-07T11:40:29.470480] [INFO] Service initialized
+[2025-11-07T11:40:29.470455] [INFO] Service initialized
+[2025-11-07T11:40:29.470503] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.470485] [INFO] Health check passed
+[2025-11-07T11:40:29.470494] [ERROR] Service unavailable
+[2025-11-07T11:40:29.470502] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.470495] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.470456] [INFO] Database query executed
+[2025-11-07T11:40:29.470501] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.470450] [INFO] Health check passed
+[2025-11-07T11:40:29.470451] [INFO] Request processed successfully
+[2025-11-07T11:40:29.470499] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.470482] [INFO] Configuration loaded
+[2025-11-07T11:40:29.470452] [INFO] Request processed successfully
+[2025-11-07T11:40:29.470453] [INFO] Database query executed
+[2025-11-07T11:40:29.470500] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.470492] [WARN] Timeout warning
+[2025-11-07T11:40:29.470457] [INFO] Session started
+[2025-11-07T11:40:29.470487] [INFO] Transaction completed
+[2025-11-07T11:40:29.470484] [INFO] Service initialized
+[2025-11-07T11:40:29.470490] [WARN] Queue size growing
+[2025-11-07T11:40:29.470504] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.470493] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.470498] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.470488] [INFO] Transaction completed
+[2025-11-07T11:40:29.470486] [INFO] Session started
+[2025-11-07T11:40:29.470497] [DEBUG] Cache key generated

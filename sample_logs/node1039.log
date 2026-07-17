@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.400463] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.400470] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.400454] [INFO] Configuration loaded
+[2025-11-07T11:40:29.400460] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.400443] [INFO] User logged in
+[2025-11-07T11:40:29.400456] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.400458] [WARN] Queue size growing
+[2025-11-07T11:40:29.400442] [INFO] Connection established
+[2025-11-07T11:40:29.400440] [INFO] Connection established
+[2025-11-07T11:40:29.400448] [INFO] Service initialized
+[2025-11-07T11:40:29.400464] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.400471] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.400473] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.400462] [ERROR] Service unavailable
+[2025-11-07T11:40:29.400468] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.400459] [WARN] Slow query performance
+[2025-11-07T11:40:29.400453] [INFO] Transaction completed
+[2025-11-07T11:40:29.400469] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.400466] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.400455] [INFO] Health check passed
+[2025-11-07T11:40:29.400472] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.400461] [ERROR] Database connection lost
+[2025-11-07T11:40:29.400446] [INFO] Database query executed
+[2025-11-07T11:40:29.400467] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.400449] [INFO] Session started
+[2025-11-07T11:40:29.400445] [INFO] Cache hit
+[2025-11-07T11:40:29.400465] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.400447] [INFO] Health check passed
+[2025-11-07T11:40:29.400452] [INFO] Health check passed
+[2025-11-07T11:40:29.400444] [INFO] Cache hit
+[2025-11-07T11:40:29.400451] [INFO] Request processed successfully
+[2025-11-07T11:40:29.400450] [INFO] Cache hit
+[2025-11-07T11:40:29.400457] [WARN] Resource threshold approaching

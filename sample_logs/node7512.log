@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.090170] [WARN] Timeout warning
+[2025-11-07T11:40:30.090185] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.090186] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.090163] [INFO] Cache hit
+[2025-11-07T11:40:30.090177] [ERROR] Permission denied
+[2025-11-07T11:40:30.090156] [INFO] Configuration loaded
+[2025-11-07T11:40:30.090165] [INFO] Cache hit
+[2025-11-07T11:40:30.090161] [INFO] User logged in
+[2025-11-07T11:40:30.090175] [ERROR] Service unavailable
+[2025-11-07T11:40:30.090178] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.090167] [INFO] Configuration loaded
+[2025-11-07T11:40:30.090171] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.090160] [INFO] User logged in
+[2025-11-07T11:40:30.090168] [INFO] Service initialized
+[2025-11-07T11:40:30.090158] [INFO] Connection established
+[2025-11-07T11:40:30.090182] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.090153] [INFO] Session started
+[2025-11-07T11:40:30.090155] [INFO] Health check passed
+[2025-11-07T11:40:30.090152] [INFO] Session started
+[2025-11-07T11:40:30.090174] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.090159] [INFO] Database query executed
+[2025-11-07T11:40:30.090172] [WARN] Slow query performance
+[2025-11-07T11:40:30.090183] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.090154] [INFO] Database query executed
+[2025-11-07T11:40:30.090184] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.090157] [INFO] Connection established
+[2025-11-07T11:40:30.090180] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.090181] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.090164] [INFO] Session started

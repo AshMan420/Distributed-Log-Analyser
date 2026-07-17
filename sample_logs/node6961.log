@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.033382] [INFO] Database query executed
+[2025-11-07T11:40:30.033411] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.033409] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.033404] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.033393] [WARN] Slow query performance
+[2025-11-07T11:40:30.033400] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.033407] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.033397] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.033408] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.033410] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.033398] [WARN] Timeout warning
+[2025-11-07T11:40:30.033403] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.033384] [INFO] Database query executed
+[2025-11-07T11:40:30.033386] [INFO] User logged in
+[2025-11-07T11:40:30.033406] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.033395] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.033405] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.033388] [INFO] Request processed successfully
+[2025-11-07T11:40:30.033401] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.033394] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.033402] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.033387] [INFO] Connection established
+[2025-11-07T11:40:30.033390] [INFO] Connection established
+[2025-11-07T11:40:30.033385] [INFO] Configuration loaded
+[2025-11-07T11:40:30.033412] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.033396] [WARN] Cache miss
+[2025-11-07T11:40:30.033380] [INFO] Session started
+[2025-11-07T11:40:30.033391] [INFO] User logged in
+[2025-11-07T11:40:30.033383] [INFO] Service initialized
+[2025-11-07T11:40:30.033392] [WARN] Cache miss
+[2025-11-07T11:40:30.033381] [INFO] Database query executed
+[2025-11-07T11:40:30.033389] [INFO] Request processed successfully
+[2025-11-07T11:40:30.033378] [INFO] Session started

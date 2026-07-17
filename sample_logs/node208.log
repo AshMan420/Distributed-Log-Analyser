@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.312667] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.312659] [INFO] Connection established
+[2025-11-07T11:40:29.312655] [INFO] Service initialized
+[2025-11-07T11:40:29.312675] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.312666] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.312646] [INFO] Service initialized
+[2025-11-07T11:40:29.312665] [WARN] High memory usage detected
+[2025-11-07T11:40:29.312673] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.312670] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.312650] [INFO] Service initialized
+[2025-11-07T11:40:29.312645] [INFO] Connection established
+[2025-11-07T11:40:29.312660] [INFO] Request processed successfully
+[2025-11-07T11:40:29.312662] [WARN] Queue size growing
+[2025-11-07T11:40:29.312651] [INFO] Health check passed
+[2025-11-07T11:40:29.312647] [INFO] Configuration loaded
+[2025-11-07T11:40:29.312649] [INFO] Database query executed
+[2025-11-07T11:40:29.312653] [INFO] Session started
+[2025-11-07T11:40:29.312658] [INFO] Cache hit
+[2025-11-07T11:40:29.312669] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.312657] [INFO] Database query executed
+[2025-11-07T11:40:29.312668] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.312649] [INFO] Cache hit
+[2025-11-07T11:40:29.312674] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.312672] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.312654] [INFO] Configuration loaded
+[2025-11-07T11:40:29.312664] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.312661] [WARN] Timeout warning
+[2025-11-07T11:40:29.312656] [INFO] Request processed successfully
+[2025-11-07T11:40:29.312663] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.312652] [INFO] Session started
+[2025-11-07T11:40:29.312673] [DEBUG] Loop iteration: 15

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.592597] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.592578] [INFO] Service initialized
+[2025-11-07T11:40:29.592593] [ERROR] Service unavailable
+[2025-11-07T11:40:29.592581] [INFO] Configuration loaded
+[2025-11-07T11:40:29.592601] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.592580] [INFO] Health check passed
+[2025-11-07T11:40:29.592604] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.592584] [INFO] Health check passed
+[2025-11-07T11:40:29.592589] [WARN] Queue size growing
+[2025-11-07T11:40:29.592585] [INFO] User logged in
+[2025-11-07T11:40:29.592594] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.592578] [INFO] Database query executed
+[2025-11-07T11:40:29.592583] [INFO] Database query executed
+[2025-11-07T11:40:29.592603] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.592587] [INFO] Health check passed
+[2025-11-07T11:40:29.592600] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.592590] [WARN] Slow query performance
+[2025-11-07T11:40:29.592592] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.592582] [INFO] Configuration loaded
+[2025-11-07T11:40:29.592586] [INFO] Database query executed
+[2025-11-07T11:40:29.592602] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.592599] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.592598] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.592579] [INFO] Cache hit
+[2025-11-07T11:40:29.592576] [INFO] Health check passed
+[2025-11-07T11:40:29.592591] [WARN] Timeout warning
+[2025-11-07T11:40:29.592574] [INFO] Transaction completed
+[2025-11-07T11:40:29.592588] [INFO] Health check passed
+[2025-11-07T11:40:29.592577] [INFO] User logged in
+[2025-11-07T11:40:29.592595] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.592596] [DEBUG] Connection pool status checked

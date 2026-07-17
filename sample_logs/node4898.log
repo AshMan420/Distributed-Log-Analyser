@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.812616] [ERROR] Network timeout
+[2025-11-07T11:40:29.812609] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.812607] [WARN] Timeout warning
+[2025-11-07T11:40:29.812618] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.812599] [INFO] User logged in
+[2025-11-07T11:40:29.812614] [WARN] Slow query performance
+[2025-11-07T11:40:29.812591] [INFO] Configuration loaded
+[2025-11-07T11:40:29.812597] [INFO] Service initialized
+[2025-11-07T11:40:29.812611] [WARN] Timeout warning
+[2025-11-07T11:40:29.812593] [INFO] Connection established
+[2025-11-07T11:40:29.812597] [INFO] Database query executed
+[2025-11-07T11:40:29.812604] [INFO] User logged in
+[2025-11-07T11:40:29.812606] [WARN] Cache miss
+[2025-11-07T11:40:29.812605] [INFO] User logged in
+[2025-11-07T11:40:29.812627] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.812601] [INFO] Service initialized
+[2025-11-07T11:40:29.812589] [INFO] Connection established
+[2025-11-07T11:40:29.812592] [INFO] User logged in
+[2025-11-07T11:40:29.812620] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.812617] [ERROR] Network timeout
+[2025-11-07T11:40:29.812622] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.812625] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.812595] [INFO] Cache hit
+[2025-11-07T11:40:29.812624] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.812603] [INFO] User logged in
+[2025-11-07T11:40:29.812601] [INFO] Session started
+[2025-11-07T11:40:29.812599] [INFO] Transaction completed
+[2025-11-07T11:40:29.812590] [INFO] Cache hit
+[2025-11-07T11:40:29.812619] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.812613] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.812608] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.812610] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.812612] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.812596] [INFO] Cache hit
+[2025-11-07T11:40:29.812623] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.812621] [DEBUG] Memory allocation: 2048 bytes

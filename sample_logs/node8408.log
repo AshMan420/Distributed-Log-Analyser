@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.185444] [INFO] Service initialized
+[2025-11-07T11:40:30.185464] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.185446] [INFO] Service initialized
+[2025-11-07T11:40:30.185466] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.185457] [ERROR] Request failed
+[2025-11-07T11:40:30.185463] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.185459] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.185455] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.185451] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.185450] [INFO] Connection established
+[2025-11-07T11:40:30.185443] [INFO] Connection established
+[2025-11-07T11:40:30.185445] [INFO] Cache hit
+[2025-11-07T11:40:30.185452] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.185454] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.185431] [INFO] Service initialized
+[2025-11-07T11:40:30.185462] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.185428] [INFO] Configuration loaded
+[2025-11-07T11:40:30.185453] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.185460] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.185429] [INFO] Cache hit
+[2025-11-07T11:40:30.185465] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.185458] [ERROR] Service unavailable
+[2025-11-07T11:40:30.185461] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.185448] [INFO] Request processed successfully
+[2025-11-07T11:40:30.185467] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.185430] [INFO] Request processed successfully
+[2025-11-07T11:40:30.185447] [INFO] Health check passed
+[2025-11-07T11:40:30.185449] [INFO] Service initialized
+[2025-11-07T11:40:30.185432] [INFO] Health check passed

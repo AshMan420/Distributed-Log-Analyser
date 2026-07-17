@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.267893] [INFO] Health check passed
+[2025-11-07T11:40:30.267922] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.267909] [WARN] Slow query performance
+[2025-11-07T11:40:30.267896] [INFO] Configuration loaded
+[2025-11-07T11:40:30.267916] [ERROR] Service unavailable
+[2025-11-07T11:40:30.267908] [WARN] Cache miss
+[2025-11-07T11:40:30.267891] [INFO] Request processed successfully
+[2025-11-07T11:40:30.267895] [INFO] Cache hit
+[2025-11-07T11:40:30.267898] [INFO] Transaction completed
+[2025-11-07T11:40:30.267911] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.267904] [INFO] Database query executed
+[2025-11-07T11:40:30.267897] [INFO] Connection established
+[2025-11-07T11:40:30.267903] [INFO] Connection established
+[2025-11-07T11:40:30.267913] [ERROR] Authentication failed
+[2025-11-07T11:40:30.267919] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.267899] [INFO] Session started
+[2025-11-07T11:40:30.267912] [WARN] Slow query performance
+[2025-11-07T11:40:30.267918] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.267917] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.267894] [INFO] User logged in
+[2025-11-07T11:40:30.267920] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.267915] [ERROR] Disk read failed
+[2025-11-07T11:40:30.267921] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.267900] [INFO] Transaction completed
+[2025-11-07T11:40:30.267910] [WARN] Cache miss
+[2025-11-07T11:40:30.267905] [INFO] Cache hit
+[2025-11-07T11:40:30.267901] [INFO] Service initialized
+[2025-11-07T11:40:30.267902] [INFO] Connection established
+[2025-11-07T11:40:30.267906] [INFO] Health check passed
+[2025-11-07T11:40:30.267907] [WARN] Disk space low
+[2025-11-07T11:40:30.267923] [DEBUG] Cache key generated

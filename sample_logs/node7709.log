@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.110179] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.110175] [INFO] Cache hit
+[2025-11-07T11:40:30.110178] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.110180] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.110181] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.110163] [INFO] Database query executed
+[2025-11-07T11:40:30.110184] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.110171] [INFO] Cache hit
+[2025-11-07T11:40:30.110157] [INFO] Connection established
+[2025-11-07T11:40:30.110166] [INFO] Request processed successfully
+[2025-11-07T11:40:30.110159] [INFO] Configuration loaded
+[2025-11-07T11:40:30.110185] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.110169] [INFO] Service initialized
+[2025-11-07T11:40:30.110172] [INFO] Transaction completed
+[2025-11-07T11:40:30.110170] [INFO] Session started
+[2025-11-07T11:40:30.110186] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.110162] [INFO] Service initialized
+[2025-11-07T11:40:30.110164] [INFO] Session started
+[2025-11-07T11:40:30.110183] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.110177] [ERROR] Authentication failed
+[2025-11-07T11:40:30.110168] [INFO] Health check passed
+[2025-11-07T11:40:30.110182] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.110173] [INFO] Health check passed
+[2025-11-07T11:40:30.110165] [INFO] Session started
+[2025-11-07T11:40:30.110174] [INFO] User logged in
+[2025-11-07T11:40:30.110167] [INFO] Cache hit
+[2025-11-07T11:40:30.110176] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.110160] [INFO] Request processed successfully
+[2025-11-07T11:40:30.110161] [INFO] Database query executed

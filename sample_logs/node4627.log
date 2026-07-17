@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.785396] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.785392] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.785386] [WARN] Cache miss
+[2025-11-07T11:40:29.785383] [WARN] Queue size growing
+[2025-11-07T11:40:29.785374] [INFO] Connection established
+[2025-11-07T11:40:29.785378] [INFO] Transaction completed
+[2025-11-07T11:40:29.785397] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.785377] [INFO] Health check passed
+[2025-11-07T11:40:29.785373] [INFO] Cache hit
+[2025-11-07T11:40:29.785394] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.785390] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.785379] [INFO] User logged in
+[2025-11-07T11:40:29.785380] [INFO] Service initialized
+[2025-11-07T11:40:29.785378] [INFO] Connection established
+[2025-11-07T11:40:29.785372] [INFO] Transaction completed
+[2025-11-07T11:40:29.785389] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.785387] [ERROR] Authentication failed
+[2025-11-07T11:40:29.785385] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.785381] [INFO] Health check passed
+[2025-11-07T11:40:29.785393] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.785388] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.785371] [INFO] Cache hit
+[2025-11-07T11:40:29.785391] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.785384] [WARN] Slow query performance
+[2025-11-07T11:40:29.785395] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.785375] [INFO] Transaction completed

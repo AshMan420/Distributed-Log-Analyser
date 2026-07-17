@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.827953] [INFO] Request processed successfully
+[2025-11-07T11:40:29.827976] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.827946] [INFO] User logged in
+[2025-11-07T11:40:29.827959] [INFO] Connection established
+[2025-11-07T11:40:29.827958] [INFO] Cache hit
+[2025-11-07T11:40:29.827963] [WARN] High memory usage detected
+[2025-11-07T11:40:29.827947] [INFO] Connection established
+[2025-11-07T11:40:29.827968] [ERROR] Disk read failed
+[2025-11-07T11:40:29.827971] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.827970] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.827956] [INFO] Transaction completed
+[2025-11-07T11:40:29.827966] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.827960] [WARN] Cache miss
+[2025-11-07T11:40:29.827949] [INFO] Database query executed
+[2025-11-07T11:40:29.827955] [INFO] Service initialized
+[2025-11-07T11:40:29.827964] [WARN] High memory usage detected
+[2025-11-07T11:40:29.827954] [INFO] User logged in
+[2025-11-07T11:40:29.827944] [INFO] Request processed successfully
+[2025-11-07T11:40:29.827961] [WARN] Timeout warning
+[2025-11-07T11:40:29.827975] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.827945] [INFO] Cache hit
+[2025-11-07T11:40:29.827967] [WARN] Slow query performance
+[2025-11-07T11:40:29.827948] [INFO] Connection established
+[2025-11-07T11:40:29.827952] [INFO] Health check passed
+[2025-11-07T11:40:29.827969] [ERROR] Disk read failed
+[2025-11-07T11:40:29.827943] [INFO] Service initialized
+[2025-11-07T11:40:29.827962] [WARN] Slow query performance
+[2025-11-07T11:40:29.827973] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.827974] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.827972] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.827965] [WARN] High memory usage detected
+[2025-11-07T11:40:29.827951] [INFO] Request processed successfully
+[2025-11-07T11:40:29.827941] [INFO] Transaction completed
+[2025-11-07T11:40:29.827957] [INFO] Database query executed
+[2025-11-07T11:40:29.827950] [INFO] Request processed successfully

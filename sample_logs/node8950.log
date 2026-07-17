@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.253270] [INFO] Cache hit
+[2025-11-07T11:40:30.253278] [INFO] Service initialized
+[2025-11-07T11:40:30.253297] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.253280] [INFO] Transaction completed
+[2025-11-07T11:40:30.253279] [INFO] Transaction completed
+[2025-11-07T11:40:30.253273] [INFO] Database query executed
+[2025-11-07T11:40:30.253276] [INFO] Connection established
+[2025-11-07T11:40:30.253274] [INFO] Cache hit
+[2025-11-07T11:40:30.253289] [WARN] Cache miss
+[2025-11-07T11:40:30.253275] [INFO] User logged in
+[2025-11-07T11:40:30.253283] [INFO] User logged in
+[2025-11-07T11:40:30.253293] [ERROR] Disk read failed
+[2025-11-07T11:40:30.253296] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.253290] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.253284] [INFO] User logged in
+[2025-11-07T11:40:30.253298] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.253285] [INFO] Cache hit
+[2025-11-07T11:40:30.253277] [INFO] Session started
+[2025-11-07T11:40:30.253295] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.253300] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.253292] [WARN] Cache miss
+[2025-11-07T11:40:30.253303] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.253281] [INFO] Configuration loaded
+[2025-11-07T11:40:30.253286] [INFO] Service initialized
+[2025-11-07T11:40:30.253305] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.253302] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.253301] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.253288] [WARN] Cache miss
+[2025-11-07T11:40:30.253272] [INFO] Session started

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.948095] [INFO] Cache hit
+[2025-11-07T11:40:29.948117] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.948085] [INFO] Health check passed
+[2025-11-07T11:40:29.948098] [INFO] Transaction completed
+[2025-11-07T11:40:29.948105] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.948107] [WARN] Cache miss
+[2025-11-07T11:40:29.948109] [ERROR] Service unavailable
+[2025-11-07T11:40:29.948081] [INFO] Service initialized
+[2025-11-07T11:40:29.948096] [INFO] Service initialized
+[2025-11-07T11:40:29.948080] [INFO] Configuration loaded
+[2025-11-07T11:40:29.948083] [INFO] Cache hit
+[2025-11-07T11:40:29.948078] [INFO] Health check passed
+[2025-11-07T11:40:29.948104] [WARN] Timeout warning
+[2025-11-07T11:40:29.948082] [INFO] Request processed successfully
+[2025-11-07T11:40:29.948115] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.948099] [INFO] Database query executed
+[2025-11-07T11:40:29.948102] [WARN] Slow query performance
+[2025-11-07T11:40:29.948103] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.948111] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.948110] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.948113] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.948106] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.948114] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.948116] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.948112] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.948108] [ERROR] Database connection lost
+[2025-11-07T11:40:29.948097] [INFO] Session started
+[2025-11-07T11:40:29.948084] [INFO] Transaction completed
+[2025-11-07T11:40:29.948100] [INFO] Service initialized
+[2025-11-07T11:40:29.948101] [WARN] Resource threshold approaching

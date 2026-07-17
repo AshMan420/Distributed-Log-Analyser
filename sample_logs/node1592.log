@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.459092] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.459072] [INFO] Request processed successfully
+[2025-11-07T11:40:29.459088] [WARN] Disk space low
+[2025-11-07T11:40:29.459077] [INFO] Connection established
+[2025-11-07T11:40:29.459082] [INFO] Configuration loaded
+[2025-11-07T11:40:29.459074] [INFO] Health check passed
+[2025-11-07T11:40:29.459070] [INFO] Request processed successfully
+[2025-11-07T11:40:29.459095] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.459093] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.459090] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.459097] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.459073] [INFO] Configuration loaded
+[2025-11-07T11:40:29.459079] [INFO] Health check passed
+[2025-11-07T11:40:29.459087] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.459089] [ERROR] Database connection lost
+[2025-11-07T11:40:29.459083] [INFO] Service initialized
+[2025-11-07T11:40:29.459091] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.459096] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.459085] [WARN] Timeout warning
+[2025-11-07T11:40:29.459084] [INFO] Configuration loaded
+[2025-11-07T11:40:29.459081] [INFO] User logged in
+[2025-11-07T11:40:29.459078] [INFO] Request processed successfully
+[2025-11-07T11:40:29.459080] [INFO] Request processed successfully
+[2025-11-07T11:40:29.459075] [INFO] Connection established
+[2025-11-07T11:40:29.459076] [INFO] Configuration loaded
+[2025-11-07T11:40:29.459086] [WARN] Slow query performance
+[2025-11-07T11:40:29.459094] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.459098] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.459071] [INFO] Request processed successfully

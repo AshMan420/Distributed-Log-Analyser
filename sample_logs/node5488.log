@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.871869] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.871866] [ERROR] Network timeout
+[2025-11-07T11:40:29.871875] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.871875] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.871864] [WARN] High memory usage detected
+[2025-11-07T11:40:29.871865] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.871848] [INFO] Health check passed
+[2025-11-07T11:40:29.871868] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.871859] [INFO] Transaction completed
+[2025-11-07T11:40:29.871861] [INFO] Database query executed
+[2025-11-07T11:40:29.871857] [INFO] Database query executed
+[2025-11-07T11:40:29.871870] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.871874] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.871851] [INFO] Request processed successfully
+[2025-11-07T11:40:29.871871] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.871852] [INFO] Configuration loaded
+[2025-11-07T11:40:29.871846] [INFO] Connection established
+[2025-11-07T11:40:29.871867] [ERROR] Database connection lost
+[2025-11-07T11:40:29.871862] [INFO] Database query executed
+[2025-11-07T11:40:29.871855] [INFO] Health check passed
+[2025-11-07T11:40:29.871849] [INFO] Request processed successfully
+[2025-11-07T11:40:29.871854] [INFO] Service initialized
+[2025-11-07T11:40:29.871860] [INFO] Connection established
+[2025-11-07T11:40:29.871853] [INFO] Cache hit
+[2025-11-07T11:40:29.871872] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.871850] [INFO] Cache hit
+[2025-11-07T11:40:29.871856] [INFO] Database query executed
+[2025-11-07T11:40:29.871863] [INFO] Connection established
+[2025-11-07T11:40:29.871873] [DEBUG] Variable value: x=42

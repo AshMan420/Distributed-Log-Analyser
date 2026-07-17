@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.029206] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.029208] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.029200] [WARN] Queue size growing
+[2025-11-07T11:40:30.029190] [INFO] Database query executed
+[2025-11-07T11:40:30.029207] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.029188] [INFO] Transaction completed
+[2025-11-07T11:40:30.029196] [INFO] Cache hit
+[2025-11-07T11:40:30.029204] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.029193] [INFO] Database query executed
+[2025-11-07T11:40:30.029203] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.029205] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.029192] [INFO] Health check passed
+[2025-11-07T11:40:30.029201] [ERROR] Authentication failed
+[2025-11-07T11:40:30.029194] [INFO] Health check passed
+[2025-11-07T11:40:30.029197] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.029202] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.029198] [WARN] Disk space low
+[2025-11-07T11:40:30.029189] [INFO] Connection established
+[2025-11-07T11:40:30.029195] [INFO] Session started
+[2025-11-07T11:40:30.029191] [INFO] Session started
+[2025-11-07T11:40:30.029210] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.029199] [WARN] Disk space low
+[2025-11-07T11:40:30.029209] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.029187] [INFO] Connection established

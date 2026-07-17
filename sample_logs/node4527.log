@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.775158] [WARN] Slow query performance
+[2025-11-07T11:40:29.775172] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.775156] [INFO] Configuration loaded
+[2025-11-07T11:40:29.775146] [INFO] Connection established
+[2025-11-07T11:40:29.775161] [WARN] Slow query performance
+[2025-11-07T11:40:29.775169] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.775150] [INFO] Configuration loaded
+[2025-11-07T11:40:29.775164] [ERROR] Network timeout
+[2025-11-07T11:40:29.775160] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.775149] [INFO] Database query executed
+[2025-11-07T11:40:29.775147] [INFO] User logged in
+[2025-11-07T11:40:29.775145] [INFO] User logged in
+[2025-11-07T11:40:29.775165] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.775171] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.775166] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.775152] [INFO] Health check passed
+[2025-11-07T11:40:29.775173] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.775159] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.775144] [INFO] Configuration loaded
+[2025-11-07T11:40:29.775142] [INFO] Health check passed
+[2025-11-07T11:40:29.775154] [INFO] Transaction completed
+[2025-11-07T11:40:29.775162] [WARN] Disk space low
+[2025-11-07T11:40:29.775143] [INFO] Request processed successfully
+[2025-11-07T11:40:29.775157] [INFO] Service initialized
+[2025-11-07T11:40:29.775155] [INFO] Request processed successfully
+[2025-11-07T11:40:29.775170] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.775163] [ERROR] Permission denied
+[2025-11-07T11:40:29.775153] [INFO] Session started
+[2025-11-07T11:40:29.775168] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.775151] [INFO] Cache hit
+[2025-11-07T11:40:29.775148] [INFO] Transaction completed
+[2025-11-07T11:40:29.775167] [DEBUG] Loop iteration: 15

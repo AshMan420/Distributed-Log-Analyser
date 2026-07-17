@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.271100] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.271088] [INFO] Cache hit
+[2025-11-07T11:40:30.271102] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.271080] [INFO] Connection established
+[2025-11-07T11:40:30.271101] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.271087] [INFO] Session started
+[2025-11-07T11:40:30.271097] [WARN] High memory usage detected
+[2025-11-07T11:40:30.271085] [INFO] Health check passed
+[2025-11-07T11:40:30.271081] [INFO] Transaction completed
+[2025-11-07T11:40:30.271093] [INFO] Cache hit
+[2025-11-07T11:40:30.271095] [WARN] High memory usage detected
+[2025-11-07T11:40:30.271106] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.271086] [INFO] Health check passed
+[2025-11-07T11:40:30.271108] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.271098] [ERROR] File not found
+[2025-11-07T11:40:30.271092] [INFO] Session started
+[2025-11-07T11:40:30.271103] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.271094] [WARN] High memory usage detected
+[2025-11-07T11:40:30.271083] [INFO] Health check passed
+[2025-11-07T11:40:30.271090] [INFO] Connection established
+[2025-11-07T11:40:30.271104] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.271079] [INFO] Database query executed
+[2025-11-07T11:40:30.271099] [ERROR] File not found
+[2025-11-07T11:40:30.271105] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.271089] [INFO] Configuration loaded
+[2025-11-07T11:40:30.271082] [INFO] Transaction completed
+[2025-11-07T11:40:30.271084] [INFO] Health check passed
+[2025-11-07T11:40:30.271091] [INFO] Request processed successfully
+[2025-11-07T11:40:30.271107] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.271096] [WARN] Connection retry attempt

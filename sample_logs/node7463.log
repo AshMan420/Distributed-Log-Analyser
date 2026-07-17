@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.085223] [INFO] Transaction completed
+[2025-11-07T11:40:30.085224] [INFO] Transaction completed
+[2025-11-07T11:40:30.085239] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.085244] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.085242] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.085247] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.085238] [ERROR] Authentication failed
+[2025-11-07T11:40:30.085240] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.085216] [INFO] Database query executed
+[2025-11-07T11:40:30.085226] [INFO] Session started
+[2025-11-07T11:40:30.085237] [ERROR] Permission denied
+[2025-11-07T11:40:30.085227] [INFO] Configuration loaded
+[2025-11-07T11:40:30.085228] [INFO] Request processed successfully
+[2025-11-07T11:40:30.085219] [INFO] Session started
+[2025-11-07T11:40:30.085232] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.085222] [INFO] Configuration loaded
+[2025-11-07T11:40:30.085225] [INFO] Session started
+[2025-11-07T11:40:30.085234] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.085246] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.085241] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.085233] [WARN] Slow query performance
+[2025-11-07T11:40:30.085236] [WARN] Timeout warning
+[2025-11-07T11:40:30.085229] [INFO] Cache hit
+[2025-11-07T11:40:30.085235] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.085219] [INFO] Transaction completed
+[2025-11-07T11:40:30.085231] [INFO] Database query executed
+[2025-11-07T11:40:30.085221] [INFO] User logged in
+[2025-11-07T11:40:30.085220] [INFO] Connection established
+[2025-11-07T11:40:30.085218] [INFO] Health check passed
+[2025-11-07T11:40:30.085243] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.085230] [INFO] Database query executed
+[2025-11-07T11:40:30.085245] [DEBUG] Loop iteration: 15

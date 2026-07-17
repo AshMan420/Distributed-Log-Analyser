@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.906338] [INFO] Health check passed
+[2025-11-07T11:40:29.906342] [INFO] User logged in
+[2025-11-07T11:40:29.906370] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.906372] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.906378] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.906346] [INFO] Service initialized
+[2025-11-07T11:40:29.906369] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.906340] [INFO] Cache hit
+[2025-11-07T11:40:29.906343] [INFO] Transaction completed
+[2025-11-07T11:40:29.906359] [INFO] Request processed successfully
+[2025-11-07T11:40:29.906357] [INFO] Request processed successfully
+[2025-11-07T11:40:29.906375] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.906376] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.906341] [INFO] User logged in
+[2025-11-07T11:40:29.906374] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.906377] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.906366] [WARN] Cache miss
+[2025-11-07T11:40:29.906363] [WARN] Cache miss
+[2025-11-07T11:40:29.906367] [ERROR] Request failed
+[2025-11-07T11:40:29.906359] [INFO] Request processed successfully
+[2025-11-07T11:40:29.906368] [ERROR] Request failed
+[2025-11-07T11:40:29.906345] [INFO] Cache hit
+[2025-11-07T11:40:29.906379] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.906373] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.906371] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.906362] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.906355] [INFO] Health check passed
+[2025-11-07T11:40:29.906344] [INFO] Health check passed
+[2025-11-07T11:40:29.906365] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.906358] [INFO] Connection established
+[2025-11-07T11:40:29.906356] [INFO] Session started
+[2025-11-07T11:40:29.906364] [WARN] Queue size growing
+[2025-11-07T11:40:29.906360] [INFO] Configuration loaded
+[2025-11-07T11:40:29.906339] [INFO] Session started

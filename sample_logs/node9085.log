@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.266483] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.266461] [INFO] Database query executed
+[2025-11-07T11:40:30.266458] [INFO] Session started
+[2025-11-07T11:40:30.266470] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.266451] [INFO] Session started
+[2025-11-07T11:40:30.266472] [WARN] Slow query performance
+[2025-11-07T11:40:30.266476] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.266469] [WARN] Slow query performance
+[2025-11-07T11:40:30.266459] [INFO] Connection established
+[2025-11-07T11:40:30.266485] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.266466] [INFO] Session started
+[2025-11-07T11:40:30.266463] [INFO] Session started
+[2025-11-07T11:40:30.266478] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.266468] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.266477] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.266481] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.266465] [INFO] User logged in
+[2025-11-07T11:40:30.266473] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.266454] [INFO] User logged in
+[2025-11-07T11:40:30.266482] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.266460] [INFO] Database query executed
+[2025-11-07T11:40:30.266474] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.266457] [INFO] Service initialized
+[2025-11-07T11:40:30.266456] [INFO] Connection established
+[2025-11-07T11:40:30.266462] [INFO] User logged in
+[2025-11-07T11:40:30.266453] [INFO] Configuration loaded
+[2025-11-07T11:40:30.266479] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.266455] [INFO] Request processed successfully
+[2025-11-07T11:40:30.266464] [INFO] Service initialized

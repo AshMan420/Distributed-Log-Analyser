@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.914809] [INFO] Health check passed
+[2025-11-07T11:40:29.914826] [WARN] Slow query performance
+[2025-11-07T11:40:29.914830] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.914831] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.914816] [INFO] Service initialized
+[2025-11-07T11:40:29.914824] [WARN] High memory usage detected
+[2025-11-07T11:40:29.914812] [INFO] Transaction completed
+[2025-11-07T11:40:29.914821] [INFO] Database query executed
+[2025-11-07T11:40:29.914817] [INFO] Transaction completed
+[2025-11-07T11:40:29.914819] [INFO] Service initialized
+[2025-11-07T11:40:29.914810] [INFO] Transaction completed
+[2025-11-07T11:40:29.914834] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.914820] [INFO] Session started
+[2025-11-07T11:40:29.914827] [ERROR] Request failed
+[2025-11-07T11:40:29.914823] [INFO] Transaction completed
+[2025-11-07T11:40:29.914818] [INFO] Session started
+[2025-11-07T11:40:29.914833] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.914829] [ERROR] Authentication failed
+[2025-11-07T11:40:29.914822] [INFO] Health check passed
+[2025-11-07T11:40:29.914835] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.914815] [INFO] Transaction completed
+[2025-11-07T11:40:29.914814] [INFO] Service initialized
+[2025-11-07T11:40:29.914825] [WARN] High memory usage detected
+[2025-11-07T11:40:29.914813] [INFO] User logged in
+[2025-11-07T11:40:29.914811] [INFO] Health check passed
+[2025-11-07T11:40:29.914832] [DEBUG] Entering function process_data()

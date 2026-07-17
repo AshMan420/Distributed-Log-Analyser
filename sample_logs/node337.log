@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.326969] [INFO] Cache hit
+[2025-11-07T11:40:29.326962] [INFO] Transaction completed
+[2025-11-07T11:40:29.326954] [INFO] Service initialized
+[2025-11-07T11:40:29.326965] [INFO] Configuration loaded
+[2025-11-07T11:40:29.326959] [INFO] Health check passed
+[2025-11-07T11:40:29.326973] [WARN] Cache miss
+[2025-11-07T11:40:29.326964] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326966] [INFO] Configuration loaded
+[2025-11-07T11:40:29.326952] [INFO] Health check passed
+[2025-11-07T11:40:29.326983] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.326960] [INFO] User logged in
+[2025-11-07T11:40:29.326982] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.326971] [WARN] Queue size growing
+[2025-11-07T11:40:29.326968] [INFO] Service initialized
+[2025-11-07T11:40:29.326970] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.326975] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.326963] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326957] [INFO] Session started
+[2025-11-07T11:40:29.326961] [INFO] Health check passed
+[2025-11-07T11:40:29.326958] [INFO] Session started
+[2025-11-07T11:40:29.326979] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.326977] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.326978] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.326980] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.326956] [INFO] User logged in
+[2025-11-07T11:40:29.326983] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.326976] [ERROR] Disk read failed
+[2025-11-07T11:40:29.326972] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.326955] [INFO] Service initialized
+[2025-11-07T11:40:29.326967] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326953] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326981] [DEBUG] HTTP request headers parsed

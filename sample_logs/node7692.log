@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.108544] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.108543] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.108527] [INFO] Configuration loaded
+[2025-11-07T11:40:30.108549] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.108550] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.108528] [INFO] Transaction completed
+[2025-11-07T11:40:30.108524] [INFO] Database query executed
+[2025-11-07T11:40:30.108534] [INFO] Cache hit
+[2025-11-07T11:40:30.108529] [INFO] Health check passed
+[2025-11-07T11:40:30.108551] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.108541] [ERROR] Disk read failed
+[2025-11-07T11:40:30.108518] [INFO] Connection established
+[2025-11-07T11:40:30.108523] [INFO] Cache hit
+[2025-11-07T11:40:30.108526] [INFO] Configuration loaded
+[2025-11-07T11:40:30.108532] [INFO] Cache hit
+[2025-11-07T11:40:30.108533] [INFO] Connection established
+[2025-11-07T11:40:30.108520] [INFO] Cache hit
+[2025-11-07T11:40:30.108539] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.108535] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.108537] [WARN] Timeout warning
+[2025-11-07T11:40:30.108538] [WARN] Queue size growing
+[2025-11-07T11:40:30.108522] [INFO] Configuration loaded
+[2025-11-07T11:40:30.108530] [INFO] Cache hit
+[2025-11-07T11:40:30.108531] [INFO] Request processed successfully
+[2025-11-07T11:40:30.108521] [INFO] Health check passed
+[2025-11-07T11:40:30.108540] [ERROR] Network timeout
+[2025-11-07T11:40:30.108545] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.108547] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.108552] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.108548] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.108525] [INFO] Connection established
+[2025-11-07T11:40:30.108536] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.108546] [DEBUG] Connection pool status checked

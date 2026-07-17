@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.490253] [WARN] Timeout warning
+[2025-11-07T11:40:29.490256] [ERROR] Disk read failed
+[2025-11-07T11:40:29.490248] [INFO] Session started
+[2025-11-07T11:40:29.490242] [INFO] Session started
+[2025-11-07T11:40:29.490267] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.490252] [WARN] High memory usage detected
+[2025-11-07T11:40:29.490266] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.490263] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.490238] [INFO] Cache hit
+[2025-11-07T11:40:29.490254] [WARN] Timeout warning
+[2025-11-07T11:40:29.490249] [INFO] User logged in
+[2025-11-07T11:40:29.490264] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.490243] [INFO] User logged in
+[2025-11-07T11:40:29.490241] [INFO] User logged in
+[2025-11-07T11:40:29.490251] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.490255] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.490265] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.490262] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.490246] [INFO] Connection established
+[2025-11-07T11:40:29.490245] [INFO] Transaction completed
+[2025-11-07T11:40:29.490261] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.490268] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.490244] [INFO] Health check passed
+[2025-11-07T11:40:29.490257] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.490247] [INFO] Request processed successfully
+[2025-11-07T11:40:29.490240] [INFO] Health check passed
+[2025-11-07T11:40:29.490250] [INFO] Health check passed
+[2025-11-07T11:40:29.490258] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.490260] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.490269] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.490259] [DEBUG] Memory allocation: 2048 bytes

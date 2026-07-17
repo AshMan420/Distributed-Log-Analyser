@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.822262] [INFO] Session started
+[2025-11-07T11:40:29.822269] [INFO] Request processed successfully
+[2025-11-07T11:40:29.822276] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.822277] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.822269] [INFO] Connection established
+[2025-11-07T11:40:29.822270] [INFO] Database query executed
+[2025-11-07T11:40:29.822280] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.822258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.822284] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.822278] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.822263] [INFO] Configuration loaded
+[2025-11-07T11:40:29.822266] [INFO] Cache hit
+[2025-11-07T11:40:29.822273] [WARN] Cache miss
+[2025-11-07T11:40:29.822264] [INFO] Configuration loaded
+[2025-11-07T11:40:29.822281] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.822259] [INFO] Configuration loaded
+[2025-11-07T11:40:29.822282] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.822283] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.822268] [INFO] Database query executed
+[2025-11-07T11:40:29.822279] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.822272] [WARN] Slow query performance
+[2025-11-07T11:40:29.822265] [INFO] Session started
+[2025-11-07T11:40:29.822267] [INFO] Cache hit
+[2025-11-07T11:40:29.822275] [ERROR] Authentication failed
+[2025-11-07T11:40:29.822274] [ERROR] Network timeout
+[2025-11-07T11:40:29.822261] [INFO] Database query executed

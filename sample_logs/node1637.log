@@ -1,0 +1,22 @@
+[2025-11-07T11:40:29.463534] [INFO] Service initialized
+[2025-11-07T11:40:29.463536] [INFO] Service initialized
+[2025-11-07T11:40:29.463539] [INFO] Connection established
+[2025-11-07T11:40:29.463541] [INFO] Database query executed
+[2025-11-07T11:40:29.463542] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.463546] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.463548] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.463552] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.463530] [INFO] Database query executed
+[2025-11-07T11:40:29.463537] [INFO] Configuration loaded
+[2025-11-07T11:40:29.463549] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.463547] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.463545] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.463550] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.463532] [INFO] Configuration loaded
+[2025-11-07T11:40:29.463535] [INFO] Connection established
+[2025-11-07T11:40:29.463540] [INFO] Request processed successfully
+[2025-11-07T11:40:29.463544] [ERROR] File not found
+[2025-11-07T11:40:29.463538] [INFO] Database query executed
+[2025-11-07T11:40:29.463551] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.463533] [INFO] Health check passed
+[2025-11-07T11:40:29.463543] [ERROR] Request failed

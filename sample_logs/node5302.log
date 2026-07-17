@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.853197] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.853181] [INFO] Connection established
+[2025-11-07T11:40:29.853201] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.853187] [INFO] Cache hit
+[2025-11-07T11:40:29.853184] [INFO] Transaction completed
+[2025-11-07T11:40:29.853196] [ERROR] Database connection lost
+[2025-11-07T11:40:29.853192] [WARN] High memory usage detected
+[2025-11-07T11:40:29.853198] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.853174] [INFO] Connection established
+[2025-11-07T11:40:29.853199] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.853195] [ERROR] Network timeout
+[2025-11-07T11:40:29.853193] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.853179] [INFO] Database query executed
+[2025-11-07T11:40:29.853182] [INFO] User logged in
+[2025-11-07T11:40:29.853202] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.853178] [INFO] Database query executed
+[2025-11-07T11:40:29.853205] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.853204] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.853176] [INFO] Connection established
+[2025-11-07T11:40:29.853175] [INFO] User logged in
+[2025-11-07T11:40:29.853203] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.853189] [WARN] Timeout warning
+[2025-11-07T11:40:29.853194] [WARN] Cache miss
+[2025-11-07T11:40:29.853191] [WARN] High memory usage detected
+[2025-11-07T11:40:29.853185] [INFO] Health check passed
+[2025-11-07T11:40:29.853190] [WARN] High memory usage detected
+[2025-11-07T11:40:29.853180] [INFO] Configuration loaded
+[2025-11-07T11:40:29.853177] [INFO] Health check passed
+[2025-11-07T11:40:29.853202] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.853183] [INFO] Transaction completed
+[2025-11-07T11:40:29.853173] [INFO] Database query executed
+[2025-11-07T11:40:29.853186] [INFO] Cache hit
+[2025-11-07T11:40:29.853188] [WARN] Cache miss

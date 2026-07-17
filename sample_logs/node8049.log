@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.145035] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.145018] [INFO] Connection established
+[2025-11-07T11:40:30.145020] [INFO] Session started
+[2025-11-07T11:40:30.145037] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.145013] [INFO] Transaction completed
+[2025-11-07T11:40:30.145026] [WARN] Cache miss
+[2025-11-07T11:40:30.145028] [WARN] Timeout warning
+[2025-11-07T11:40:30.145025] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.145023] [INFO] Cache hit
+[2025-11-07T11:40:30.145014] [INFO] Database query executed
+[2025-11-07T11:40:30.145022] [INFO] Session started
+[2025-11-07T11:40:30.145016] [INFO] Request processed successfully
+[2025-11-07T11:40:30.145033] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.145039] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.145034] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.145021] [INFO] Configuration loaded
+[2025-11-07T11:40:30.145031] [ERROR] Database connection lost
+[2025-11-07T11:40:30.145041] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.145015] [INFO] Database query executed
+[2025-11-07T11:40:30.145024] [INFO] Configuration loaded
+[2025-11-07T11:40:30.145031] [ERROR] Invalid input data
+[2025-11-07T11:40:30.145036] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.145040] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.145019] [INFO] Session started
+[2025-11-07T11:40:30.145017] [INFO] Connection established
+[2025-11-07T11:40:30.145027] [WARN] Timeout warning
+[2025-11-07T11:40:30.145029] [WARN] Slow query performance
+[2025-11-07T11:40:30.145012] [INFO] Database query executed
+[2025-11-07T11:40:30.145038] [DEBUG] Connection pool status checked

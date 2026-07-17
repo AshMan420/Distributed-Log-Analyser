@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.315061] [INFO] Session started
+[2025-11-07T11:40:30.315068] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.315055] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315050] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315052] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315049] [INFO] Connection established
+[2025-11-07T11:40:30.315074] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.315057] [INFO] Transaction completed
+[2025-11-07T11:40:30.315060] [INFO] Connection established
+[2025-11-07T11:40:30.315065] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.315072] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.315069] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.315058] [INFO] Database query executed
+[2025-11-07T11:40:30.315071] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.315070] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.315064] [WARN] Timeout warning
+[2025-11-07T11:40:30.315067] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.315053] [INFO] User logged in
+[2025-11-07T11:40:30.315063] [WARN] Timeout warning
+[2025-11-07T11:40:30.315066] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.315059] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315075] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.315056] [INFO] Configuration loaded
+[2025-11-07T11:40:30.315073] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.315077] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.315047] [INFO] Transaction completed
+[2025-11-07T11:40:30.315076] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.315051] [INFO] Configuration loaded
+[2025-11-07T11:40:30.315052] [INFO] Session started
+[2025-11-07T11:40:30.315054] [INFO] Connection established

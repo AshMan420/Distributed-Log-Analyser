@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.040843] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.040850] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.040852] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040833] [INFO] Connection established
+[2025-11-07T11:40:30.040849] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.040837] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.040838] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.040830] [INFO] Database query executed
+[2025-11-07T11:40:30.040846] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.040851] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040824] [INFO] Service initialized
+[2025-11-07T11:40:30.040848] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040829] [INFO] Configuration loaded
+[2025-11-07T11:40:30.040840] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.040835] [INFO] Session started
+[2025-11-07T11:40:30.040844] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.040822] [INFO] Health check passed
+[2025-11-07T11:40:30.040828] [INFO] Transaction completed
+[2025-11-07T11:40:30.040841] [ERROR] Invalid input data
+[2025-11-07T11:40:30.040845] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.040836] [INFO] User logged in
+[2025-11-07T11:40:30.040832] [INFO] Connection established
+[2025-11-07T11:40:30.040826] [INFO] Health check passed
+[2025-11-07T11:40:30.040827] [INFO] User logged in
+[2025-11-07T11:40:30.040831] [INFO] Connection established
+[2025-11-07T11:40:30.040853] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040834] [INFO] Connection established
+[2025-11-07T11:40:30.040825] [INFO] User logged in
+[2025-11-07T11:40:30.040839] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.040838] [WARN] High memory usage detected
+[2025-11-07T11:40:30.040823] [INFO] Configuration loaded
+[2025-11-07T11:40:30.040842] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040847] [DEBUG] Connection pool status checked

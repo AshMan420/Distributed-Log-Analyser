@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.354263] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.354252] [INFO] Request processed successfully
+[2025-11-07T11:40:30.354247] [INFO] Connection established
+[2025-11-07T11:40:30.354240] [INFO] Service initialized
+[2025-11-07T11:40:30.354242] [INFO] Connection established
+[2025-11-07T11:40:30.354241] [INFO] User logged in
+[2025-11-07T11:40:30.354244] [INFO] Database query executed
+[2025-11-07T11:40:30.354254] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.354246] [INFO] Database query executed
+[2025-11-07T11:40:30.354261] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.354256] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.354238] [INFO] Configuration loaded
+[2025-11-07T11:40:30.354243] [INFO] Transaction completed
+[2025-11-07T11:40:30.354264] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.354260] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.354262] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.354259] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.354250] [INFO] Configuration loaded
+[2025-11-07T11:40:30.354253] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.354255] [ERROR] Database connection lost
+[2025-11-07T11:40:30.354236] [INFO] Session started
+[2025-11-07T11:40:30.354239] [INFO] Connection established
+[2025-11-07T11:40:30.354249] [INFO] Database query executed
+[2025-11-07T11:40:30.354245] [INFO] Transaction completed
+[2025-11-07T11:40:30.354258] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.354248] [INFO] Request processed successfully
+[2025-11-07T11:40:30.354251] [INFO] Request processed successfully
+[2025-11-07T11:40:30.354257] [DEBUG] Buffer size: 4096 bytes

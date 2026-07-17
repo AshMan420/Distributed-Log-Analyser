@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.034701] [INFO] Health check passed
+[2025-11-07T11:40:30.034711] [ERROR] Permission denied
+[2025-11-07T11:40:30.034695] [INFO] Transaction completed
+[2025-11-07T11:40:30.034707] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.034717] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.034703] [INFO] User logged in
+[2025-11-07T11:40:30.034702] [INFO] Service initialized
+[2025-11-07T11:40:30.034712] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.034718] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.034720] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.034693] [INFO] Session started
+[2025-11-07T11:40:30.034699] [INFO] Cache hit
+[2025-11-07T11:40:30.034704] [WARN] Queue size growing
+[2025-11-07T11:40:30.034688] [INFO] Connection established
+[2025-11-07T11:40:30.034694] [INFO] Configuration loaded
+[2025-11-07T11:40:30.034696] [INFO] User logged in
+[2025-11-07T11:40:30.034713] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.034723] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.034700] [INFO] Cache hit
+[2025-11-07T11:40:30.034708] [WARN] Timeout warning
+[2025-11-07T11:40:30.034706] [WARN] Slow query performance
+[2025-11-07T11:40:30.034715] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.034709] [WARN] Slow query performance
+[2025-11-07T11:40:30.034710] [ERROR] Authentication failed
+[2025-11-07T11:40:30.034705] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.034722] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.034692] [INFO] Database query executed
+[2025-11-07T11:40:30.034703] [WARN] Timeout warning
+[2025-11-07T11:40:30.034721] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.034690] [INFO] Health check passed
+[2025-11-07T11:40:30.034716] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.034691] [INFO] Request processed successfully
+[2025-11-07T11:40:30.034697] [INFO] Cache hit
+[2025-11-07T11:40:30.034698] [INFO] Database query executed
+[2025-11-07T11:40:30.034719] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.034715] [DEBUG] Memory allocation: 2048 bytes

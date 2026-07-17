@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.640951] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.640924] [INFO] Configuration loaded
+[2025-11-07T11:40:29.640933] [INFO] Request processed successfully
+[2025-11-07T11:40:29.640939] [INFO] Cache hit
+[2025-11-07T11:40:29.640940] [WARN] Slow query performance
+[2025-11-07T11:40:29.640947] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.640938] [INFO] User logged in
+[2025-11-07T11:40:29.640928] [INFO] Session started
+[2025-11-07T11:40:29.640930] [INFO] Database query executed
+[2025-11-07T11:40:29.640949] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.640945] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.640946] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.640950] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.640948] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.640947] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.640934] [INFO] Health check passed
+[2025-11-07T11:40:29.640936] [INFO] Cache hit
+[2025-11-07T11:40:29.640935] [INFO] User logged in
+[2025-11-07T11:40:29.640931] [INFO] Transaction completed
+[2025-11-07T11:40:29.640942] [ERROR] Network timeout
+[2025-11-07T11:40:29.640937] [INFO] Session started
+[2025-11-07T11:40:29.640944] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.640932] [INFO] Database query executed
+[2025-11-07T11:40:29.640941] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.640929] [INFO] Connection established
+[2025-11-07T11:40:29.640934] [INFO] Transaction completed
+[2025-11-07T11:40:29.640925] [INFO] Session started
+[2025-11-07T11:40:29.640927] [INFO] Configuration loaded

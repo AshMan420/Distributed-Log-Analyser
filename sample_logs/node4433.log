@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.765584] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.765579] [WARN] High memory usage detected
+[2025-11-07T11:40:29.765568] [INFO] Database query executed
+[2025-11-07T11:40:29.765564] [INFO] Service initialized
+[2025-11-07T11:40:29.765566] [INFO] Configuration loaded
+[2025-11-07T11:40:29.765580] [ERROR] Request failed
+[2025-11-07T11:40:29.765590] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.765577] [INFO] Cache hit
+[2025-11-07T11:40:29.765586] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.765590] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.765578] [WARN] Slow query performance
+[2025-11-07T11:40:29.765587] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.765570] [INFO] Configuration loaded
+[2025-11-07T11:40:29.765575] [INFO] Cache hit
+[2025-11-07T11:40:29.765574] [INFO] Transaction completed
+[2025-11-07T11:40:29.765588] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.765565] [INFO] Transaction completed
+[2025-11-07T11:40:29.765567] [INFO] Service initialized
+[2025-11-07T11:40:29.765563] [INFO] Health check passed
+[2025-11-07T11:40:29.765571] [INFO] Transaction completed
+[2025-11-07T11:40:29.765583] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.765589] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.765585] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.765569] [INFO] Request processed successfully
+[2025-11-07T11:40:29.765581] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.765576] [INFO] Request processed successfully
+[2025-11-07T11:40:29.765573] [INFO] Service initialized
+[2025-11-07T11:40:29.765572] [INFO] Configuration loaded

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.433078] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.433071] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.433076] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.433065] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.433074] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.433048] [INFO] User logged in
+[2025-11-07T11:40:29.433062] [INFO] Health check passed
+[2025-11-07T11:40:29.433051] [INFO] Session started
+[2025-11-07T11:40:29.433056] [INFO] Service initialized
+[2025-11-07T11:40:29.433052] [INFO] Session started
+[2025-11-07T11:40:29.433060] [INFO] Transaction completed
+[2025-11-07T11:40:29.433053] [INFO] Health check passed
+[2025-11-07T11:40:29.433073] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.433066] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.433063] [INFO] Request processed successfully
+[2025-11-07T11:40:29.433055] [INFO] Service initialized
+[2025-11-07T11:40:29.433054] [INFO] Configuration loaded
+[2025-11-07T11:40:29.433069] [ERROR] Permission denied
+[2025-11-07T11:40:29.433046] [INFO] Service initialized
+[2025-11-07T11:40:29.433072] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.433064] [WARN] High memory usage detected
+[2025-11-07T11:40:29.433077] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.433047] [INFO] Database query executed
+[2025-11-07T11:40:29.433059] [INFO] User logged in
+[2025-11-07T11:40:29.433044] [INFO] Health check passed
+[2025-11-07T11:40:29.433058] [INFO] Database query executed
+[2025-11-07T11:40:29.433049] [INFO] Cache hit
+[2025-11-07T11:40:29.433068] [ERROR] Request failed
+[2025-11-07T11:40:29.433061] [INFO] Transaction completed
+[2025-11-07T11:40:29.433057] [INFO] Session started
+[2025-11-07T11:40:29.433050] [INFO] Request processed successfully
+[2025-11-07T11:40:29.433075] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.433070] [DEBUG] HTTP request headers parsed

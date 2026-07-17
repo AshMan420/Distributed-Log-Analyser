@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.711019] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.711024] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.711023] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.711020] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.711006] [INFO] Service initialized
+[2025-11-07T11:40:29.711004] [INFO] Cache hit
+[2025-11-07T11:40:29.711025] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.711013] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.711015] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.711005] [INFO] Cache hit
+[2025-11-07T11:40:29.711010] [WARN] Queue size growing
+[2025-11-07T11:40:29.711007] [INFO] Request processed successfully
+[2025-11-07T11:40:29.711008] [INFO] User logged in
+[2025-11-07T11:40:29.711001] [INFO] Session started
+[2025-11-07T11:40:29.711014] [WARN] High memory usage detected
+[2025-11-07T11:40:29.711018] [ERROR] Network timeout
+[2025-11-07T11:40:29.710996] [INFO] Transaction completed
+[2025-11-07T11:40:29.711016] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.711003] [INFO] Service initialized
+[2025-11-07T11:40:29.711011] [WARN] Slow query performance
+[2025-11-07T11:40:29.711022] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.711000] [INFO] User logged in
+[2025-11-07T11:40:29.711002] [INFO] Health check passed
+[2025-11-07T11:40:29.710999] [INFO] Cache hit
+[2025-11-07T11:40:29.711012] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.711009] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.711017] [ERROR] Permission denied
+[2025-11-07T11:40:29.711021] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.710997] [INFO] Connection established

@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.035223] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.035205] [INFO] Connection established
+[2025-11-07T11:40:30.035220] [ERROR] Network timeout
+[2025-11-07T11:40:30.035213] [INFO] Cache hit
+[2025-11-07T11:40:30.035228] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.035203] [INFO] Transaction completed
+[2025-11-07T11:40:30.035208] [INFO] Transaction completed
+[2025-11-07T11:40:30.035214] [INFO] Connection established
+[2025-11-07T11:40:30.035209] [INFO] User logged in
+[2025-11-07T11:40:30.035211] [INFO] Request processed successfully
+[2025-11-07T11:40:30.035216] [WARN] High memory usage detected
+[2025-11-07T11:40:30.035212] [INFO] Service initialized
+[2025-11-07T11:40:30.035204] [INFO] Health check passed
+[2025-11-07T11:40:30.035227] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.035222] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.035221] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.035207] [INFO] Service initialized
+[2025-11-07T11:40:30.035224] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.035226] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.035215] [WARN] Disk space low
+[2025-11-07T11:40:30.035229] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.035206] [INFO] Health check passed
+[2025-11-07T11:40:30.035217] [WARN] Cache miss
+[2025-11-07T11:40:30.035202] [INFO] Cache hit
+[2025-11-07T11:40:30.035225] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.035212] [INFO] Transaction completed
+[2025-11-07T11:40:30.035219] [ERROR] Service unavailable

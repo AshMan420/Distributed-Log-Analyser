@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.619242] [INFO] Session started
+[2025-11-07T11:40:29.619246] [INFO] User logged in
+[2025-11-07T11:40:29.619260] [INFO] Health check passed
+[2025-11-07T11:40:29.619245] [INFO] Session started
+[2025-11-07T11:40:29.619277] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.619247] [INFO] Health check passed
+[2025-11-07T11:40:29.619279] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.619279] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.619257] [INFO] Database query executed
+[2025-11-07T11:40:29.619262] [INFO] Database query executed
+[2025-11-07T11:40:29.619268] [WARN] Queue size growing
+[2025-11-07T11:40:29.619255] [INFO] Session started
+[2025-11-07T11:40:29.619265] [INFO] Cache hit
+[2025-11-07T11:40:29.619269] [WARN] Slow query performance
+[2025-11-07T11:40:29.619275] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.619261] [INFO] Request processed successfully
+[2025-11-07T11:40:29.619270] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.619258] [INFO] Transaction completed
+[2025-11-07T11:40:29.619276] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.619256] [INFO] Transaction completed
+[2025-11-07T11:40:29.619272] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.619273] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.619274] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.619271] [ERROR] Database connection lost
+[2025-11-07T11:40:29.619253] [INFO] Connection established
+[2025-11-07T11:40:29.619263] [INFO] Service initialized
+[2025-11-07T11:40:29.619264] [INFO] Connection established
+[2025-11-07T11:40:29.619251] [INFO] Session started
+[2025-11-07T11:40:29.619252] [INFO] Connection established
+[2025-11-07T11:40:29.619244] [INFO] Connection established
+[2025-11-07T11:40:29.619280] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.619248] [INFO] User logged in
+[2025-11-07T11:40:29.619259] [INFO] Database query executed
+[2025-11-07T11:40:29.619249] [INFO] Session started
+[2025-11-07T11:40:29.619267] [WARN] Timeout warning
+[2025-11-07T11:40:29.619250] [INFO] Connection established
+[2025-11-07T11:40:29.619266] [WARN] Connection retry attempt

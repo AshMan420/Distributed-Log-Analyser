@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.508036] [WARN] Slow query performance
+[2025-11-07T11:40:29.508045] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.508023] [INFO] Connection established
+[2025-11-07T11:40:29.508038] [WARN] Timeout warning
+[2025-11-07T11:40:29.508042] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.508048] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.508041] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.508032] [INFO] Cache hit
+[2025-11-07T11:40:29.508027] [INFO] Connection established
+[2025-11-07T11:40:29.508028] [INFO] Connection established
+[2025-11-07T11:40:29.508035] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.508018] [INFO] Database query executed
+[2025-11-07T11:40:29.508022] [INFO] Service initialized
+[2025-11-07T11:40:29.508017] [INFO] Connection established
+[2025-11-07T11:40:29.508047] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.508024] [INFO] Session started
+[2025-11-07T11:40:29.508046] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.508019] [INFO] Health check passed
+[2025-11-07T11:40:29.508037] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.508026] [INFO] User logged in
+[2025-11-07T11:40:29.508025] [INFO] Service initialized
+[2025-11-07T11:40:29.508025] [INFO] Request processed successfully
+[2025-11-07T11:40:29.508033] [WARN] Queue size growing
+[2025-11-07T11:40:29.508034] [WARN] High memory usage detected
+[2025-11-07T11:40:29.508021] [INFO] Connection established
+[2025-11-07T11:40:29.508031] [INFO] User logged in
+[2025-11-07T11:40:29.508029] [INFO] User logged in
+[2025-11-07T11:40:29.508030] [INFO] Connection established
+[2025-11-07T11:40:29.508039] [ERROR] Authentication failed
+[2025-11-07T11:40:29.508044] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.508043] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.508040] [DEBUG] Variable value: x=42

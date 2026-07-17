@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.128568] [INFO] Configuration loaded
+[2025-11-07T11:40:30.128594] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.128570] [INFO] Transaction completed
+[2025-11-07T11:40:30.128577] [INFO] Cache hit
+[2025-11-07T11:40:30.128591] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.128575] [INFO] Session started
+[2025-11-07T11:40:30.128569] [INFO] User logged in
+[2025-11-07T11:40:30.128571] [INFO] User logged in
+[2025-11-07T11:40:30.128596] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.128576] [INFO] Connection established
+[2025-11-07T11:40:30.128593] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.128581] [WARN] Timeout warning
+[2025-11-07T11:40:30.128567] [INFO] Service initialized
+[2025-11-07T11:40:30.128572] [INFO] Service initialized
+[2025-11-07T11:40:30.128579] [INFO] Session started
+[2025-11-07T11:40:30.128588] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.128583] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.128589] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.128578] [INFO] Transaction completed
+[2025-11-07T11:40:30.128584] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.128585] [WARN] High memory usage detected
+[2025-11-07T11:40:30.128595] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.128573] [INFO] Database query executed
+[2025-11-07T11:40:30.128580] [INFO] Connection established
+[2025-11-07T11:40:30.128590] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.128565] [INFO] Transaction completed
+[2025-11-07T11:40:30.128582] [WARN] Disk space low
+[2025-11-07T11:40:30.128592] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.128587] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.128574] [INFO] Database query executed

@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.040422] [INFO] Service initialized
+[2025-11-07T11:40:30.040439] [WARN] High memory usage detected
+[2025-11-07T11:40:30.040425] [INFO] Configuration loaded
+[2025-11-07T11:40:30.040426] [INFO] User logged in
+[2025-11-07T11:40:30.040445] [ERROR] Request failed
+[2025-11-07T11:40:30.040427] [INFO] Session started
+[2025-11-07T11:40:30.040451] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.040443] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.040433] [INFO] Transaction completed
+[2025-11-07T11:40:30.040454] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.040441] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.040433] [INFO] Session started
+[2025-11-07T11:40:30.040440] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.040448] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.040436] [INFO] Connection established
+[2025-11-07T11:40:30.040434] [INFO] Cache hit
+[2025-11-07T11:40:30.040429] [INFO] Connection established
+[2025-11-07T11:40:30.040431] [INFO] Health check passed
+[2025-11-07T11:40:30.040430] [INFO] Health check passed
+[2025-11-07T11:40:30.040428] [INFO] Request processed successfully
+[2025-11-07T11:40:30.040456] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.040447] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040442] [WARN] Slow query performance
+[2025-11-07T11:40:30.040446] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.040449] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.040432] [INFO] Health check passed
+[2025-11-07T11:40:30.040455] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.040452] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.040435] [INFO] Health check passed
+[2025-11-07T11:40:30.040444] [ERROR] Service unavailable
+[2025-11-07T11:40:30.040453] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.040450] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.040424] [INFO] Health check passed
+[2025-11-07T11:40:30.040437] [INFO] Database query executed
+[2025-11-07T11:40:30.040438] [INFO] Database query executed

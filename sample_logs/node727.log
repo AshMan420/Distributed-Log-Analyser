@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.367490] [WARN] Timeout warning
+[2025-11-07T11:40:29.367508] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.367493] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.367487] [INFO] User logged in
+[2025-11-07T11:40:29.367504] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.367501] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.367498] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.367489] [WARN] Cache miss
+[2025-11-07T11:40:29.367475] [INFO] Request processed successfully
+[2025-11-07T11:40:29.367478] [INFO] Database query executed
+[2025-11-07T11:40:29.367483] [INFO] Transaction completed
+[2025-11-07T11:40:29.367509] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.367484] [INFO] Cache hit
+[2025-11-07T11:40:29.367500] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.367485] [INFO] User logged in
+[2025-11-07T11:40:29.367502] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.367503] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.367499] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.367474] [INFO] Session started
+[2025-11-07T11:40:29.367477] [INFO] Health check passed
+[2025-11-07T11:40:29.367479] [INFO] User logged in
+[2025-11-07T11:40:29.367505] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.367506] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.367507] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.367497] [ERROR] Authentication failed
+[2025-11-07T11:40:29.367495] [ERROR] File not found
+[2025-11-07T11:40:29.367488] [INFO] Configuration loaded
+[2025-11-07T11:40:29.367486] [INFO] Session started
+[2025-11-07T11:40:29.367472] [INFO] Service initialized
+[2025-11-07T11:40:29.367476] [INFO] Cache hit
+[2025-11-07T11:40:29.367482] [INFO] Database query executed
+[2025-11-07T11:40:29.367480] [INFO] User logged in
+[2025-11-07T11:40:29.367481] [INFO] User logged in
+[2025-11-07T11:40:29.367491] [WARN] Timeout warning
+[2025-11-07T11:40:29.367496] [ERROR] Database connection lost
+[2025-11-07T11:40:29.367494] [WARN] Queue size growing

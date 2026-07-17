@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.736982] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.736991] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.736965] [INFO] Request processed successfully
+[2025-11-07T11:40:29.736992] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.736978] [WARN] Cache miss
+[2025-11-07T11:40:29.736986] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.736984] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.736955] [INFO] Health check passed
+[2025-11-07T11:40:29.736987] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.736980] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.736983] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.736973] [INFO] Connection established
+[2025-11-07T11:40:29.736977] [INFO] Health check passed
+[2025-11-07T11:40:29.736975] [INFO] Connection established
+[2025-11-07T11:40:29.736989] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.736979] [ERROR] Disk read failed
+[2025-11-07T11:40:29.736990] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.736968] [INFO] Health check passed
+[2025-11-07T11:40:29.736953] [INFO] Cache hit
+[2025-11-07T11:40:29.736970] [INFO] Cache hit
+[2025-11-07T11:40:29.736976] [INFO] Request processed successfully
+[2025-11-07T11:40:29.736972] [INFO] User logged in
+[2025-11-07T11:40:29.736988] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.736985] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.736967] [INFO] Session started
+[2025-11-07T11:40:29.736969] [INFO] Session started
+[2025-11-07T11:40:29.736974] [INFO] Service initialized
+[2025-11-07T11:40:29.736971] [INFO] User logged in
+[2025-11-07T11:40:29.736956] [INFO] Health check passed
+[2025-11-07T11:40:29.736966] [INFO] Session started
+[2025-11-07T11:40:29.736957] [INFO] Connection established
+[2025-11-07T11:40:29.736981] [DEBUG] Thread pool size: 8

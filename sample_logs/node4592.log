@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.781793] [ERROR] File not found
+[2025-11-07T11:40:29.781788] [INFO] User logged in
+[2025-11-07T11:40:29.781774] [INFO] Cache hit
+[2025-11-07T11:40:29.781805] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.781777] [INFO] Configuration loaded
+[2025-11-07T11:40:29.781782] [INFO] Request processed successfully
+[2025-11-07T11:40:29.781783] [INFO] Session started
+[2025-11-07T11:40:29.781780] [INFO] Connection established
+[2025-11-07T11:40:29.781795] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.781801] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.781803] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.781786] [INFO] Transaction completed
+[2025-11-07T11:40:29.781789] [WARN] High memory usage detected
+[2025-11-07T11:40:29.781792] [WARN] Queue size growing
+[2025-11-07T11:40:29.781779] [INFO] User logged in
+[2025-11-07T11:40:29.781772] [INFO] Cache hit
+[2025-11-07T11:40:29.781802] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.781796] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.781797] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.781781] [INFO] Health check passed
+[2025-11-07T11:40:29.781790] [WARN] High memory usage detected
+[2025-11-07T11:40:29.781791] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.781806] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.781787] [INFO] Cache hit
+[2025-11-07T11:40:29.781799] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.781800] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.781784] [INFO] User logged in
+[2025-11-07T11:40:29.781778] [INFO] Database query executed
+[2025-11-07T11:40:29.781785] [INFO] Connection established
+[2025-11-07T11:40:29.781776] [INFO] Session started
+[2025-11-07T11:40:29.781775] [INFO] Request processed successfully
+[2025-11-07T11:40:29.781804] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.781794] [ERROR] Network timeout

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.639917] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.639896] [INFO] Request processed successfully
+[2025-11-07T11:40:29.639894] [INFO] Cache hit
+[2025-11-07T11:40:29.639903] [INFO] Cache hit
+[2025-11-07T11:40:29.639922] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.639924] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.639923] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.639905] [INFO] Database query executed
+[2025-11-07T11:40:29.639911] [WARN] High memory usage detected
+[2025-11-07T11:40:29.639898] [INFO] Database query executed
+[2025-11-07T11:40:29.639902] [INFO] Database query executed
+[2025-11-07T11:40:29.639925] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.639906] [INFO] User logged in
+[2025-11-07T11:40:29.639900] [INFO] Cache hit
+[2025-11-07T11:40:29.639920] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.639913] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.639912] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.639910] [WARN] Queue size growing
+[2025-11-07T11:40:29.639919] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.639897] [INFO] Transaction completed
+[2025-11-07T11:40:29.639895] [INFO] Transaction completed
+[2025-11-07T11:40:29.639915] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.639909] [WARN] High memory usage detected
+[2025-11-07T11:40:29.639921] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.639907] [INFO] Health check passed
+[2025-11-07T11:40:29.639904] [INFO] Database query executed
+[2025-11-07T11:40:29.639908] [INFO] Service initialized
+[2025-11-07T11:40:29.639899] [INFO] Configuration loaded
+[2025-11-07T11:40:29.639918] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.639901] [INFO] Service initialized
+[2025-11-07T11:40:29.639914] [ERROR] Database connection lost

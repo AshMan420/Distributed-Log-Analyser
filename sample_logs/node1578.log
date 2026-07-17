@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.457686] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.457681] [WARN] Slow query performance
+[2025-11-07T11:40:29.457680] [WARN] High memory usage detected
+[2025-11-07T11:40:29.457662] [INFO] Configuration loaded
+[2025-11-07T11:40:29.457673] [INFO] Cache hit
+[2025-11-07T11:40:29.457689] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.457687] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.457676] [INFO] Service initialized
+[2025-11-07T11:40:29.457681] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.457675] [INFO] Service initialized
+[2025-11-07T11:40:29.457677] [INFO] Request processed successfully
+[2025-11-07T11:40:29.457668] [INFO] Request processed successfully
+[2025-11-07T11:40:29.457678] [INFO] Service initialized
+[2025-11-07T11:40:29.457670] [INFO] Transaction completed
+[2025-11-07T11:40:29.457666] [INFO] Service initialized
+[2025-11-07T11:40:29.457663] [INFO] Transaction completed
+[2025-11-07T11:40:29.457671] [INFO] Configuration loaded
+[2025-11-07T11:40:29.457674] [INFO] Transaction completed
+[2025-11-07T11:40:29.457664] [INFO] Health check passed
+[2025-11-07T11:40:29.457685] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.457672] [INFO] User logged in
+[2025-11-07T11:40:29.457683] [ERROR] Disk read failed
+[2025-11-07T11:40:29.457667] [INFO] User logged in
+[2025-11-07T11:40:29.457665] [INFO] Transaction completed
+[2025-11-07T11:40:29.457679] [INFO] Connection established
+[2025-11-07T11:40:29.457685] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.457683] [ERROR] Request failed
+[2025-11-07T11:40:29.457688] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.457669] [INFO] Cache hit

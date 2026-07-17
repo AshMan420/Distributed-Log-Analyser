@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.163589] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.163577] [INFO] User logged in
+[2025-11-07T11:40:30.163574] [INFO] Database query executed
+[2025-11-07T11:40:30.163576] [INFO] Database query executed
+[2025-11-07T11:40:30.163585] [ERROR] Permission denied
+[2025-11-07T11:40:30.163587] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.163590] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.163557] [INFO] Session started
+[2025-11-07T11:40:30.163556] [INFO] Health check passed
+[2025-11-07T11:40:30.163587] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.163591] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.163579] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.163593] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.163595] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.163571] [INFO] Transaction completed
+[2025-11-07T11:40:30.163582] [WARN] High memory usage detected
+[2025-11-07T11:40:30.163580] [WARN] Timeout warning
+[2025-11-07T11:40:30.163562] [INFO] Request processed successfully
+[2025-11-07T11:40:30.163560] [INFO] User logged in
+[2025-11-07T11:40:30.163583] [WARN] Timeout warning
+[2025-11-07T11:40:30.163578] [INFO] Session started
+[2025-11-07T11:40:30.163594] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.163584] [ERROR] File not found
+[2025-11-07T11:40:30.163570] [INFO] Configuration loaded
+[2025-11-07T11:40:30.163558] [INFO] Connection established
+[2025-11-07T11:40:30.163592] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.163573] [INFO] User logged in
+[2025-11-07T11:40:30.163572] [INFO] Request processed successfully
+[2025-11-07T11:40:30.163581] [WARN] Queue size growing
+[2025-11-07T11:40:30.163575] [INFO] Health check passed
+[2025-11-07T11:40:30.163560] [INFO] Transaction completed

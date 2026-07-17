@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.311650] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.311629] [INFO] Session started
+[2025-11-07T11:40:30.311627] [INFO] Health check passed
+[2025-11-07T11:40:30.311635] [INFO] Transaction completed
+[2025-11-07T11:40:30.311639] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.311633] [INFO] Request processed successfully
+[2025-11-07T11:40:30.311644] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.311646] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.311631] [INFO] Request processed successfully
+[2025-11-07T11:40:30.311651] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.311622] [INFO] Service initialized
+[2025-11-07T11:40:30.311626] [INFO] Session started
+[2025-11-07T11:40:30.311625] [INFO] Service initialized
+[2025-11-07T11:40:30.311624] [INFO] User logged in
+[2025-11-07T11:40:30.311641] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.311642] [ERROR] File not found
+[2025-11-07T11:40:30.311623] [INFO] Transaction completed
+[2025-11-07T11:40:30.311628] [INFO] Transaction completed
+[2025-11-07T11:40:30.311647] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.311621] [INFO] Database query executed
+[2025-11-07T11:40:30.311638] [WARN] Slow query performance
+[2025-11-07T11:40:30.311640] [WARN] Cache miss
+[2025-11-07T11:40:30.311648] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.311630] [INFO] Database query executed
+[2025-11-07T11:40:30.311636] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.311637] [WARN] Slow query performance
+[2025-11-07T11:40:30.311649] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.311652] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.311645] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.311632] [INFO] Session started
+[2025-11-07T11:40:30.311643] [ERROR] Disk read failed
+[2025-11-07T11:40:30.311634] [INFO] Health check passed

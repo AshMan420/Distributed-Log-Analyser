@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.435537] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.435518] [INFO] Session started
+[2025-11-07T11:40:29.435541] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.435514] [INFO] Cache hit
+[2025-11-07T11:40:29.435511] [INFO] Database query executed
+[2025-11-07T11:40:29.435516] [INFO] Transaction completed
+[2025-11-07T11:40:29.435529] [ERROR] Network timeout
+[2025-11-07T11:40:29.435525] [WARN] Timeout warning
+[2025-11-07T11:40:29.435523] [INFO] Service initialized
+[2025-11-07T11:40:29.435517] [INFO] Database query executed
+[2025-11-07T11:40:29.435507] [INFO] Configuration loaded
+[2025-11-07T11:40:29.435508] [INFO] Configuration loaded
+[2025-11-07T11:40:29.435542] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.435520] [INFO] Session started
+[2025-11-07T11:40:29.435512] [INFO] Service initialized
+[2025-11-07T11:40:29.435519] [INFO] Transaction completed
+[2025-11-07T11:40:29.435515] [INFO] Cache hit
+[2025-11-07T11:40:29.435539] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.435526] [WARN] Queue size growing
+[2025-11-07T11:40:29.435538] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.435522] [INFO] Configuration loaded
+[2025-11-07T11:40:29.435531] [ERROR] Authentication failed
+[2025-11-07T11:40:29.435536] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.435510] [INFO] Configuration loaded
+[2025-11-07T11:40:29.435535] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.435532] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.435506] [INFO] Service initialized
+[2025-11-07T11:40:29.435505] [INFO] Transaction completed
+[2025-11-07T11:40:29.435534] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.435509] [INFO] Database query executed
+[2025-11-07T11:40:29.435521] [INFO] Cache hit
+[2025-11-07T11:40:29.435525] [WARN] Queue size growing
+[2025-11-07T11:40:29.435530] [ERROR] Disk read failed
+[2025-11-07T11:40:29.435513] [INFO] Transaction completed
+[2025-11-07T11:40:29.435533] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.435540] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.435527] [WARN] High memory usage detected

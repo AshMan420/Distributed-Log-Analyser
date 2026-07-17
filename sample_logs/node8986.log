@@ -1,0 +1,26 @@
+[2025-11-07T11:40:30.256709] [INFO] Service initialized
+[2025-11-07T11:40:30.256733] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.256727] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.256723] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.256730] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.256722] [WARN] Queue size growing
+[2025-11-07T11:40:30.256716] [INFO] Configuration loaded
+[2025-11-07T11:40:30.256715] [INFO] Request processed successfully
+[2025-11-07T11:40:30.256714] [INFO] Health check passed
+[2025-11-07T11:40:30.256719] [INFO] Configuration loaded
+[2025-11-07T11:40:30.256717] [INFO] User logged in
+[2025-11-07T11:40:30.256712] [INFO] Transaction completed
+[2025-11-07T11:40:30.256710] [INFO] Transaction completed
+[2025-11-07T11:40:30.256728] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.256725] [ERROR] Network timeout
+[2025-11-07T11:40:30.256718] [INFO] Connection established
+[2025-11-07T11:40:30.256729] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.256731] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.256726] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.256711] [INFO] User logged in
+[2025-11-07T11:40:30.256721] [WARN] Timeout warning
+[2025-11-07T11:40:30.256720] [INFO] Request processed successfully
+[2025-11-07T11:40:30.256734] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.256713] [INFO] Request processed successfully
+[2025-11-07T11:40:30.256732] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.256724] [WARN] Cache miss

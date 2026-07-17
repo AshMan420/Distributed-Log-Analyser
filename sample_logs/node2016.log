@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.506442] [INFO] Health check passed
+[2025-11-07T11:40:29.506435] [INFO] Health check passed
+[2025-11-07T11:40:29.506456] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.506452] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.506437] [INFO] Database query executed
+[2025-11-07T11:40:29.506454] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.506453] [ERROR] Invalid input data
+[2025-11-07T11:40:29.506462] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.506444] [INFO] Session started
+[2025-11-07T11:40:29.506439] [INFO] Session started
+[2025-11-07T11:40:29.506440] [INFO] Service initialized
+[2025-11-07T11:40:29.506448] [WARN] Queue size growing
+[2025-11-07T11:40:29.506461] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.506436] [INFO] Transaction completed
+[2025-11-07T11:40:29.506455] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.506460] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.506433] [INFO] Request processed successfully
+[2025-11-07T11:40:29.506441] [INFO] Transaction completed
+[2025-11-07T11:40:29.506447] [INFO] Database query executed
+[2025-11-07T11:40:29.506459] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.506457] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.506443] [INFO] Cache hit
+[2025-11-07T11:40:29.506445] [INFO] Health check passed
+[2025-11-07T11:40:29.506458] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.506451] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.506450] [WARN] Disk space low
+[2025-11-07T11:40:29.506438] [INFO] User logged in
+[2025-11-07T11:40:29.506446] [INFO] Session started
+[2025-11-07T11:40:29.506449] [WARN] Slow query performance

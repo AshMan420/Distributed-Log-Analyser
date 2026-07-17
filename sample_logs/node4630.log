@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.785671] [INFO] Session started
+[2025-11-07T11:40:29.785684] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.785656] [INFO] Transaction completed
+[2025-11-07T11:40:29.785677] [ERROR] File not found
+[2025-11-07T11:40:29.785673] [WARN] High memory usage detected
+[2025-11-07T11:40:29.785661] [INFO] User logged in
+[2025-11-07T11:40:29.785681] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.785659] [INFO] Cache hit
+[2025-11-07T11:40:29.785672] [WARN] Slow query performance
+[2025-11-07T11:40:29.785668] [INFO] Service initialized
+[2025-11-07T11:40:29.785663] [INFO] Database query executed
+[2025-11-07T11:40:29.785662] [INFO] Session started
+[2025-11-07T11:40:29.785676] [ERROR] Network timeout
+[2025-11-07T11:40:29.785658] [INFO] Request processed successfully
+[2025-11-07T11:40:29.785679] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.785664] [INFO] Health check passed
+[2025-11-07T11:40:29.785683] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.785670] [INFO] Session started
+[2025-11-07T11:40:29.785666] [INFO] Request processed successfully
+[2025-11-07T11:40:29.785675] [WARN] High memory usage detected
+[2025-11-07T11:40:29.785687] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.785667] [INFO] Health check passed
+[2025-11-07T11:40:29.785674] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.785669] [INFO] Request processed successfully
+[2025-11-07T11:40:29.785678] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.785686] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.785688] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.785660] [INFO] Health check passed
+[2025-11-07T11:40:29.785665] [INFO] Transaction completed
+[2025-11-07T11:40:29.785682] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.785680] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.785685] [DEBUG] Entering function process_data()

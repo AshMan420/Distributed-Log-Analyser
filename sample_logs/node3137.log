@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.628721] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.628719] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.628723] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.628711] [INFO] Database query executed
+[2025-11-07T11:40:29.628716] [WARN] High memory usage detected
+[2025-11-07T11:40:29.628715] [WARN] Timeout warning
+[2025-11-07T11:40:29.628706] [INFO] User logged in
+[2025-11-07T11:40:29.628726] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.628727] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.628699] [INFO] Cache hit
+[2025-11-07T11:40:29.628700] [INFO] Database query executed
+[2025-11-07T11:40:29.628710] [INFO] Request processed successfully
+[2025-11-07T11:40:29.628709] [INFO] Connection established
+[2025-11-07T11:40:29.628704] [INFO] Database query executed
+[2025-11-07T11:40:29.628712] [INFO] Configuration loaded
+[2025-11-07T11:40:29.628698] [INFO] Health check passed
+[2025-11-07T11:40:29.628707] [INFO] Configuration loaded
+[2025-11-07T11:40:29.628708] [INFO] Connection established
+[2025-11-07T11:40:29.628725] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.628722] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.628703] [INFO] Request processed successfully
+[2025-11-07T11:40:29.628718] [ERROR] Database connection lost
+[2025-11-07T11:40:29.628702] [INFO] Service initialized
+[2025-11-07T11:40:29.628705] [INFO] Configuration loaded
+[2025-11-07T11:40:29.628724] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.628717] [WARN] Disk space low
+[2025-11-07T11:40:29.628714] [WARN] Timeout warning
+[2025-11-07T11:40:29.628720] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.628713] [INFO] Health check passed

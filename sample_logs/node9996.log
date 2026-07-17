@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.370965] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.370955] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.370959] [ERROR] Request failed
+[2025-11-07T11:40:30.370938] [INFO] Database query executed
+[2025-11-07T11:40:30.370942] [INFO] Session started
+[2025-11-07T11:40:30.370953] [WARN] Slow query performance
+[2025-11-07T11:40:30.370939] [INFO] Health check passed
+[2025-11-07T11:40:30.370963] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.370946] [INFO] User logged in
+[2025-11-07T11:40:30.370968] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.370940] [INFO] Connection established
+[2025-11-07T11:40:30.370954] [WARN] Disk space low
+[2025-11-07T11:40:30.370948] [INFO] Service initialized
+[2025-11-07T11:40:30.370963] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.370956] [ERROR] Network timeout
+[2025-11-07T11:40:30.370958] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.370960] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.370949] [INFO] Service initialized
+[2025-11-07T11:40:30.370943] [INFO] Health check passed
+[2025-11-07T11:40:30.370950] [INFO] Service initialized
+[2025-11-07T11:40:30.370944] [INFO] Request processed successfully
+[2025-11-07T11:40:30.370969] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.370941] [INFO] User logged in
+[2025-11-07T11:40:30.370957] [ERROR] Network timeout
+[2025-11-07T11:40:30.370936] [INFO] Health check passed
+[2025-11-07T11:40:30.370945] [INFO] Request processed successfully
+[2025-11-07T11:40:30.370967] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.370951] [INFO] Database query executed
+[2025-11-07T11:40:30.370952] [INFO] Transaction completed
+[2025-11-07T11:40:30.370966] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.370961] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.370947] [INFO] Cache hit

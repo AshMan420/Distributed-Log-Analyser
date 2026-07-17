@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.389082] [INFO] Connection established
+[2025-11-07T11:40:29.389079] [INFO] Service initialized
+[2025-11-07T11:40:29.389097] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.389102] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.389086] [INFO] Request processed successfully
+[2025-11-07T11:40:29.389083] [INFO] Transaction completed
+[2025-11-07T11:40:29.389088] [INFO] Transaction completed
+[2025-11-07T11:40:29.389081] [INFO] Database query executed
+[2025-11-07T11:40:29.389098] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.389095] [ERROR] Permission denied
+[2025-11-07T11:40:29.389091] [INFO] Database query executed
+[2025-11-07T11:40:29.389099] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.389080] [INFO] User logged in
+[2025-11-07T11:40:29.389090] [INFO] Session started
+[2025-11-07T11:40:29.389078] [INFO] Connection established
+[2025-11-07T11:40:29.389093] [WARN] Timeout warning
+[2025-11-07T11:40:29.389089] [INFO] Configuration loaded
+[2025-11-07T11:40:29.389100] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.389092] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.389077] [INFO] Session started
+[2025-11-07T11:40:29.389085] [INFO] User logged in
+[2025-11-07T11:40:29.389084] [INFO] Request processed successfully
+[2025-11-07T11:40:29.389101] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.389087] [INFO] Health check passed
+[2025-11-07T11:40:29.389094] [ERROR] Request failed
+[2025-11-07T11:40:29.389096] [ERROR] Network timeout

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.919327] [INFO] Database query executed
+[2025-11-07T11:40:29.919354] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.919356] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.919355] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.919325] [INFO] Configuration loaded
+[2025-11-07T11:40:29.919331] [INFO] Connection established
+[2025-11-07T11:40:29.919349] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.919351] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.919330] [INFO] Connection established
+[2025-11-07T11:40:29.919352] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.919340] [INFO] Session started
+[2025-11-07T11:40:29.919346] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.919336] [INFO] User logged in
+[2025-11-07T11:40:29.919358] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.919350] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.919338] [INFO] Service initialized
+[2025-11-07T11:40:29.919337] [INFO] Session started
+[2025-11-07T11:40:29.919339] [INFO] Health check passed
+[2025-11-07T11:40:29.919343] [WARN] High memory usage detected
+[2025-11-07T11:40:29.919357] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.919335] [INFO] Configuration loaded
+[2025-11-07T11:40:29.919329] [INFO] Service initialized
+[2025-11-07T11:40:29.919328] [INFO] Health check passed
+[2025-11-07T11:40:29.919321] [INFO] Session started
+[2025-11-07T11:40:29.919344] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.919333] [INFO] Cache hit
+[2025-11-07T11:40:29.919345] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.919347] [ERROR] Database connection lost
+[2025-11-07T11:40:29.919353] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.919335] [INFO] Database query executed
+[2025-11-07T11:40:29.919341] [INFO] Connection established
+[2025-11-07T11:40:29.919332] [INFO] Service initialized

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.542534] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.542532] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.542536] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.542511] [INFO] Transaction completed
+[2025-11-07T11:40:29.542522] [WARN] Disk space low
+[2025-11-07T11:40:29.542518] [INFO] Session started
+[2025-11-07T11:40:29.542531] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.542523] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.542520] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.542517] [INFO] Configuration loaded
+[2025-11-07T11:40:29.542504] [INFO] Request processed successfully
+[2025-11-07T11:40:29.542508] [INFO] Session started
+[2025-11-07T11:40:29.542507] [INFO] Database query executed
+[2025-11-07T11:40:29.542506] [INFO] Session started
+[2025-11-07T11:40:29.542524] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.542509] [INFO] Transaction completed
+[2025-11-07T11:40:29.542519] [INFO] Configuration loaded
+[2025-11-07T11:40:29.542533] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.542512] [INFO] Cache hit
+[2025-11-07T11:40:29.542514] [INFO] Session started
+[2025-11-07T11:40:29.542516] [INFO] Request processed successfully
+[2025-11-07T11:40:29.542521] [WARN] Slow query performance
+[2025-11-07T11:40:29.542510] [INFO] Configuration loaded
+[2025-11-07T11:40:29.542515] [INFO] Service initialized
+[2025-11-07T11:40:29.542535] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.542513] [INFO] Connection established
+[2025-11-07T11:40:29.542525] [ERROR] Invalid input data
+[2025-11-07T11:40:29.542537] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.542530] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.542529] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.542528] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.542526] [DEBUG] Thread pool size: 8

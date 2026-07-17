@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.978229] [INFO] Connection established
+[2025-11-07T11:40:29.978249] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.978244] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.978241] [WARN] Queue size growing
+[2025-11-07T11:40:29.978249] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.978230] [INFO] Request processed successfully
+[2025-11-07T11:40:29.978224] [INFO] Transaction completed
+[2025-11-07T11:40:29.978239] [WARN] Slow query performance
+[2025-11-07T11:40:29.978232] [INFO] Connection established
+[2025-11-07T11:40:29.978235] [INFO] User logged in
+[2025-11-07T11:40:29.978243] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.978236] [INFO] Transaction completed
+[2025-11-07T11:40:29.978237] [INFO] Request processed successfully
+[2025-11-07T11:40:29.978246] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.978234] [INFO] Session started
+[2025-11-07T11:40:29.978245] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.978228] [INFO] Session started
+[2025-11-07T11:40:29.978223] [INFO] Request processed successfully
+[2025-11-07T11:40:29.978242] [ERROR] Request failed
+[2025-11-07T11:40:29.978227] [INFO] Health check passed
+[2025-11-07T11:40:29.978237] [INFO] User logged in
+[2025-11-07T11:40:29.978247] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.978250] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.978240] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.978248] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.978233] [INFO] Configuration loaded
+[2025-11-07T11:40:29.978225] [INFO] Database query executed
+[2025-11-07T11:40:29.978231] [INFO] Request processed successfully

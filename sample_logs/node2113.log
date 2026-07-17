@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.516161] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.516172] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.516155] [INFO] Service initialized
+[2025-11-07T11:40:29.516173] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.516151] [INFO] Database query executed
+[2025-11-07T11:40:29.516175] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.516146] [INFO] Cache hit
+[2025-11-07T11:40:29.516149] [INFO] Cache hit
+[2025-11-07T11:40:29.516156] [INFO] Service initialized
+[2025-11-07T11:40:29.516152] [INFO] Transaction completed
+[2025-11-07T11:40:29.516174] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.516160] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.516158] [INFO] Service initialized
+[2025-11-07T11:40:29.516162] [WARN] Timeout warning
+[2025-11-07T11:40:29.516165] [WARN] Slow query performance
+[2025-11-07T11:40:29.516159] [INFO] Service initialized
+[2025-11-07T11:40:29.516167] [ERROR] Permission denied
+[2025-11-07T11:40:29.516154] [INFO] Service initialized
+[2025-11-07T11:40:29.516176] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.516172] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.516147] [INFO] Health check passed
+[2025-11-07T11:40:29.516166] [ERROR] Permission denied
+[2025-11-07T11:40:29.516153] [INFO] Transaction completed
+[2025-11-07T11:40:29.516150] [INFO] Service initialized
+[2025-11-07T11:40:29.516157] [INFO] User logged in
+[2025-11-07T11:40:29.516148] [INFO] Session started
+[2025-11-07T11:40:29.516171] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.516170] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.516164] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.516144] [INFO] Database query executed
+[2025-11-07T11:40:29.516169] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.516155] [INFO] Request processed successfully
+[2025-11-07T11:40:29.516163] [WARN] High memory usage detected

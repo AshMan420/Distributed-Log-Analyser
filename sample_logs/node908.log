@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.386872] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.386856] [INFO] Service initialized
+[2025-11-07T11:40:29.386850] [INFO] Session started
+[2025-11-07T11:40:29.386862] [INFO] User logged in
+[2025-11-07T11:40:29.386855] [INFO] Transaction completed
+[2025-11-07T11:40:29.386865] [WARN] Slow query performance
+[2025-11-07T11:40:29.386866] [ERROR] Service unavailable
+[2025-11-07T11:40:29.386854] [INFO] Configuration loaded
+[2025-11-07T11:40:29.386859] [INFO] Cache hit
+[2025-11-07T11:40:29.386852] [INFO] Cache hit
+[2025-11-07T11:40:29.386874] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.386857] [INFO] Service initialized
+[2025-11-07T11:40:29.386875] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.386853] [INFO] Transaction completed
+[2025-11-07T11:40:29.386864] [INFO] Health check passed
+[2025-11-07T11:40:29.386860] [INFO] Database query executed
+[2025-11-07T11:40:29.386851] [INFO] Session started
+[2025-11-07T11:40:29.386873] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.386868] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.386861] [INFO] Configuration loaded
+[2025-11-07T11:40:29.386869] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.386871] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.386867] [ERROR] Network timeout
+[2025-11-07T11:40:29.386863] [INFO] Request processed successfully
+[2025-11-07T11:40:29.386870] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.386858] [INFO] Database query executed

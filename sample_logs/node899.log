@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.385981] [INFO] Database query executed
+[2025-11-07T11:40:29.385970] [INFO] Database query executed
+[2025-11-07T11:40:29.385997] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.385982] [WARN] Timeout warning
+[2025-11-07T11:40:29.385979] [INFO] User logged in
+[2025-11-07T11:40:29.385996] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.385991] [WARN] Cache miss
+[2025-11-07T11:40:29.385976] [INFO] Connection established
+[2025-11-07T11:40:29.385971] [INFO] Session started
+[2025-11-07T11:40:29.386002] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.385984] [WARN] Queue size growing
+[2025-11-07T11:40:29.385992] [WARN] Queue size growing
+[2025-11-07T11:40:29.385978] [INFO] Cache hit
+[2025-11-07T11:40:29.386000] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.385999] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.385983] [WARN] Slow query performance
+[2025-11-07T11:40:29.385977] [INFO] Transaction completed
+[2025-11-07T11:40:29.385986] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.385995] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.385994] [ERROR] Disk read failed
+[2025-11-07T11:40:29.386001] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.385974] [INFO] Request processed successfully
+[2025-11-07T11:40:29.385974] [INFO] Database query executed
+[2025-11-07T11:40:29.385975] [INFO] Transaction completed
+[2025-11-07T11:40:29.385987] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.385980] [INFO] User logged in
+[2025-11-07T11:40:29.385990] [WARN] Disk space low
+[2025-11-07T11:40:29.385973] [INFO] Configuration loaded
+[2025-11-07T11:40:29.385988] [WARN] Cache miss
+[2025-11-07T11:40:29.385998] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.385968] [INFO] Request processed successfully
+[2025-11-07T11:40:29.385989] [WARN] Disk space low
+[2025-11-07T11:40:29.386003] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.385969] [INFO] User logged in
+[2025-11-07T11:40:29.385993] [ERROR] Permission denied
+[2025-11-07T11:40:29.385967] [INFO] Session started

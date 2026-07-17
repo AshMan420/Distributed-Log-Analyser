@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.552871] [INFO] Database query executed
+[2025-11-07T11:40:29.552874] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.552882] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.552877] [WARN] Slow query performance
+[2025-11-07T11:40:29.552869] [INFO] User logged in
+[2025-11-07T11:40:29.552867] [INFO] Service initialized
+[2025-11-07T11:40:29.552860] [INFO] Health check passed
+[2025-11-07T11:40:29.552858] [INFO] User logged in
+[2025-11-07T11:40:29.552868] [INFO] Connection established
+[2025-11-07T11:40:29.552862] [INFO] Database query executed
+[2025-11-07T11:40:29.552878] [ERROR] Permission denied
+[2025-11-07T11:40:29.552866] [INFO] Request processed successfully
+[2025-11-07T11:40:29.552857] [INFO] Connection established
+[2025-11-07T11:40:29.552863] [INFO] Service initialized
+[2025-11-07T11:40:29.552885] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.552879] [ERROR] Disk read failed
+[2025-11-07T11:40:29.552864] [INFO] Session started
+[2025-11-07T11:40:29.552870] [INFO] Request processed successfully
+[2025-11-07T11:40:29.552873] [WARN] Disk space low
+[2025-11-07T11:40:29.552880] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.552872] [WARN] Queue size growing
+[2025-11-07T11:40:29.552861] [INFO] Service initialized
+[2025-11-07T11:40:29.552883] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.552876] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.552875] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.552859] [INFO] Cache hit
+[2025-11-07T11:40:29.552881] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.552884] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.552865] [INFO] Cache hit

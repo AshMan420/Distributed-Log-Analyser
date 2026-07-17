@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.862671] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.862659] [WARN] Queue size growing
+[2025-11-07T11:40:29.862667] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.862648] [INFO] User logged in
+[2025-11-07T11:40:29.862655] [INFO] Connection established
+[2025-11-07T11:40:29.862670] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.862642] [INFO] Configuration loaded
+[2025-11-07T11:40:29.862648] [INFO] Health check passed
+[2025-11-07T11:40:29.862653] [INFO] Health check passed
+[2025-11-07T11:40:29.862661] [WARN] High memory usage detected
+[2025-11-07T11:40:29.862672] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.862646] [INFO] Transaction completed
+[2025-11-07T11:40:29.862668] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.862669] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.862656] [WARN] Slow query performance
+[2025-11-07T11:40:29.862657] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.862650] [INFO] Service initialized
+[2025-11-07T11:40:29.862662] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.862660] [WARN] Slow query performance
+[2025-11-07T11:40:29.862673] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.862649] [INFO] Service initialized
+[2025-11-07T11:40:29.862645] [INFO] Service initialized
+[2025-11-07T11:40:29.862663] [ERROR] Authentication failed
+[2025-11-07T11:40:29.862652] [INFO] Configuration loaded
+[2025-11-07T11:40:29.862644] [INFO] Transaction completed
+[2025-11-07T11:40:29.862664] [ERROR] File not found
+[2025-11-07T11:40:29.862658] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.862666] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.862654] [INFO] User logged in
+[2025-11-07T11:40:29.862665] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.862643] [INFO] Transaction completed

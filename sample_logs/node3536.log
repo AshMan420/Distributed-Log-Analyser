@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.672338] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.672339] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.672316] [INFO] Service initialized
+[2025-11-07T11:40:29.672322] [INFO] Service initialized
+[2025-11-07T11:40:29.672315] [INFO] Health check passed
+[2025-11-07T11:40:29.672323] [INFO] Configuration loaded
+[2025-11-07T11:40:29.672331] [ERROR] Disk read failed
+[2025-11-07T11:40:29.672325] [INFO] Transaction completed
+[2025-11-07T11:40:29.672327] [WARN] Cache miss
+[2025-11-07T11:40:29.672314] [INFO] Session started
+[2025-11-07T11:40:29.672317] [INFO] Connection established
+[2025-11-07T11:40:29.672335] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.672324] [INFO] Connection established
+[2025-11-07T11:40:29.672334] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.672319] [INFO] Service initialized
+[2025-11-07T11:40:29.672310] [INFO] Transaction completed
+[2025-11-07T11:40:29.672320] [INFO] Service initialized
+[2025-11-07T11:40:29.672312] [INFO] Transaction completed
+[2025-11-07T11:40:29.672337] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.672326] [WARN] Disk space low
+[2025-11-07T11:40:29.672340] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.672321] [INFO] Session started
+[2025-11-07T11:40:29.672318] [INFO] Database query executed
+[2025-11-07T11:40:29.672333] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.672328] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.672329] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.672313] [INFO] Health check passed
+[2025-11-07T11:40:29.672336] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.672332] [DEBUG] Loop iteration: 15

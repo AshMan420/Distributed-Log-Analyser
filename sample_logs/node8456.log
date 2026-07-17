@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.190187] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.190186] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.190180] [WARN] Cache miss
+[2025-11-07T11:40:30.190166] [INFO] Database query executed
+[2025-11-07T11:40:30.190189] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.190175] [INFO] Service initialized
+[2025-11-07T11:40:30.190188] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.190165] [INFO] Cache hit
+[2025-11-07T11:40:30.190184] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.190183] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.190182] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.190167] [INFO] Request processed successfully
+[2025-11-07T11:40:30.190168] [INFO] Session started
+[2025-11-07T11:40:30.190174] [INFO] Service initialized
+[2025-11-07T11:40:30.190173] [INFO] Service initialized
+[2025-11-07T11:40:30.190185] [ERROR] Database connection lost
+[2025-11-07T11:40:30.190176] [INFO] Connection established
+[2025-11-07T11:40:30.190177] [INFO] User logged in
+[2025-11-07T11:40:30.190181] [WARN] Cache miss
+[2025-11-07T11:40:30.190172] [INFO] Database query executed
+[2025-11-07T11:40:30.190193] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.190178] [INFO] Configuration loaded
+[2025-11-07T11:40:30.190179] [INFO] Session started
+[2025-11-07T11:40:30.190192] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.190171] [INFO] Session started
+[2025-11-07T11:40:30.190170] [INFO] Service initialized
+[2025-11-07T11:40:30.190169] [INFO] Transaction completed

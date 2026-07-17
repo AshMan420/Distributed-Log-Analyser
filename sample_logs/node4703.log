@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.792823] [WARN] High memory usage detected
+[2025-11-07T11:40:29.792828] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.792827] [ERROR] Database connection lost
+[2025-11-07T11:40:29.792837] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.792818] [INFO] Session started
+[2025-11-07T11:40:29.792833] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.792811] [INFO] Service initialized
+[2025-11-07T11:40:29.792809] [INFO] Session started
+[2025-11-07T11:40:29.792836] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.792840] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.792838] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.792824] [WARN] Slow query performance
+[2025-11-07T11:40:29.792819] [INFO] Session started
+[2025-11-07T11:40:29.792814] [INFO] Session started
+[2025-11-07T11:40:29.792816] [INFO] Health check passed
+[2025-11-07T11:40:29.792815] [INFO] Database query executed
+[2025-11-07T11:40:29.792821] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.792820] [INFO] Service initialized
+[2025-11-07T11:40:29.792830] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.792807] [INFO] Database query executed
+[2025-11-07T11:40:29.792825] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.792810] [INFO] Database query executed
+[2025-11-07T11:40:29.792839] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.792812] [INFO] Cache hit
+[2025-11-07T11:40:29.792835] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.792822] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.792832] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.792831] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.792834] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.792813] [INFO] Service initialized
+[2025-11-07T11:40:29.792817] [INFO] Connection established
+[2025-11-07T11:40:29.792829] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.792826] [ERROR] Invalid input data

@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.390583] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.390572] [WARN] Slow query performance
+[2025-11-07T11:40:29.390559] [INFO] Service initialized
+[2025-11-07T11:40:29.390568] [WARN] Queue size growing
+[2025-11-07T11:40:29.390565] [WARN] Cache miss
+[2025-11-07T11:40:29.390556] [INFO] Configuration loaded
+[2025-11-07T11:40:29.390577] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.390580] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.390575] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.390564] [INFO] Connection established
+[2025-11-07T11:40:29.390567] [WARN] High memory usage detected
+[2025-11-07T11:40:29.390558] [INFO] Health check passed
+[2025-11-07T11:40:29.390563] [INFO] Transaction completed
+[2025-11-07T11:40:29.390581] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.390576] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.390571] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.390557] [INFO] Service initialized
+[2025-11-07T11:40:29.390554] [INFO] Database query executed
+[2025-11-07T11:40:29.390569] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.390573] [ERROR] Database connection lost
+[2025-11-07T11:40:29.390582] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.390550] [INFO] Database query executed
+[2025-11-07T11:40:29.390579] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.390578] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.390555] [INFO] Request processed successfully
+[2025-11-07T11:40:29.390574] [ERROR] Network timeout
+[2025-11-07T11:40:29.390566] [WARN] Slow query performance
+[2025-11-07T11:40:29.390561] [INFO] Configuration loaded
+[2025-11-07T11:40:29.390562] [INFO] Transaction completed
+[2025-11-07T11:40:29.390552] [INFO] Database query executed
+[2025-11-07T11:40:29.390570] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.390553] [INFO] Cache hit
+[2025-11-07T11:40:29.390560] [INFO] Service initialized
+[2025-11-07T11:40:29.390551] [INFO] Cache hit

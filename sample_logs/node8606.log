@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.205475] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.205476] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.205478] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.205455] [INFO] Cache hit
+[2025-11-07T11:40:30.205457] [INFO] Connection established
+[2025-11-07T11:40:30.205463] [INFO] Transaction completed
+[2025-11-07T11:40:30.205477] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.205468] [WARN] Cache miss
+[2025-11-07T11:40:30.205453] [INFO] Session started
+[2025-11-07T11:40:30.205480] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.205466] [INFO] Transaction completed
+[2025-11-07T11:40:30.205464] [INFO] Session started
+[2025-11-07T11:40:30.205474] [ERROR] File not found
+[2025-11-07T11:40:30.205462] [INFO] Session started
+[2025-11-07T11:40:30.205460] [INFO] Connection established
+[2025-11-07T11:40:30.205465] [INFO] Database query executed
+[2025-11-07T11:40:30.205461] [INFO] Health check passed
+[2025-11-07T11:40:30.205472] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.205454] [INFO] User logged in
+[2025-11-07T11:40:30.205458] [INFO] Cache hit
+[2025-11-07T11:40:30.205473] [ERROR] Invalid input data
+[2025-11-07T11:40:30.205479] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.205469] [WARN] Queue size growing
+[2025-11-07T11:40:30.205470] [WARN] Queue size growing
+[2025-11-07T11:40:30.205459] [INFO] Connection established
+[2025-11-07T11:40:30.205481] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.205471] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.205456] [INFO] Transaction completed
+[2025-11-07T11:40:30.205467] [INFO] Configuration loaded

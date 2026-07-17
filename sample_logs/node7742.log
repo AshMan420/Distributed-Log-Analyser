@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.113623] [INFO] Request processed successfully
+[2025-11-07T11:40:30.113651] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.113631] [INFO] Transaction completed
+[2025-11-07T11:40:30.113621] [INFO] Configuration loaded
+[2025-11-07T11:40:30.113645] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.113647] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.113630] [INFO] Database query executed
+[2025-11-07T11:40:30.113635] [INFO] Transaction completed
+[2025-11-07T11:40:30.113648] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.113640] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.113652] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.113642] [ERROR] Disk read failed
+[2025-11-07T11:40:30.113641] [ERROR] Request failed
+[2025-11-07T11:40:30.113639] [WARN] Disk space low
+[2025-11-07T11:40:30.113629] [INFO] Database query executed
+[2025-11-07T11:40:30.113646] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.113626] [INFO] Transaction completed
+[2025-11-07T11:40:30.113649] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.113628] [INFO] Session started
+[2025-11-07T11:40:30.113620] [INFO] Configuration loaded
+[2025-11-07T11:40:30.113653] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.113624] [INFO] Cache hit
+[2025-11-07T11:40:30.113632] [INFO] Transaction completed
+[2025-11-07T11:40:30.113650] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.113628] [INFO] Health check passed
+[2025-11-07T11:40:30.113644] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.113618] [INFO] Connection established
+[2025-11-07T11:40:30.113625] [INFO] Session started
+[2025-11-07T11:40:30.113633] [INFO] User logged in
+[2025-11-07T11:40:30.113619] [INFO] Connection established
+[2025-11-07T11:40:30.113638] [WARN] Disk space low
+[2025-11-07T11:40:30.113643] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.113636] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.113627] [INFO] Transaction completed
+[2025-11-07T11:40:30.113637] [WARN] Disk space low

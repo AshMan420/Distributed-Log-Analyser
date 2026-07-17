@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.915881] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.915878] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.915862] [INFO] Configuration loaded
+[2025-11-07T11:40:29.915839] [INFO] Session started
+[2025-11-07T11:40:29.915873] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.915875] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.915866] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.915863] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.915870] [WARN] Disk space low
+[2025-11-07T11:40:29.915837] [INFO] User logged in
+[2025-11-07T11:40:29.915880] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.915841] [INFO] Database query executed
+[2025-11-07T11:40:29.915838] [INFO] User logged in
+[2025-11-07T11:40:29.915872] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.915861] [INFO] Request processed successfully
+[2025-11-07T11:40:29.915834] [INFO] Session started
+[2025-11-07T11:40:29.915838] [INFO] Health check passed
+[2025-11-07T11:40:29.915865] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.915860] [INFO] Connection established
+[2025-11-07T11:40:29.915868] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.915867] [WARN] Cache miss
+[2025-11-07T11:40:29.915857] [INFO] Service initialized
+[2025-11-07T11:40:29.915836] [INFO] Cache hit
+[2025-11-07T11:40:29.915874] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.915864] [WARN] Disk space low
+[2025-11-07T11:40:29.915858] [INFO] Connection established
+[2025-11-07T11:40:29.915876] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.915879] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.915840] [INFO] Database query executed
+[2025-11-07T11:40:29.915877] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.915833] [INFO] Session started
+[2025-11-07T11:40:29.915869] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.915871] [ERROR] Permission denied
+[2025-11-07T11:40:29.915859] [INFO] Service initialized

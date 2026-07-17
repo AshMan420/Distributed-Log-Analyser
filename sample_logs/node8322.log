@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.176847] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.176823] [INFO] Session started
+[2025-11-07T11:40:30.176826] [INFO] Cache hit
+[2025-11-07T11:40:30.176838] [INFO] Configuration loaded
+[2025-11-07T11:40:30.176842] [INFO] Health check passed
+[2025-11-07T11:40:30.176837] [INFO] Database query executed
+[2025-11-07T11:40:30.176840] [INFO] Service initialized
+[2025-11-07T11:40:30.176850] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.176853] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.176822] [INFO] Connection established
+[2025-11-07T11:40:30.176825] [INFO] Transaction completed
+[2025-11-07T11:40:30.176848] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.176841] [INFO] Service initialized
+[2025-11-07T11:40:30.176843] [INFO] Cache hit
+[2025-11-07T11:40:30.176840] [INFO] Transaction completed
+[2025-11-07T11:40:30.176839] [INFO] Cache hit
+[2025-11-07T11:40:30.176844] [WARN] High memory usage detected
+[2025-11-07T11:40:30.176835] [INFO] Cache hit
+[2025-11-07T11:40:30.176845] [ERROR] Database connection lost
+[2025-11-07T11:40:30.176850] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.176846] [ERROR] Invalid input data
+[2025-11-07T11:40:30.176851] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.176824] [INFO] Request processed successfully
+[2025-11-07T11:40:30.176854] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.176854] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.176836] [INFO] Session started
+[2025-11-07T11:40:30.176855] [DEBUG] HTTP request headers parsed

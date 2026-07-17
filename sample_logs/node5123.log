@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.835420] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.835416] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.835413] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.835395] [INFO] User logged in
+[2025-11-07T11:40:29.835406] [INFO] Database query executed
+[2025-11-07T11:40:29.835385] [INFO] User logged in
+[2025-11-07T11:40:29.835399] [INFO] Health check passed
+[2025-11-07T11:40:29.835397] [INFO] Health check passed
+[2025-11-07T11:40:29.835411] [ERROR] Network timeout
+[2025-11-07T11:40:29.835417] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.835396] [INFO] Transaction completed
+[2025-11-07T11:40:29.835405] [INFO] Service initialized
+[2025-11-07T11:40:29.835401] [INFO] Database query executed
+[2025-11-07T11:40:29.835403] [INFO] Request processed successfully
+[2025-11-07T11:40:29.835407] [WARN] Disk space low
+[2025-11-07T11:40:29.835418] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.835400] [INFO] Cache hit
+[2025-11-07T11:40:29.835410] [ERROR] Request failed
+[2025-11-07T11:40:29.835414] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.835402] [INFO] Session started
+[2025-11-07T11:40:29.835412] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.835386] [INFO] Session started
+[2025-11-07T11:40:29.835383] [INFO] Service initialized
+[2025-11-07T11:40:29.835404] [INFO] Cache hit
+[2025-11-07T11:40:29.835415] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.835419] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.835408] [WARN] Timeout warning
+[2025-11-07T11:40:29.835398] [INFO] Transaction completed
+[2025-11-07T11:40:29.835409] [WARN] Cache miss

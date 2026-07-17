@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.680229] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.680196] [INFO] Session started
+[2025-11-07T11:40:29.680216] [WARN] Queue size growing
+[2025-11-07T11:40:29.680201] [INFO] Session started
+[2025-11-07T11:40:29.680214] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.680209] [INFO] Session started
+[2025-11-07T11:40:29.680197] [INFO] Session started
+[2025-11-07T11:40:29.680223] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.680202] [INFO] Transaction completed
+[2025-11-07T11:40:29.680221] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.680211] [INFO] Health check passed
+[2025-11-07T11:40:29.680219] [ERROR] Network timeout
+[2025-11-07T11:40:29.680213] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.680195] [INFO] Service initialized
+[2025-11-07T11:40:29.680224] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.680225] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.680205] [INFO] Cache hit
+[2025-11-07T11:40:29.680230] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.680210] [INFO] Session started
+[2025-11-07T11:40:29.680200] [INFO] Request processed successfully
+[2025-11-07T11:40:29.680227] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.680203] [INFO] Connection established
+[2025-11-07T11:40:29.680200] [INFO] User logged in
+[2025-11-07T11:40:29.680206] [INFO] Session started
+[2025-11-07T11:40:29.680208] [INFO] Health check passed
+[2025-11-07T11:40:29.680212] [INFO] Session started
+[2025-11-07T11:40:29.680207] [INFO] Service initialized
+[2025-11-07T11:40:29.680198] [INFO] User logged in
+[2025-11-07T11:40:29.680220] [ERROR] Service unavailable
+[2025-11-07T11:40:29.680226] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.680217] [WARN] Disk space low
+[2025-11-07T11:40:29.680222] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.680215] [WARN] Queue size growing

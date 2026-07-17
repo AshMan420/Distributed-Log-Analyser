@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.186425] [WARN] Timeout warning
+[2025-11-07T11:40:30.186406] [INFO] Cache hit
+[2025-11-07T11:40:30.186435] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.186418] [INFO] Cache hit
+[2025-11-07T11:40:30.186410] [INFO] Request processed successfully
+[2025-11-07T11:40:30.186405] [INFO] User logged in
+[2025-11-07T11:40:30.186422] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.186432] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.186433] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.186414] [INFO] Cache hit
+[2025-11-07T11:40:30.186426] [ERROR] Database connection lost
+[2025-11-07T11:40:30.186413] [INFO] Cache hit
+[2025-11-07T11:40:30.186436] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.186439] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.186427] [ERROR] Invalid input data
+[2025-11-07T11:40:30.186408] [INFO] Configuration loaded
+[2025-11-07T11:40:30.186411] [INFO] Connection established
+[2025-11-07T11:40:30.186412] [INFO] Database query executed
+[2025-11-07T11:40:30.186434] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.186431] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.186430] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.186417] [INFO] Connection established
+[2025-11-07T11:40:30.186424] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.186429] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.186420] [WARN] Slow query performance
+[2025-11-07T11:40:30.186423] [WARN] Queue size growing
+[2025-11-07T11:40:30.186421] [WARN] Queue size growing
+[2025-11-07T11:40:30.186416] [INFO] Cache hit
+[2025-11-07T11:40:30.186409] [INFO] Service initialized
+[2025-11-07T11:40:30.186419] [INFO] Cache hit
+[2025-11-07T11:40:30.186428] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.186409] [INFO] Transaction completed
+[2025-11-07T11:40:30.186437] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.186438] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.186415] [INFO] Cache hit

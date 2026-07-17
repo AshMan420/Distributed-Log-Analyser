@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.666057] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.666054] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.666026] [INFO] Connection established
+[2025-11-07T11:40:29.666056] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.666027] [INFO] User logged in
+[2025-11-07T11:40:29.666055] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.666024] [INFO] Health check passed
+[2025-11-07T11:40:29.666041] [INFO] Connection established
+[2025-11-07T11:40:29.666047] [ERROR] Permission denied
+[2025-11-07T11:40:29.666028] [INFO] Transaction completed
+[2025-11-07T11:40:29.666037] [INFO] Session started
+[2025-11-07T11:40:29.666031] [INFO] User logged in
+[2025-11-07T11:40:29.666030] [INFO] Connection established
+[2025-11-07T11:40:29.666038] [INFO] Database query executed
+[2025-11-07T11:40:29.666057] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.666035] [INFO] Service initialized
+[2025-11-07T11:40:29.666048] [ERROR] Disk read failed
+[2025-11-07T11:40:29.666042] [WARN] High memory usage detected
+[2025-11-07T11:40:29.666039] [INFO] Configuration loaded
+[2025-11-07T11:40:29.666049] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.666034] [INFO] Connection established
+[2025-11-07T11:40:29.666032] [INFO] Connection established
+[2025-11-07T11:40:29.666044] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.666046] [WARN] High memory usage detected
+[2025-11-07T11:40:29.666051] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.666053] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.666045] [WARN] Disk space low
+[2025-11-07T11:40:29.666040] [INFO] Database query executed
+[2025-11-07T11:40:29.666033] [INFO] Transaction completed
+[2025-11-07T11:40:29.666029] [INFO] Transaction completed
+[2025-11-07T11:40:29.666050] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.666043] [WARN] Queue size growing
+[2025-11-07T11:40:29.666036] [INFO] Configuration loaded

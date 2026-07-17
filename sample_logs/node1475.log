@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.446153] [INFO] Service initialized
+[2025-11-07T11:40:29.446158] [INFO] Cache hit
+[2025-11-07T11:40:29.446150] [INFO] Configuration loaded
+[2025-11-07T11:40:29.446172] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.446151] [INFO] Session started
+[2025-11-07T11:40:29.446157] [INFO] Configuration loaded
+[2025-11-07T11:40:29.446175] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.446169] [WARN] Disk space low
+[2025-11-07T11:40:29.446180] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.446154] [INFO] User logged in
+[2025-11-07T11:40:29.446177] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.446165] [WARN] High memory usage detected
+[2025-11-07T11:40:29.446161] [INFO] Configuration loaded
+[2025-11-07T11:40:29.446167] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.446168] [WARN] Cache miss
+[2025-11-07T11:40:29.446163] [INFO] User logged in
+[2025-11-07T11:40:29.446156] [INFO] Session started
+[2025-11-07T11:40:29.446159] [INFO] User logged in
+[2025-11-07T11:40:29.446174] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.446171] [ERROR] Authentication failed
+[2025-11-07T11:40:29.446178] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.446152] [INFO] User logged in
+[2025-11-07T11:40:29.446167] [WARN] Slow query performance
+[2025-11-07T11:40:29.446155] [INFO] Session started
+[2025-11-07T11:40:29.446162] [INFO] Configuration loaded
+[2025-11-07T11:40:29.446164] [INFO] Database query executed
+[2025-11-07T11:40:29.446176] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.446173] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.446179] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.446164] [INFO] Database query executed
+[2025-11-07T11:40:29.446170] [ERROR] Authentication failed
+[2025-11-07T11:40:29.446160] [INFO] Request processed successfully

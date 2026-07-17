@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.346226] [INFO] Transaction completed
+[2025-11-07T11:40:29.346227] [INFO] Configuration loaded
+[2025-11-07T11:40:29.346247] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.346230] [INFO] Transaction completed
+[2025-11-07T11:40:29.346244] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.346224] [INFO] Database query executed
+[2025-11-07T11:40:29.346233] [INFO] User logged in
+[2025-11-07T11:40:29.346236] [INFO] Configuration loaded
+[2025-11-07T11:40:29.346246] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.346242] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.346237] [INFO] Configuration loaded
+[2025-11-07T11:40:29.346250] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.346228] [INFO] Transaction completed
+[2025-11-07T11:40:29.346239] [ERROR] File not found
+[2025-11-07T11:40:29.346240] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.346249] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.346225] [INFO] Database query executed
+[2025-11-07T11:40:29.346235] [INFO] Session started
+[2025-11-07T11:40:29.346251] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.346238] [WARN] Cache miss
+[2025-11-07T11:40:29.346248] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.346223] [INFO] Cache hit
+[2025-11-07T11:40:29.346231] [INFO] Cache hit
+[2025-11-07T11:40:29.346245] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.346232] [INFO] Request processed successfully
+[2025-11-07T11:40:29.346241] [ERROR] Service unavailable
+[2025-11-07T11:40:29.346229] [INFO] Health check passed
+[2025-11-07T11:40:29.346243] [DEBUG] Thread pool size: 8

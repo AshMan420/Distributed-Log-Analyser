@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.668437] [INFO] Health check passed
+[2025-11-07T11:40:29.668433] [INFO] Connection established
+[2025-11-07T11:40:29.668432] [INFO] Transaction completed
+[2025-11-07T11:40:29.668450] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.668447] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.668444] [ERROR] Disk read failed
+[2025-11-07T11:40:29.668448] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.668431] [INFO] Request processed successfully
+[2025-11-07T11:40:29.668434] [INFO] Cache hit
+[2025-11-07T11:40:29.668441] [INFO] Service initialized
+[2025-11-07T11:40:29.668445] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.668436] [INFO] User logged in
+[2025-11-07T11:40:29.668442] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.668449] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.668439] [INFO] Service initialized
+[2025-11-07T11:40:29.668430] [INFO] Configuration loaded
+[2025-11-07T11:40:29.668438] [INFO] Cache hit
+[2025-11-07T11:40:29.668428] [INFO] Session started
+[2025-11-07T11:40:29.668440] [INFO] Cache hit
+[2025-11-07T11:40:29.668446] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.668435] [INFO] Health check passed
+[2025-11-07T11:40:29.668426] [INFO] Service initialized
+[2025-11-07T11:40:29.668443] [ERROR] Request failed
+[2025-11-07T11:40:29.668451] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.668429] [INFO] Session started

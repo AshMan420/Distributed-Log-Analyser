@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.465197] [WARN] Timeout warning
+[2025-11-07T11:40:29.465196] [WARN] Slow query performance
+[2025-11-07T11:40:29.465184] [INFO] User logged in
+[2025-11-07T11:40:29.465207] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.465192] [INFO] Cache hit
+[2025-11-07T11:40:29.465189] [INFO] Health check passed
+[2025-11-07T11:40:29.465190] [INFO] Service initialized
+[2025-11-07T11:40:29.465191] [INFO] Session started
+[2025-11-07T11:40:29.465187] [INFO] Transaction completed
+[2025-11-07T11:40:29.465194] [WARN] Cache miss
+[2025-11-07T11:40:29.465195] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.465188] [INFO] Transaction completed
+[2025-11-07T11:40:29.465193] [WARN] Queue size growing
+[2025-11-07T11:40:29.465206] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.465201] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.465209] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.465203] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.465205] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.465200] [ERROR] Invalid input data
+[2025-11-07T11:40:29.465185] [INFO] Transaction completed
+[2025-11-07T11:40:29.465202] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.465186] [INFO] Cache hit
+[2025-11-07T11:40:29.465208] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.465204] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.465199] [WARN] Timeout warning
+[2025-11-07T11:40:29.465198] [WARN] Deprecated API usage

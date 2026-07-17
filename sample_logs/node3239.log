@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.640641] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.640628] [INFO] Cache hit
+[2025-11-07T11:40:29.640632] [INFO] Service initialized
+[2025-11-07T11:40:29.640622] [INFO] Connection established
+[2025-11-07T11:40:29.640646] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.640625] [INFO] Configuration loaded
+[2025-11-07T11:40:29.640644] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.640629] [INFO] Health check passed
+[2025-11-07T11:40:29.640626] [INFO] Connection established
+[2025-11-07T11:40:29.640619] [INFO] Database query executed
+[2025-11-07T11:40:29.640647] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.640642] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.640646] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.640631] [INFO] Configuration loaded
+[2025-11-07T11:40:29.640633] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.640640] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.640624] [INFO] Connection established
+[2025-11-07T11:40:29.640630] [INFO] Request processed successfully
+[2025-11-07T11:40:29.640634] [WARN] Queue size growing
+[2025-11-07T11:40:29.640645] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.640623] [INFO] Connection established
+[2025-11-07T11:40:29.640636] [WARN] Disk space low
+[2025-11-07T11:40:29.640621] [INFO] Transaction completed
+[2025-11-07T11:40:29.640635] [WARN] High memory usage detected
+[2025-11-07T11:40:29.640638] [ERROR] Disk read failed
+[2025-11-07T11:40:29.640639] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.640627] [INFO] Configuration loaded
+[2025-11-07T11:40:29.640643] [DEBUG] Cache key generated

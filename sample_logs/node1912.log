@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.495929] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.495922] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.495925] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.495923] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.495921] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.495928] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.495912] [INFO] Session started
+[2025-11-07T11:40:29.495909] [INFO] Database query executed
+[2025-11-07T11:40:29.495926] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.495900] [INFO] Health check passed
+[2025-11-07T11:40:29.495901] [INFO] Transaction completed
+[2025-11-07T11:40:29.495905] [INFO] Transaction completed
+[2025-11-07T11:40:29.495902] [INFO] Service initialized
+[2025-11-07T11:40:29.495908] [INFO] Cache hit
+[2025-11-07T11:40:29.495914] [INFO] Service initialized
+[2025-11-07T11:40:29.495910] [INFO] Connection established
+[2025-11-07T11:40:29.495903] [INFO] Health check passed
+[2025-11-07T11:40:29.495907] [INFO] Cache hit
+[2025-11-07T11:40:29.495927] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.495916] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.495906] [INFO] Cache hit
+[2025-11-07T11:40:29.495924] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.495911] [INFO] Transaction completed
+[2025-11-07T11:40:29.495899] [INFO] Session started
+[2025-11-07T11:40:29.495915] [WARN] High memory usage detected
+[2025-11-07T11:40:29.495904] [INFO] Transaction completed
+[2025-11-07T11:40:29.495919] [ERROR] Permission denied
+[2025-11-07T11:40:29.495918] [WARN] Queue size growing
+[2025-11-07T11:40:29.495917] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.495920] [ERROR] Database connection lost
+[2025-11-07T11:40:29.495913] [INFO] Request processed successfully

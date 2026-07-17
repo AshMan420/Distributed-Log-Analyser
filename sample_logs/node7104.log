@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.048756] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.048758] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.048763] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.048738] [INFO] Cache hit
+[2025-11-07T11:40:30.048737] [INFO] Request processed successfully
+[2025-11-07T11:40:30.048740] [INFO] Service initialized
+[2025-11-07T11:40:30.048750] [WARN] Queue size growing
+[2025-11-07T11:40:30.048748] [WARN] Queue size growing
+[2025-11-07T11:40:30.048757] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.048749] [WARN] Cache miss
+[2025-11-07T11:40:30.048764] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.048760] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.048744] [INFO] Session started
+[2025-11-07T11:40:30.048767] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.048733] [INFO] Service initialized
+[2025-11-07T11:40:30.048746] [INFO] User logged in
+[2025-11-07T11:40:30.048736] [INFO] Configuration loaded
+[2025-11-07T11:40:30.048745] [INFO] Database query executed
+[2025-11-07T11:40:30.048764] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.048765] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.048755] [ERROR] Permission denied
+[2025-11-07T11:40:30.048739] [INFO] Cache hit
+[2025-11-07T11:40:30.048742] [INFO] Configuration loaded
+[2025-11-07T11:40:30.048761] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.048751] [WARN] Queue size growing
+[2025-11-07T11:40:30.048743] [INFO] Transaction completed
+[2025-11-07T11:40:30.048753] [ERROR] File not found
+[2025-11-07T11:40:30.048735] [INFO] Session started
+[2025-11-07T11:40:30.048762] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.048766] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.048754] [ERROR] Permission denied
+[2025-11-07T11:40:30.048741] [INFO] Transaction completed
+[2025-11-07T11:40:30.048759] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.048734] [INFO] Session started
+[2025-11-07T11:40:30.048747] [INFO] Configuration loaded

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.325023] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.325025] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.325001] [INFO] Session started
+[2025-11-07T11:40:29.325007] [INFO] Health check passed
+[2025-11-07T11:40:29.325009] [INFO] Configuration loaded
+[2025-11-07T11:40:29.324999] [INFO] Request processed successfully
+[2025-11-07T11:40:29.325004] [INFO] Service initialized
+[2025-11-07T11:40:29.325028] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.325018] [WARN] Cache miss
+[2025-11-07T11:40:29.325020] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.325027] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.325002] [INFO] Request processed successfully
+[2025-11-07T11:40:29.325019] [ERROR] Permission denied
+[2025-11-07T11:40:29.325010] [INFO] Request processed successfully
+[2025-11-07T11:40:29.325015] [INFO] Service initialized
+[2025-11-07T11:40:29.325017] [WARN] Timeout warning
+[2025-11-07T11:40:29.325021] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.325000] [INFO] Connection established
+[2025-11-07T11:40:29.325022] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.325012] [INFO] Session started
+[2025-11-07T11:40:29.325016] [INFO] Configuration loaded
+[2025-11-07T11:40:29.325013] [INFO] Health check passed
+[2025-11-07T11:40:29.325006] [INFO] Session started
+[2025-11-07T11:40:29.325010] [INFO] Database query executed
+[2025-11-07T11:40:29.325005] [INFO] Service initialized
+[2025-11-07T11:40:29.325026] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.325024] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.325011] [INFO] Cache hit
+[2025-11-07T11:40:29.325007] [INFO] Service initialized

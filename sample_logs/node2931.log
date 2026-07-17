@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.606992] [ERROR] Permission denied
+[2025-11-07T11:40:29.606997] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.606969] [INFO] Transaction completed
+[2025-11-07T11:40:29.606982] [INFO] Database query executed
+[2025-11-07T11:40:29.606976] [INFO] Session started
+[2025-11-07T11:40:29.606987] [WARN] Disk space low
+[2025-11-07T11:40:29.606973] [INFO] Request processed successfully
+[2025-11-07T11:40:29.606972] [INFO] Session started
+[2025-11-07T11:40:29.607001] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.607000] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.606978] [INFO] Service initialized
+[2025-11-07T11:40:29.606995] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.606984] [INFO] Cache hit
+[2025-11-07T11:40:29.606979] [INFO] Session started
+[2025-11-07T11:40:29.606986] [WARN] Disk space low
+[2025-11-07T11:40:29.606974] [INFO] Session started
+[2025-11-07T11:40:29.606970] [INFO] Session started
+[2025-11-07T11:40:29.606999] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.606980] [INFO] Transaction completed
+[2025-11-07T11:40:29.606981] [INFO] Health check passed
+[2025-11-07T11:40:29.606998] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.606989] [WARN] Slow query performance
+[2025-11-07T11:40:29.606977] [INFO] Configuration loaded
+[2025-11-07T11:40:29.606996] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.606994] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.606967] [INFO] Session started
+[2025-11-07T11:40:29.606988] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.606982] [INFO] Transaction completed
+[2025-11-07T11:40:29.606975] [INFO] Request processed successfully
+[2025-11-07T11:40:29.606993] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.606983] [INFO] Database query executed
+[2025-11-07T11:40:29.606991] [ERROR] Authentication failed
+[2025-11-07T11:40:29.606989] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.606971] [INFO] User logged in

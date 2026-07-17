@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.363343] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.363327] [INFO] Health check passed
+[2025-11-07T11:40:29.363342] [ERROR] Permission denied
+[2025-11-07T11:40:29.363346] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.363327] [INFO] Session started
+[2025-11-07T11:40:29.363325] [INFO] Configuration loaded
+[2025-11-07T11:40:29.363341] [ERROR] Invalid input data
+[2025-11-07T11:40:29.363323] [INFO] Database query executed
+[2025-11-07T11:40:29.363334] [INFO] Request processed successfully
+[2025-11-07T11:40:29.363332] [INFO] Connection established
+[2025-11-07T11:40:29.363326] [INFO] Service initialized
+[2025-11-07T11:40:29.363333] [INFO] User logged in
+[2025-11-07T11:40:29.363339] [WARN] Queue size growing
+[2025-11-07T11:40:29.363321] [INFO] Service initialized
+[2025-11-07T11:40:29.363345] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.363344] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.363319] [INFO] Session started
+[2025-11-07T11:40:29.363339] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.363330] [INFO] Session started
+[2025-11-07T11:40:29.363331] [INFO] Database query executed
+[2025-11-07T11:40:29.363329] [INFO] Connection established
+[2025-11-07T11:40:29.363338] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.363322] [INFO] User logged in
+[2025-11-07T11:40:29.363337] [WARN] Queue size growing
+[2025-11-07T11:40:29.363324] [INFO] Cache hit
+[2025-11-07T11:40:29.363331] [INFO] Session started
+[2025-11-07T11:40:29.363336] [WARN] Rate limit approaching

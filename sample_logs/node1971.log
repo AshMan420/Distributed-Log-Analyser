@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.501860] [INFO] Cache hit
+[2025-11-07T11:40:29.501872] [WARN] Slow query performance
+[2025-11-07T11:40:29.501861] [INFO] Request processed successfully
+[2025-11-07T11:40:29.501885] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.501886] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.501882] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.501866] [INFO] User logged in
+[2025-11-07T11:40:29.501862] [INFO] User logged in
+[2025-11-07T11:40:29.501859] [INFO] Configuration loaded
+[2025-11-07T11:40:29.501887] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.501870] [WARN] Slow query performance
+[2025-11-07T11:40:29.501871] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.501858] [INFO] Health check passed
+[2025-11-07T11:40:29.501863] [INFO] Health check passed
+[2025-11-07T11:40:29.501878] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.501870] [WARN] Slow query performance
+[2025-11-07T11:40:29.501884] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.501867] [INFO] Configuration loaded
+[2025-11-07T11:40:29.501857] [INFO] Session started
+[2025-11-07T11:40:29.501874] [ERROR] Request failed
+[2025-11-07T11:40:29.501868] [INFO] User logged in
+[2025-11-07T11:40:29.501873] [WARN] Cache miss
+[2025-11-07T11:40:29.501883] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.501854] [INFO] Service initialized
+[2025-11-07T11:40:29.501879] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.501880] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.501881] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.501865] [INFO] Cache hit
+[2025-11-07T11:40:29.501884] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.501877] [ERROR] Network timeout
+[2025-11-07T11:40:29.501875] [ERROR] Invalid input data
+[2025-11-07T11:40:29.501869] [WARN] Disk space low
+[2025-11-07T11:40:29.501856] [INFO] Session started
+[2025-11-07T11:40:29.501864] [INFO] Database query executed

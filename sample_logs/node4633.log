@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.785984] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.785981] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.785962] [INFO] Connection established
+[2025-11-07T11:40:29.785967] [WARN] Timeout warning
+[2025-11-07T11:40:29.785980] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.785947] [INFO] User logged in
+[2025-11-07T11:40:29.785975] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.785982] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.785952] [INFO] Cache hit
+[2025-11-07T11:40:29.785959] [INFO] Database query executed
+[2025-11-07T11:40:29.785953] [INFO] Session started
+[2025-11-07T11:40:29.785956] [INFO] Connection established
+[2025-11-07T11:40:29.785983] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.785969] [WARN] Timeout warning
+[2025-11-07T11:40:29.785951] [INFO] Service initialized
+[2025-11-07T11:40:29.785954] [INFO] Cache hit
+[2025-11-07T11:40:29.785979] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.785978] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.785977] [ERROR] Authentication failed
+[2025-11-07T11:40:29.785961] [INFO] Database query executed
+[2025-11-07T11:40:29.785985] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.785958] [INFO] Database query executed
+[2025-11-07T11:40:29.785970] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.785973] [WARN] Slow query performance
+[2025-11-07T11:40:29.785957] [INFO] Transaction completed
+[2025-11-07T11:40:29.785974] [WARN] Cache miss
+[2025-11-07T11:40:29.785955] [INFO] Database query executed
+[2025-11-07T11:40:29.785949] [INFO] Cache hit
+[2025-11-07T11:40:29.785966] [WARN] Cache miss
+[2025-11-07T11:40:29.785971] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.785964] [INFO] Session started
+[2025-11-07T11:40:29.785986] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.785950] [INFO] Transaction completed
+[2025-11-07T11:40:29.785965] [INFO] Session started

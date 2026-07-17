@@ -1,0 +1,23 @@
+[2025-11-07T11:40:30.003933] [INFO] Session started
+[2025-11-07T11:40:30.003947] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.003950] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.003949] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.003942] [WARN] Cache miss
+[2025-11-07T11:40:30.003948] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.003952] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.003936] [INFO] Database query executed
+[2025-11-07T11:40:30.003946] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.003937] [INFO] Session started
+[2025-11-07T11:40:30.003930] [INFO] Session started
+[2025-11-07T11:40:30.003932] [INFO] Request processed successfully
+[2025-11-07T11:40:30.003940] [INFO] Database query executed
+[2025-11-07T11:40:30.003941] [WARN] Queue size growing
+[2025-11-07T11:40:30.003935] [INFO] Transaction completed
+[2025-11-07T11:40:30.003952] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.003945] [ERROR] Authentication failed
+[2025-11-07T11:40:30.003951] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.003934] [INFO] Cache hit
+[2025-11-07T11:40:30.003943] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.003944] [WARN] Disk space low
+[2025-11-07T11:40:30.003938] [INFO] Database query executed
+[2025-11-07T11:40:30.003939] [INFO] Cache hit

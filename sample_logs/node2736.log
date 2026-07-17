@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.587432] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.587429] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.587412] [INFO] Health check passed
+[2025-11-07T11:40:29.587421] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.587411] [INFO] Transaction completed
+[2025-11-07T11:40:29.587426] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.587425] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.587410] [INFO] Database query executed
+[2025-11-07T11:40:29.587407] [INFO] User logged in
+[2025-11-07T11:40:29.587417] [INFO] Cache hit
+[2025-11-07T11:40:29.587420] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.587424] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.587406] [INFO] Service initialized
+[2025-11-07T11:40:29.587431] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.587409] [INFO] Health check passed
+[2025-11-07T11:40:29.587430] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.587422] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.587415] [INFO] Service initialized
+[2025-11-07T11:40:29.587428] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.587414] [INFO] Cache hit
+[2025-11-07T11:40:29.587416] [INFO] Database query executed
+[2025-11-07T11:40:29.587413] [INFO] Session started
+[2025-11-07T11:40:29.587427] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.587419] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.587418] [INFO] Transaction completed
+[2025-11-07T11:40:29.587423] [ERROR] Invalid input data

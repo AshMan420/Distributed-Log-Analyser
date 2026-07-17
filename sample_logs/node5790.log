@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.903689] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.903685] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.903672] [INFO] Session started
+[2025-11-07T11:40:29.903684] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.903660] [INFO] Request processed successfully
+[2025-11-07T11:40:29.903678] [WARN] Disk space low
+[2025-11-07T11:40:29.903686] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.903668] [INFO] User logged in
+[2025-11-07T11:40:29.903673] [INFO] Database query executed
+[2025-11-07T11:40:29.903662] [INFO] Connection established
+[2025-11-07T11:40:29.903677] [WARN] Cache miss
+[2025-11-07T11:40:29.903661] [INFO] Configuration loaded
+[2025-11-07T11:40:29.903669] [INFO] Cache hit
+[2025-11-07T11:40:29.903675] [INFO] Transaction completed
+[2025-11-07T11:40:29.903690] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.903665] [INFO] Health check passed
+[2025-11-07T11:40:29.903667] [INFO] Cache hit
+[2025-11-07T11:40:29.903674] [INFO] Session started
+[2025-11-07T11:40:29.903687] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.903691] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.903670] [INFO] Configuration loaded
+[2025-11-07T11:40:29.903679] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.903688] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.903666] [INFO] Request processed successfully
+[2025-11-07T11:40:29.903692] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.903671] [INFO] Cache hit
+[2025-11-07T11:40:29.903683] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.903664] [INFO] Session started
+[2025-11-07T11:40:29.903681] [ERROR] Permission denied
+[2025-11-07T11:40:29.903682] [ERROR] Invalid input data
+[2025-11-07T11:40:29.903663] [INFO] User logged in
+[2025-11-07T11:40:29.903676] [INFO] Connection established
+[2025-11-07T11:40:29.903680] [WARN] Slow query performance

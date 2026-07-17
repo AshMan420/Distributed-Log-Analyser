@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.312983] [INFO] User logged in
+[2025-11-07T11:40:30.312984] [INFO] Configuration loaded
+[2025-11-07T11:40:30.312987] [INFO] User logged in
+[2025-11-07T11:40:30.313003] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.313006] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.313009] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.313001] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.312974] [INFO] Request processed successfully
+[2025-11-07T11:40:30.312977] [INFO] Connection established
+[2025-11-07T11:40:30.312993] [WARN] High memory usage detected
+[2025-11-07T11:40:30.313007] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.312990] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.312989] [WARN] Cache miss
+[2025-11-07T11:40:30.312978] [INFO] Cache hit
+[2025-11-07T11:40:30.312994] [ERROR] Invalid input data
+[2025-11-07T11:40:30.312975] [INFO] User logged in
+[2025-11-07T11:40:30.312999] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.313005] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.312971] [INFO] Session started
+[2025-11-07T11:40:30.312981] [INFO] Session started
+[2025-11-07T11:40:30.312972] [INFO] Connection established
+[2025-11-07T11:40:30.312996] [ERROR] Network timeout
+[2025-11-07T11:40:30.312986] [INFO] Database query executed
+[2025-11-07T11:40:30.313011] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.313002] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.313010] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.312998] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.312982] [INFO] Connection established
+[2025-11-07T11:40:30.312976] [INFO] Health check passed
+[2025-11-07T11:40:30.312970] [INFO] Database query executed
+[2025-11-07T11:40:30.312991] [WARN] Slow query performance
+[2025-11-07T11:40:30.312979] [INFO] Connection established

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.299851] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.299845] [WARN] Queue size growing
+[2025-11-07T11:40:30.299855] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.299840] [INFO] Transaction completed
+[2025-11-07T11:40:30.299837] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299853] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.299854] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.299839] [INFO] Connection established
+[2025-11-07T11:40:30.299856] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.299852] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.299834] [INFO] Database query executed
+[2025-11-07T11:40:30.299844] [WARN] Disk space low
+[2025-11-07T11:40:30.299826] [INFO] User logged in
+[2025-11-07T11:40:30.299838] [INFO] Connection established
+[2025-11-07T11:40:30.299830] [INFO] Transaction completed
+[2025-11-07T11:40:30.299847] [ERROR] Service unavailable
+[2025-11-07T11:40:30.299824] [INFO] Health check passed
+[2025-11-07T11:40:30.299832] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299828] [INFO] Connection established
+[2025-11-07T11:40:30.299827] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299831] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299836] [INFO] Session started
+[2025-11-07T11:40:30.299847] [ERROR] Database connection lost
+[2025-11-07T11:40:30.299829] [INFO] Database query executed
+[2025-11-07T11:40:30.299850] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.299833] [INFO] User logged in
+[2025-11-07T11:40:30.299849] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.299857] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.299841] [INFO] User logged in
+[2025-11-07T11:40:30.299835] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299843] [WARN] Slow query performance
+[2025-11-07T11:40:30.299842] [WARN] Rate limit approaching

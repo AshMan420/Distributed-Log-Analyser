@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.058400] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.058382] [INFO] Connection established
+[2025-11-07T11:40:30.058384] [INFO] Health check passed
+[2025-11-07T11:40:30.058404] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.058391] [INFO] Health check passed
+[2025-11-07T11:40:30.058386] [INFO] Database query executed
+[2025-11-07T11:40:30.058395] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.058392] [WARN] Slow query performance
+[2025-11-07T11:40:30.058387] [INFO] Configuration loaded
+[2025-11-07T11:40:30.058380] [INFO] Database query executed
+[2025-11-07T11:40:30.058394] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.058390] [INFO] Session started
+[2025-11-07T11:40:30.058401] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.058385] [INFO] Cache hit
+[2025-11-07T11:40:30.058396] [ERROR] Authentication failed
+[2025-11-07T11:40:30.058383] [INFO] Transaction completed
+[2025-11-07T11:40:30.058388] [INFO] Database query executed
+[2025-11-07T11:40:30.058399] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.058391] [INFO] User logged in
+[2025-11-07T11:40:30.058393] [WARN] Queue size growing
+[2025-11-07T11:40:30.058378] [INFO] Configuration loaded
+[2025-11-07T11:40:30.058404] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.058398] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.058379] [INFO] Database query executed
+[2025-11-07T11:40:30.058381] [INFO] Database query executed
+[2025-11-07T11:40:30.058397] [ERROR] Request failed
+[2025-11-07T11:40:30.058403] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.058389] [INFO] Cache hit

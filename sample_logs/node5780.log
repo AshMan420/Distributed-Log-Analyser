@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.902542] [WARN] Queue size growing
+[2025-11-07T11:40:29.902549] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.902548] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.902537] [INFO] Service initialized
+[2025-11-07T11:40:29.902551] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.902534] [INFO] Cache hit
+[2025-11-07T11:40:29.902533] [INFO] Service initialized
+[2025-11-07T11:40:29.902540] [INFO] Request processed successfully
+[2025-11-07T11:40:29.902556] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.902541] [WARN] High memory usage detected
+[2025-11-07T11:40:29.902554] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.902532] [INFO] Database query executed
+[2025-11-07T11:40:29.902529] [INFO] Health check passed
+[2025-11-07T11:40:29.902543] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.902552] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.902555] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.902546] [ERROR] Permission denied
+[2025-11-07T11:40:29.902530] [INFO] Request processed successfully
+[2025-11-07T11:40:29.902553] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.902545] [ERROR] Service unavailable
+[2025-11-07T11:40:29.902550] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.902535] [INFO] User logged in
+[2025-11-07T11:40:29.902536] [INFO] Transaction completed
+[2025-11-07T11:40:29.902544] [WARN] Disk space low
+[2025-11-07T11:40:29.902531] [INFO] Health check passed
+[2025-11-07T11:40:29.902539] [INFO] Session started
+[2025-11-07T11:40:29.902528] [INFO] Connection established
+[2025-11-07T11:40:29.902538] [INFO] Transaction completed

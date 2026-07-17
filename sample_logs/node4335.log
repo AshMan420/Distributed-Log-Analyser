@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.755604] [INFO] Session started
+[2025-11-07T11:40:29.755616] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.755610] [INFO] Session started
+[2025-11-07T11:40:29.755601] [INFO] Service initialized
+[2025-11-07T11:40:29.755611] [INFO] Database query executed
+[2025-11-07T11:40:29.755606] [INFO] Cache hit
+[2025-11-07T11:40:29.755629] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.755615] [INFO] User logged in
+[2025-11-07T11:40:29.755620] [WARN] High memory usage detected
+[2025-11-07T11:40:29.755607] [INFO] Health check passed
+[2025-11-07T11:40:29.755632] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.755608] [INFO] Health check passed
+[2025-11-07T11:40:29.755617] [WARN] Timeout warning
+[2025-11-07T11:40:29.755612] [INFO] Database query executed
+[2025-11-07T11:40:29.755625] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.755626] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.755619] [WARN] Disk space low
+[2025-11-07T11:40:29.755609] [INFO] Transaction completed
+[2025-11-07T11:40:29.755618] [WARN] Timeout warning
+[2025-11-07T11:40:29.755624] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.755613] [INFO] Request processed successfully
+[2025-11-07T11:40:29.755621] [ERROR] Request failed
+[2025-11-07T11:40:29.755623] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.755627] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.755631] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.755603] [INFO] User logged in
+[2025-11-07T11:40:29.755628] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.755622] [ERROR] Authentication failed
+[2025-11-07T11:40:29.755605] [INFO] Service initialized

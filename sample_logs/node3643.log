@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.684928] [WARN] Slow query performance
+[2025-11-07T11:40:29.684944] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.684938] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.684930] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.684932] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.684925] [INFO] Service initialized
+[2025-11-07T11:40:29.684927] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.684931] [WARN] Cache miss
+[2025-11-07T11:40:29.684917] [INFO] Configuration loaded
+[2025-11-07T11:40:29.684918] [INFO] Configuration loaded
+[2025-11-07T11:40:29.684914] [INFO] Connection established
+[2025-11-07T11:40:29.684948] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.684920] [INFO] Health check passed
+[2025-11-07T11:40:29.684946] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.684937] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.684935] [ERROR] Invalid input data
+[2025-11-07T11:40:29.684945] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.684911] [INFO] Cache hit
+[2025-11-07T11:40:29.684924] [INFO] Connection established
+[2025-11-07T11:40:29.684916] [INFO] Database query executed
+[2025-11-07T11:40:29.684941] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.684934] [ERROR] Network timeout
+[2025-11-07T11:40:29.684942] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.684923] [INFO] Database query executed
+[2025-11-07T11:40:29.684929] [WARN] Timeout warning
+[2025-11-07T11:40:29.684947] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.684913] [INFO] User logged in
+[2025-11-07T11:40:29.684940] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.684926] [INFO] Session started
+[2025-11-07T11:40:29.684943] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.684919] [INFO] Database query executed
+[2025-11-07T11:40:29.684915] [INFO] Session started
+[2025-11-07T11:40:29.684936] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.684921] [INFO] Connection established
+[2025-11-07T11:40:29.684933] [WARN] High memory usage detected
+[2025-11-07T11:40:29.684922] [INFO] Transaction completed

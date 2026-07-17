@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.759883] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.759873] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.759878] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.759885] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.759868] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759869] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759866] [INFO] User logged in
+[2025-11-07T11:40:29.759874] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.759875] [ERROR] Invalid input data
+[2025-11-07T11:40:29.759876] [ERROR] Network timeout
+[2025-11-07T11:40:29.759864] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759860] [INFO] Database query executed
+[2025-11-07T11:40:29.759859] [INFO] Cache hit
+[2025-11-07T11:40:29.759871] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.759856] [INFO] Transaction completed
+[2025-11-07T11:40:29.759865] [INFO] Service initialized
+[2025-11-07T11:40:29.759880] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.759858] [INFO] Connection established
+[2025-11-07T11:40:29.759881] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.759872] [WARN] Cache miss
+[2025-11-07T11:40:29.759884] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.759879] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.759862] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759884] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.759867] [INFO] Connection established
+[2025-11-07T11:40:29.759882] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.759870] [WARN] Cache miss
+[2025-11-07T11:40:29.759861] [INFO] Service initialized
+[2025-11-07T11:40:29.759857] [INFO] Cache hit
+[2025-11-07T11:40:29.759863] [INFO] Health check passed

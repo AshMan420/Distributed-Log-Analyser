@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.416091] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.416087] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.416074] [INFO] Session started
+[2025-11-07T11:40:29.416067] [INFO] Transaction completed
+[2025-11-07T11:40:29.416066] [INFO] Cache hit
+[2025-11-07T11:40:29.416077] [INFO] Connection established
+[2025-11-07T11:40:29.416080] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.416086] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.416088] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.416073] [INFO] Transaction completed
+[2025-11-07T11:40:29.416079] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.416085] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.416071] [INFO] Database query executed
+[2025-11-07T11:40:29.416075] [INFO] User logged in
+[2025-11-07T11:40:29.416070] [INFO] Service initialized
+[2025-11-07T11:40:29.416068] [INFO] Request processed successfully
+[2025-11-07T11:40:29.416090] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.416089] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.416083] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.416081] [ERROR] Authentication failed
+[2025-11-07T11:40:29.416069] [INFO] Cache hit
+[2025-11-07T11:40:29.416076] [INFO] Request processed successfully
+[2025-11-07T11:40:29.416076] [INFO] Configuration loaded
+[2025-11-07T11:40:29.416078] [INFO] Health check passed
+[2025-11-07T11:40:29.416084] [DEBUG] Entering function process_data()

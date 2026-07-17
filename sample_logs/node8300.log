@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.174559] [INFO] User logged in
+[2025-11-07T11:40:30.174546] [INFO] Health check passed
+[2025-11-07T11:40:30.174582] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.174542] [INFO] Request processed successfully
+[2025-11-07T11:40:30.174564] [INFO] User logged in
+[2025-11-07T11:40:30.174571] [WARN] Timeout warning
+[2025-11-07T11:40:30.174544] [INFO] Service initialized
+[2025-11-07T11:40:30.174555] [INFO] Connection established
+[2025-11-07T11:40:30.174568] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.174567] [INFO] Database query executed
+[2025-11-07T11:40:30.174573] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.174577] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.174572] [WARN] Cache miss
+[2025-11-07T11:40:30.174560] [INFO] Service initialized
+[2025-11-07T11:40:30.174545] [INFO] Connection established
+[2025-11-07T11:40:30.174581] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.174574] [ERROR] Request failed
+[2025-11-07T11:40:30.174565] [INFO] Health check passed
+[2025-11-07T11:40:30.174580] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.174543] [INFO] Database query executed
+[2025-11-07T11:40:30.174563] [INFO] Service initialized
+[2025-11-07T11:40:30.174579] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.174556] [INFO] Service initialized
+[2025-11-07T11:40:30.174558] [INFO] Cache hit
+[2025-11-07T11:40:30.174569] [WARN] High memory usage detected
+[2025-11-07T11:40:30.174576] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.174575] [ERROR] Service unavailable
+[2025-11-07T11:40:30.174578] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.174562] [INFO] Request processed successfully

@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.120454] [INFO] Session started
+[2025-11-07T11:40:30.120472] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.120441] [INFO] Health check passed
+[2025-11-07T11:40:30.120469] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.120444] [INFO] Transaction completed
+[2025-11-07T11:40:30.120467] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.120466] [ERROR] Service unavailable
+[2025-11-07T11:40:30.120450] [INFO] User logged in
+[2025-11-07T11:40:30.120451] [INFO] Connection established
+[2025-11-07T11:40:30.120471] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.120456] [INFO] Request processed successfully
+[2025-11-07T11:40:30.120473] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.120448] [INFO] Connection established
+[2025-11-07T11:40:30.120445] [INFO] Session started
+[2025-11-07T11:40:30.120474] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.120437] [INFO] Transaction completed
+[2025-11-07T11:40:30.120465] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.120460] [WARN] Timeout warning
+[2025-11-07T11:40:30.120449] [INFO] Service initialized
+[2025-11-07T11:40:30.120468] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.120461] [WARN] Slow query performance
+[2025-11-07T11:40:30.120459] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.120455] [INFO] Service initialized
+[2025-11-07T11:40:30.120457] [INFO] Service initialized
+[2025-11-07T11:40:30.120452] [INFO] Transaction completed
+[2025-11-07T11:40:30.120440] [INFO] Service initialized
+[2025-11-07T11:40:30.120462] [WARN] Queue size growing
+[2025-11-07T11:40:30.120443] [INFO] Connection established
+[2025-11-07T11:40:30.120453] [INFO] Database query executed
+[2025-11-07T11:40:30.120446] [INFO] Configuration loaded
+[2025-11-07T11:40:30.120458] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.120447] [INFO] Transaction completed
+[2025-11-07T11:40:30.120442] [INFO] Connection established
+[2025-11-07T11:40:30.120438] [INFO] Cache hit
+[2025-11-07T11:40:30.120463] [WARN] High memory usage detected
+[2025-11-07T11:40:30.120470] [DEBUG] Memory allocation: 2048 bytes

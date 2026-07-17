@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.683908] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.683895] [INFO] Request processed successfully
+[2025-11-07T11:40:29.683890] [INFO] Database query executed
+[2025-11-07T11:40:29.683885] [INFO] Transaction completed
+[2025-11-07T11:40:29.683912] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.683909] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.683910] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.683887] [INFO] Cache hit
+[2025-11-07T11:40:29.683903] [WARN] High memory usage detected
+[2025-11-07T11:40:29.683894] [INFO] Health check passed
+[2025-11-07T11:40:29.683905] [ERROR] Disk read failed
+[2025-11-07T11:40:29.683889] [INFO] Session started
+[2025-11-07T11:40:29.683898] [INFO] Session started
+[2025-11-07T11:40:29.683893] [INFO] Transaction completed
+[2025-11-07T11:40:29.683901] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.683888] [INFO] Request processed successfully
+[2025-11-07T11:40:29.683899] [INFO] Transaction completed
+[2025-11-07T11:40:29.683904] [ERROR] Request failed
+[2025-11-07T11:40:29.683916] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.683892] [INFO] User logged in
+[2025-11-07T11:40:29.683900] [WARN] Queue size growing
+[2025-11-07T11:40:29.683911] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.683913] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.683915] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.683906] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.683914] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.683897] [INFO] Request processed successfully
+[2025-11-07T11:40:29.683891] [INFO] Transaction completed
+[2025-11-07T11:40:29.683902] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.683913] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.683896] [INFO] Session started

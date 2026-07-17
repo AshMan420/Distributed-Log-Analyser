@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.897762] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.897764] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.897763] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.897747] [INFO] Service initialized
+[2025-11-07T11:40:29.897732] [INFO] Configuration loaded
+[2025-11-07T11:40:29.897759] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.897744] [INFO] Connection established
+[2025-11-07T11:40:29.897755] [WARN] Slow query performance
+[2025-11-07T11:40:29.897767] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.897733] [INFO] Transaction completed
+[2025-11-07T11:40:29.897729] [INFO] Configuration loaded
+[2025-11-07T11:40:29.897731] [INFO] Configuration loaded
+[2025-11-07T11:40:29.897748] [INFO] Transaction completed
+[2025-11-07T11:40:29.897751] [WARN] Slow query performance
+[2025-11-07T11:40:29.897761] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.897734] [INFO] Database query executed
+[2025-11-07T11:40:29.897758] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.897740] [INFO] Session started
+[2025-11-07T11:40:29.897739] [INFO] Service initialized
+[2025-11-07T11:40:29.897765] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.897743] [INFO] Connection established
+[2025-11-07T11:40:29.897757] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.897745] [INFO] Configuration loaded
+[2025-11-07T11:40:29.897736] [INFO] User logged in
+[2025-11-07T11:40:29.897737] [INFO] Service initialized
+[2025-11-07T11:40:29.897753] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.897727] [INFO] User logged in
+[2025-11-07T11:40:29.897766] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.897760] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.897749] [INFO] Configuration loaded
+[2025-11-07T11:40:29.897756] [WARN] Timeout warning
+[2025-11-07T11:40:29.897752] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.897742] [INFO] Service initialized
+[2025-11-07T11:40:29.897735] [INFO] Transaction completed
+[2025-11-07T11:40:29.897730] [INFO] Service initialized

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.944542] [INFO] Configuration loaded
+[2025-11-07T11:40:29.944559] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.944553] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.944528] [INFO] Connection established
+[2025-11-07T11:40:29.944534] [INFO] Request processed successfully
+[2025-11-07T11:40:29.944531] [INFO] Cache hit
+[2025-11-07T11:40:29.944551] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.944550] [ERROR] Authentication failed
+[2025-11-07T11:40:29.944537] [INFO] Connection established
+[2025-11-07T11:40:29.944533] [INFO] Session started
+[2025-11-07T11:40:29.944549] [ERROR] Permission denied
+[2025-11-07T11:40:29.944539] [INFO] Service initialized
+[2025-11-07T11:40:29.944530] [INFO] Cache hit
+[2025-11-07T11:40:29.944556] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.944532] [INFO] Health check passed
+[2025-11-07T11:40:29.944541] [INFO] Health check passed
+[2025-11-07T11:40:29.944554] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.944555] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.944552] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.944535] [INFO] Connection established
+[2025-11-07T11:40:29.944557] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.944544] [INFO] Database query executed
+[2025-11-07T11:40:29.944558] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.944538] [INFO] Health check passed
+[2025-11-07T11:40:29.944546] [INFO] Health check passed
+[2025-11-07T11:40:29.944560] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.944545] [INFO] Connection established
+[2025-11-07T11:40:29.944543] [INFO] Cache hit
+[2025-11-07T11:40:29.944548] [WARN] Disk space low
+[2025-11-07T11:40:29.944536] [INFO] Service initialized
+[2025-11-07T11:40:29.944547] [WARN] Cache miss
+[2025-11-07T11:40:29.944540] [INFO] Configuration loaded

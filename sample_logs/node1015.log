@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.398014] [INFO] Session started
+[2025-11-07T11:40:29.398021] [INFO] Service initialized
+[2025-11-07T11:40:29.398028] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.398006] [INFO] Request processed successfully
+[2025-11-07T11:40:29.398024] [WARN] Queue size growing
+[2025-11-07T11:40:29.398039] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.398032] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.398005] [INFO] User logged in
+[2025-11-07T11:40:29.398038] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.398030] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.398007] [INFO] Configuration loaded
+[2025-11-07T11:40:29.398036] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.398025] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.398010] [INFO] Connection established
+[2025-11-07T11:40:29.398013] [INFO] Session started
+[2025-11-07T11:40:29.398008] [INFO] Service initialized
+[2025-11-07T11:40:29.398033] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.398031] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.398037] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.398029] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.398026] [WARN] Slow query performance
+[2025-11-07T11:40:29.398012] [INFO] Session started
+[2025-11-07T11:40:29.398035] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.398011] [INFO] Health check passed
+[2025-11-07T11:40:29.398016] [INFO] Service initialized
+[2025-11-07T11:40:29.398027] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.398015] [INFO] Connection established
+[2025-11-07T11:40:29.398020] [INFO] Transaction completed
+[2025-11-07T11:40:29.398018] [INFO] Connection established
+[2025-11-07T11:40:29.398034] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.398017] [INFO] Transaction completed
+[2025-11-07T11:40:29.398009] [INFO] Transaction completed
+[2025-11-07T11:40:29.398023] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.398019] [INFO] Session started

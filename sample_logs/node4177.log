@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.739563] [WARN] Cache miss
+[2025-11-07T11:40:29.739557] [INFO] Configuration loaded
+[2025-11-07T11:40:29.739564] [WARN] Slow query performance
+[2025-11-07T11:40:29.739551] [INFO] Cache hit
+[2025-11-07T11:40:29.739562] [WARN] Queue size growing
+[2025-11-07T11:40:29.739559] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.739553] [INFO] Service initialized
+[2025-11-07T11:40:29.739560] [WARN] Cache miss
+[2025-11-07T11:40:29.739535] [INFO] Session started
+[2025-11-07T11:40:29.739554] [INFO] Service initialized
+[2025-11-07T11:40:29.739558] [INFO] Cache hit
+[2025-11-07T11:40:29.739555] [INFO] Configuration loaded
+[2025-11-07T11:40:29.739566] [ERROR] File not found
+[2025-11-07T11:40:29.739548] [INFO] Request processed successfully
+[2025-11-07T11:40:29.739573] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.739546] [INFO] Service initialized
+[2025-11-07T11:40:29.739571] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.739569] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.739572] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.739536] [INFO] Cache hit
+[2025-11-07T11:40:29.739552] [INFO] Service initialized
+[2025-11-07T11:40:29.739575] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.739538] [INFO] Database query executed
+[2025-11-07T11:40:29.739537] [INFO] Connection established
+[2025-11-07T11:40:29.739565] [ERROR] Request failed
+[2025-11-07T11:40:29.739570] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.739556] [INFO] Cache hit
+[2025-11-07T11:40:29.739549] [INFO] Health check passed
+[2025-11-07T11:40:29.739568] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.739574] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.739550] [INFO] Connection established
+[2025-11-07T11:40:29.739561] [WARN] Queue size growing
+[2025-11-07T11:40:29.739576] [DEBUG] Entering function process_data()

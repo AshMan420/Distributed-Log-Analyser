@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.086220] [WARN] Slow query performance
+[2025-11-07T11:40:30.086212] [INFO] Configuration loaded
+[2025-11-07T11:40:30.086221] [WARN] Cache miss
+[2025-11-07T11:40:30.086206] [INFO] Request processed successfully
+[2025-11-07T11:40:30.086222] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.086217] [INFO] Health check passed
+[2025-11-07T11:40:30.086219] [INFO] User logged in
+[2025-11-07T11:40:30.086225] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.086209] [INFO] User logged in
+[2025-11-07T11:40:30.086218] [INFO] Configuration loaded
+[2025-11-07T11:40:30.086215] [INFO] Session started
+[2025-11-07T11:40:30.086230] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.086228] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.086229] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.086223] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.086216] [INFO] Health check passed
+[2025-11-07T11:40:30.086214] [INFO] Health check passed
+[2025-11-07T11:40:30.086210] [INFO] Session started
+[2025-11-07T11:40:30.086211] [INFO] Health check passed
+[2025-11-07T11:40:30.086227] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.086226] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.086207] [INFO] Connection established
+[2025-11-07T11:40:30.086208] [INFO] User logged in
+[2025-11-07T11:40:30.086213] [INFO] Service initialized

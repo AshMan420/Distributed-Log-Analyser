@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.733628] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.733618] [WARN] Timeout warning
+[2025-11-07T11:40:29.733623] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.733616] [INFO] Transaction completed
+[2025-11-07T11:40:29.733626] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.733620] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.733621] [ERROR] Disk read failed
+[2025-11-07T11:40:29.733630] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.733607] [INFO] Request processed successfully
+[2025-11-07T11:40:29.733627] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.733614] [INFO] Health check passed
+[2025-11-07T11:40:29.733625] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733609] [INFO] Connection established
+[2025-11-07T11:40:29.733624] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733622] [ERROR] File not found
+[2025-11-07T11:40:29.733611] [INFO] Database query executed
+[2025-11-07T11:40:29.733617] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.733605] [INFO] Service initialized
+[2025-11-07T11:40:29.733613] [INFO] Connection established
+[2025-11-07T11:40:29.733631] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733604] [INFO] User logged in
+[2025-11-07T11:40:29.733608] [INFO] Transaction completed
+[2025-11-07T11:40:29.733610] [INFO] Transaction completed
+[2025-11-07T11:40:29.733612] [INFO] Health check passed
+[2025-11-07T11:40:29.733619] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.733602] [INFO] User logged in
+[2025-11-07T11:40:29.733629] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733603] [INFO] Session started
+[2025-11-07T11:40:29.733601] [INFO] Request processed successfully
+[2025-11-07T11:40:29.733615] [INFO] Request processed successfully

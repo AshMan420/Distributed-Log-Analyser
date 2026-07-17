@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.346700] [WARN] Slow query performance
+[2025-11-07T11:40:30.346686] [INFO] Service initialized
+[2025-11-07T11:40:30.346705] [ERROR] Permission denied
+[2025-11-07T11:40:30.346682] [INFO] Request processed successfully
+[2025-11-07T11:40:30.346690] [INFO] Connection established
+[2025-11-07T11:40:30.346699] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.346712] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.346693] [INFO] Database query executed
+[2025-11-07T11:40:30.346703] [WARN] Disk space low
+[2025-11-07T11:40:30.346711] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.346692] [INFO] Session started
+[2025-11-07T11:40:30.346687] [INFO] Transaction completed
+[2025-11-07T11:40:30.346688] [INFO] Connection established
+[2025-11-07T11:40:30.346707] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.346710] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.346685] [INFO] Health check passed
+[2025-11-07T11:40:30.346706] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.346694] [INFO] Session started
+[2025-11-07T11:40:30.346708] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.346691] [INFO] User logged in
+[2025-11-07T11:40:30.346689] [INFO] Cache hit
+[2025-11-07T11:40:30.346704] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.346696] [INFO] User logged in
+[2025-11-07T11:40:30.346702] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.346684] [INFO] Connection established
+[2025-11-07T11:40:30.346698] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.346697] [INFO] Transaction completed
+[2025-11-07T11:40:30.346709] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.346695] [INFO] Cache hit
+[2025-11-07T11:40:30.346701] [WARN] Deprecated API usage

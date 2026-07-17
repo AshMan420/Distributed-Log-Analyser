@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.684099] [INFO] Health check passed
+[2025-11-07T11:40:29.684100] [INFO] Request processed successfully
+[2025-11-07T11:40:29.684114] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.684120] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.684104] [WARN] Queue size growing
+[2025-11-07T11:40:29.684116] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.684098] [INFO] Session started
+[2025-11-07T11:40:29.684110] [ERROR] Database connection lost
+[2025-11-07T11:40:29.684093] [INFO] Connection established
+[2025-11-07T11:40:29.684089] [INFO] Connection established
+[2025-11-07T11:40:29.684090] [INFO] Configuration loaded
+[2025-11-07T11:40:29.684109] [WARN] High memory usage detected
+[2025-11-07T11:40:29.684097] [INFO] Service initialized
+[2025-11-07T11:40:29.684101] [INFO] Connection established
+[2025-11-07T11:40:29.684115] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.684106] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.684091] [INFO] Session started
+[2025-11-07T11:40:29.684119] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.684105] [WARN] High memory usage detected
+[2025-11-07T11:40:29.684102] [INFO] Request processed successfully
+[2025-11-07T11:40:29.684117] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.684094] [INFO] Cache hit
+[2025-11-07T11:40:29.684103] [INFO] User logged in
+[2025-11-07T11:40:29.684096] [INFO] Connection established
+[2025-11-07T11:40:29.684118] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.684092] [INFO] Transaction completed
+[2025-11-07T11:40:29.684108] [WARN] High memory usage detected
+[2025-11-07T11:40:29.684112] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.684107] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.684113] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.684111] [ERROR] Memory allocation error

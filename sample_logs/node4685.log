@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.790970] [INFO] Cache hit
+[2025-11-07T11:40:29.790981] [INFO] Health check passed
+[2025-11-07T11:40:29.790966] [INFO] User logged in
+[2025-11-07T11:40:29.790989] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.790990] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.790991] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.790992] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.790988] [ERROR] Database connection lost
+[2025-11-07T11:40:29.790973] [INFO] Session started
+[2025-11-07T11:40:29.790971] [INFO] Health check passed
+[2025-11-07T11:40:29.790985] [WARN] Cache miss
+[2025-11-07T11:40:29.790968] [INFO] Connection established
+[2025-11-07T11:40:29.790975] [INFO] Transaction completed
+[2025-11-07T11:40:29.790965] [INFO] Configuration loaded
+[2025-11-07T11:40:29.790980] [INFO] Service initialized
+[2025-11-07T11:40:29.790974] [INFO] Health check passed
+[2025-11-07T11:40:29.790966] [INFO] Request processed successfully
+[2025-11-07T11:40:29.790996] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.790986] [WARN] Cache miss
+[2025-11-07T11:40:29.790979] [INFO] Service initialized
+[2025-11-07T11:40:29.790967] [INFO] User logged in
+[2025-11-07T11:40:29.790998] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.790977] [INFO] Request processed successfully
+[2025-11-07T11:40:29.790994] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.790963] [INFO] Configuration loaded
+[2025-11-07T11:40:29.790993] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.790978] [INFO] Database query executed
+[2025-11-07T11:40:29.790972] [INFO] Configuration loaded
+[2025-11-07T11:40:29.790983] [WARN] Cache miss
+[2025-11-07T11:40:29.790997] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.790982] [INFO] Transaction completed
+[2025-11-07T11:40:29.790976] [INFO] Request processed successfully
+[2025-11-07T11:40:29.790962] [INFO] Connection established
+[2025-11-07T11:40:29.790984] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.790970] [INFO] Request processed successfully
+[2025-11-07T11:40:29.790995] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.790987] [ERROR] Permission denied

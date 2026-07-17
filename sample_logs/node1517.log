@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.451137] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.451120] [INFO] Service initialized
+[2025-11-07T11:40:29.451132] [ERROR] Service unavailable
+[2025-11-07T11:40:29.451138] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.451134] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.451141] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.451126] [INFO] Configuration loaded
+[2025-11-07T11:40:29.451121] [INFO] Configuration loaded
+[2025-11-07T11:40:29.451131] [ERROR] Disk read failed
+[2025-11-07T11:40:29.451136] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.451133] [ERROR] Service unavailable
+[2025-11-07T11:40:29.451127] [INFO] User logged in
+[2025-11-07T11:40:29.451140] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.451123] [INFO] Cache hit
+[2025-11-07T11:40:29.451119] [INFO] Transaction completed
+[2025-11-07T11:40:29.451128] [INFO] Database query executed
+[2025-11-07T11:40:29.451142] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.451130] [WARN] Cache miss
+[2025-11-07T11:40:29.451118] [INFO] Session started
+[2025-11-07T11:40:29.451129] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.451125] [INFO] Health check passed
+[2025-11-07T11:40:29.451117] [INFO] User logged in
+[2025-11-07T11:40:29.451139] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.451124] [INFO] Transaction completed
+[2025-11-07T11:40:29.451135] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.451115] [INFO] Session started
+[2025-11-07T11:40:29.451122] [INFO] Transaction completed

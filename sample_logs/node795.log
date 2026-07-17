@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.374904] [INFO] Transaction completed
+[2025-11-07T11:40:29.374920] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.374909] [ERROR] Database connection lost
+[2025-11-07T11:40:29.374901] [INFO] Connection established
+[2025-11-07T11:40:29.374895] [INFO] Transaction completed
+[2025-11-07T11:40:29.374900] [INFO] Transaction completed
+[2025-11-07T11:40:29.374912] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.374918] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.374902] [INFO] Service initialized
+[2025-11-07T11:40:29.374908] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.374897] [INFO] Request processed successfully
+[2025-11-07T11:40:29.374905] [INFO] Request processed successfully
+[2025-11-07T11:40:29.374917] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.374913] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.374903] [INFO] Connection established
+[2025-11-07T11:40:29.374919] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.374915] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.374906] [WARN] Timeout warning
+[2025-11-07T11:40:29.374899] [INFO] Health check passed
+[2025-11-07T11:40:29.374914] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.374907] [WARN] High memory usage detected
+[2025-11-07T11:40:29.374898] [INFO] Service initialized
+[2025-11-07T11:40:29.374894] [INFO] Health check passed
+[2025-11-07T11:40:29.374896] [INFO] Database query executed
+[2025-11-07T11:40:29.374916] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.374910] [ERROR] Database connection lost

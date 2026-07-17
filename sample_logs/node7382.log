@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.077165] [INFO] Health check passed
+[2025-11-07T11:40:30.077160] [INFO] Health check passed
+[2025-11-07T11:40:30.077179] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.077182] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.077180] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.077172] [WARN] High memory usage detected
+[2025-11-07T11:40:30.077164] [INFO] Request processed successfully
+[2025-11-07T11:40:30.077163] [INFO] Health check passed
+[2025-11-07T11:40:30.077167] [INFO] Database query executed
+[2025-11-07T11:40:30.077171] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.077184] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.077166] [INFO] Request processed successfully
+[2025-11-07T11:40:30.077176] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.077173] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.077175] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.077183] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.077178] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.077181] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.077174] [ERROR] Database connection lost
+[2025-11-07T11:40:30.077157] [INFO] Connection established
+[2025-11-07T11:40:30.077161] [INFO] Session started
+[2025-11-07T11:40:30.077168] [INFO] User logged in
+[2025-11-07T11:40:30.077177] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.077169] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.077158] [INFO] Database query executed
+[2025-11-07T11:40:30.077162] [INFO] Cache hit
+[2025-11-07T11:40:30.077170] [WARN] Rate limit approaching

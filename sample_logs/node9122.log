@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.270485] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.270475] [INFO] Connection established
+[2025-11-07T11:40:30.270481] [INFO] Health check passed
+[2025-11-07T11:40:30.270472] [INFO] User logged in
+[2025-11-07T11:40:30.270471] [INFO] Health check passed
+[2025-11-07T11:40:30.270479] [INFO] Cache hit
+[2025-11-07T11:40:30.270490] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.270486] [WARN] Cache miss
+[2025-11-07T11:40:30.270477] [INFO] Cache hit
+[2025-11-07T11:40:30.270482] [INFO] Connection established
+[2025-11-07T11:40:30.270493] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.270494] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.270469] [INFO] Database query executed
+[2025-11-07T11:40:30.270491] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.270473] [INFO] User logged in
+[2025-11-07T11:40:30.270483] [INFO] Transaction completed
+[2025-11-07T11:40:30.270474] [INFO] Cache hit
+[2025-11-07T11:40:30.270476] [INFO] Session started
+[2025-11-07T11:40:30.270484] [WARN] Queue size growing
+[2025-11-07T11:40:30.270480] [INFO] Configuration loaded
+[2025-11-07T11:40:30.270495] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.270489] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.270496] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.270485] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.270492] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.270478] [INFO] Session started
+[2025-11-07T11:40:30.270487] [ERROR] Request failed
+[2025-11-07T11:40:30.270497] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.270489] [DEBUG] Cache key generated

@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.117605] [INFO] User logged in
+[2025-11-07T11:40:30.117621] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.117625] [WARN] High memory usage detected
+[2025-11-07T11:40:30.117635] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.117642] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.117615] [INFO] Request processed successfully
+[2025-11-07T11:40:30.117618] [INFO] Service initialized
+[2025-11-07T11:40:30.117620] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.117624] [WARN] Disk space low
+[2025-11-07T11:40:30.117636] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.117630] [ERROR] Disk read failed
+[2025-11-07T11:40:30.117612] [INFO] Session started
+[2025-11-07T11:40:30.117640] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.117608] [INFO] User logged in
+[2025-11-07T11:40:30.117611] [INFO] Connection established
+[2025-11-07T11:40:30.117637] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.117610] [INFO] Session started
+[2025-11-07T11:40:30.117614] [INFO] Health check passed
+[2025-11-07T11:40:30.117623] [WARN] Slow query performance
+[2025-11-07T11:40:30.117619] [INFO] Database query executed
+[2025-11-07T11:40:30.117628] [ERROR] Permission denied
+[2025-11-07T11:40:30.117609] [INFO] Request processed successfully
+[2025-11-07T11:40:30.117627] [ERROR] Network timeout
+[2025-11-07T11:40:30.117641] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.117607] [INFO] Health check passed
+[2025-11-07T11:40:30.117622] [WARN] High memory usage detected
+[2025-11-07T11:40:30.117634] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.117629] [ERROR] Disk read failed
+[2025-11-07T11:40:30.117613] [INFO] Connection established
+[2025-11-07T11:40:30.117626] [WARN] Disk space low
+[2025-11-07T11:40:30.117617] [INFO] Connection established
+[2025-11-07T11:40:30.117638] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.117616] [INFO] Session started
+[2025-11-07T11:40:30.117632] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.117633] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.117639] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.117631] [DEBUG] Buffer size: 4096 bytes

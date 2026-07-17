@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.500558] [INFO] User logged in
+[2025-11-07T11:40:29.500556] [INFO] Health check passed
+[2025-11-07T11:40:29.500570] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.500569] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.500577] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.500553] [INFO] Connection established
+[2025-11-07T11:40:29.500551] [INFO] Health check passed
+[2025-11-07T11:40:29.500560] [WARN] Queue size growing
+[2025-11-07T11:40:29.500573] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.500564] [WARN] Queue size growing
+[2025-11-07T11:40:29.500552] [INFO] Service initialized
+[2025-11-07T11:40:29.500554] [INFO] Request processed successfully
+[2025-11-07T11:40:29.500562] [WARN] Queue size growing
+[2025-11-07T11:40:29.500548] [INFO] Transaction completed
+[2025-11-07T11:40:29.500576] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.500574] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.500547] [INFO] Transaction completed
+[2025-11-07T11:40:29.500546] [INFO] Health check passed
+[2025-11-07T11:40:29.500559] [INFO] Service initialized
+[2025-11-07T11:40:29.500575] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.500545] [INFO] Health check passed
+[2025-11-07T11:40:29.500555] [INFO] Database query executed
+[2025-11-07T11:40:29.500549] [INFO] Connection established
+[2025-11-07T11:40:29.500571] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.500563] [WARN] Slow query performance
+[2025-11-07T11:40:29.500567] [ERROR] Request failed
+[2025-11-07T11:40:29.500544] [INFO] Request processed successfully
+[2025-11-07T11:40:29.500566] [ERROR] Service unavailable
+[2025-11-07T11:40:29.500550] [INFO] Health check passed

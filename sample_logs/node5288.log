@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.851772] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.851766] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.851760] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.851748] [INFO] Cache hit
+[2025-11-07T11:40:29.851757] [WARN] Disk space low
+[2025-11-07T11:40:29.851762] [ERROR] File not found
+[2025-11-07T11:40:29.851752] [INFO] Request processed successfully
+[2025-11-07T11:40:29.851773] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.851775] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.851759] [WARN] High memory usage detected
+[2025-11-07T11:40:29.851768] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.851749] [INFO] Database query executed
+[2025-11-07T11:40:29.851754] [INFO] Service initialized
+[2025-11-07T11:40:29.851777] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.851758] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.851746] [INFO] Service initialized
+[2025-11-07T11:40:29.851755] [INFO] Health check passed
+[2025-11-07T11:40:29.851764] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.851770] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.851753] [INFO] Connection established
+[2025-11-07T11:40:29.851743] [INFO] Request processed successfully
+[2025-11-07T11:40:29.851750] [INFO] Cache hit
+[2025-11-07T11:40:29.851747] [INFO] Transaction completed
+[2025-11-07T11:40:29.851751] [INFO] Service initialized
+[2025-11-07T11:40:29.851767] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.851744] [INFO] Request processed successfully
+[2025-11-07T11:40:29.851761] [ERROR] Authentication failed
+[2025-11-07T11:40:29.851741] [INFO] Transaction completed
+[2025-11-07T11:40:29.851742] [INFO] Database query executed
+[2025-11-07T11:40:29.851745] [INFO] Cache hit
+[2025-11-07T11:40:29.851774] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.851763] [ERROR] Permission denied
+[2025-11-07T11:40:29.851776] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.851756] [INFO] Transaction completed
+[2025-11-07T11:40:29.851765] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.851771] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.851769] [DEBUG] Cache key generated

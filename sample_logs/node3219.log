@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.638400] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.638389] [WARN] Disk space low
+[2025-11-07T11:40:29.638371] [INFO] Cache hit
+[2025-11-07T11:40:29.638388] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.638383] [INFO] Cache hit
+[2025-11-07T11:40:29.638378] [INFO] Connection established
+[2025-11-07T11:40:29.638392] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.638379] [INFO] Health check passed
+[2025-11-07T11:40:29.638399] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.638381] [INFO] Connection established
+[2025-11-07T11:40:29.638374] [INFO] Transaction completed
+[2025-11-07T11:40:29.638373] [INFO] Transaction completed
+[2025-11-07T11:40:29.638387] [WARN] High memory usage detected
+[2025-11-07T11:40:29.638390] [ERROR] Disk read failed
+[2025-11-07T11:40:29.638380] [INFO] Connection established
+[2025-11-07T11:40:29.638398] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.638385] [INFO] User logged in
+[2025-11-07T11:40:29.638398] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.638396] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.638384] [INFO] Session started
+[2025-11-07T11:40:29.638394] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.638375] [INFO] Transaction completed
+[2025-11-07T11:40:29.638382] [INFO] User logged in
+[2025-11-07T11:40:29.638393] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.638376] [INFO] Request processed successfully
+[2025-11-07T11:40:29.638391] [ERROR] File not found
+[2025-11-07T11:40:29.638386] [INFO] Request processed successfully
+[2025-11-07T11:40:29.638395] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.638377] [INFO] Health check passed

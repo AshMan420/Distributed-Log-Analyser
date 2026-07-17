@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.433849] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.433852] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.433855] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.433839] [INFO] Health check passed
+[2025-11-07T11:40:29.433829] [INFO] Database query executed
+[2025-11-07T11:40:29.433830] [INFO] Health check passed
+[2025-11-07T11:40:29.433854] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.433851] [ERROR] Disk read failed
+[2025-11-07T11:40:29.433840] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.433837] [INFO] Database query executed
+[2025-11-07T11:40:29.433831] [INFO] Health check passed
+[2025-11-07T11:40:29.433850] [ERROR] Disk read failed
+[2025-11-07T11:40:29.433845] [WARN] Timeout warning
+[2025-11-07T11:40:29.433858] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.433834] [INFO] Database query executed
+[2025-11-07T11:40:29.433833] [INFO] Database query executed
+[2025-11-07T11:40:29.433844] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.433847] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.433842] [WARN] Cache miss
+[2025-11-07T11:40:29.433835] [INFO] Health check passed
+[2025-11-07T11:40:29.433826] [INFO] Session started
+[2025-11-07T11:40:29.433832] [INFO] Service initialized
+[2025-11-07T11:40:29.433828] [INFO] Connection established
+[2025-11-07T11:40:29.433848] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.433857] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.433841] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.433859] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.433856] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.433843] [WARN] Timeout warning
+[2025-11-07T11:40:29.433838] [INFO] Transaction completed
+[2025-11-07T11:40:29.433827] [INFO] Service initialized
+[2025-11-07T11:40:29.433825] [INFO] Transaction completed
+[2025-11-07T11:40:29.433836] [INFO] Configuration loaded
+[2025-11-07T11:40:29.433846] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.433853] [DEBUG] Buffer size: 4096 bytes

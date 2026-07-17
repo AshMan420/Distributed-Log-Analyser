@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.842738] [INFO] Database query executed
+[2025-11-07T11:40:29.842736] [INFO] Transaction completed
+[2025-11-07T11:40:29.842739] [INFO] Request processed successfully
+[2025-11-07T11:40:29.842730] [INFO] Transaction completed
+[2025-11-07T11:40:29.842752] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.842733] [INFO] Session started
+[2025-11-07T11:40:29.842746] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.842728] [INFO] Transaction completed
+[2025-11-07T11:40:29.842737] [INFO] Transaction completed
+[2025-11-07T11:40:29.842731] [INFO] Cache hit
+[2025-11-07T11:40:29.842745] [ERROR] Disk read failed
+[2025-11-07T11:40:29.842744] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.842748] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.842732] [INFO] Transaction completed
+[2025-11-07T11:40:29.842743] [WARN] Cache miss
+[2025-11-07T11:40:29.842749] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.842750] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.842747] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.842729] [INFO] Health check passed
+[2025-11-07T11:40:29.842742] [WARN] Cache miss
+[2025-11-07T11:40:29.842740] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.842741] [WARN] Cache miss
+[2025-11-07T11:40:29.842751] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.842725] [INFO] Database query executed
+[2025-11-07T11:40:29.842727] [INFO] Configuration loaded
+[2025-11-07T11:40:29.842735] [INFO] Connection established
+[2025-11-07T11:40:29.842734] [INFO] Request processed successfully
+[2025-11-07T11:40:29.842737] [INFO] Configuration loaded

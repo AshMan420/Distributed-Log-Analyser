@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.464230] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.464220] [WARN] Cache miss
+[2025-11-07T11:40:29.464222] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.464208] [INFO] Request processed successfully
+[2025-11-07T11:40:29.464221] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.464231] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.464232] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.464224] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.464213] [INFO] Configuration loaded
+[2025-11-07T11:40:29.464236] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.464210] [INFO] Session started
+[2025-11-07T11:40:29.464227] [ERROR] Invalid input data
+[2025-11-07T11:40:29.464208] [INFO] Session started
+[2025-11-07T11:40:29.464223] [WARN] High memory usage detected
+[2025-11-07T11:40:29.464234] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.464226] [WARN] High memory usage detected
+[2025-11-07T11:40:29.464235] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.464214] [INFO] Service initialized
+[2025-11-07T11:40:29.464209] [INFO] Health check passed
+[2025-11-07T11:40:29.464217] [INFO] Transaction completed
+[2025-11-07T11:40:29.464219] [INFO] Session started
+[2025-11-07T11:40:29.464233] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.464216] [INFO] Database query executed
+[2025-11-07T11:40:29.464236] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.464212] [INFO] Session started
+[2025-11-07T11:40:29.464207] [INFO] Service initialized
+[2025-11-07T11:40:29.464211] [INFO] Database query executed
+[2025-11-07T11:40:29.464205] [INFO] Configuration loaded
+[2025-11-07T11:40:29.464225] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.464218] [INFO] Configuration loaded
+[2025-11-07T11:40:29.464215] [INFO] Request processed successfully
+[2025-11-07T11:40:29.464228] [ERROR] Invalid input data
+[2025-11-07T11:40:29.464229] [DEBUG] Timer set: 30 seconds

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.892998] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892992] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.892983] [INFO] Session started
+[2025-11-07T11:40:29.892999] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892981] [INFO] Session started
+[2025-11-07T11:40:29.892979] [INFO] Session started
+[2025-11-07T11:40:29.892994] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892991] [ERROR] File not found
+[2025-11-07T11:40:29.892972] [INFO] Configuration loaded
+[2025-11-07T11:40:29.892987] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.892988] [WARN] Timeout warning
+[2025-11-07T11:40:29.892975] [INFO] Service initialized
+[2025-11-07T11:40:29.892967] [INFO] Health check passed
+[2025-11-07T11:40:29.892978] [INFO] Connection established
+[2025-11-07T11:40:29.892973] [INFO] Connection established
+[2025-11-07T11:40:29.892997] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.893000] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.892982] [INFO] Database query executed
+[2025-11-07T11:40:29.892981] [INFO] Session started
+[2025-11-07T11:40:29.892996] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.892990] [ERROR] Request failed
+[2025-11-07T11:40:29.892976] [INFO] Transaction completed
+[2025-11-07T11:40:29.892985] [WARN] Timeout warning
+[2025-11-07T11:40:29.892995] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.892989] [WARN] Slow query performance
+[2025-11-07T11:40:29.892969] [INFO] Transaction completed
+[2025-11-07T11:40:29.892979] [INFO] Cache hit
+[2025-11-07T11:40:29.892974] [INFO] Connection established
+[2025-11-07T11:40:29.892968] [INFO] Database query executed
+[2025-11-07T11:40:29.892984] [INFO] Cache hit
+[2025-11-07T11:40:29.892971] [INFO] Cache hit
+[2025-11-07T11:40:29.892975] [INFO] Request processed successfully
+[2025-11-07T11:40:29.892993] [DEBUG] Buffer size: 4096 bytes

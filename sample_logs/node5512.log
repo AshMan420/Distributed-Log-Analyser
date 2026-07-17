@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.874148] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.874131] [INFO] Connection established
+[2025-11-07T11:40:29.874128] [INFO] Cache hit
+[2025-11-07T11:40:29.874129] [INFO] Connection established
+[2025-11-07T11:40:29.874140] [INFO] User logged in
+[2025-11-07T11:40:29.874151] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.874132] [INFO] Database query executed
+[2025-11-07T11:40:29.874130] [INFO] Configuration loaded
+[2025-11-07T11:40:29.874134] [INFO] Database query executed
+[2025-11-07T11:40:29.874150] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.874153] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.874137] [INFO] Request processed successfully
+[2025-11-07T11:40:29.874154] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.874138] [INFO] User logged in
+[2025-11-07T11:40:29.874145] [ERROR] Authentication failed
+[2025-11-07T11:40:29.874133] [INFO] Connection established
+[2025-11-07T11:40:29.874135] [INFO] Request processed successfully
+[2025-11-07T11:40:29.874126] [INFO] User logged in
+[2025-11-07T11:40:29.874149] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.874147] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.874141] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.874139] [INFO] Connection established
+[2025-11-07T11:40:29.874146] [ERROR] Request failed
+[2025-11-07T11:40:29.874142] [WARN] Slow query performance
+[2025-11-07T11:40:29.874143] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.874144] [WARN] Slow query performance
+[2025-11-07T11:40:29.874136] [INFO] Request processed successfully
+[2025-11-07T11:40:29.874124] [INFO] Session started
+[2025-11-07T11:40:29.874152] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.874127] [INFO] Database query executed

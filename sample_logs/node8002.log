@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.140298] [INFO] Cache hit
+[2025-11-07T11:40:30.140310] [WARN] High memory usage detected
+[2025-11-07T11:40:30.140313] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.140321] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.140317] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.140292] [INFO] Database query executed
+[2025-11-07T11:40:30.140289] [INFO] User logged in
+[2025-11-07T11:40:30.140309] [WARN] Slow query performance
+[2025-11-07T11:40:30.140315] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.140300] [INFO] Connection established
+[2025-11-07T11:40:30.140295] [INFO] User logged in
+[2025-11-07T11:40:30.140301] [INFO] Health check passed
+[2025-11-07T11:40:30.140312] [ERROR] Database connection lost
+[2025-11-07T11:40:30.140319] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.140297] [INFO] Configuration loaded
+[2025-11-07T11:40:30.140320] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.140318] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.140306] [INFO] Database query executed
+[2025-11-07T11:40:30.140316] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.140304] [INFO] Database query executed
+[2025-11-07T11:40:30.140291] [INFO] Database query executed
+[2025-11-07T11:40:30.140296] [INFO] Cache hit
+[2025-11-07T11:40:30.140303] [INFO] Database query executed
+[2025-11-07T11:40:30.140307] [WARN] Cache miss
+[2025-11-07T11:40:30.140305] [INFO] Configuration loaded
+[2025-11-07T11:40:30.140299] [INFO] User logged in
+[2025-11-07T11:40:30.140302] [INFO] Request processed successfully
+[2025-11-07T11:40:30.140322] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.140311] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.140308] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.140294] [INFO] Configuration loaded

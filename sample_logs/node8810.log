@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.238545] [WARN] High memory usage detected
+[2025-11-07T11:40:30.238532] [INFO] Database query executed
+[2025-11-07T11:40:30.238540] [INFO] Service initialized
+[2025-11-07T11:40:30.238547] [WARN] Queue size growing
+[2025-11-07T11:40:30.238550] [ERROR] Database connection lost
+[2025-11-07T11:40:30.238527] [INFO] Service initialized
+[2025-11-07T11:40:30.238536] [INFO] User logged in
+[2025-11-07T11:40:30.238534] [INFO] Request processed successfully
+[2025-11-07T11:40:30.238557] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.238549] [ERROR] Request failed
+[2025-11-07T11:40:30.238535] [INFO] User logged in
+[2025-11-07T11:40:30.238533] [INFO] Health check passed
+[2025-11-07T11:40:30.238551] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.238559] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.238537] [INFO] User logged in
+[2025-11-07T11:40:30.238531] [INFO] Session started
+[2025-11-07T11:40:30.238530] [INFO] Connection established
+[2025-11-07T11:40:30.238554] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238544] [WARN] Slow query performance
+[2025-11-07T11:40:30.238542] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.238552] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238546] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.238528] [INFO] Health check passed
+[2025-11-07T11:40:30.238538] [INFO] Transaction completed
+[2025-11-07T11:40:30.238553] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.238556] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.238543] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.238558] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.238548] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.238541] [INFO] Configuration loaded
+[2025-11-07T11:40:30.238529] [INFO] Database query executed
+[2025-11-07T11:40:30.238555] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.238539] [INFO] Cache hit

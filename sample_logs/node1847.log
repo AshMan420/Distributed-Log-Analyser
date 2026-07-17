@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.489134] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.489124] [INFO] User logged in
+[2025-11-07T11:40:29.489115] [INFO] Connection established
+[2025-11-07T11:40:29.489121] [INFO] Cache hit
+[2025-11-07T11:40:29.489132] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.489138] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.489116] [INFO] Transaction completed
+[2025-11-07T11:40:29.489135] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.489117] [INFO] Connection established
+[2025-11-07T11:40:29.489130] [ERROR] Authentication failed
+[2025-11-07T11:40:29.489126] [INFO] Database query executed
+[2025-11-07T11:40:29.489125] [INFO] Health check passed
+[2025-11-07T11:40:29.489131] [ERROR] Invalid input data
+[2025-11-07T11:40:29.489127] [INFO] Health check passed
+[2025-11-07T11:40:29.489136] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.489129] [WARN] Slow query performance
+[2025-11-07T11:40:29.489118] [INFO] Connection established
+[2025-11-07T11:40:29.489119] [INFO] Database query executed
+[2025-11-07T11:40:29.489123] [INFO] Cache hit
+[2025-11-07T11:40:29.489120] [INFO] Session started
+[2025-11-07T11:40:29.489139] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.489133] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.489140] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.489137] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.489128] [INFO] Cache hit
+[2025-11-07T11:40:29.489113] [INFO] Session started
+[2025-11-07T11:40:29.489122] [INFO] Connection established

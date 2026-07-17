@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.686852] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.686847] [WARN] Slow query performance
+[2025-11-07T11:40:29.686859] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.686839] [INFO] Session started
+[2025-11-07T11:40:29.686833] [INFO] Database query executed
+[2025-11-07T11:40:29.686843] [INFO] Service initialized
+[2025-11-07T11:40:29.686829] [INFO] Database query executed
+[2025-11-07T11:40:29.686841] [INFO] User logged in
+[2025-11-07T11:40:29.686860] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.686858] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.686845] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.686862] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.686851] [ERROR] Permission denied
+[2025-11-07T11:40:29.686836] [INFO] Configuration loaded
+[2025-11-07T11:40:29.686863] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.686853] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.686838] [INFO] Cache hit
+[2025-11-07T11:40:29.686835] [INFO] Cache hit
+[2025-11-07T11:40:29.686840] [INFO] Request processed successfully
+[2025-11-07T11:40:29.686842] [INFO] Cache hit
+[2025-11-07T11:40:29.686856] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.686849] [WARN] Slow query performance
+[2025-11-07T11:40:29.686834] [INFO] Transaction completed
+[2025-11-07T11:40:29.686861] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.686837] [INFO] Connection established
+[2025-11-07T11:40:29.686831] [INFO] User logged in
+[2025-11-07T11:40:29.686855] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.686848] [WARN] High memory usage detected
+[2025-11-07T11:40:29.686857] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.686850] [WARN] High memory usage detected
+[2025-11-07T11:40:29.686832] [INFO] User logged in
+[2025-11-07T11:40:29.686844] [INFO] Database query executed
+[2025-11-07T11:40:29.686854] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.686846] [WARN] Slow query performance

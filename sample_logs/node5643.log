@@ -1,0 +1,42 @@
+[2025-11-07T11:40:29.888334] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.888323] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.888318] [ERROR] Permission denied
+[2025-11-07T11:40:29.888329] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.888308] [INFO] Session started
+[2025-11-07T11:40:29.888324] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.888306] [INFO] Database query executed
+[2025-11-07T11:40:29.888320] [ERROR] Disk read failed
+[2025-11-07T11:40:29.888312] [WARN] Cache miss
+[2025-11-07T11:40:29.888327] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.888298] [INFO] Transaction completed
+[2025-11-07T11:40:29.888331] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.888322] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.888293] [INFO] Service initialized
+[2025-11-07T11:40:29.888317] [WARN] Disk space low
+[2025-11-07T11:40:29.888310] [INFO] Cache hit
+[2025-11-07T11:40:29.888330] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.888297] [INFO] Service initialized
+[2025-11-07T11:40:29.888311] [INFO] Database query executed
+[2025-11-07T11:40:29.888335] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.888313] [WARN] Queue size growing
+[2025-11-07T11:40:29.888302] [INFO] Session started
+[2025-11-07T11:40:29.888301] [INFO] Connection established
+[2025-11-07T11:40:29.888332] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.888299] [INFO] Cache hit
+[2025-11-07T11:40:29.888304] [INFO] Database query executed
+[2025-11-07T11:40:29.888326] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.888300] [INFO] Service initialized
+[2025-11-07T11:40:29.888307] [INFO] Session started
+[2025-11-07T11:40:29.888296] [INFO] Connection established
+[2025-11-07T11:40:29.888325] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.888328] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.888295] [INFO] Health check passed
+[2025-11-07T11:40:29.888315] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.888333] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.888316] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.888305] [INFO] Request processed successfully
+[2025-11-07T11:40:29.888319] [ERROR] Authentication failed
+[2025-11-07T11:40:29.888321] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.888314] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.888309] [INFO] Connection established
+[2025-11-07T11:40:29.888303] [INFO] Health check passed

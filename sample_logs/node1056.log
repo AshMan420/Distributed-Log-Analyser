@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.402183] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.402191] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.402174] [INFO] Configuration loaded
+[2025-11-07T11:40:29.402171] [INFO] Database query executed
+[2025-11-07T11:40:29.402173] [INFO] Connection established
+[2025-11-07T11:40:29.402163] [INFO] Cache hit
+[2025-11-07T11:40:29.402187] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402166] [INFO] Health check passed
+[2025-11-07T11:40:29.402185] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.402190] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402180] [WARN] Timeout warning
+[2025-11-07T11:40:29.402191] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.402165] [INFO] Configuration loaded
+[2025-11-07T11:40:29.402175] [INFO] User logged in
+[2025-11-07T11:40:29.402164] [INFO] Database query executed
+[2025-11-07T11:40:29.402184] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.402182] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.402179] [WARN] Slow query performance
+[2025-11-07T11:40:29.402172] [INFO] Database query executed
+[2025-11-07T11:40:29.402178] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.402168] [INFO] Health check passed
+[2025-11-07T11:40:29.402175] [INFO] Request processed successfully
+[2025-11-07T11:40:29.402181] [ERROR] Database connection lost
+[2025-11-07T11:40:29.402177] [WARN] Slow query performance
+[2025-11-07T11:40:29.402161] [INFO] Database query executed
+[2025-11-07T11:40:29.402188] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.402189] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402186] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.402169] [INFO] Configuration loaded
+[2025-11-07T11:40:29.402162] [INFO] Database query executed
+[2025-11-07T11:40:29.402167] [INFO] Service initialized

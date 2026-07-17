@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.497977] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.497973] [INFO] Configuration loaded
+[2025-11-07T11:40:29.497989] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.497961] [INFO] User logged in
+[2025-11-07T11:40:29.497960] [INFO] Request processed successfully
+[2025-11-07T11:40:29.497985] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.497986] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.497966] [INFO] User logged in
+[2025-11-07T11:40:29.497983] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497962] [INFO] Transaction completed
+[2025-11-07T11:40:29.497979] [WARN] Slow query performance
+[2025-11-07T11:40:29.497975] [WARN] High memory usage detected
+[2025-11-07T11:40:29.497980] [WARN] Disk space low
+[2025-11-07T11:40:29.497967] [INFO] Connection established
+[2025-11-07T11:40:29.497984] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.497968] [INFO] Configuration loaded
+[2025-11-07T11:40:29.497963] [INFO] Database query executed
+[2025-11-07T11:40:29.497988] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497981] [ERROR] Service unavailable
+[2025-11-07T11:40:29.497970] [INFO] Session started
+[2025-11-07T11:40:29.497970] [INFO] Transaction completed
+[2025-11-07T11:40:29.497973] [INFO] Request processed successfully
+[2025-11-07T11:40:29.497972] [INFO] Connection established
+[2025-11-07T11:40:29.497974] [INFO] Service initialized
+[2025-11-07T11:40:29.497978] [WARN] High memory usage detected
+[2025-11-07T11:40:29.497969] [INFO] Service initialized
+[2025-11-07T11:40:29.497965] [INFO] Connection established
+[2025-11-07T11:40:29.497987] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.497982] [ERROR] Disk read failed

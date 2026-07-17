@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.167207] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.167187] [INFO] Configuration loaded
+[2025-11-07T11:40:30.167206] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.167202] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.167177] [INFO] Health check passed
+[2025-11-07T11:40:30.167194] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.167192] [WARN] Slow query performance
+[2025-11-07T11:40:30.167182] [INFO] Request processed successfully
+[2025-11-07T11:40:30.167181] [INFO] Cache hit
+[2025-11-07T11:40:30.167195] [WARN] Slow query performance
+[2025-11-07T11:40:30.167200] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.167184] [INFO] Configuration loaded
+[2025-11-07T11:40:30.167193] [WARN] Cache miss
+[2025-11-07T11:40:30.167178] [INFO] Database query executed
+[2025-11-07T11:40:30.167198] [ERROR] File not found
+[2025-11-07T11:40:30.167203] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.167205] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.167209] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.167188] [INFO] Configuration loaded
+[2025-11-07T11:40:30.167176] [INFO] Configuration loaded
+[2025-11-07T11:40:30.167196] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.167185] [INFO] User logged in
+[2025-11-07T11:40:30.167189] [INFO] Request processed successfully
+[2025-11-07T11:40:30.167180] [INFO] Health check passed
+[2025-11-07T11:40:30.167199] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.167208] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.167186] [INFO] Connection established
+[2025-11-07T11:40:30.167189] [INFO] User logged in
+[2025-11-07T11:40:30.167191] [INFO] Session started
+[2025-11-07T11:40:30.167204] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.167201] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.167183] [INFO] Session started
+[2025-11-07T11:40:30.167197] [ERROR] File not found

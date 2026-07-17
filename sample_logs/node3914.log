@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.712413] [INFO] Connection established
+[2025-11-07T11:40:29.712433] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.712416] [INFO] Request processed successfully
+[2025-11-07T11:40:29.712420] [INFO] Request processed successfully
+[2025-11-07T11:40:29.712435] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.712419] [INFO] User logged in
+[2025-11-07T11:40:29.712427] [WARN] High memory usage detected
+[2025-11-07T11:40:29.712432] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.712418] [INFO] Cache hit
+[2025-11-07T11:40:29.712410] [INFO] Cache hit
+[2025-11-07T11:40:29.712417] [INFO] Transaction completed
+[2025-11-07T11:40:29.712441] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.712412] [INFO] Session started
+[2025-11-07T11:40:29.712436] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.712425] [INFO] Database query executed
+[2025-11-07T11:40:29.712426] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.712434] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.712430] [ERROR] Request failed
+[2025-11-07T11:40:29.712415] [INFO] Service initialized
+[2025-11-07T11:40:29.712421] [INFO] Request processed successfully
+[2025-11-07T11:40:29.712431] [ERROR] File not found
+[2025-11-07T11:40:29.712429] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.712414] [INFO] Service initialized
+[2025-11-07T11:40:29.712438] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.712440] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.712422] [INFO] Connection established
+[2025-11-07T11:40:29.712428] [WARN] Cache miss
+[2025-11-07T11:40:29.712437] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.712424] [INFO] Database query executed

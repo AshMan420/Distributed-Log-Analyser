@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.349841] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.349814] [INFO] Session started
+[2025-11-07T11:40:30.349818] [INFO] Configuration loaded
+[2025-11-07T11:40:30.349812] [INFO] User logged in
+[2025-11-07T11:40:30.349820] [INFO] User logged in
+[2025-11-07T11:40:30.349811] [INFO] Cache hit
+[2025-11-07T11:40:30.349830] [ERROR] Invalid input data
+[2025-11-07T11:40:30.349817] [INFO] Configuration loaded
+[2025-11-07T11:40:30.349829] [WARN] Slow query performance
+[2025-11-07T11:40:30.349840] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.349828] [WARN] Queue size growing
+[2025-11-07T11:40:30.349834] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.349813] [INFO] Session started
+[2025-11-07T11:40:30.349835] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.349827] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.349819] [INFO] Transaction completed
+[2025-11-07T11:40:30.349823] [INFO] Health check passed
+[2025-11-07T11:40:30.349810] [INFO] User logged in
+[2025-11-07T11:40:30.349832] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.349821] [INFO] Cache hit
+[2025-11-07T11:40:30.349839] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349815] [INFO] Service initialized
+[2025-11-07T11:40:30.349824] [INFO] Transaction completed
+[2025-11-07T11:40:30.349826] [WARN] Slow query performance
+[2025-11-07T11:40:30.349833] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349836] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.349825] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.349837] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.349838] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.349816] [INFO] Configuration loaded
+[2025-11-07T11:40:30.349822] [INFO] Connection established

@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.742560] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.742546] [INFO] Configuration loaded
+[2025-11-07T11:40:29.742548] [INFO] User logged in
+[2025-11-07T11:40:29.742535] [INFO] Cache hit
+[2025-11-07T11:40:29.742563] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.742558] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.742559] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.742561] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.742543] [INFO] Connection established
+[2025-11-07T11:40:29.742549] [INFO] Configuration loaded
+[2025-11-07T11:40:29.742545] [INFO] Service initialized
+[2025-11-07T11:40:29.742562] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.742539] [INFO] Configuration loaded
+[2025-11-07T11:40:29.742556] [ERROR] File not found
+[2025-11-07T11:40:29.742547] [INFO] Cache hit
+[2025-11-07T11:40:29.742553] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.742538] [INFO] Request processed successfully
+[2025-11-07T11:40:29.742551] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.742542] [INFO] Session started
+[2025-11-07T11:40:29.742557] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.742540] [INFO] Database query executed
+[2025-11-07T11:40:29.742554] [WARN] High memory usage detected
+[2025-11-07T11:40:29.742552] [WARN] Cache miss
+[2025-11-07T11:40:29.742555] [ERROR] Network timeout
+[2025-11-07T11:40:29.742544] [INFO] Request processed successfully
+[2025-11-07T11:40:29.742537] [INFO] Health check passed
+[2025-11-07T11:40:29.742550] [INFO] Session started
+[2025-11-07T11:40:29.742541] [INFO] Request processed successfully

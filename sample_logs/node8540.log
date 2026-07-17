@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.198224] [INFO] Database query executed
+[2025-11-07T11:40:30.198255] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.198253] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.198240] [INFO] User logged in
+[2025-11-07T11:40:30.198256] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.198258] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.198245] [INFO] Service initialized
+[2025-11-07T11:40:30.198248] [WARN] Cache miss
+[2025-11-07T11:40:30.198242] [INFO] Database query executed
+[2025-11-07T11:40:30.198244] [INFO] User logged in
+[2025-11-07T11:40:30.198226] [INFO] User logged in
+[2025-11-07T11:40:30.198257] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.198250] [ERROR] Database connection lost
+[2025-11-07T11:40:30.198236] [INFO] Session started
+[2025-11-07T11:40:30.198259] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.198251] [ERROR] Request failed
+[2025-11-07T11:40:30.198237] [INFO] Request processed successfully
+[2025-11-07T11:40:30.198247] [WARN] Queue size growing
+[2025-11-07T11:40:30.198249] [WARN] Queue size growing
+[2025-11-07T11:40:30.198261] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.198243] [INFO] Request processed successfully
+[2025-11-07T11:40:30.198239] [INFO] Health check passed
+[2025-11-07T11:40:30.198241] [INFO] Request processed successfully
+[2025-11-07T11:40:30.198225] [INFO] User logged in
+[2025-11-07T11:40:30.198252] [ERROR] Authentication failed
+[2025-11-07T11:40:30.198263] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.198246] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.198260] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.198254] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.198227] [INFO] Transaction completed
+[2025-11-07T11:40:30.198238] [INFO] Request processed successfully
+[2025-11-07T11:40:30.198262] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.198223] [INFO] Connection established

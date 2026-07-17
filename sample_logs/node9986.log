@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.370003] [INFO] Service initialized
+[2025-11-07T11:40:30.370022] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.370001] [INFO] Request processed successfully
+[2025-11-07T11:40:30.369999] [INFO] Cache hit
+[2025-11-07T11:40:30.370005] [INFO] Session started
+[2025-11-07T11:40:30.370002] [INFO] Cache hit
+[2025-11-07T11:40:30.370012] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.369997] [INFO] Cache hit
+[2025-11-07T11:40:30.370025] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.370023] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.370013] [ERROR] Invalid input data
+[2025-11-07T11:40:30.370009] [WARN] Timeout warning
+[2025-11-07T11:40:30.369994] [INFO] Request processed successfully
+[2025-11-07T11:40:30.370019] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.370015] [ERROR] Database connection lost
+[2025-11-07T11:40:30.370024] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.370006] [INFO] Database query executed
+[2025-11-07T11:40:30.370008] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.370017] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.370016] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.370007] [INFO] Cache hit
+[2025-11-07T11:40:30.370004] [INFO] Connection established
+[2025-11-07T11:40:30.369996] [INFO] User logged in
+[2025-11-07T11:40:30.370003] [INFO] Connection established
+[2025-11-07T11:40:30.369995] [INFO] Database query executed
+[2025-11-07T11:40:30.370011] [WARN] Timeout warning
+[2025-11-07T11:40:30.369993] [INFO] Cache hit
+[2025-11-07T11:40:30.370000] [INFO] Health check passed
+[2025-11-07T11:40:30.370014] [ERROR] Database connection lost
+[2025-11-07T11:40:30.370021] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.370010] [WARN] Cache miss
+[2025-11-07T11:40:30.370020] [DEBUG] Cache key generated

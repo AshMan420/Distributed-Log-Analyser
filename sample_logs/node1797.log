@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.483610] [INFO] User logged in
+[2025-11-07T11:40:29.483621] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.483613] [WARN] Slow query performance
+[2025-11-07T11:40:29.483603] [INFO] Health check passed
+[2025-11-07T11:40:29.483629] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.483622] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.483605] [INFO] Cache hit
+[2025-11-07T11:40:29.483595] [INFO] Transaction completed
+[2025-11-07T11:40:29.483598] [INFO] User logged in
+[2025-11-07T11:40:29.483617] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.483625] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.483626] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.483604] [INFO] Transaction completed
+[2025-11-07T11:40:29.483620] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.483606] [INFO] Health check passed
+[2025-11-07T11:40:29.483607] [INFO] Connection established
+[2025-11-07T11:40:29.483623] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.483608] [INFO] Health check passed
+[2025-11-07T11:40:29.483628] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.483619] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.483597] [INFO] Database query executed
+[2025-11-07T11:40:29.483604] [INFO] Service initialized
+[2025-11-07T11:40:29.483614] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.483627] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.483618] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.483602] [INFO] Health check passed
+[2025-11-07T11:40:29.483609] [INFO] Database query executed
+[2025-11-07T11:40:29.483601] [INFO] Service initialized
+[2025-11-07T11:40:29.483600] [INFO] Connection established
+[2025-11-07T11:40:29.483599] [INFO] Health check passed
+[2025-11-07T11:40:29.483611] [WARN] Timeout warning
+[2025-11-07T11:40:29.483612] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.483616] [ERROR] Disk read failed
+[2025-11-07T11:40:29.483624] [DEBUG] Memory allocation: 2048 bytes

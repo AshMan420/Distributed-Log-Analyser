@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.404797] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.404801] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.404779] [INFO] Transaction completed
+[2025-11-07T11:40:29.404733] [INFO] Transaction completed
+[2025-11-07T11:40:29.404787] [INFO] Request processed successfully
+[2025-11-07T11:40:29.404802] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.404734] [INFO] Cache hit
+[2025-11-07T11:40:29.404803] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.404785] [INFO] Database query executed
+[2025-11-07T11:40:29.404799] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.404788] [INFO] User logged in
+[2025-11-07T11:40:29.404795] [ERROR] Disk read failed
+[2025-11-07T11:40:29.404793] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.404786] [INFO] Service initialized
+[2025-11-07T11:40:29.404777] [INFO] User logged in
+[2025-11-07T11:40:29.404730] [INFO] Database query executed
+[2025-11-07T11:40:29.404804] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.404735] [INFO] Configuration loaded
+[2025-11-07T11:40:29.404796] [ERROR] Permission denied
+[2025-11-07T11:40:29.404778] [INFO] Session started
+[2025-11-07T11:40:29.404783] [INFO] Request processed successfully
+[2025-11-07T11:40:29.404781] [INFO] Health check passed
+[2025-11-07T11:40:29.404800] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.404791] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.404784] [INFO] Connection established
+[2025-11-07T11:40:29.404798] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.404790] [WARN] Timeout warning
+[2025-11-07T11:40:29.404789] [WARN] Slow query performance
+[2025-11-07T11:40:29.404782] [INFO] Connection established
+[2025-11-07T11:40:29.404792] [WARN] Queue size growing
+[2025-11-07T11:40:29.404736] [INFO] Database query executed

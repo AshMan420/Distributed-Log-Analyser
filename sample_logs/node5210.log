@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.843988] [WARN] Slow query performance
+[2025-11-07T11:40:29.843983] [INFO] Request processed successfully
+[2025-11-07T11:40:29.843997] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.843976] [INFO] Request processed successfully
+[2025-11-07T11:40:29.843996] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.843999] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.843984] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.843981] [INFO] Transaction completed
+[2025-11-07T11:40:29.843972] [INFO] Session started
+[2025-11-07T11:40:29.843979] [INFO] Request processed successfully
+[2025-11-07T11:40:29.843991] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.843973] [INFO] Database query executed
+[2025-11-07T11:40:29.843995] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.843970] [INFO] Transaction completed
+[2025-11-07T11:40:29.843978] [INFO] User logged in
+[2025-11-07T11:40:29.843974] [INFO] Request processed successfully
+[2025-11-07T11:40:29.843985] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.843990] [ERROR] Service unavailable
+[2025-11-07T11:40:29.843998] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.843987] [WARN] Cache miss
+[2025-11-07T11:40:29.843986] [WARN] Queue size growing
+[2025-11-07T11:40:29.843969] [INFO] Database query executed
+[2025-11-07T11:40:29.843994] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.843975] [INFO] Session started
+[2025-11-07T11:40:29.843980] [INFO] Connection established
+[2025-11-07T11:40:29.843977] [INFO] Transaction completed
+[2025-11-07T11:40:29.843982] [INFO] User logged in
+[2025-11-07T11:40:29.843992] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.843971] [INFO] Health check passed
+[2025-11-07T11:40:29.843989] [ERROR] Service unavailable
+[2025-11-07T11:40:29.843993] [DEBUG] Buffer size: 4096 bytes

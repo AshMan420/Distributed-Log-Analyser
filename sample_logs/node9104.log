@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.268558] [INFO] Service initialized
+[2025-11-07T11:40:30.268581] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.268555] [INFO] Transaction completed
+[2025-11-07T11:40:30.268561] [INFO] Connection established
+[2025-11-07T11:40:30.268553] [INFO] Cache hit
+[2025-11-07T11:40:30.268577] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.268567] [WARN] Cache miss
+[2025-11-07T11:40:30.268582] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.268552] [INFO] Configuration loaded
+[2025-11-07T11:40:30.268579] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.268564] [INFO] Request processed successfully
+[2025-11-07T11:40:30.268554] [INFO] Service initialized
+[2025-11-07T11:40:30.268549] [INFO] Configuration loaded
+[2025-11-07T11:40:30.268566] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.268561] [INFO] Connection established
+[2025-11-07T11:40:30.268569] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.268573] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.268571] [ERROR] Invalid input data
+[2025-11-07T11:40:30.268550] [INFO] Service initialized
+[2025-11-07T11:40:30.268563] [INFO] Health check passed
+[2025-11-07T11:40:30.268548] [INFO] Connection established
+[2025-11-07T11:40:30.268576] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.268551] [INFO] Session started
+[2025-11-07T11:40:30.268580] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.268578] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.268583] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.268560] [INFO] Database query executed
+[2025-11-07T11:40:30.268565] [WARN] High memory usage detected
+[2025-11-07T11:40:30.268574] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.268559] [INFO] Service initialized
+[2025-11-07T11:40:30.268557] [INFO] Session started
+[2025-11-07T11:40:30.268572] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.268584] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.268570] [ERROR] Service unavailable
+[2025-11-07T11:40:30.268568] [WARN] Timeout warning

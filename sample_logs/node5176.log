@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.840724] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.840723] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.840718] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.840717] [ERROR] Network timeout
+[2025-11-07T11:40:29.840721] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.840700] [INFO] Health check passed
+[2025-11-07T11:40:29.840730] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.840697] [INFO] Cache hit
+[2025-11-07T11:40:29.840703] [INFO] User logged in
+[2025-11-07T11:40:29.840695] [INFO] Session started
+[2025-11-07T11:40:29.840729] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.840701] [INFO] Health check passed
+[2025-11-07T11:40:29.840698] [INFO] Configuration loaded
+[2025-11-07T11:40:29.840714] [ERROR] Request failed
+[2025-11-07T11:40:29.840692] [INFO] Request processed successfully
+[2025-11-07T11:40:29.840725] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.840712] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.840719] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.840709] [WARN] Slow query performance
+[2025-11-07T11:40:29.840728] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.840704] [INFO] User logged in
+[2025-11-07T11:40:29.840708] [INFO] Connection established
+[2025-11-07T11:40:29.840726] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.840694] [INFO] User logged in
+[2025-11-07T11:40:29.840696] [INFO] Database query executed
+[2025-11-07T11:40:29.840720] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.840690] [INFO] Request processed successfully
+[2025-11-07T11:40:29.840693] [INFO] Transaction completed
+[2025-11-07T11:40:29.840716] [ERROR] Authentication failed
+[2025-11-07T11:40:29.840710] [WARN] Queue size growing
+[2025-11-07T11:40:29.840722] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.840691] [INFO] Session started
+[2025-11-07T11:40:29.840687] [INFO] Configuration loaded
+[2025-11-07T11:40:29.840705] [INFO] Configuration loaded
+[2025-11-07T11:40:29.840706] [INFO] User logged in
+[2025-11-07T11:40:29.840689] [INFO] Session started
+[2025-11-07T11:40:29.840713] [WARN] High memory usage detected
+[2025-11-07T11:40:29.840727] [DEBUG] Cache key generated

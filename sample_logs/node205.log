@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.312397] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.312395] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.312381] [INFO] Connection established
+[2025-11-07T11:40:29.312394] [ERROR] Disk read failed
+[2025-11-07T11:40:29.312393] [ERROR] Request failed
+[2025-11-07T11:40:29.312389] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.312390] [WARN] Queue size growing
+[2025-11-07T11:40:29.312386] [INFO] Cache hit
+[2025-11-07T11:40:29.312383] [INFO] Configuration loaded
+[2025-11-07T11:40:29.312382] [INFO] Service initialized
+[2025-11-07T11:40:29.312385] [INFO] Database query executed
+[2025-11-07T11:40:29.312378] [INFO] User logged in
+[2025-11-07T11:40:29.312396] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.312402] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.312376] [INFO] Session started
+[2025-11-07T11:40:29.312384] [INFO] Session started
+[2025-11-07T11:40:29.312392] [WARN] Slow query performance
+[2025-11-07T11:40:29.312398] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.312400] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.312377] [INFO] Database query executed
+[2025-11-07T11:40:29.312391] [WARN] High memory usage detected
+[2025-11-07T11:40:29.312380] [INFO] Session started
+[2025-11-07T11:40:29.312401] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.312379] [INFO] Request processed successfully
+[2025-11-07T11:40:29.312388] [INFO] Cache hit
+[2025-11-07T11:40:29.312399] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.312403] [DEBUG] Memory allocation: 2048 bytes

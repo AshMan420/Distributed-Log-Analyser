@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.333039] [INFO] Session started
+[2025-11-07T11:40:30.333068] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.333067] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.333046] [INFO] Session started
+[2025-11-07T11:40:30.333040] [INFO] User logged in
+[2025-11-07T11:40:30.333035] [INFO] Connection established
+[2025-11-07T11:40:30.333057] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.333044] [INFO] User logged in
+[2025-11-07T11:40:30.333062] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.333052] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.333038] [INFO] Configuration loaded
+[2025-11-07T11:40:30.333065] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.333066] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.333041] [INFO] Connection established
+[2025-11-07T11:40:30.333054] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.333045] [INFO] Service initialized
+[2025-11-07T11:40:30.333064] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.333042] [INFO] Service initialized
+[2025-11-07T11:40:30.333051] [INFO] Service initialized
+[2025-11-07T11:40:30.333048] [INFO] Transaction completed
+[2025-11-07T11:40:30.333059] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.333063] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.333058] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.333056] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.333053] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.333043] [INFO] Request processed successfully
+[2025-11-07T11:40:30.333049] [INFO] Database query executed
+[2025-11-07T11:40:30.333050] [INFO] Configuration loaded
+[2025-11-07T11:40:30.333037] [INFO] Cache hit
+[2025-11-07T11:40:30.333055] [WARN] Slow query performance
+[2025-11-07T11:40:30.333060] [DEBUG] Thread pool size: 8

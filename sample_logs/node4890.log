@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.811748] [ERROR] Database connection lost
+[2025-11-07T11:40:29.811734] [INFO] Health check passed
+[2025-11-07T11:40:29.811733] [INFO] Connection established
+[2025-11-07T11:40:29.811739] [INFO] Configuration loaded
+[2025-11-07T11:40:29.811729] [INFO] Transaction completed
+[2025-11-07T11:40:29.811730] [INFO] Health check passed
+[2025-11-07T11:40:29.811747] [WARN] Queue size growing
+[2025-11-07T11:40:29.811755] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.811756] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.811749] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.811727] [INFO] Request processed successfully
+[2025-11-07T11:40:29.811737] [INFO] Transaction completed
+[2025-11-07T11:40:29.811738] [INFO] User logged in
+[2025-11-07T11:40:29.811741] [WARN] Cache miss
+[2025-11-07T11:40:29.811731] [INFO] Database query executed
+[2025-11-07T11:40:29.811740] [INFO] Transaction completed
+[2025-11-07T11:40:29.811751] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.811726] [INFO] Database query executed
+[2025-11-07T11:40:29.811743] [WARN] Queue size growing
+[2025-11-07T11:40:29.811759] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.811752] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.811744] [WARN] Slow query performance
+[2025-11-07T11:40:29.811754] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.811746] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.811750] [ERROR] File not found
+[2025-11-07T11:40:29.811732] [INFO] Transaction completed
+[2025-11-07T11:40:29.811745] [WARN] Queue size growing
+[2025-11-07T11:40:29.811758] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.811757] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.811735] [INFO] Transaction completed
+[2025-11-07T11:40:29.811736] [INFO] Request processed successfully

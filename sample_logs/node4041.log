@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.725478] [INFO] Session started
+[2025-11-07T11:40:29.725483] [INFO] Session started
+[2025-11-07T11:40:29.725475] [INFO] Cache hit
+[2025-11-07T11:40:29.725499] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.725472] [INFO] Cache hit
+[2025-11-07T11:40:29.725496] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.725480] [INFO] Request processed successfully
+[2025-11-07T11:40:29.725477] [INFO] Session started
+[2025-11-07T11:40:29.725484] [INFO] Transaction completed
+[2025-11-07T11:40:29.725488] [WARN] Slow query performance
+[2025-11-07T11:40:29.725500] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.725487] [WARN] Queue size growing
+[2025-11-07T11:40:29.725481] [INFO] Configuration loaded
+[2025-11-07T11:40:29.725486] [INFO] Database query executed
+[2025-11-07T11:40:29.725489] [ERROR] Network timeout
+[2025-11-07T11:40:29.725474] [INFO] Connection established
+[2025-11-07T11:40:29.725494] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.725476] [INFO] Cache hit
+[2025-11-07T11:40:29.725494] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.725482] [INFO] Database query executed
+[2025-11-07T11:40:29.725491] [ERROR] Network timeout
+[2025-11-07T11:40:29.725496] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.725493] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.725479] [INFO] Request processed successfully
+[2025-11-07T11:40:29.725490] [ERROR] Network timeout
+[2025-11-07T11:40:29.725473] [INFO] Request processed successfully
+[2025-11-07T11:40:29.725498] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.725498] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.725485] [INFO] User logged in

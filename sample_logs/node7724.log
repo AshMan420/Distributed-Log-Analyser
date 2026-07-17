@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.111739] [ERROR] Permission denied
+[2025-11-07T11:40:30.111748] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.111742] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.111733] [WARN] Disk space low
+[2025-11-07T11:40:30.111740] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.111736] [WARN] Timeout warning
+[2025-11-07T11:40:30.111728] [INFO] Request processed successfully
+[2025-11-07T11:40:30.111744] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.111738] [ERROR] File not found
+[2025-11-07T11:40:30.111745] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.111730] [INFO] Connection established
+[2025-11-07T11:40:30.111721] [INFO] Health check passed
+[2025-11-07T11:40:30.111727] [INFO] Session started
+[2025-11-07T11:40:30.111747] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.111717] [INFO] Database query executed
+[2025-11-07T11:40:30.111737] [WARN] Disk space low
+[2025-11-07T11:40:30.111724] [INFO] Connection established
+[2025-11-07T11:40:30.111722] [INFO] User logged in
+[2025-11-07T11:40:30.111731] [INFO] Request processed successfully
+[2025-11-07T11:40:30.111729] [INFO] User logged in
+[2025-11-07T11:40:30.111726] [INFO] Transaction completed
+[2025-11-07T11:40:30.111725] [INFO] User logged in
+[2025-11-07T11:40:30.111746] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.111729] [INFO] Service initialized
+[2025-11-07T11:40:30.111735] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.111719] [INFO] Session started
+[2025-11-07T11:40:30.111723] [INFO] Transaction completed
+[2025-11-07T11:40:30.111743] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.111732] [INFO] Database query executed
+[2025-11-07T11:40:30.111720] [INFO] User logged in
+[2025-11-07T11:40:30.111741] [DEBUG] Variable value: x=42

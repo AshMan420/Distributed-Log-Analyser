@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.753810] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.753802] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.753794] [WARN] Queue size growing
+[2025-11-07T11:40:29.753797] [ERROR] Database connection lost
+[2025-11-07T11:40:29.753793] [WARN] Slow query performance
+[2025-11-07T11:40:29.753807] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.753783] [INFO] Connection established
+[2025-11-07T11:40:29.753809] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.753785] [INFO] Transaction completed
+[2025-11-07T11:40:29.753784] [INFO] Transaction completed
+[2025-11-07T11:40:29.753805] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.753800] [ERROR] Disk read failed
+[2025-11-07T11:40:29.753788] [INFO] Health check passed
+[2025-11-07T11:40:29.753813] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.753812] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.753811] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.753789] [WARN] Slow query performance
+[2025-11-07T11:40:29.753801] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.753798] [ERROR] Request failed
+[2025-11-07T11:40:29.753780] [INFO] Configuration loaded
+[2025-11-07T11:40:29.753795] [WARN] Slow query performance
+[2025-11-07T11:40:29.753786] [INFO] Transaction completed
+[2025-11-07T11:40:29.753803] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.753796] [ERROR] Request failed
+[2025-11-07T11:40:29.753787] [INFO] Connection established
+[2025-11-07T11:40:29.753799] [ERROR] Disk read failed
+[2025-11-07T11:40:29.753806] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.753792] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.753791] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.753804] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.753790] [WARN] Disk space low
+[2025-11-07T11:40:29.753782] [INFO] Service initialized
+[2025-11-07T11:40:29.753814] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.753779] [INFO] Configuration loaded

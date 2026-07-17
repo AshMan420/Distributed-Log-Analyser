@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.539286] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539284] [ERROR] Permission denied
+[2025-11-07T11:40:29.539287] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.539289] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539267] [INFO] Session started
+[2025-11-07T11:40:29.539276] [INFO] Cache hit
+[2025-11-07T11:40:29.539266] [INFO] Database query executed
+[2025-11-07T11:40:29.539288] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539273] [INFO] Service initialized
+[2025-11-07T11:40:29.539268] [INFO] Service initialized
+[2025-11-07T11:40:29.539279] [WARN] Slow query performance
+[2025-11-07T11:40:29.539278] [INFO] Health check passed
+[2025-11-07T11:40:29.539293] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.539275] [INFO] Service initialized
+[2025-11-07T11:40:29.539277] [INFO] Database query executed
+[2025-11-07T11:40:29.539271] [INFO] Transaction completed
+[2025-11-07T11:40:29.539285] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.539269] [INFO] Configuration loaded
+[2025-11-07T11:40:29.539290] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.539291] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539272] [INFO] Configuration loaded
+[2025-11-07T11:40:29.539292] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.539265] [INFO] Transaction completed
+[2025-11-07T11:40:29.539281] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.539283] [ERROR] Permission denied
+[2025-11-07T11:40:29.539280] [WARN] Cache miss
+[2025-11-07T11:40:29.539270] [INFO] Configuration loaded
+[2025-11-07T11:40:29.539274] [INFO] Service initialized

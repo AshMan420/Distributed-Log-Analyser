@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.369806] [INFO] Session started
+[2025-11-07T11:40:30.369820] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.369809] [INFO] Connection established
+[2025-11-07T11:40:30.369829] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.369813] [INFO] Configuration loaded
+[2025-11-07T11:40:30.369808] [INFO] Cache hit
+[2025-11-07T11:40:30.369815] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.369810] [INFO] Configuration loaded
+[2025-11-07T11:40:30.369819] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.369802] [INFO] Connection established
+[2025-11-07T11:40:30.369814] [INFO] Connection established
+[2025-11-07T11:40:30.369823] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.369828] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.369830] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.369816] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.369807] [INFO] Connection established
+[2025-11-07T11:40:30.369822] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.369824] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.369826] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.369811] [INFO] Cache hit
+[2025-11-07T11:40:30.369805] [INFO] Service initialized
+[2025-11-07T11:40:30.369827] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.369804] [INFO] Configuration loaded
+[2025-11-07T11:40:30.369821] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.369812] [INFO] Session started
+[2025-11-07T11:40:30.369817] [WARN] Slow query performance
+[2025-11-07T11:40:30.369818] [WARN] High memory usage detected
+[2025-11-07T11:40:30.369825] [DEBUG] Buffer size: 4096 bytes

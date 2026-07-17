@@ -1,0 +1,38 @@
+[2025-11-07T11:40:30.063387] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.063385] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.063386] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.063368] [INFO] Request processed successfully
+[2025-11-07T11:40:30.063361] [INFO] Session started
+[2025-11-07T11:40:30.063369] [INFO] Health check passed
+[2025-11-07T11:40:30.063395] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.063376] [WARN] Queue size growing
+[2025-11-07T11:40:30.063357] [INFO] Configuration loaded
+[2025-11-07T11:40:30.063364] [INFO] Service initialized
+[2025-11-07T11:40:30.063379] [WARN] High memory usage detected
+[2025-11-07T11:40:30.063392] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.063384] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.063372] [WARN] Cache miss
+[2025-11-07T11:40:30.063376] [WARN] Disk space low
+[2025-11-07T11:40:30.063370] [INFO] Configuration loaded
+[2025-11-07T11:40:30.063383] [ERROR] Authentication failed
+[2025-11-07T11:40:30.063394] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.063364] [INFO] Transaction completed
+[2025-11-07T11:40:30.063368] [INFO] Service initialized
+[2025-11-07T11:40:30.063365] [INFO] Health check passed
+[2025-11-07T11:40:30.063393] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.063382] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.063388] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.063371] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.063367] [INFO] Database query executed
+[2025-11-07T11:40:30.063380] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.063363] [INFO] Configuration loaded
+[2025-11-07T11:40:30.063390] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.063391] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.063360] [INFO] Database query executed
+[2025-11-07T11:40:30.063379] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.063389] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.063358] [INFO] Connection established
+[2025-11-07T11:40:30.063373] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.063359] [INFO] Service initialized
+[2025-11-07T11:40:30.063374] [WARN] Timeout warning
+[2025-11-07T11:40:30.063377] [WARN] Queue size growing

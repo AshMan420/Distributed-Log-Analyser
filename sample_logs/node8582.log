@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.203285] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.203277] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.203274] [WARN] Slow query performance
+[2025-11-07T11:40:30.203283] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.203272] [WARN] Cache miss
+[2025-11-07T11:40:30.203281] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.203267] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.203270] [WARN] Queue size growing
+[2025-11-07T11:40:30.203262] [INFO] User logged in
+[2025-11-07T11:40:30.203275] [ERROR] Service unavailable
+[2025-11-07T11:40:30.203261] [INFO] Database query executed
+[2025-11-07T11:40:30.203260] [INFO] Transaction completed
+[2025-11-07T11:40:30.203268] [WARN] High memory usage detected
+[2025-11-07T11:40:30.203282] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.203287] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.203263] [INFO] User logged in
+[2025-11-07T11:40:30.203280] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.203258] [INFO] Request processed successfully
+[2025-11-07T11:40:30.203249] [INFO] Cache hit
+[2025-11-07T11:40:30.203257] [INFO] Request processed successfully
+[2025-11-07T11:40:30.203269] [WARN] High memory usage detected
+[2025-11-07T11:40:30.203271] [WARN] High memory usage detected
+[2025-11-07T11:40:30.203265] [INFO] Session started
+[2025-11-07T11:40:30.203286] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.203255] [INFO] Cache hit
+[2025-11-07T11:40:30.203278] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.203256] [INFO] Session started
+[2025-11-07T11:40:30.203279] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.203252] [INFO] Health check passed
+[2025-11-07T11:40:30.203276] [ERROR] Request failed
+[2025-11-07T11:40:30.203254] [INFO] Cache hit
+[2025-11-07T11:40:30.203253] [INFO] Service initialized
+[2025-11-07T11:40:30.203273] [WARN] Queue size growing
+[2025-11-07T11:40:30.203265] [INFO] Service initialized
+[2025-11-07T11:40:30.203251] [INFO] User logged in
+[2025-11-07T11:40:30.203263] [INFO] Configuration loaded
+[2025-11-07T11:40:30.203284] [DEBUG] Memory allocation: 2048 bytes

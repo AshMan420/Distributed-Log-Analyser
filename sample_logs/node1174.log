@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.414510] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.414496] [INFO] Cache hit
+[2025-11-07T11:40:29.414483] [INFO] User logged in
+[2025-11-07T11:40:29.414497] [INFO] Transaction completed
+[2025-11-07T11:40:29.414486] [INFO] Configuration loaded
+[2025-11-07T11:40:29.414509] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.414485] [INFO] Configuration loaded
+[2025-11-07T11:40:29.414508] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.414501] [WARN] Timeout warning
+[2025-11-07T11:40:29.414503] [WARN] Disk space low
+[2025-11-07T11:40:29.414491] [INFO] Request processed successfully
+[2025-11-07T11:40:29.414489] [INFO] Session started
+[2025-11-07T11:40:29.414492] [INFO] User logged in
+[2025-11-07T11:40:29.414502] [WARN] Disk space low
+[2025-11-07T11:40:29.414484] [INFO] Database query executed
+[2025-11-07T11:40:29.414510] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.414488] [INFO] Database query executed
+[2025-11-07T11:40:29.414494] [INFO] User logged in
+[2025-11-07T11:40:29.414487] [INFO] User logged in
+[2025-11-07T11:40:29.414505] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.414507] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.414495] [INFO] Request processed successfully
+[2025-11-07T11:40:29.414500] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.414506] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.414490] [INFO] Database query executed
+[2025-11-07T11:40:29.414498] [INFO] User logged in
+[2025-11-07T11:40:29.414499] [INFO] Health check passed
+[2025-11-07T11:40:29.414511] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.414493] [INFO] Session started
+[2025-11-07T11:40:29.414512] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.414504] [ERROR] Memory allocation error

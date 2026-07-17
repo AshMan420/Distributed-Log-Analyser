@@ -1,0 +1,22 @@
+[2025-11-07T11:40:30.342163] [WARN] Slow query performance
+[2025-11-07T11:40:30.342168] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.342162] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.342167] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.342153] [INFO] Transaction completed
+[2025-11-07T11:40:30.342156] [INFO] Service initialized
+[2025-11-07T11:40:30.342157] [INFO] Configuration loaded
+[2025-11-07T11:40:30.342165] [ERROR] Disk read failed
+[2025-11-07T11:40:30.342164] [ERROR] Network timeout
+[2025-11-07T11:40:30.342166] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.342170] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.342169] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.342158] [INFO] Health check passed
+[2025-11-07T11:40:30.342150] [INFO] Request processed successfully
+[2025-11-07T11:40:30.342160] [WARN] Timeout warning
+[2025-11-07T11:40:30.342149] [INFO] Session started
+[2025-11-07T11:40:30.342154] [INFO] Service initialized
+[2025-11-07T11:40:30.342171] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.342152] [INFO] Request processed successfully
+[2025-11-07T11:40:30.342161] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.342155] [INFO] User logged in
+[2025-11-07T11:40:30.342159] [INFO] Session started

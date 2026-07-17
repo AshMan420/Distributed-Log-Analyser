@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.161565] [INFO] User logged in
+[2025-11-07T11:40:30.161575] [INFO] Health check passed
+[2025-11-07T11:40:30.161614] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.161610] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.161607] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.161589] [WARN] Disk space low
+[2025-11-07T11:40:30.161600] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.161568] [INFO] Configuration loaded
+[2025-11-07T11:40:30.161603] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.161612] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.161572] [INFO] User logged in
+[2025-11-07T11:40:30.161584] [WARN] Slow query performance
+[2025-11-07T11:40:30.161546] [INFO] Database query executed
+[2025-11-07T11:40:30.161605] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.161595] [ERROR] Request failed
+[2025-11-07T11:40:30.161556] [INFO] User logged in
+[2025-11-07T11:40:30.161570] [INFO] Health check passed
+[2025-11-07T11:40:30.161592] [ERROR] Permission denied
+[2025-11-07T11:40:30.161561] [INFO] Session started
+[2025-11-07T11:40:30.161553] [INFO] Cache hit
+[2025-11-07T11:40:30.161587] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.161582] [INFO] Session started
+[2025-11-07T11:40:30.161577] [INFO] Health check passed
+[2025-11-07T11:40:30.161558] [INFO] Service initialized
+[2025-11-07T11:40:30.161597] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.161551] [INFO] Cache hit
+[2025-11-07T11:40:30.161580] [INFO] Session started
+[2025-11-07T11:40:30.161617] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.161563] [INFO] Transaction completed

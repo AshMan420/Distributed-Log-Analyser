@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.484468] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.484441] [INFO] Session started
+[2025-11-07T11:40:29.484460] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.484438] [INFO] Database query executed
+[2025-11-07T11:40:29.484463] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.484451] [INFO] Connection established
+[2025-11-07T11:40:29.484442] [INFO] Cache hit
+[2025-11-07T11:40:29.484444] [INFO] Session started
+[2025-11-07T11:40:29.484450] [INFO] Transaction completed
+[2025-11-07T11:40:29.484453] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.484455] [WARN] High memory usage detected
+[2025-11-07T11:40:29.484446] [INFO] Cache hit
+[2025-11-07T11:40:29.484440] [INFO] Database query executed
+[2025-11-07T11:40:29.484461] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.484458] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.484462] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.484452] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484456] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.484448] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484467] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.484443] [INFO] Connection established
+[2025-11-07T11:40:29.484437] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484454] [WARN] High memory usage detected
+[2025-11-07T11:40:29.484445] [INFO] Service initialized
+[2025-11-07T11:40:29.484435] [INFO] Connection established
+[2025-11-07T11:40:29.484464] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.484447] [INFO] Configuration loaded
+[2025-11-07T11:40:29.484465] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.484439] [INFO] Transaction completed
+[2025-11-07T11:40:29.484457] [ERROR] Disk read failed
+[2025-11-07T11:40:29.484466] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.484459] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.484449] [INFO] Connection established

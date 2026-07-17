@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.377266] [INFO] Configuration loaded
+[2025-11-07T11:40:29.377275] [ERROR] Disk read failed
+[2025-11-07T11:40:29.377256] [INFO] Database query executed
+[2025-11-07T11:40:29.377263] [INFO] User logged in
+[2025-11-07T11:40:29.377278] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.377282] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.377265] [INFO] Request processed successfully
+[2025-11-07T11:40:29.377277] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.377254] [INFO] Session started
+[2025-11-07T11:40:29.377257] [INFO] Connection established
+[2025-11-07T11:40:29.377285] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.377255] [INFO] Configuration loaded
+[2025-11-07T11:40:29.377249] [INFO] Cache hit
+[2025-11-07T11:40:29.377280] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.377273] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.377261] [INFO] Request processed successfully
+[2025-11-07T11:40:29.377264] [INFO] Session started
+[2025-11-07T11:40:29.377276] [ERROR] Permission denied
+[2025-11-07T11:40:29.377284] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.377253] [INFO] Health check passed
+[2025-11-07T11:40:29.377268] [WARN] Cache miss
+[2025-11-07T11:40:29.377279] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.377283] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.377281] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.377258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.377252] [INFO] Request processed successfully
+[2025-11-07T11:40:29.377274] [WARN] Timeout warning
+[2025-11-07T11:40:29.377271] [WARN] Timeout warning
+[2025-11-07T11:40:29.377270] [WARN] Cache miss
+[2025-11-07T11:40:29.377250] [INFO] Configuration loaded
+[2025-11-07T11:40:29.377267] [WARN] Queue size growing
+[2025-11-07T11:40:29.377269] [WARN] Timeout warning
+[2025-11-07T11:40:29.377272] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.377262] [INFO] Request processed successfully
+[2025-11-07T11:40:29.377259] [INFO] Health check passed
+[2025-11-07T11:40:29.377260] [INFO] Configuration loaded

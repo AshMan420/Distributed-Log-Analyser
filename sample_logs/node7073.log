@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.045441] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.045432] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.045424] [INFO] Session started
+[2025-11-07T11:40:30.045414] [INFO] Connection established
+[2025-11-07T11:40:30.045438] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.045419] [INFO] User logged in
+[2025-11-07T11:40:30.045422] [INFO] Connection established
+[2025-11-07T11:40:30.045415] [INFO] Cache hit
+[2025-11-07T11:40:30.045421] [INFO] Cache hit
+[2025-11-07T11:40:30.045442] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.045436] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.045427] [INFO] Session started
+[2025-11-07T11:40:30.045442] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.045435] [ERROR] Disk read failed
+[2025-11-07T11:40:30.045431] [WARN] Queue size growing
+[2025-11-07T11:40:30.045417] [INFO] User logged in
+[2025-11-07T11:40:30.045423] [INFO] Transaction completed
+[2025-11-07T11:40:30.045420] [INFO] Cache hit
+[2025-11-07T11:40:30.045426] [INFO] Health check passed
+[2025-11-07T11:40:30.045416] [INFO] Service initialized
+[2025-11-07T11:40:30.045430] [WARN] Disk space low
+[2025-11-07T11:40:30.045437] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.045433] [WARN] Queue size growing
+[2025-11-07T11:40:30.045440] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.045439] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.045429] [INFO] Cache hit
+[2025-11-07T11:40:30.045443] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.045425] [INFO] Health check passed
+[2025-11-07T11:40:30.045428] [INFO] User logged in

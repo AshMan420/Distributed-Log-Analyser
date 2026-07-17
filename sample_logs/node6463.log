@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.980933] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.980938] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.980926] [INFO] Service initialized
+[2025-11-07T11:40:29.980939] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.980911] [INFO] Session started
+[2025-11-07T11:40:29.980922] [INFO] Configuration loaded
+[2025-11-07T11:40:29.980936] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.980940] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.980918] [INFO] Health check passed
+[2025-11-07T11:40:29.980927] [WARN] High memory usage detected
+[2025-11-07T11:40:29.980919] [INFO] Session started
+[2025-11-07T11:40:29.980921] [INFO] Session started
+[2025-11-07T11:40:29.980924] [INFO] User logged in
+[2025-11-07T11:40:29.980920] [INFO] Database query executed
+[2025-11-07T11:40:29.980935] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.980932] [ERROR] Authentication failed
+[2025-11-07T11:40:29.980913] [INFO] Health check passed
+[2025-11-07T11:40:29.980929] [WARN] Timeout warning
+[2025-11-07T11:40:29.980923] [INFO] Health check passed
+[2025-11-07T11:40:29.980928] [WARN] Timeout warning
+[2025-11-07T11:40:29.980930] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.980934] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.980941] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.980937] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.980925] [INFO] Cache hit
+[2025-11-07T11:40:29.980931] [ERROR] File not found
+[2025-11-07T11:40:29.980912] [INFO] Session started
+[2025-11-07T11:40:29.980916] [INFO] Service initialized
+[2025-11-07T11:40:29.980915] [INFO] Health check passed
+[2025-11-07T11:40:29.980917] [INFO] Configuration loaded

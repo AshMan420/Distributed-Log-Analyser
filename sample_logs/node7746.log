@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.114073] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.114052] [INFO] Cache hit
+[2025-11-07T11:40:30.114049] [INFO] Session started
+[2025-11-07T11:40:30.114055] [INFO] Transaction completed
+[2025-11-07T11:40:30.114050] [INFO] Connection established
+[2025-11-07T11:40:30.114061] [INFO] Cache hit
+[2025-11-07T11:40:30.114065] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.114056] [INFO] Configuration loaded
+[2025-11-07T11:40:30.114074] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.114064] [WARN] Timeout warning
+[2025-11-07T11:40:30.114084] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.114075] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.114067] [WARN] Cache miss
+[2025-11-07T11:40:30.114054] [INFO] Request processed successfully
+[2025-11-07T11:40:30.114077] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.114076] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.114062] [WARN] High memory usage detected
+[2025-11-07T11:40:30.114051] [INFO] Transaction completed
+[2025-11-07T11:40:30.114046] [INFO] Configuration loaded
+[2025-11-07T11:40:30.114066] [WARN] High memory usage detected
+[2025-11-07T11:40:30.114080] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.114053] [INFO] Request processed successfully
+[2025-11-07T11:40:30.114072] [ERROR] Permission denied
+[2025-11-07T11:40:30.114082] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.114081] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.114063] [WARN] Slow query performance
+[2025-11-07T11:40:30.114048] [INFO] Connection established
+[2025-11-07T11:40:30.114078] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.114068] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.114071] [ERROR] Network timeout
+[2025-11-07T11:40:30.114059] [INFO] User logged in
+[2025-11-07T11:40:30.114057] [INFO] Configuration loaded
+[2025-11-07T11:40:30.114083] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.114070] [WARN] Slow query performance
+[2025-11-07T11:40:30.114079] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.114058] [INFO] Connection established
+[2025-11-07T11:40:30.114060] [INFO] Cache hit

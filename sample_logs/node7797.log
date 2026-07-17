@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.119456] [INFO] User logged in
+[2025-11-07T11:40:30.119480] [WARN] Disk space low
+[2025-11-07T11:40:30.119471] [INFO] Database query executed
+[2025-11-07T11:40:30.119488] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.119473] [INFO] Database query executed
+[2025-11-07T11:40:30.119466] [INFO] Health check passed
+[2025-11-07T11:40:30.119492] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.119485] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.119491] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.119468] [INFO] Connection established
+[2025-11-07T11:40:30.119477] [WARN] Disk space low
+[2025-11-07T11:40:30.119489] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.119478] [WARN] Cache miss
+[2025-11-07T11:40:30.119470] [INFO] Connection established
+[2025-11-07T11:40:30.119475] [WARN] Slow query performance
+[2025-11-07T11:40:30.119479] [WARN] Timeout warning
+[2025-11-07T11:40:30.119467] [INFO] Transaction completed
+[2025-11-07T11:40:30.119472] [INFO] Session started
+[2025-11-07T11:40:30.119484] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.119454] [INFO] Database query executed
+[2025-11-07T11:40:30.119453] [INFO] Session started
+[2025-11-07T11:40:30.119487] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.119481] [ERROR] Disk read failed
+[2025-11-07T11:40:30.119451] [INFO] Connection established
+[2025-11-07T11:40:30.119486] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.119469] [INFO] Connection established
+[2025-11-07T11:40:30.119482] [ERROR] Network timeout
+[2025-11-07T11:40:30.119490] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.119476] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.119455] [INFO] Transaction completed
+[2025-11-07T11:40:30.119474] [INFO] Database query executed
+[2025-11-07T11:40:30.119465] [INFO] User logged in

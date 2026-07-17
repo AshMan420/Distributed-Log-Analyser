@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.364107] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.364089] [INFO] Session started
+[2025-11-07T11:40:29.364104] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.364102] [WARN] Queue size growing
+[2025-11-07T11:40:29.364091] [INFO] User logged in
+[2025-11-07T11:40:29.364106] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.364085] [INFO] Request processed successfully
+[2025-11-07T11:40:29.364103] [ERROR] Authentication failed
+[2025-11-07T11:40:29.364090] [INFO] Cache hit
+[2025-11-07T11:40:29.364100] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.364088] [INFO] Configuration loaded
+[2025-11-07T11:40:29.364086] [INFO] Configuration loaded
+[2025-11-07T11:40:29.364099] [WARN] Slow query performance
+[2025-11-07T11:40:29.364101] [WARN] Cache miss
+[2025-11-07T11:40:29.364111] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.364095] [INFO] Transaction completed
+[2025-11-07T11:40:29.364097] [INFO] Cache hit
+[2025-11-07T11:40:29.364094] [INFO] Connection established
+[2025-11-07T11:40:29.364092] [INFO] User logged in
+[2025-11-07T11:40:29.364084] [INFO] Session started
+[2025-11-07T11:40:29.364109] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.364110] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.364087] [INFO] Session started
+[2025-11-07T11:40:29.364096] [INFO] Database query executed
+[2025-11-07T11:40:29.364098] [INFO] Connection established
+[2025-11-07T11:40:29.364105] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.364108] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.364112] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.364093] [INFO] User logged in

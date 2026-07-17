@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.067258] [ERROR] File not found
+[2025-11-07T11:40:30.067266] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.067263] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.067246] [INFO] Configuration loaded
+[2025-11-07T11:40:30.067262] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.067252] [WARN] Timeout warning
+[2025-11-07T11:40:30.067251] [WARN] Disk space low
+[2025-11-07T11:40:30.067247] [INFO] Service initialized
+[2025-11-07T11:40:30.067248] [INFO] Session started
+[2025-11-07T11:40:30.067264] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.067270] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.067244] [INFO] Health check passed
+[2025-11-07T11:40:30.067250] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.067241] [INFO] Transaction completed
+[2025-11-07T11:40:30.067268] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.067254] [WARN] Timeout warning
+[2025-11-07T11:40:30.067249] [INFO] Connection established
+[2025-11-07T11:40:30.067257] [ERROR] Disk read failed
+[2025-11-07T11:40:30.067239] [INFO] Cache hit
+[2025-11-07T11:40:30.067242] [INFO] Service initialized
+[2025-11-07T11:40:30.067240] [INFO] User logged in
+[2025-11-07T11:40:30.067260] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.067243] [INFO] Session started
+[2025-11-07T11:40:30.067266] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.067268] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.067238] [INFO] User logged in
+[2025-11-07T11:40:30.067237] [INFO] Health check passed
+[2025-11-07T11:40:30.067256] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.067261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.067245] [INFO] Health check passed
+[2025-11-07T11:40:30.067255] [WARN] Timeout warning
+[2025-11-07T11:40:30.067259] [ERROR] Authentication failed
+[2025-11-07T11:40:30.067253] [WARN] Deprecated API usage

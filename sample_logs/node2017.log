@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.506543] [INFO] Session started
+[2025-11-07T11:40:29.506570] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.506571] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.506551] [INFO] Service initialized
+[2025-11-07T11:40:29.506562] [WARN] Cache miss
+[2025-11-07T11:40:29.506554] [INFO] Session started
+[2025-11-07T11:40:29.506559] [WARN] Slow query performance
+[2025-11-07T11:40:29.506567] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.506573] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.506544] [INFO] Session started
+[2025-11-07T11:40:29.506552] [INFO] Transaction completed
+[2025-11-07T11:40:29.506545] [INFO] User logged in
+[2025-11-07T11:40:29.506548] [INFO] Session started
+[2025-11-07T11:40:29.506542] [INFO] Transaction completed
+[2025-11-07T11:40:29.506547] [INFO] Transaction completed
+[2025-11-07T11:40:29.506560] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.506568] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.506553] [INFO] User logged in
+[2025-11-07T11:40:29.506557] [WARN] Disk space low
+[2025-11-07T11:40:29.506566] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.506558] [WARN] Slow query performance
+[2025-11-07T11:40:29.506572] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.506546] [INFO] Health check passed
+[2025-11-07T11:40:29.506550] [INFO] Health check passed
+[2025-11-07T11:40:29.506556] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.506549] [INFO] Configuration loaded
+[2025-11-07T11:40:29.506555] [INFO] Session started
+[2025-11-07T11:40:29.506569] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.506561] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.506541] [INFO] Session started
+[2025-11-07T11:40:29.506564] [ERROR] Invalid input data
+[2025-11-07T11:40:29.506563] [ERROR] Authentication failed
+[2025-11-07T11:40:29.506565] [DEBUG] Memory allocation: 2048 bytes

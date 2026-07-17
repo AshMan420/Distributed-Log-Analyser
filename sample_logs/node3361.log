@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.654170] [INFO] Connection established
+[2025-11-07T11:40:29.654194] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.654196] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.654179] [INFO] Transaction completed
+[2025-11-07T11:40:29.654173] [INFO] User logged in
+[2025-11-07T11:40:29.654174] [INFO] Cache hit
+[2025-11-07T11:40:29.654186] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.654177] [INFO] Database query executed
+[2025-11-07T11:40:29.654169] [INFO] Request processed successfully
+[2025-11-07T11:40:29.654175] [INFO] Cache hit
+[2025-11-07T11:40:29.654193] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.654191] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.654172] [INFO] Configuration loaded
+[2025-11-07T11:40:29.654189] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.654184] [WARN] Cache miss
+[2025-11-07T11:40:29.654178] [INFO] Request processed successfully
+[2025-11-07T11:40:29.654181] [INFO] Cache hit
+[2025-11-07T11:40:29.654187] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.654185] [WARN] Slow query performance
+[2025-11-07T11:40:29.654180] [INFO] Configuration loaded
+[2025-11-07T11:40:29.654167] [INFO] Health check passed
+[2025-11-07T11:40:29.654183] [WARN] Disk space low
+[2025-11-07T11:40:29.654179] [INFO] Session started
+[2025-11-07T11:40:29.654195] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.654171] [INFO] Database query executed
+[2025-11-07T11:40:29.654190] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.654192] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.654176] [INFO] Health check passed
+[2025-11-07T11:40:29.654185] [WARN] Deprecated API usage

@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.650364] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.650361] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.650322] [INFO] Database query executed
+[2025-11-07T11:40:29.650349] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.650358] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.650365] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.650324] [INFO] Cache hit
+[2025-11-07T11:40:29.650359] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.650331] [INFO] Health check passed
+[2025-11-07T11:40:29.650330] [INFO] Configuration loaded
+[2025-11-07T11:40:29.650357] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.650344] [INFO] Request processed successfully
+[2025-11-07T11:40:29.650320] [INFO] Transaction completed
+[2025-11-07T11:40:29.650353] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.650354] [WARN] Cache miss
+[2025-11-07T11:40:29.650362] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.650350] [WARN] Cache miss
+[2025-11-07T11:40:29.650363] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.650323] [INFO] User logged in
+[2025-11-07T11:40:29.650356] [ERROR] File not found
+[2025-11-07T11:40:29.650327] [INFO] Connection established
+[2025-11-07T11:40:29.650328] [INFO] Session started
+[2025-11-07T11:40:29.650355] [ERROR] Request failed
+[2025-11-07T11:40:29.650348] [WARN] Cache miss
+[2025-11-07T11:40:29.650360] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.650347] [WARN] Cache miss
+[2025-11-07T11:40:29.650329] [INFO] Configuration loaded
+[2025-11-07T11:40:29.650351] [WARN] High memory usage detected
+[2025-11-07T11:40:29.650332] [INFO] Connection established
+[2025-11-07T11:40:29.650352] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.650326] [INFO] Configuration loaded
+[2025-11-07T11:40:29.650325] [INFO] Database query executed
+[2025-11-07T11:40:29.650321] [INFO] Connection established
+[2025-11-07T11:40:29.650333] [INFO] User logged in

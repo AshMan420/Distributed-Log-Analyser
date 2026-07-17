@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.356563] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.356542] [INFO] Transaction completed
+[2025-11-07T11:40:29.356542] [INFO] Connection established
+[2025-11-07T11:40:29.356557] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.356547] [INFO] Health check passed
+[2025-11-07T11:40:29.356550] [INFO] Configuration loaded
+[2025-11-07T11:40:29.356560] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.356564] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.356549] [INFO] Database query executed
+[2025-11-07T11:40:29.356559] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.356536] [INFO] Service initialized
+[2025-11-07T11:40:29.356551] [INFO] Session started
+[2025-11-07T11:40:29.356546] [INFO] Cache hit
+[2025-11-07T11:40:29.356553] [WARN] Cache miss
+[2025-11-07T11:40:29.356561] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.356539] [INFO] Session started
+[2025-11-07T11:40:29.356541] [INFO] Database query executed
+[2025-11-07T11:40:29.356555] [ERROR] Network timeout
+[2025-11-07T11:40:29.356544] [INFO] User logged in
+[2025-11-07T11:40:29.356552] [INFO] Configuration loaded
+[2025-11-07T11:40:29.356548] [INFO] Transaction completed
+[2025-11-07T11:40:29.356535] [INFO] Health check passed
+[2025-11-07T11:40:29.356545] [INFO] Cache hit
+[2025-11-07T11:40:29.356562] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.356564] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.356540] [INFO] User logged in
+[2025-11-07T11:40:29.356538] [INFO] Database query executed
+[2025-11-07T11:40:29.356543] [INFO] Service initialized
+[2025-11-07T11:40:29.356558] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.356556] [ERROR] Disk read failed

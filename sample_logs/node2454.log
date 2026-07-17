@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.553393] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.553390] [INFO] Database query executed
+[2025-11-07T11:40:29.553395] [ERROR] Invalid input data
+[2025-11-07T11:40:29.553397] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.553382] [INFO] Service initialized
+[2025-11-07T11:40:29.553385] [INFO] Configuration loaded
+[2025-11-07T11:40:29.553384] [INFO] Transaction completed
+[2025-11-07T11:40:29.553383] [INFO] Service initialized
+[2025-11-07T11:40:29.553386] [INFO] Health check passed
+[2025-11-07T11:40:29.553400] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.553379] [INFO] Request processed successfully
+[2025-11-07T11:40:29.553401] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.553381] [INFO] Session started
+[2025-11-07T11:40:29.553387] [INFO] Transaction completed
+[2025-11-07T11:40:29.553388] [INFO] Cache hit
+[2025-11-07T11:40:29.553404] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.553380] [INFO] Transaction completed
+[2025-11-07T11:40:29.553398] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.553402] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.553389] [INFO] Configuration loaded
+[2025-11-07T11:40:29.553396] [ERROR] Disk read failed
+[2025-11-07T11:40:29.553405] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.553406] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.553403] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.553399] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.553392] [WARN] Disk space low
+[2025-11-07T11:40:29.553391] [INFO] Request processed successfully

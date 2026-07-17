@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.263274] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.263278] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.263275] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.263261] [INFO] Cache hit
+[2025-11-07T11:40:30.263267] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.263277] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.263260] [INFO] Transaction completed
+[2025-11-07T11:40:30.263252] [INFO] Cache hit
+[2025-11-07T11:40:30.263265] [INFO] Request processed successfully
+[2025-11-07T11:40:30.263255] [INFO] Transaction completed
+[2025-11-07T11:40:30.263269] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.263263] [INFO] Request processed successfully
+[2025-11-07T11:40:30.263253] [INFO] Service initialized
+[2025-11-07T11:40:30.263276] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.263262] [INFO] Session started
+[2025-11-07T11:40:30.263273] [ERROR] Disk read failed
+[2025-11-07T11:40:30.263268] [WARN] Timeout warning
+[2025-11-07T11:40:30.263282] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.263258] [INFO] Cache hit
+[2025-11-07T11:40:30.263279] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.263259] [INFO] User logged in
+[2025-11-07T11:40:30.263257] [INFO] Configuration loaded
+[2025-11-07T11:40:30.263270] [WARN] Cache miss
+[2025-11-07T11:40:30.263256] [INFO] Database query executed
+[2025-11-07T11:40:30.263280] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.263264] [INFO] Cache hit
+[2025-11-07T11:40:30.263281] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.263254] [INFO] Request processed successfully
+[2025-11-07T11:40:30.263266] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.263272] [ERROR] Disk read failed
+[2025-11-07T11:40:30.263251] [INFO] Transaction completed
+[2025-11-07T11:40:30.263250] [INFO] Service initialized

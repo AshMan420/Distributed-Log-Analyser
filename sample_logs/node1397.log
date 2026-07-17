@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.437823] [INFO] Configuration loaded
+[2025-11-07T11:40:29.437824] [INFO] User logged in
+[2025-11-07T11:40:29.437835] [WARN] Queue size growing
+[2025-11-07T11:40:29.437826] [INFO] Health check passed
+[2025-11-07T11:40:29.437844] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.437836] [ERROR] Disk read failed
+[2025-11-07T11:40:29.437829] [INFO] Database query executed
+[2025-11-07T11:40:29.437834] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.437841] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.437839] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.437842] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.437821] [INFO] Connection established
+[2025-11-07T11:40:29.437830] [INFO] Connection established
+[2025-11-07T11:40:29.437825] [INFO] Service initialized
+[2025-11-07T11:40:29.437845] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.437837] [ERROR] Permission denied
+[2025-11-07T11:40:29.437820] [INFO] Request processed successfully
+[2025-11-07T11:40:29.437840] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.437818] [INFO] Session started
+[2025-11-07T11:40:29.437847] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.437833] [WARN] Cache miss
+[2025-11-07T11:40:29.437843] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.437828] [INFO] Session started
+[2025-11-07T11:40:29.437822] [INFO] Connection established
+[2025-11-07T11:40:29.437831] [INFO] Service initialized
+[2025-11-07T11:40:29.437846] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.437838] [ERROR] Service unavailable
+[2025-11-07T11:40:29.437832] [INFO] Service initialized
+[2025-11-07T11:40:29.437827] [INFO] Session started

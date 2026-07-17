@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.381951] [INFO] Transaction completed
+[2025-11-07T11:40:29.381975] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.381976] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.381960] [INFO] Health check passed
+[2025-11-07T11:40:29.381979] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.381972] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.381973] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.381963] [WARN] Slow query performance
+[2025-11-07T11:40:29.381969] [ERROR] Authentication failed
+[2025-11-07T11:40:29.381948] [INFO] Health check passed
+[2025-11-07T11:40:29.381961] [INFO] Service initialized
+[2025-11-07T11:40:29.381956] [INFO] User logged in
+[2025-11-07T11:40:29.381978] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.381981] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.381967] [WARN] Slow query performance
+[2025-11-07T11:40:29.381950] [INFO] Transaction completed
+[2025-11-07T11:40:29.381971] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.381958] [INFO] Request processed successfully
+[2025-11-07T11:40:29.381959] [INFO] Cache hit
+[2025-11-07T11:40:29.381953] [INFO] Health check passed
+[2025-11-07T11:40:29.381957] [INFO] Cache hit
+[2025-11-07T11:40:29.381952] [INFO] Request processed successfully
+[2025-11-07T11:40:29.381964] [WARN] Timeout warning
+[2025-11-07T11:40:29.381962] [WARN] Cache miss
+[2025-11-07T11:40:29.381968] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.381974] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.381980] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.381970] [ERROR] Authentication failed
+[2025-11-07T11:40:29.381955] [INFO] Database query executed
+[2025-11-07T11:40:29.381977] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.381954] [INFO] Configuration loaded
+[2025-11-07T11:40:29.381965] [WARN] Queue size growing
+[2025-11-07T11:40:29.381966] [WARN] Queue size growing

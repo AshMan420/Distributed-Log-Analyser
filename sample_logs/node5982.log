@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.927184] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.927171] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.927179] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.927169] [INFO] User logged in
+[2025-11-07T11:40:29.927165] [INFO] Configuration loaded
+[2025-11-07T11:40:29.927180] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.927159] [INFO] Session started
+[2025-11-07T11:40:29.927158] [INFO] Cache hit
+[2025-11-07T11:40:29.927170] [WARN] Slow query performance
+[2025-11-07T11:40:29.927161] [INFO] Cache hit
+[2025-11-07T11:40:29.927163] [INFO] Service initialized
+[2025-11-07T11:40:29.927168] [INFO] Connection established
+[2025-11-07T11:40:29.927174] [WARN] Timeout warning
+[2025-11-07T11:40:29.927181] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.927178] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.927182] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.927183] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.927167] [INFO] Transaction completed
+[2025-11-07T11:40:29.927164] [INFO] Transaction completed
+[2025-11-07T11:40:29.927177] [ERROR] Disk read failed
+[2025-11-07T11:40:29.927156] [INFO] Session started
+[2025-11-07T11:40:29.927176] [ERROR] Disk read failed
+[2025-11-07T11:40:29.927157] [INFO] Service initialized
+[2025-11-07T11:40:29.927166] [INFO] Transaction completed
+[2025-11-07T11:40:29.927173] [WARN] Slow query performance
+[2025-11-07T11:40:29.927163] [INFO] Session started
+[2025-11-07T11:40:29.927160] [INFO] Service initialized
+[2025-11-07T11:40:29.927175] [WARN] Cache miss

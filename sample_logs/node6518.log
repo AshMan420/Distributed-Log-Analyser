@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.986904] [INFO] Cache hit
+[2025-11-07T11:40:29.986902] [INFO] Request processed successfully
+[2025-11-07T11:40:29.986933] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.986929] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.986925] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.986910] [INFO] Health check passed
+[2025-11-07T11:40:29.986930] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.986911] [INFO] Session started
+[2025-11-07T11:40:29.986917] [INFO] Service initialized
+[2025-11-07T11:40:29.986932] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.986908] [INFO] Session started
+[2025-11-07T11:40:29.986931] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.986909] [INFO] Request processed successfully
+[2025-11-07T11:40:29.986913] [INFO] Health check passed
+[2025-11-07T11:40:29.986928] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.986907] [INFO] Database query executed
+[2025-11-07T11:40:29.986924] [WARN] Timeout warning
+[2025-11-07T11:40:29.986912] [INFO] User logged in
+[2025-11-07T11:40:29.986905] [INFO] Cache hit
+[2025-11-07T11:40:29.986914] [INFO] Health check passed
+[2025-11-07T11:40:29.986927] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.986921] [WARN] Queue size growing
+[2025-11-07T11:40:29.986923] [WARN] Cache miss
+[2025-11-07T11:40:29.986906] [INFO] User logged in
+[2025-11-07T11:40:29.986934] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.986916] [INFO] Session started
+[2025-11-07T11:40:29.986926] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.986920] [WARN] Slow query performance
+[2025-11-07T11:40:29.986922] [WARN] Timeout warning
+[2025-11-07T11:40:29.986919] [WARN] Queue size growing
+[2025-11-07T11:40:29.986915] [INFO] Request processed successfully
+[2025-11-07T11:40:29.986918] [WARN] Timeout warning

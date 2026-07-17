@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.700089] [INFO] Health check passed
+[2025-11-07T11:40:29.700100] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.700085] [INFO] Connection established
+[2025-11-07T11:40:29.700108] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.700105] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.700103] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.700083] [INFO] Service initialized
+[2025-11-07T11:40:29.700077] [INFO] Database query executed
+[2025-11-07T11:40:29.700094] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.700104] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.700097] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.700082] [INFO] Transaction completed
+[2025-11-07T11:40:29.700088] [INFO] Cache hit
+[2025-11-07T11:40:29.700109] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.700107] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.700095] [WARN] Timeout warning
+[2025-11-07T11:40:29.700090] [INFO] Health check passed
+[2025-11-07T11:40:29.700084] [INFO] Configuration loaded
+[2025-11-07T11:40:29.700092] [INFO] Transaction completed
+[2025-11-07T11:40:29.700087] [INFO] Database query executed
+[2025-11-07T11:40:29.700081] [INFO] Database query executed
+[2025-11-07T11:40:29.700096] [WARN] Queue size growing
+[2025-11-07T11:40:29.700098] [ERROR] Network timeout
+[2025-11-07T11:40:29.700101] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.700102] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.700080] [INFO] Request processed successfully
+[2025-11-07T11:40:29.700099] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.700110] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.700091] [INFO] Service initialized
+[2025-11-07T11:40:29.700093] [WARN] Queue size growing
+[2025-11-07T11:40:29.700106] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.700086] [INFO] Configuration loaded
+[2025-11-07T11:40:29.700079] [INFO] Configuration loaded

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.318563] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.318556] [ERROR] Disk read failed
+[2025-11-07T11:40:30.318566] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.318541] [INFO] Health check passed
+[2025-11-07T11:40:30.318559] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.318564] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.318560] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.318535] [INFO] Session started
+[2025-11-07T11:40:30.318539] [INFO] Cache hit
+[2025-11-07T11:40:30.318533] [INFO] Service initialized
+[2025-11-07T11:40:30.318561] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.318565] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.318545] [INFO] Session started
+[2025-11-07T11:40:30.318537] [INFO] Cache hit
+[2025-11-07T11:40:30.318547] [INFO] Connection established
+[2025-11-07T11:40:30.318554] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.318542] [INFO] Service initialized
+[2025-11-07T11:40:30.318538] [INFO] Request processed successfully
+[2025-11-07T11:40:30.318530] [INFO] Session started
+[2025-11-07T11:40:30.318546] [INFO] Session started
+[2025-11-07T11:40:30.318567] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.318557] [ERROR] Disk read failed
+[2025-11-07T11:40:30.318555] [WARN] Cache miss
+[2025-11-07T11:40:30.318562] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.318553] [WARN] Timeout warning
+[2025-11-07T11:40:30.318549] [INFO] Service initialized
+[2025-11-07T11:40:30.318550] [INFO] Health check passed
+[2025-11-07T11:40:30.318543] [INFO] Database query executed
+[2025-11-07T11:40:30.318551] [INFO] User logged in
+[2025-11-07T11:40:30.318532] [INFO] Connection established
+[2025-11-07T11:40:30.318534] [INFO] Configuration loaded

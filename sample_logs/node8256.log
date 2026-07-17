@@ -1,0 +1,26 @@
+[2025-11-07T11:40:30.170323] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.170316] [ERROR] File not found
+[2025-11-07T11:40:30.170312] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.170311] [INFO] Cache hit
+[2025-11-07T11:40:30.170313] [WARN] Cache miss
+[2025-11-07T11:40:30.170303] [INFO] Request processed successfully
+[2025-11-07T11:40:30.170307] [INFO] Configuration loaded
+[2025-11-07T11:40:30.170324] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.170320] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.170304] [INFO] Request processed successfully
+[2025-11-07T11:40:30.170302] [INFO] Cache hit
+[2025-11-07T11:40:30.170305] [INFO] User logged in
+[2025-11-07T11:40:30.170318] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.170310] [INFO] Session started
+[2025-11-07T11:40:30.170315] [WARN] Slow query performance
+[2025-11-07T11:40:30.170319] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.170321] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.170299] [INFO] Session started
+[2025-11-07T11:40:30.170314] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.170317] [ERROR] Database connection lost
+[2025-11-07T11:40:30.170301] [INFO] Session started
+[2025-11-07T11:40:30.170322] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.170308] [INFO] Cache hit
+[2025-11-07T11:40:30.170325] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.170306] [INFO] Request processed successfully
+[2025-11-07T11:40:30.170309] [INFO] Transaction completed

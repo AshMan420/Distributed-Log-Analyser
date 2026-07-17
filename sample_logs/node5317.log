@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.854788] [WARN] High memory usage detected
+[2025-11-07T11:40:29.854784] [INFO] Service initialized
+[2025-11-07T11:40:29.854779] [INFO] Health check passed
+[2025-11-07T11:40:29.854791] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.854774] [INFO] Session started
+[2025-11-07T11:40:29.854776] [INFO] Cache hit
+[2025-11-07T11:40:29.854798] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.854778] [INFO] Transaction completed
+[2025-11-07T11:40:29.854799] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.854783] [INFO] Connection established
+[2025-11-07T11:40:29.854790] [ERROR] Authentication failed
+[2025-11-07T11:40:29.854793] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.854796] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.854781] [INFO] Configuration loaded
+[2025-11-07T11:40:29.854795] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.854775] [INFO] Service initialized
+[2025-11-07T11:40:29.854789] [ERROR] File not found
+[2025-11-07T11:40:29.854771] [INFO] Database query executed
+[2025-11-07T11:40:29.854773] [INFO] Session started
+[2025-11-07T11:40:29.854780] [INFO] Connection established
+[2025-11-07T11:40:29.854786] [WARN] High memory usage detected
+[2025-11-07T11:40:29.854792] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.854787] [WARN] Cache miss
+[2025-11-07T11:40:29.854782] [INFO] Database query executed
+[2025-11-07T11:40:29.854794] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.854777] [INFO] Session started
+[2025-11-07T11:40:29.854785] [WARN] Slow query performance
+[2025-11-07T11:40:29.854797] [DEBUG] Loop iteration: 15

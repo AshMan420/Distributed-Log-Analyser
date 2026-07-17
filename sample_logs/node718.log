@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.366414] [INFO] Connection established
+[2025-11-07T11:40:29.366420] [INFO] Health check passed
+[2025-11-07T11:40:29.366421] [INFO] Connection established
+[2025-11-07T11:40:29.366439] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.366442] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.366418] [INFO] Connection established
+[2025-11-07T11:40:29.366434] [WARN] Slow query performance
+[2025-11-07T11:40:29.366443] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.366427] [INFO] Database query executed
+[2025-11-07T11:40:29.366441] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.366446] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.366435] [WARN] Timeout warning
+[2025-11-07T11:40:29.366429] [INFO] Cache hit
+[2025-11-07T11:40:29.366423] [INFO] Configuration loaded
+[2025-11-07T11:40:29.366440] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.366426] [INFO] Configuration loaded
+[2025-11-07T11:40:29.366445] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.366431] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.366424] [INFO] Cache hit
+[2025-11-07T11:40:29.366417] [INFO] Database query executed
+[2025-11-07T11:40:29.366437] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.366438] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.366416] [INFO] Health check passed
+[2025-11-07T11:40:29.366433] [WARN] Queue size growing
+[2025-11-07T11:40:29.366428] [INFO] Request processed successfully
+[2025-11-07T11:40:29.366419] [INFO] Configuration loaded
+[2025-11-07T11:40:29.366436] [ERROR] Request failed
+[2025-11-07T11:40:29.366425] [INFO] Configuration loaded
+[2025-11-07T11:40:29.366422] [INFO] Health check passed
+[2025-11-07T11:40:29.366430] [INFO] Request processed successfully
+[2025-11-07T11:40:29.366432] [WARN] High memory usage detected

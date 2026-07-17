@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.584794] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.584789] [WARN] Slow query performance
+[2025-11-07T11:40:29.584772] [INFO] Connection established
+[2025-11-07T11:40:29.584783] [INFO] Database query executed
+[2025-11-07T11:40:29.584776] [INFO] Transaction completed
+[2025-11-07T11:40:29.584792] [ERROR] Invalid input data
+[2025-11-07T11:40:29.584787] [INFO] Health check passed
+[2025-11-07T11:40:29.584798] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.584802] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.584795] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.584786] [INFO] Connection established
+[2025-11-07T11:40:29.584801] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.584803] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.584779] [INFO] Cache hit
+[2025-11-07T11:40:29.584782] [INFO] Request processed successfully
+[2025-11-07T11:40:29.584775] [INFO] Cache hit
+[2025-11-07T11:40:29.584797] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.584803] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.584780] [INFO] Service initialized
+[2025-11-07T11:40:29.584773] [INFO] Transaction completed
+[2025-11-07T11:40:29.584781] [INFO] Session started
+[2025-11-07T11:40:29.584793] [ERROR] Invalid input data
+[2025-11-07T11:40:29.584784] [INFO] Request processed successfully
+[2025-11-07T11:40:29.584790] [WARN] Timeout warning
+[2025-11-07T11:40:29.584791] [ERROR] Network timeout
+[2025-11-07T11:40:29.584778] [INFO] Session started
+[2025-11-07T11:40:29.584788] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.584785] [INFO] Cache hit
+[2025-11-07T11:40:29.584796] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.584800] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.584777] [INFO] Database query executed

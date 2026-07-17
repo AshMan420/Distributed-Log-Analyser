@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.575518] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.575526] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.575507] [INFO] Service initialized
+[2025-11-07T11:40:29.575522] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.575504] [INFO] Database query executed
+[2025-11-07T11:40:29.575517] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.575523] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.575512] [WARN] Timeout warning
+[2025-11-07T11:40:29.575511] [WARN] High memory usage detected
+[2025-11-07T11:40:29.575510] [WARN] High memory usage detected
+[2025-11-07T11:40:29.575528] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.575514] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.575499] [INFO] Health check passed
+[2025-11-07T11:40:29.575505] [INFO] Health check passed
+[2025-11-07T11:40:29.575502] [INFO] Service initialized
+[2025-11-07T11:40:29.575525] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.575503] [INFO] Request processed successfully
+[2025-11-07T11:40:29.575497] [INFO] Request processed successfully
+[2025-11-07T11:40:29.575524] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.575501] [INFO] Request processed successfully
+[2025-11-07T11:40:29.575506] [INFO] Configuration loaded
+[2025-11-07T11:40:29.575495] [INFO] Configuration loaded
+[2025-11-07T11:40:29.575508] [INFO] Health check passed
+[2025-11-07T11:40:29.575516] [ERROR] File not found
+[2025-11-07T11:40:29.575527] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.575521] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.575513] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.575509] [INFO] Database query executed
+[2025-11-07T11:40:29.575515] [ERROR] File not found
+[2025-11-07T11:40:29.575519] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.575520] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.575500] [INFO] Database query executed
+[2025-11-07T11:40:29.575498] [INFO] Cache hit

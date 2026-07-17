@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.974547] [INFO] User logged in
+[2025-11-07T11:40:29.974556] [INFO] Health check passed
+[2025-11-07T11:40:29.974575] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.974553] [INFO] Session started
+[2025-11-07T11:40:29.974555] [INFO] Session started
+[2025-11-07T11:40:29.974552] [INFO] Cache hit
+[2025-11-07T11:40:29.974567] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.974550] [INFO] User logged in
+[2025-11-07T11:40:29.974551] [INFO] User logged in
+[2025-11-07T11:40:29.974568] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.974566] [WARN] Timeout warning
+[2025-11-07T11:40:29.974548] [INFO] User logged in
+[2025-11-07T11:40:29.974558] [INFO] Service initialized
+[2025-11-07T11:40:29.974544] [INFO] Service initialized
+[2025-11-07T11:40:29.974563] [WARN] Cache miss
+[2025-11-07T11:40:29.974571] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.974573] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.974559] [INFO] Database query executed
+[2025-11-07T11:40:29.974574] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.974557] [INFO] Health check passed
+[2025-11-07T11:40:29.974572] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.974570] [ERROR] Authentication failed
+[2025-11-07T11:40:29.974543] [INFO] Health check passed
+[2025-11-07T11:40:29.974565] [WARN] Timeout warning
+[2025-11-07T11:40:29.974549] [INFO] Health check passed
+[2025-11-07T11:40:29.974560] [INFO] Connection established
+[2025-11-07T11:40:29.974546] [INFO] Request processed successfully
+[2025-11-07T11:40:29.974569] [WARN] Disk space low
+[2025-11-07T11:40:29.974561] [INFO] Service initialized
+[2025-11-07T11:40:29.974554] [INFO] Cache hit
+[2025-11-07T11:40:29.974562] [INFO] Database query executed
+[2025-11-07T11:40:29.974564] [WARN] Cache miss

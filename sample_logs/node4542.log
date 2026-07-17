@@ -1,0 +1,23 @@
+[2025-11-07T11:40:29.776636] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.776627] [WARN] Queue size growing
+[2025-11-07T11:40:29.776624] [INFO] Database query executed
+[2025-11-07T11:40:29.776620] [INFO] Request processed successfully
+[2025-11-07T11:40:29.776625] [INFO] Health check passed
+[2025-11-07T11:40:29.776633] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.776630] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.776631] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.776634] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.776617] [INFO] Request processed successfully
+[2025-11-07T11:40:29.776632] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.776628] [ERROR] Permission denied
+[2025-11-07T11:40:29.776615] [INFO] Cache hit
+[2025-11-07T11:40:29.776621] [INFO] Health check passed
+[2025-11-07T11:40:29.776635] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.776629] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.776623] [INFO] Configuration loaded
+[2025-11-07T11:40:29.776616] [INFO] Session started
+[2025-11-07T11:40:29.776618] [INFO] Request processed successfully
+[2025-11-07T11:40:29.776619] [INFO] Request processed successfully
+[2025-11-07T11:40:29.776622] [INFO] Service initialized
+[2025-11-07T11:40:29.776626] [WARN] Timeout warning
+[2025-11-07T11:40:29.776613] [INFO] Transaction completed

@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.969117] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.969098] [INFO] User logged in
+[2025-11-07T11:40:29.969095] [INFO] Database query executed
+[2025-11-07T11:40:29.969099] [INFO] Health check passed
+[2025-11-07T11:40:29.969111] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.969101] [INFO] Database query executed
+[2025-11-07T11:40:29.969108] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.969110] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.969116] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.969104] [INFO] Cache hit
+[2025-11-07T11:40:29.969092] [INFO] Session started
+[2025-11-07T11:40:29.969113] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.969106] [INFO] Health check passed
+[2025-11-07T11:40:29.969115] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.969112] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.969118] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.969103] [INFO] Session started
+[2025-11-07T11:40:29.969096] [INFO] Service initialized
+[2025-11-07T11:40:29.969114] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.969109] [ERROR] Disk read failed
+[2025-11-07T11:40:29.969094] [INFO] User logged in
+[2025-11-07T11:40:29.969107] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.969100] [INFO] User logged in
+[2025-11-07T11:40:29.969097] [INFO] Cache hit
+[2025-11-07T11:40:29.969105] [INFO] Database query executed
+[2025-11-07T11:40:29.969102] [INFO] Transaction completed

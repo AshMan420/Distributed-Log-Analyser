@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.192948] [INFO] Health check passed
+[2025-11-07T11:40:30.192972] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.192949] [INFO] Connection established
+[2025-11-07T11:40:30.192967] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192961] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.192973] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.192951] [INFO] Connection established
+[2025-11-07T11:40:30.192963] [ERROR] Network timeout
+[2025-11-07T11:40:30.192956] [INFO] Transaction completed
+[2025-11-07T11:40:30.192968] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.192970] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.192959] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.192952] [INFO] Database query executed
+[2025-11-07T11:40:30.192966] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192953] [INFO] Connection established
+[2025-11-07T11:40:30.192954] [INFO] Database query executed
+[2025-11-07T11:40:30.192960] [WARN] Queue size growing
+[2025-11-07T11:40:30.192958] [WARN] Slow query performance
+[2025-11-07T11:40:30.192971] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192965] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.192947] [INFO] Service initialized
+[2025-11-07T11:40:30.192957] [INFO] Cache hit
+[2025-11-07T11:40:30.192962] [ERROR] Service unavailable
+[2025-11-07T11:40:30.192950] [INFO] Request processed successfully
+[2025-11-07T11:40:30.192955] [INFO] Transaction completed
+[2025-11-07T11:40:30.192945] [INFO] Connection established
+[2025-11-07T11:40:30.192969] [DEBUG] Variable value: x=42

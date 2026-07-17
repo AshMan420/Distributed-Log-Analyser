@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.301629] [INFO] Service initialized
+[2025-11-07T11:40:30.301611] [INFO] Transaction completed
+[2025-11-07T11:40:30.301626] [INFO] Health check passed
+[2025-11-07T11:40:30.301620] [INFO] Request processed successfully
+[2025-11-07T11:40:30.301640] [ERROR] Permission denied
+[2025-11-07T11:40:30.301650] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.301615] [INFO] Request processed successfully
+[2025-11-07T11:40:30.301644] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.301612] [INFO] Request processed successfully
+[2025-11-07T11:40:30.301621] [INFO] Service initialized
+[2025-11-07T11:40:30.301616] [INFO] Connection established
+[2025-11-07T11:40:30.301618] [INFO] Database query executed
+[2025-11-07T11:40:30.301643] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.301632] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.301636] [WARN] Slow query performance
+[2025-11-07T11:40:30.301625] [INFO] Cache hit
+[2025-11-07T11:40:30.301633] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.301646] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.301639] [ERROR] Database connection lost
+[2025-11-07T11:40:30.301651] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.301619] [INFO] Service initialized
+[2025-11-07T11:40:30.301623] [INFO] Session started
+[2025-11-07T11:40:30.301652] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.301642] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.301630] [INFO] Database query executed
+[2025-11-07T11:40:30.301637] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.301647] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.301627] [INFO] Cache hit
+[2025-11-07T11:40:30.301648] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.301613] [INFO] Cache hit
+[2025-11-07T11:40:30.301617] [INFO] User logged in
+[2025-11-07T11:40:30.301622] [INFO] User logged in
+[2025-11-07T11:40:30.301634] [WARN] Slow query performance

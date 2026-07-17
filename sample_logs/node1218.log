@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.419269] [INFO] Service initialized
+[2025-11-07T11:40:29.419266] [INFO] Connection established
+[2025-11-07T11:40:29.419288] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.419265] [INFO] Service initialized
+[2025-11-07T11:40:29.419278] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.419277] [WARN] Queue size growing
+[2025-11-07T11:40:29.419281] [ERROR] Authentication failed
+[2025-11-07T11:40:29.419275] [INFO] Session started
+[2025-11-07T11:40:29.419274] [INFO] Transaction completed
+[2025-11-07T11:40:29.419263] [INFO] Health check passed
+[2025-11-07T11:40:29.419268] [INFO] Session started
+[2025-11-07T11:40:29.419289] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.419264] [INFO] Transaction completed
+[2025-11-07T11:40:29.419292] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.419283] [ERROR] Service unavailable
+[2025-11-07T11:40:29.419267] [INFO] Transaction completed
+[2025-11-07T11:40:29.419270] [INFO] Request processed successfully
+[2025-11-07T11:40:29.419285] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.419284] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.419287] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.419291] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.419262] [INFO] Connection established
+[2025-11-07T11:40:29.419290] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.419280] [WARN] Queue size growing
+[2025-11-07T11:40:29.419272] [INFO] Transaction completed
+[2025-11-07T11:40:29.419261] [INFO] Configuration loaded
+[2025-11-07T11:40:29.419293] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.419273] [INFO] Database query executed
+[2025-11-07T11:40:29.419260] [INFO] Request processed successfully

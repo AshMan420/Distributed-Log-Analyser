@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.502269] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.502272] [WARN] Slow query performance
+[2025-11-07T11:40:29.502253] [INFO] Configuration loaded
+[2025-11-07T11:40:29.502263] [INFO] Service initialized
+[2025-11-07T11:40:29.502264] [INFO] Health check passed
+[2025-11-07T11:40:29.502270] [WARN] Slow query performance
+[2025-11-07T11:40:29.502284] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.502282] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.502259] [INFO] Transaction completed
+[2025-11-07T11:40:29.502266] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.502283] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.502285] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.502279] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.502278] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.502277] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.502271] [WARN] Cache miss
+[2025-11-07T11:40:29.502254] [INFO] Cache hit
+[2025-11-07T11:40:29.502280] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.502258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.502251] [INFO] User logged in
+[2025-11-07T11:40:29.502275] [ERROR] Request failed
+[2025-11-07T11:40:29.502255] [INFO] User logged in
+[2025-11-07T11:40:29.502256] [INFO] Transaction completed
+[2025-11-07T11:40:29.502267] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.502252] [INFO] Service initialized
+[2025-11-07T11:40:29.502248] [INFO] Health check passed
+[2025-11-07T11:40:29.502250] [INFO] Cache hit
+[2025-11-07T11:40:29.502262] [INFO] Health check passed
+[2025-11-07T11:40:29.502257] [INFO] Session started
+[2025-11-07T11:40:29.502260] [INFO] Service initialized
+[2025-11-07T11:40:29.502281] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.502274] [ERROR] File not found

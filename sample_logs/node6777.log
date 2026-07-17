@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.014154] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.014137] [INFO] Connection established
+[2025-11-07T11:40:30.014149] [WARN] Cache miss
+[2025-11-07T11:40:30.014136] [INFO] Health check passed
+[2025-11-07T11:40:30.014153] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.014144] [INFO] Session started
+[2025-11-07T11:40:30.014136] [INFO] Health check passed
+[2025-11-07T11:40:30.014140] [INFO] Cache hit
+[2025-11-07T11:40:30.014146] [INFO] Cache hit
+[2025-11-07T11:40:30.014148] [INFO] Configuration loaded
+[2025-11-07T11:40:30.014135] [INFO] Health check passed
+[2025-11-07T11:40:30.014142] [INFO] Cache hit
+[2025-11-07T11:40:30.014132] [INFO] Session started
+[2025-11-07T11:40:30.014138] [INFO] Connection established
+[2025-11-07T11:40:30.014131] [INFO] Transaction completed
+[2025-11-07T11:40:30.014143] [INFO] Request processed successfully
+[2025-11-07T11:40:30.014157] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.014141] [INFO] User logged in
+[2025-11-07T11:40:30.014151] [ERROR] Invalid input data
+[2025-11-07T11:40:30.014139] [INFO] User logged in
+[2025-11-07T11:40:30.014152] [ERROR] Disk read failed
+[2025-11-07T11:40:30.014161] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.014155] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.014162] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.014147] [INFO] Transaction completed
+[2025-11-07T11:40:30.014150] [WARN] Queue size growing
+[2025-11-07T11:40:30.014156] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.014158] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.014159] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.014145] [INFO] Health check passed
+[2025-11-07T11:40:30.014160] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.014134] [INFO] Configuration loaded

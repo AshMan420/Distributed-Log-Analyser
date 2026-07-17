@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.560490] [INFO] User logged in
+[2025-11-07T11:40:29.560513] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.560491] [INFO] Database query executed
+[2025-11-07T11:40:29.560495] [INFO] Connection established
+[2025-11-07T11:40:29.560488] [INFO] Configuration loaded
+[2025-11-07T11:40:29.560512] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.560511] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.560486] [INFO] Health check passed
+[2025-11-07T11:40:29.560505] [ERROR] Authentication failed
+[2025-11-07T11:40:29.560489] [INFO] Database query executed
+[2025-11-07T11:40:29.560485] [INFO] Configuration loaded
+[2025-11-07T11:40:29.560506] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.560499] [INFO] Health check passed
+[2025-11-07T11:40:29.560500] [INFO] Transaction completed
+[2025-11-07T11:40:29.560497] [INFO] Session started
+[2025-11-07T11:40:29.560501] [WARN] Slow query performance
+[2025-11-07T11:40:29.560507] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.560510] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.560492] [INFO] Configuration loaded
+[2025-11-07T11:40:29.560496] [INFO] Transaction completed
+[2025-11-07T11:40:29.560496] [INFO] User logged in
+[2025-11-07T11:40:29.560494] [INFO] Request processed successfully
+[2025-11-07T11:40:29.560493] [INFO] User logged in
+[2025-11-07T11:40:29.560508] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.560498] [INFO] Service initialized
+[2025-11-07T11:40:29.560502] [WARN] Queue size growing
+[2025-11-07T11:40:29.560503] [ERROR] Service unavailable
+[2025-11-07T11:40:29.560509] [DEBUG] Connection pool status checked

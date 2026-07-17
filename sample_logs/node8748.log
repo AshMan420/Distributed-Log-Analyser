@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.232691] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.232704] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.232685] [INFO] Health check passed
+[2025-11-07T11:40:30.232694] [ERROR] Disk read failed
+[2025-11-07T11:40:30.232703] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.232701] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.232687] [INFO] Health check passed
+[2025-11-07T11:40:30.232695] [ERROR] Database connection lost
+[2025-11-07T11:40:30.232684] [INFO] Session started
+[2025-11-07T11:40:30.232686] [INFO] Service initialized
+[2025-11-07T11:40:30.232687] [INFO] Cache hit
+[2025-11-07T11:40:30.232702] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.232689] [INFO] User logged in
+[2025-11-07T11:40:30.232681] [INFO] Connection established
+[2025-11-07T11:40:30.232697] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.232699] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.232683] [INFO] Cache hit
+[2025-11-07T11:40:30.232705] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.232700] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.232693] [WARN] Queue size growing
+[2025-11-07T11:40:30.232698] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.232692] [WARN] Timeout warning
+[2025-11-07T11:40:30.232688] [INFO] Connection established
+[2025-11-07T11:40:30.232691] [WARN] Slow query performance

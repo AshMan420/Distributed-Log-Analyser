@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.132489] [INFO] Session started
+[2025-11-07T11:40:30.132511] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.132500] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.132501] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.132512] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.132486] [INFO] Connection established
+[2025-11-07T11:40:30.132491] [INFO] Request processed successfully
+[2025-11-07T11:40:30.132494] [INFO] Database query executed
+[2025-11-07T11:40:30.132503] [ERROR] Permission denied
+[2025-11-07T11:40:30.132509] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.132483] [INFO] Session started
+[2025-11-07T11:40:30.132502] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.132511] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.132499] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.132496] [INFO] Session started
+[2025-11-07T11:40:30.132493] [INFO] User logged in
+[2025-11-07T11:40:30.132510] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.132497] [WARN] Queue size growing
+[2025-11-07T11:40:30.132492] [INFO] Database query executed
+[2025-11-07T11:40:30.132495] [INFO] Session started
+[2025-11-07T11:40:30.132505] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.132498] [WARN] Queue size growing
+[2025-11-07T11:40:30.132487] [INFO] Session started
+[2025-11-07T11:40:30.132484] [INFO] Request processed successfully
+[2025-11-07T11:40:30.132490] [INFO] Database query executed
+[2025-11-07T11:40:30.132508] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.132488] [INFO] Service initialized
+[2025-11-07T11:40:30.132485] [INFO] Session started
+[2025-11-07T11:40:30.132507] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.132482] [INFO] Health check passed
+[2025-11-07T11:40:30.132504] [DEBUG] Thread pool size: 8

@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.559961] [WARN] Slow query performance
+[2025-11-07T11:40:29.559950] [INFO] User logged in
+[2025-11-07T11:40:29.559969] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.559960] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.559951] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559967] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.559945] [INFO] Connection established
+[2025-11-07T11:40:29.559965] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.559972] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.559971] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.559956] [INFO] Session started
+[2025-11-07T11:40:29.559968] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.559970] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.559963] [ERROR] Disk read failed
+[2025-11-07T11:40:29.559947] [INFO] Session started
+[2025-11-07T11:40:29.559959] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.559955] [INFO] Health check passed
+[2025-11-07T11:40:29.559949] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559953] [INFO] Database query executed
+[2025-11-07T11:40:29.559948] [INFO] Database query executed
+[2025-11-07T11:40:29.559962] [WARN] Timeout warning
+[2025-11-07T11:40:29.559964] [ERROR] Disk read failed
+[2025-11-07T11:40:29.559958] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559957] [INFO] Configuration loaded
+[2025-11-07T11:40:29.559954] [INFO] Service initialized
+[2025-11-07T11:40:29.559952] [INFO] Database query executed
+[2025-11-07T11:40:29.559973] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.559966] [DEBUG] Thread pool size: 8

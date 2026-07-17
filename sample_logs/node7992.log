@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.139247] [INFO] Cache hit
+[2025-11-07T11:40:30.139263] [INFO] Health check passed
+[2025-11-07T11:40:30.139266] [WARN] High memory usage detected
+[2025-11-07T11:40:30.139252] [INFO] Request processed successfully
+[2025-11-07T11:40:30.139269] [ERROR] Invalid input data
+[2025-11-07T11:40:30.139278] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.139271] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.139256] [INFO] Configuration loaded
+[2025-11-07T11:40:30.139279] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.139250] [INFO] Database query executed
+[2025-11-07T11:40:30.139274] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.139264] [WARN] Queue size growing
+[2025-11-07T11:40:30.139259] [INFO] Database query executed
+[2025-11-07T11:40:30.139277] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.139265] [WARN] Slow query performance
+[2025-11-07T11:40:30.139281] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.139280] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.139261] [INFO] Database query executed
+[2025-11-07T11:40:30.139267] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.139258] [INFO] Service initialized
+[2025-11-07T11:40:30.139249] [INFO] Cache hit
+[2025-11-07T11:40:30.139275] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.139260] [INFO] Configuration loaded
+[2025-11-07T11:40:30.139262] [INFO] Cache hit
+[2025-11-07T11:40:30.139257] [INFO] Cache hit
+[2025-11-07T11:40:30.139268] [WARN] Timeout warning
+[2025-11-07T11:40:30.139276] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.139273] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.139253] [INFO] Request processed successfully
+[2025-11-07T11:40:30.139270] [ERROR] Authentication failed
+[2025-11-07T11:40:30.139251] [INFO] Database query executed
+[2025-11-07T11:40:30.139255] [INFO] Service initialized
+[2025-11-07T11:40:30.139272] [DEBUG] Entering function process_data()

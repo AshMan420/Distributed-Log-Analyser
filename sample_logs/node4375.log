@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.759775] [INFO] Session started
+[2025-11-07T11:40:29.759770] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759787] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.759765] [INFO] Cache hit
+[2025-11-07T11:40:29.759783] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.759768] [INFO] Service initialized
+[2025-11-07T11:40:29.759772] [INFO] Health check passed
+[2025-11-07T11:40:29.759771] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759776] [INFO] Health check passed
+[2025-11-07T11:40:29.759777] [INFO] Transaction completed
+[2025-11-07T11:40:29.759788] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.759779] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.759781] [ERROR] Permission denied
+[2025-11-07T11:40:29.759769] [INFO] Connection established
+[2025-11-07T11:40:29.759780] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.759778] [INFO] Transaction completed
+[2025-11-07T11:40:29.759774] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759790] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.759786] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.759784] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.759789] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.759785] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.759764] [INFO] Health check passed
+[2025-11-07T11:40:29.759773] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759767] [INFO] Transaction completed
+[2025-11-07T11:40:29.759782] [ERROR] Permission denied

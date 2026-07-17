@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.459482] [INFO] User logged in
+[2025-11-07T11:40:29.459490] [WARN] High memory usage detected
+[2025-11-07T11:40:29.459501] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.459479] [INFO] Session started
+[2025-11-07T11:40:29.459476] [INFO] Connection established
+[2025-11-07T11:40:29.459481] [INFO] Session started
+[2025-11-07T11:40:29.459484] [INFO] Request processed successfully
+[2025-11-07T11:40:29.459483] [INFO] User logged in
+[2025-11-07T11:40:29.459487] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.459478] [INFO] Session started
+[2025-11-07T11:40:29.459491] [ERROR] Database connection lost
+[2025-11-07T11:40:29.459496] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.459497] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.459484] [INFO] User logged in
+[2025-11-07T11:40:29.459499] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.459475] [INFO] Health check passed
+[2025-11-07T11:40:29.459488] [WARN] High memory usage detected
+[2025-11-07T11:40:29.459477] [INFO] Session started
+[2025-11-07T11:40:29.459485] [INFO] Database query executed
+[2025-11-07T11:40:29.459494] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.459493] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.459492] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.459495] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.459489] [WARN] Timeout warning
+[2025-11-07T11:40:29.459500] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.459473] [INFO] Session started
+[2025-11-07T11:40:29.459480] [INFO] Cache hit
+[2025-11-07T11:40:29.459486] [INFO] Database query executed
+[2025-11-07T11:40:29.459498] [DEBUG] Entering function process_data()

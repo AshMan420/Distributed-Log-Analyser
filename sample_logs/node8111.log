@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.152052] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.152037] [INFO] Health check passed
+[2025-11-07T11:40:30.152056] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.152053] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.152038] [INFO] Session started
+[2025-11-07T11:40:30.152039] [INFO] Transaction completed
+[2025-11-07T11:40:30.152047] [ERROR] Database connection lost
+[2025-11-07T11:40:30.152035] [INFO] Transaction completed
+[2025-11-07T11:40:30.152049] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.152043] [WARN] Timeout warning
+[2025-11-07T11:40:30.152033] [INFO] Cache hit
+[2025-11-07T11:40:30.152032] [INFO] Session started
+[2025-11-07T11:40:30.152046] [ERROR] Database connection lost
+[2025-11-07T11:40:30.152051] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.152055] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.152031] [INFO] User logged in
+[2025-11-07T11:40:30.152057] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.152036] [INFO] Session started
+[2025-11-07T11:40:30.152045] [ERROR] Authentication failed
+[2025-11-07T11:40:30.152030] [INFO] Session started
+[2025-11-07T11:40:30.152040] [INFO] Health check passed
+[2025-11-07T11:40:30.152034] [INFO] Request processed successfully
+[2025-11-07T11:40:30.152042] [INFO] User logged in
+[2025-11-07T11:40:30.152054] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.152041] [INFO] Database query executed
+[2025-11-07T11:40:30.152029] [INFO] Transaction completed
+[2025-11-07T11:40:30.152048] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.152044] [WARN] Slow query performance
+[2025-11-07T11:40:30.152028] [INFO] Service initialized

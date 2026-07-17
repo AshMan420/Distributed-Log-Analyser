@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.840224] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.840219] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.840201] [INFO] Cache hit
+[2025-11-07T11:40:29.840202] [INFO] User logged in
+[2025-11-07T11:40:29.840222] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.840220] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.840198] [INFO] Session started
+[2025-11-07T11:40:29.840200] [INFO] Database query executed
+[2025-11-07T11:40:29.840216] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.840208] [WARN] Cache miss
+[2025-11-07T11:40:29.840195] [INFO] Connection established
+[2025-11-07T11:40:29.840211] [ERROR] File not found
+[2025-11-07T11:40:29.840218] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.840193] [INFO] Health check passed
+[2025-11-07T11:40:29.840206] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.840221] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.840207] [WARN] Timeout warning
+[2025-11-07T11:40:29.840190] [INFO] Health check passed
+[2025-11-07T11:40:29.840189] [INFO] Connection established
+[2025-11-07T11:40:29.840191] [INFO] Service initialized
+[2025-11-07T11:40:29.840215] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.840197] [INFO] Transaction completed
+[2025-11-07T11:40:29.840192] [INFO] Transaction completed
+[2025-11-07T11:40:29.840223] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.840210] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.840217] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.840209] [WARN] Slow query performance
+[2025-11-07T11:40:29.840204] [INFO] Health check passed
+[2025-11-07T11:40:29.840212] [ERROR] Permission denied
+[2025-11-07T11:40:29.840199] [INFO] Request processed successfully
+[2025-11-07T11:40:29.840214] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.840194] [INFO] Transaction completed
+[2025-11-07T11:40:29.840196] [INFO] Service initialized
+[2025-11-07T11:40:29.840213] [ERROR] Disk read failed
+[2025-11-07T11:40:29.840203] [INFO] Transaction completed

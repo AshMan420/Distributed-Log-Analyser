@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.138040] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.138050] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.138033] [INFO] Service initialized
+[2025-11-07T11:40:30.138045] [ERROR] Permission denied
+[2025-11-07T11:40:30.138046] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.138044] [WARN] Slow query performance
+[2025-11-07T11:40:30.138024] [INFO] Configuration loaded
+[2025-11-07T11:40:30.138048] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.138030] [INFO] Connection established
+[2025-11-07T11:40:30.138029] [INFO] Cache hit
+[2025-11-07T11:40:30.138047] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.138036] [INFO] Connection established
+[2025-11-07T11:40:30.138051] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.138054] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.138037] [INFO] Service initialized
+[2025-11-07T11:40:30.138052] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.138026] [INFO] User logged in
+[2025-11-07T11:40:30.138057] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.138039] [INFO] Connection established
+[2025-11-07T11:40:30.138043] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.138056] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.138055] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.138041] [WARN] Queue size growing
+[2025-11-07T11:40:30.138034] [INFO] Cache hit
+[2025-11-07T11:40:30.138028] [INFO] Transaction completed
+[2025-11-07T11:40:30.138032] [INFO] Database query executed
+[2025-11-07T11:40:30.138042] [WARN] Timeout warning
+[2025-11-07T11:40:30.138049] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.138031] [INFO] Request processed successfully
+[2025-11-07T11:40:30.138035] [INFO] Health check passed
+[2025-11-07T11:40:30.138053] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.138038] [INFO] Health check passed
+[2025-11-07T11:40:30.138027] [INFO] User logged in

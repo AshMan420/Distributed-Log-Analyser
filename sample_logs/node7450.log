@@ -1,0 +1,21 @@
+[2025-11-07T11:40:30.083886] [WARN] Queue size growing
+[2025-11-07T11:40:30.083900] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.083880] [INFO] Transaction completed
+[2025-11-07T11:40:30.083887] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.083896] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.083888] [ERROR] Permission denied
+[2025-11-07T11:40:30.083890] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.083879] [INFO] Database query executed
+[2025-11-07T11:40:30.083892] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.083891] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.083881] [INFO] Service initialized
+[2025-11-07T11:40:30.083894] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.083884] [WARN] Timeout warning
+[2025-11-07T11:40:30.083899] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.083889] [ERROR] Authentication failed
+[2025-11-07T11:40:30.083885] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.083895] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.083878] [INFO] Request processed successfully
+[2025-11-07T11:40:30.083893] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.083897] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.083883] [WARN] Connection retry attempt

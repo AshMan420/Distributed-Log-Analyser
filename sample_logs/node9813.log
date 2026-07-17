@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.352262] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.352252] [INFO] Health check passed
+[2025-11-07T11:40:30.352239] [INFO] Health check passed
+[2025-11-07T11:40:30.352249] [INFO] Database query executed
+[2025-11-07T11:40:30.352254] [WARN] Cache miss
+[2025-11-07T11:40:30.352251] [INFO] Request processed successfully
+[2025-11-07T11:40:30.352266] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.352238] [INFO] Connection established
+[2025-11-07T11:40:30.352259] [ERROR] Permission denied
+[2025-11-07T11:40:30.352257] [ERROR] File not found
+[2025-11-07T11:40:30.352245] [INFO] Cache hit
+[2025-11-07T11:40:30.352247] [INFO] Database query executed
+[2025-11-07T11:40:30.352248] [INFO] Connection established
+[2025-11-07T11:40:30.352246] [INFO] Cache hit
+[2025-11-07T11:40:30.352242] [INFO] Request processed successfully
+[2025-11-07T11:40:30.352265] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.352255] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.352250] [INFO] Session started
+[2025-11-07T11:40:30.352253] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.352244] [INFO] Service initialized
+[2025-11-07T11:40:30.352260] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.352268] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.352256] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.352243] [INFO] Session started
+[2025-11-07T11:40:30.352261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.352240] [INFO] Transaction completed
+[2025-11-07T11:40:30.352263] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.352267] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.352258] [ERROR] Network timeout
+[2025-11-07T11:40:30.352264] [DEBUG] HTTP request headers parsed

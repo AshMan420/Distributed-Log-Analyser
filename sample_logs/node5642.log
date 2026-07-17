@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.888211] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.888214] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.888205] [INFO] Cache hit
+[2025-11-07T11:40:29.888193] [INFO] User logged in
+[2025-11-07T11:40:29.888213] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.888207] [WARN] High memory usage detected
+[2025-11-07T11:40:29.888210] [ERROR] Database connection lost
+[2025-11-07T11:40:29.888206] [WARN] Cache miss
+[2025-11-07T11:40:29.888202] [INFO] Database query executed
+[2025-11-07T11:40:29.888209] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.888204] [INFO] Health check passed
+[2025-11-07T11:40:29.888195] [INFO] Configuration loaded
+[2025-11-07T11:40:29.888201] [INFO] Connection established
+[2025-11-07T11:40:29.888212] [ERROR] Request failed
+[2025-11-07T11:40:29.888203] [INFO] Session started
+[2025-11-07T11:40:29.888208] [WARN] Disk space low
+[2025-11-07T11:40:29.888197] [INFO] Cache hit
+[2025-11-07T11:40:29.888194] [INFO] Cache hit
+[2025-11-07T11:40:29.888197] [INFO] Session started
+[2025-11-07T11:40:29.888192] [INFO] Service initialized
+[2025-11-07T11:40:29.888191] [INFO] Configuration loaded
+[2025-11-07T11:40:29.888215] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.888199] [INFO] Configuration loaded
+[2025-11-07T11:40:29.888216] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.888200] [INFO] Transaction completed
+[2025-11-07T11:40:29.888217] [DEBUG] Variable value: x=42

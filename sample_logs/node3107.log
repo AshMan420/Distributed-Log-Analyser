@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.625704] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.625697] [INFO] Service initialized
+[2025-11-07T11:40:29.625699] [WARN] High memory usage detected
+[2025-11-07T11:40:29.625702] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.625707] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.625694] [INFO] Health check passed
+[2025-11-07T11:40:29.625701] [ERROR] Permission denied
+[2025-11-07T11:40:29.625686] [INFO] Connection established
+[2025-11-07T11:40:29.625708] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.625690] [INFO] Health check passed
+[2025-11-07T11:40:29.625695] [INFO] Transaction completed
+[2025-11-07T11:40:29.625692] [INFO] Request processed successfully
+[2025-11-07T11:40:29.625700] [ERROR] Network timeout
+[2025-11-07T11:40:29.625685] [INFO] Session started
+[2025-11-07T11:40:29.625703] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.625693] [INFO] Session started
+[2025-11-07T11:40:29.625697] [INFO] Cache hit
+[2025-11-07T11:40:29.625706] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.625696] [INFO] Transaction completed
+[2025-11-07T11:40:29.625689] [INFO] Transaction completed
+[2025-11-07T11:40:29.625688] [INFO] Request processed successfully
+[2025-11-07T11:40:29.625687] [INFO] Request processed successfully
+[2025-11-07T11:40:29.625683] [INFO] User logged in
+[2025-11-07T11:40:29.625705] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.625691] [INFO] Request processed successfully

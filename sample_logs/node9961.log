@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.367571] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.367566] [WARN] Slow query performance
+[2025-11-07T11:40:30.367565] [WARN] Timeout warning
+[2025-11-07T11:40:30.367551] [INFO] Request processed successfully
+[2025-11-07T11:40:30.367574] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.367577] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.367554] [INFO] User logged in
+[2025-11-07T11:40:30.367569] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.367562] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.367549] [INFO] Configuration loaded
+[2025-11-07T11:40:30.367573] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.367560] [INFO] Health check passed
+[2025-11-07T11:40:30.367561] [INFO] Service initialized
+[2025-11-07T11:40:30.367555] [INFO] Transaction completed
+[2025-11-07T11:40:30.367564] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.367567] [ERROR] Database connection lost
+[2025-11-07T11:40:30.367572] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.367552] [INFO] Session started
+[2025-11-07T11:40:30.367558] [INFO] Configuration loaded
+[2025-11-07T11:40:30.367568] [ERROR] Permission denied
+[2025-11-07T11:40:30.367550] [INFO] Transaction completed
+[2025-11-07T11:40:30.367556] [INFO] Health check passed
+[2025-11-07T11:40:30.367575] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.367559] [INFO] Database query executed
+[2025-11-07T11:40:30.367570] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.367576] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.367547] [INFO] Transaction completed
+[2025-11-07T11:40:30.367557] [INFO] Transaction completed
+[2025-11-07T11:40:30.367553] [INFO] Database query executed
+[2025-11-07T11:40:30.367563] [WARN] Deprecated API usage

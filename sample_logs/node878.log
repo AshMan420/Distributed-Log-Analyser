@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.383894] [INFO] Cache hit
+[2025-11-07T11:40:29.383896] [INFO] Service initialized
+[2025-11-07T11:40:29.383912] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.383905] [WARN] High memory usage detected
+[2025-11-07T11:40:29.383918] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.383913] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.383915] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.383906] [WARN] Timeout warning
+[2025-11-07T11:40:29.383893] [INFO] Database query executed
+[2025-11-07T11:40:29.383917] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.383903] [INFO] Database query executed
+[2025-11-07T11:40:29.383897] [INFO] Session started
+[2025-11-07T11:40:29.383899] [INFO] Configuration loaded
+[2025-11-07T11:40:29.383910] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.383901] [INFO] Health check passed
+[2025-11-07T11:40:29.383911] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.383890] [INFO] Transaction completed
+[2025-11-07T11:40:29.383895] [INFO] Connection established
+[2025-11-07T11:40:29.383902] [INFO] Database query executed
+[2025-11-07T11:40:29.383898] [INFO] Database query executed
+[2025-11-07T11:40:29.383907] [ERROR] Database connection lost
+[2025-11-07T11:40:29.383908] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.383909] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.383904] [WARN] Disk space low
+[2025-11-07T11:40:29.383892] [INFO] Database query executed
+[2025-11-07T11:40:29.383900] [INFO] Session started
+[2025-11-07T11:40:29.383914] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.383916] [DEBUG] Entering function process_data()

@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.535542] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.535543] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.535524] [INFO] Service initialized
+[2025-11-07T11:40:29.535534] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.535522] [INFO] Session started
+[2025-11-07T11:40:29.535527] [INFO] Session started
+[2025-11-07T11:40:29.535531] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.535545] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.535544] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.535537] [ERROR] Invalid input data
+[2025-11-07T11:40:29.535520] [INFO] User logged in
+[2025-11-07T11:40:29.535532] [WARN] Disk space low
+[2025-11-07T11:40:29.535541] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.535525] [INFO] Connection established
+[2025-11-07T11:40:29.535533] [WARN] Queue size growing
+[2025-11-07T11:40:29.535539] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.535536] [WARN] Queue size growing
+[2025-11-07T11:40:29.535526] [INFO] Request processed successfully
+[2025-11-07T11:40:29.535514] [INFO] Cache hit
+[2025-11-07T11:40:29.535540] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.535535] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.535547] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.535517] [INFO] Configuration loaded
+[2025-11-07T11:40:29.535523] [INFO] Transaction completed
+[2025-11-07T11:40:29.535515] [INFO] Cache hit
+[2025-11-07T11:40:29.535513] [INFO] Database query executed
+[2025-11-07T11:40:29.535546] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.535518] [INFO] Session started
+[2025-11-07T11:40:29.535512] [INFO] Service initialized
+[2025-11-07T11:40:29.535528] [INFO] Request processed successfully
+[2025-11-07T11:40:29.535516] [INFO] Connection established
+[2025-11-07T11:40:29.535529] [INFO] Connection established
+[2025-11-07T11:40:29.535521] [INFO] Database query executed
+[2025-11-07T11:40:29.535519] [INFO] Session started
+[2025-11-07T11:40:29.535530] [WARN] Deprecated API usage

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.713184] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.713194] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.713175] [INFO] Configuration loaded
+[2025-11-07T11:40:29.713174] [INFO] Connection established
+[2025-11-07T11:40:29.713166] [INFO] Session started
+[2025-11-07T11:40:29.713178] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.713195] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.713179] [WARN] Queue size growing
+[2025-11-07T11:40:29.713189] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.713193] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.713187] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.713170] [INFO] Transaction completed
+[2025-11-07T11:40:29.713197] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.713198] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.713188] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.713176] [INFO] Database query executed
+[2025-11-07T11:40:29.713172] [INFO] Connection established
+[2025-11-07T11:40:29.713164] [INFO] Request processed successfully
+[2025-11-07T11:40:29.713181] [WARN] Timeout warning
+[2025-11-07T11:40:29.713190] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.713180] [WARN] Timeout warning
+[2025-11-07T11:40:29.713173] [INFO] Transaction completed
+[2025-11-07T11:40:29.713191] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.713185] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.713196] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.713167] [INFO] Cache hit
+[2025-11-07T11:40:29.713168] [INFO] Connection established
+[2025-11-07T11:40:29.713169] [INFO] Health check passed
+[2025-11-07T11:40:29.713171] [INFO] Service initialized
+[2025-11-07T11:40:29.713165] [INFO] Cache hit
+[2025-11-07T11:40:29.713182] [ERROR] Permission denied
+[2025-11-07T11:40:29.713183] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.713192] [DEBUG] Connection pool status checked

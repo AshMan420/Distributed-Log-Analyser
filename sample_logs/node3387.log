@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.656795] [INFO] Request processed successfully
+[2025-11-07T11:40:29.656817] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.656819] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.656803] [INFO] Session started
+[2025-11-07T11:40:29.656821] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.656805] [INFO] User logged in
+[2025-11-07T11:40:29.656799] [INFO] Service initialized
+[2025-11-07T11:40:29.656802] [INFO] Transaction completed
+[2025-11-07T11:40:29.656801] [INFO] Service initialized
+[2025-11-07T11:40:29.656813] [ERROR] Disk read failed
+[2025-11-07T11:40:29.656806] [INFO] Database query executed
+[2025-11-07T11:40:29.656804] [INFO] Transaction completed
+[2025-11-07T11:40:29.656800] [INFO] Database query executed
+[2025-11-07T11:40:29.656814] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.656811] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.656808] [INFO] Cache hit
+[2025-11-07T11:40:29.656812] [ERROR] Request failed
+[2025-11-07T11:40:29.656807] [INFO] Configuration loaded
+[2025-11-07T11:40:29.656816] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.656796] [INFO] Session started
+[2025-11-07T11:40:29.656815] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.656818] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.656822] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.656798] [INFO] User logged in
+[2025-11-07T11:40:29.656794] [INFO] Session started
+[2025-11-07T11:40:29.656797] [INFO] Connection established
+[2025-11-07T11:40:29.656820] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.656809] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.656810] [WARN] Connection retry attempt

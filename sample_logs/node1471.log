@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.445754] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.445734] [INFO] Session started
+[2025-11-07T11:40:29.445748] [WARN] Queue size growing
+[2025-11-07T11:40:29.445736] [INFO] Transaction completed
+[2025-11-07T11:40:29.445751] [ERROR] Permission denied
+[2025-11-07T11:40:29.445762] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.445760] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.445758] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.445747] [WARN] Disk space low
+[2025-11-07T11:40:29.445744] [INFO] Database query executed
+[2025-11-07T11:40:29.445752] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.445755] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.445757] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.445756] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.445759] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.445731] [INFO] Service initialized
+[2025-11-07T11:40:29.445742] [INFO] Connection established
+[2025-11-07T11:40:29.445746] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.445745] [INFO] Configuration loaded
+[2025-11-07T11:40:29.445753] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.445739] [INFO] User logged in
+[2025-11-07T11:40:29.445749] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.445737] [INFO] Database query executed
+[2025-11-07T11:40:29.445738] [INFO] Database query executed
+[2025-11-07T11:40:29.445733] [INFO] Service initialized
+[2025-11-07T11:40:29.445761] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.445743] [INFO] Connection established
+[2025-11-07T11:40:29.445757] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.445741] [INFO] Cache hit
+[2025-11-07T11:40:29.445740] [INFO] Cache hit
+[2025-11-07T11:40:29.445750] [ERROR] File not found
+[2025-11-07T11:40:29.445735] [INFO] Connection established
+[2025-11-07T11:40:29.445732] [INFO] Service initialized

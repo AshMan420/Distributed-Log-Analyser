@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.517447] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.517450] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.517437] [INFO] Connection established
+[2025-11-07T11:40:29.517324] [INFO] Health check passed
+[2025-11-07T11:40:29.517327] [INFO] Database query executed
+[2025-11-07T11:40:29.517321] [INFO] Service initialized
+[2025-11-07T11:40:29.517438] [INFO] Configuration loaded
+[2025-11-07T11:40:29.517445] [ERROR] File not found
+[2025-11-07T11:40:29.517443] [WARN] Disk space low
+[2025-11-07T11:40:29.517449] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.517435] [INFO] Cache hit
+[2025-11-07T11:40:29.517446] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.517455] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.517448] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.517439] [INFO] Health check passed
+[2025-11-07T11:40:29.517441] [WARN] Disk space low
+[2025-11-07T11:40:29.517320] [INFO] Health check passed
+[2025-11-07T11:40:29.517452] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.517326] [INFO] Database query executed
+[2025-11-07T11:40:29.517322] [INFO] Cache hit
+[2025-11-07T11:40:29.517318] [INFO] Health check passed
+[2025-11-07T11:40:29.517323] [INFO] Database query executed
+[2025-11-07T11:40:29.517454] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.517453] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.517432] [INFO] User logged in
+[2025-11-07T11:40:29.517442] [WARN] Slow query performance
+[2025-11-07T11:40:29.517325] [INFO] Cache hit
+[2025-11-07T11:40:29.517444] [WARN] High memory usage detected
+[2025-11-07T11:40:29.517436] [INFO] Cache hit

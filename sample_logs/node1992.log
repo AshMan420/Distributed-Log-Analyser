@@ -1,0 +1,41 @@
+[2025-11-07T11:40:29.504002] [WARN] Queue size growing
+[2025-11-07T11:40:29.504014] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.504015] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.503991] [INFO] Database query executed
+[2025-11-07T11:40:29.503981] [INFO] Connection established
+[2025-11-07T11:40:29.504004] [ERROR] Invalid input data
+[2025-11-07T11:40:29.503984] [INFO] User logged in
+[2025-11-07T11:40:29.504011] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.504009] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.504010] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.504006] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.503992] [INFO] Transaction completed
+[2025-11-07T11:40:29.504001] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.503995] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.503985] [INFO] Configuration loaded
+[2025-11-07T11:40:29.503990] [INFO] Service initialized
+[2025-11-07T11:40:29.503979] [INFO] Configuration loaded
+[2025-11-07T11:40:29.504007] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.503993] [INFO] User logged in
+[2025-11-07T11:40:29.503998] [WARN] Queue size growing
+[2025-11-07T11:40:29.503982] [INFO] Configuration loaded
+[2025-11-07T11:40:29.503986] [INFO] Connection established
+[2025-11-07T11:40:29.503988] [INFO] Health check passed
+[2025-11-07T11:40:29.504015] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.503980] [INFO] Request processed successfully
+[2025-11-07T11:40:29.503977] [INFO] User logged in
+[2025-11-07T11:40:29.504003] [ERROR] Request failed
+[2025-11-07T11:40:29.503978] [INFO] Database query executed
+[2025-11-07T11:40:29.503987] [INFO] Session started
+[2025-11-07T11:40:29.504013] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.503993] [INFO] Request processed successfully
+[2025-11-07T11:40:29.503996] [WARN] High memory usage detected
+[2025-11-07T11:40:29.503995] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.503997] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.504008] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.504000] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.503983] [INFO] Configuration loaded
+[2025-11-07T11:40:29.504012] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.503989] [INFO] Service initialized
+[2025-11-07T11:40:29.504005] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.503999] [WARN] Timeout warning

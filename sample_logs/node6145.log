@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.945696] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.945675] [INFO] Cache hit
+[2025-11-07T11:40:29.945694] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.945690] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.945693] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.945668] [INFO] Session started
+[2025-11-07T11:40:29.945691] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.945680] [WARN] Timeout warning
+[2025-11-07T11:40:29.945689] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.945676] [INFO] User logged in
+[2025-11-07T11:40:29.945665] [INFO] Cache hit
+[2025-11-07T11:40:29.945695] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.945672] [INFO] Connection established
+[2025-11-07T11:40:29.945681] [WARN] Slow query performance
+[2025-11-07T11:40:29.945673] [INFO] Service initialized
+[2025-11-07T11:40:29.945676] [INFO] Connection established
+[2025-11-07T11:40:29.945662] [INFO] Connection established
+[2025-11-07T11:40:29.945669] [INFO] Transaction completed
+[2025-11-07T11:40:29.945672] [INFO] Connection established
+[2025-11-07T11:40:29.945667] [INFO] Configuration loaded
+[2025-11-07T11:40:29.945687] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.945697] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.945679] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.945683] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.945685] [ERROR] Service unavailable
+[2025-11-07T11:40:29.945666] [INFO] Session started
+[2025-11-07T11:40:29.945688] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.945686] [ERROR] Permission denied
+[2025-11-07T11:40:29.945682] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.945663] [INFO] Cache hit
+[2025-11-07T11:40:29.945664] [INFO] Transaction completed
+[2025-11-07T11:40:29.945670] [INFO] Health check passed
+[2025-11-07T11:40:29.945692] [DEBUG] Timer set: 30 seconds

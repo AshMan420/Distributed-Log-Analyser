@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.353802] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.353787] [INFO] Session started
+[2025-11-07T11:40:29.353804] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.353806] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.353784] [INFO] Request processed successfully
+[2025-11-07T11:40:29.353801] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.353794] [INFO] Database query executed
+[2025-11-07T11:40:29.353782] [INFO] Cache hit
+[2025-11-07T11:40:29.353791] [INFO] Request processed successfully
+[2025-11-07T11:40:29.353789] [INFO] Transaction completed
+[2025-11-07T11:40:29.353803] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.353799] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.353790] [INFO] Service initialized
+[2025-11-07T11:40:29.353783] [INFO] Cache hit
+[2025-11-07T11:40:29.353801] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.353785] [INFO] Service initialized
+[2025-11-07T11:40:29.353795] [WARN] Cache miss
+[2025-11-07T11:40:29.353786] [INFO] Database query executed
+[2025-11-07T11:40:29.353798] [ERROR] Network timeout
+[2025-11-07T11:40:29.353789] [INFO] Cache hit
+[2025-11-07T11:40:29.353793] [INFO] Connection established
+[2025-11-07T11:40:29.353796] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.353788] [INFO] Cache hit
+[2025-11-07T11:40:29.353792] [INFO] Transaction completed
+[2025-11-07T11:40:29.353797] [ERROR] Network timeout
+[2025-11-07T11:40:29.353807] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.353805] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.353780] [INFO] Request processed successfully

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.543633] [INFO] Configuration loaded
+[2025-11-07T11:40:29.543651] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.543656] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.543647] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.543655] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.543649] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.543645] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.543628] [INFO] Cache hit
+[2025-11-07T11:40:29.543648] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.543657] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.543640] [INFO] User logged in
+[2025-11-07T11:40:29.543652] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.543646] [ERROR] File not found
+[2025-11-07T11:40:29.543638] [INFO] Session started
+[2025-11-07T11:40:29.543633] [INFO] User logged in
+[2025-11-07T11:40:29.543634] [INFO] User logged in
+[2025-11-07T11:40:29.543637] [INFO] Cache hit
+[2025-11-07T11:40:29.543642] [INFO] Request processed successfully
+[2025-11-07T11:40:29.543640] [INFO] User logged in
+[2025-11-07T11:40:29.543636] [INFO] Health check passed
+[2025-11-07T11:40:29.543644] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.543627] [INFO] Request processed successfully
+[2025-11-07T11:40:29.543653] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.543643] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.543632] [INFO] Transaction completed
+[2025-11-07T11:40:29.543630] [INFO] Database query executed
+[2025-11-07T11:40:29.543650] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.543639] [INFO] Configuration loaded
+[2025-11-07T11:40:29.543629] [INFO] Session started
+[2025-11-07T11:40:29.543654] [DEBUG] Timer set: 30 seconds

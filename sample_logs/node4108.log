@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.732311] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.732314] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.732304] [WARN] Slow query performance
+[2025-11-07T11:40:29.732309] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.732302] [WARN] Timeout warning
+[2025-11-07T11:40:29.732303] [WARN] Timeout warning
+[2025-11-07T11:40:29.732307] [ERROR] Authentication failed
+[2025-11-07T11:40:29.732295] [INFO] Health check passed
+[2025-11-07T11:40:29.732299] [INFO] Configuration loaded
+[2025-11-07T11:40:29.732296] [INFO] Connection established
+[2025-11-07T11:40:29.732315] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.732310] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.732305] [WARN] Cache miss
+[2025-11-07T11:40:29.732301] [INFO] Transaction completed
+[2025-11-07T11:40:29.732306] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.732300] [INFO] Transaction completed
+[2025-11-07T11:40:29.732313] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.732293] [INFO] Service initialized
+[2025-11-07T11:40:29.732297] [INFO] Transaction completed
+[2025-11-07T11:40:29.732294] [INFO] Database query executed
+[2025-11-07T11:40:29.732316] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.732312] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.732298] [INFO] Database query executed
+[2025-11-07T11:40:29.732308] [ERROR] Service unavailable

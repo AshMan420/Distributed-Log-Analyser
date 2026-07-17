@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.310038] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.310020] [INFO] Database query executed
+[2025-11-07T11:40:29.310028] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.310016] [INFO] Transaction completed
+[2025-11-07T11:40:29.310030] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.310026] [INFO] Health check passed
+[2025-11-07T11:40:29.310039] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.310021] [INFO] Session started
+[2025-11-07T11:40:29.310041] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.310022] [INFO] User logged in
+[2025-11-07T11:40:29.310019] [INFO] Session started
+[2025-11-07T11:40:29.310034] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.310042] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.310018] [INFO] Service initialized
+[2025-11-07T11:40:29.310023] [INFO] Service initialized
+[2025-11-07T11:40:29.310017] [INFO] Transaction completed
+[2025-11-07T11:40:29.310015] [INFO] Transaction completed
+[2025-11-07T11:40:29.310029] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.310036] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.310040] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.310032] [ERROR] Database connection lost
+[2025-11-07T11:40:29.310014] [INFO] Request processed successfully
+[2025-11-07T11:40:29.310024] [INFO] Connection established
+[2025-11-07T11:40:29.310037] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.310025] [INFO] Service initialized
+[2025-11-07T11:40:29.310035] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.310027] [WARN] Disk space low
+[2025-11-07T11:40:29.310031] [ERROR] Request failed

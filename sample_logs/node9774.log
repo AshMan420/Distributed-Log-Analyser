@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.348245] [INFO] Session started
+[2025-11-07T11:40:30.348251] [WARN] Cache miss
+[2025-11-07T11:40:30.348243] [INFO] User logged in
+[2025-11-07T11:40:30.348242] [INFO] Service initialized
+[2025-11-07T11:40:30.348246] [INFO] Health check passed
+[2025-11-07T11:40:30.348256] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.348236] [INFO] Service initialized
+[2025-11-07T11:40:30.348239] [INFO] User logged in
+[2025-11-07T11:40:30.348257] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.348255] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.348261] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.348252] [WARN] Timeout warning
+[2025-11-07T11:40:30.348260] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.348258] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.348241] [INFO] Cache hit
+[2025-11-07T11:40:30.348248] [INFO] Health check passed
+[2025-11-07T11:40:30.348237] [INFO] Database query executed
+[2025-11-07T11:40:30.348260] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.348262] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.348254] [ERROR] Authentication failed
+[2025-11-07T11:40:30.348249] [WARN] Slow query performance
+[2025-11-07T11:40:30.348235] [INFO] Cache hit
+[2025-11-07T11:40:30.348238] [INFO] Transaction completed
+[2025-11-07T11:40:30.348250] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.348240] [INFO] Database query executed
+[2025-11-07T11:40:30.348244] [INFO] Request processed successfully
+[2025-11-07T11:40:30.348233] [INFO] Service initialized
+[2025-11-07T11:40:30.348264] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.348253] [ERROR] Permission denied
+[2025-11-07T11:40:30.348247] [INFO] Request processed successfully

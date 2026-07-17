@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.702737] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.702729] [WARN] Timeout warning
+[2025-11-07T11:40:29.702725] [INFO] Cache hit
+[2025-11-07T11:40:29.702730] [WARN] Disk space low
+[2025-11-07T11:40:29.702742] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.702743] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.702736] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.702724] [INFO] User logged in
+[2025-11-07T11:40:29.702727] [INFO] Configuration loaded
+[2025-11-07T11:40:29.702721] [INFO] Cache hit
+[2025-11-07T11:40:29.702738] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.702739] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.702735] [ERROR] Authentication failed
+[2025-11-07T11:40:29.702726] [INFO] Health check passed
+[2025-11-07T11:40:29.702740] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.702714] [INFO] Session started
+[2025-11-07T11:40:29.702722] [INFO] Transaction completed
+[2025-11-07T11:40:29.702717] [INFO] Transaction completed
+[2025-11-07T11:40:29.702723] [INFO] User logged in
+[2025-11-07T11:40:29.702728] [INFO] Session started
+[2025-11-07T11:40:29.702715] [INFO] Connection established
+[2025-11-07T11:40:29.702741] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.702720] [INFO] Health check passed
+[2025-11-07T11:40:29.702731] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.702744] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.702718] [INFO] Session started
+[2025-11-07T11:40:29.702722] [INFO] Connection established
+[2025-11-07T11:40:29.702733] [WARN] Slow query performance
+[2025-11-07T11:40:29.702734] [ERROR] Request failed
+[2025-11-07T11:40:29.702716] [INFO] Request processed successfully

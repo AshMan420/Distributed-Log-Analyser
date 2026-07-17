@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.535137] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.535127] [INFO] Session started
+[2025-11-07T11:40:29.535146] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.535134] [INFO] Health check passed
+[2025-11-07T11:40:29.535142] [ERROR] Permission denied
+[2025-11-07T11:40:29.535126] [INFO] Cache hit
+[2025-11-07T11:40:29.535129] [INFO] Health check passed
+[2025-11-07T11:40:29.535123] [INFO] Service initialized
+[2025-11-07T11:40:29.535132] [INFO] Database query executed
+[2025-11-07T11:40:29.535139] [WARN] Cache miss
+[2025-11-07T11:40:29.535147] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.535130] [INFO] Database query executed
+[2025-11-07T11:40:29.535141] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.535145] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.535149] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.535143] [ERROR] Network timeout
+[2025-11-07T11:40:29.535138] [WARN] Queue size growing
+[2025-11-07T11:40:29.535120] [INFO] Database query executed
+[2025-11-07T11:40:29.535119] [INFO] Connection established
+[2025-11-07T11:40:29.535133] [INFO] Request processed successfully
+[2025-11-07T11:40:29.535116] [INFO] User logged in
+[2025-11-07T11:40:29.535118] [INFO] Transaction completed
+[2025-11-07T11:40:29.535148] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.535125] [INFO] Transaction completed
+[2025-11-07T11:40:29.535151] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.535121] [INFO] Transaction completed
+[2025-11-07T11:40:29.535122] [INFO] Service initialized
+[2025-11-07T11:40:29.535150] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.535152] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.535136] [WARN] Slow query performance

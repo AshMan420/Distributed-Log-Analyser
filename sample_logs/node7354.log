@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.073994] [INFO] Session started
+[2025-11-07T11:40:30.074012] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.074002] [WARN] Slow query performance
+[2025-11-07T11:40:30.074011] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.073990] [INFO] User logged in
+[2025-11-07T11:40:30.073996] [INFO] Service initialized
+[2025-11-07T11:40:30.074001] [WARN] Queue size growing
+[2025-11-07T11:40:30.074010] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.073999] [INFO] Cache hit
+[2025-11-07T11:40:30.074007] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.073997] [INFO] Connection established
+[2025-11-07T11:40:30.074014] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.074006] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.074013] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.073995] [INFO] Configuration loaded
+[2025-11-07T11:40:30.073993] [INFO] Configuration loaded
+[2025-11-07T11:40:30.073988] [INFO] Configuration loaded
+[2025-11-07T11:40:30.073992] [INFO] Session started
+[2025-11-07T11:40:30.074004] [ERROR] Database connection lost
+[2025-11-07T11:40:30.074009] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.073989] [INFO] User logged in
+[2025-11-07T11:40:30.074000] [WARN] Cache miss
+[2025-11-07T11:40:30.073998] [INFO] Session started
+[2025-11-07T11:40:30.073991] [INFO] Transaction completed
+[2025-11-07T11:40:30.074005] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.074003] [ERROR] File not found
+[2025-11-07T11:40:30.074008] [DEBUG] Timer set: 30 seconds

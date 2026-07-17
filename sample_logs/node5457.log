@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.868733] [INFO] Cache hit
+[2025-11-07T11:40:29.868729] [INFO] User logged in
+[2025-11-07T11:40:29.868749] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.868744] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.868741] [INFO] Connection established
+[2025-11-07T11:40:29.868746] [ERROR] Authentication failed
+[2025-11-07T11:40:29.868742] [INFO] Configuration loaded
+[2025-11-07T11:40:29.868753] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.868737] [INFO] User logged in
+[2025-11-07T11:40:29.868739] [INFO] Cache hit
+[2025-11-07T11:40:29.868752] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.868750] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.868740] [INFO] Database query executed
+[2025-11-07T11:40:29.868745] [ERROR] Service unavailable
+[2025-11-07T11:40:29.868748] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.868730] [INFO] Cache hit
+[2025-11-07T11:40:29.868725] [INFO] Connection established
+[2025-11-07T11:40:29.868732] [INFO] User logged in
+[2025-11-07T11:40:29.868734] [INFO] Connection established
+[2025-11-07T11:40:29.868728] [INFO] Configuration loaded
+[2025-11-07T11:40:29.868747] [ERROR] Service unavailable
+[2025-11-07T11:40:29.868736] [INFO] User logged in
+[2025-11-07T11:40:29.868743] [WARN] High memory usage detected
+[2025-11-07T11:40:29.868735] [INFO] Cache hit
+[2025-11-07T11:40:29.868738] [INFO] Session started
+[2025-11-07T11:40:29.868731] [INFO] Service initialized
+[2025-11-07T11:40:29.868751] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.868726] [INFO] Health check passed

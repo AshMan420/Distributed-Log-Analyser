@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.402871] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.402867] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.402861] [INFO] Connection established
+[2025-11-07T11:40:29.402878] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.402865] [INFO] Connection established
+[2025-11-07T11:40:29.402873] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.402862] [INFO] Service initialized
+[2025-11-07T11:40:29.402868] [WARN] Queue size growing
+[2025-11-07T11:40:29.402880] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.402863] [INFO] Service initialized
+[2025-11-07T11:40:29.402856] [INFO] Connection established
+[2025-11-07T11:40:29.402870] [WARN] Slow query performance
+[2025-11-07T11:40:29.402875] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.402860] [INFO] Cache hit
+[2025-11-07T11:40:29.402876] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402854] [INFO] Request processed successfully
+[2025-11-07T11:40:29.402869] [WARN] High memory usage detected
+[2025-11-07T11:40:29.402877] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.402863] [INFO] Health check passed
+[2025-11-07T11:40:29.402858] [INFO] Configuration loaded
+[2025-11-07T11:40:29.402864] [INFO] Transaction completed
+[2025-11-07T11:40:29.402872] [ERROR] Invalid input data
+[2025-11-07T11:40:29.402855] [INFO] Transaction completed
+[2025-11-07T11:40:29.402859] [INFO] Transaction completed
+[2025-11-07T11:40:29.402881] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402874] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.402879] [DEBUG] Memory allocation: 2048 bytes

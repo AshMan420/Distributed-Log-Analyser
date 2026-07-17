@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.968250] [WARN] Slow query performance
+[2025-11-07T11:40:29.968244] [INFO] Database query executed
+[2025-11-07T11:40:29.968245] [INFO] User logged in
+[2025-11-07T11:40:29.968236] [INFO] User logged in
+[2025-11-07T11:40:29.968239] [INFO] Service initialized
+[2025-11-07T11:40:29.968232] [INFO] Configuration loaded
+[2025-11-07T11:40:29.968259] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.968241] [INFO] Cache hit
+[2025-11-07T11:40:29.968261] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.968243] [INFO] Database query executed
+[2025-11-07T11:40:29.968226] [INFO] Health check passed
+[2025-11-07T11:40:29.968246] [INFO] Transaction completed
+[2025-11-07T11:40:29.968253] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.968235] [INFO] Database query executed
+[2025-11-07T11:40:29.968234] [INFO] Connection established
+[2025-11-07T11:40:29.968260] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.968257] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.968254] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.968247] [WARN] Queue size growing
+[2025-11-07T11:40:29.968258] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.968230] [INFO] Health check passed
+[2025-11-07T11:40:29.968248] [WARN] Disk space low
+[2025-11-07T11:40:29.968228] [INFO] Transaction completed
+[2025-11-07T11:40:29.968252] [ERROR] Disk read failed
+[2025-11-07T11:40:29.968256] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.968249] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.968240] [INFO] User logged in
+[2025-11-07T11:40:29.968238] [INFO] Transaction completed
+[2025-11-07T11:40:29.968237] [INFO] Service initialized
+[2025-11-07T11:40:29.968233] [INFO] Database query executed
+[2025-11-07T11:40:29.968231] [INFO] Cache hit
+[2025-11-07T11:40:29.968229] [INFO] Request processed successfully
+[2025-11-07T11:40:29.968255] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.968242] [INFO] Request processed successfully

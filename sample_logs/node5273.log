@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.850260] [INFO] Service initialized
+[2025-11-07T11:40:29.850247] [INFO] Request processed successfully
+[2025-11-07T11:40:29.850245] [INFO] User logged in
+[2025-11-07T11:40:29.850282] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.850252] [INFO] Connection established
+[2025-11-07T11:40:29.850273] [ERROR] Request failed
+[2025-11-07T11:40:29.850262] [INFO] Session started
+[2025-11-07T11:40:29.850280] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.850274] [ERROR] Network timeout
+[2025-11-07T11:40:29.850270] [WARN] Cache miss
+[2025-11-07T11:40:29.850275] [ERROR] Authentication failed
+[2025-11-07T11:40:29.850265] [INFO] Service initialized
+[2025-11-07T11:40:29.850264] [INFO] Cache hit
+[2025-11-07T11:40:29.850278] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.850251] [INFO] Cache hit
+[2025-11-07T11:40:29.850279] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.850248] [INFO] Transaction completed
+[2025-11-07T11:40:29.850276] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.850253] [INFO] Session started
+[2025-11-07T11:40:29.850266] [INFO] User logged in
+[2025-11-07T11:40:29.850267] [WARN] High memory usage detected
+[2025-11-07T11:40:29.850283] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.850250] [INFO] Health check passed
+[2025-11-07T11:40:29.850254] [INFO] Health check passed
+[2025-11-07T11:40:29.850268] [WARN] High memory usage detected
+[2025-11-07T11:40:29.850263] [INFO] Configuration loaded
+[2025-11-07T11:40:29.850249] [INFO] Health check passed
+[2025-11-07T11:40:29.850271] [ERROR] Invalid input data
+[2025-11-07T11:40:29.850281] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.850269] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.850284] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.850277] [DEBUG] Buffer size: 4096 bytes

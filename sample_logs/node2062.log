@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.511060] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.511046] [INFO] Configuration loaded
+[2025-11-07T11:40:29.511045] [INFO] Transaction completed
+[2025-11-07T11:40:29.511040] [INFO] Transaction completed
+[2025-11-07T11:40:29.511056] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.511054] [ERROR] Database connection lost
+[2025-11-07T11:40:29.511059] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.511047] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.511041] [INFO] Transaction completed
+[2025-11-07T11:40:29.511035] [INFO] Transaction completed
+[2025-11-07T11:40:29.511042] [INFO] Cache hit
+[2025-11-07T11:40:29.511058] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.511048] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.511037] [INFO] Request processed successfully
+[2025-11-07T11:40:29.511044] [INFO] Connection established
+[2025-11-07T11:40:29.511033] [INFO] Service initialized
+[2025-11-07T11:40:29.511043] [INFO] Health check passed
+[2025-11-07T11:40:29.511053] [WARN] Slow query performance
+[2025-11-07T11:40:29.511036] [INFO] Connection established
+[2025-11-07T11:40:29.511051] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.511057] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.511050] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.511063] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.511062] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.511039] [INFO] Request processed successfully
+[2025-11-07T11:40:29.511059] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.511052] [WARN] Cache miss
+[2025-11-07T11:40:29.511037] [INFO] Configuration loaded
+[2025-11-07T11:40:29.511049] [WARN] Cache miss
+[2025-11-07T11:40:29.511038] [INFO] Health check passed
+[2025-11-07T11:40:29.511061] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.511055] [ERROR] File not found

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.627298] [ERROR] Disk read failed
+[2025-11-07T11:40:29.627301] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.627306] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.627295] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.627294] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.627281] [INFO] Service initialized
+[2025-11-07T11:40:29.627287] [INFO] User logged in
+[2025-11-07T11:40:29.627291] [INFO] Request processed successfully
+[2025-11-07T11:40:29.627276] [INFO] Service initialized
+[2025-11-07T11:40:29.627293] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.627290] [INFO] Session started
+[2025-11-07T11:40:29.627299] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.627282] [INFO] Configuration loaded
+[2025-11-07T11:40:29.627303] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.627279] [INFO] Request processed successfully
+[2025-11-07T11:40:29.627296] [WARN] High memory usage detected
+[2025-11-07T11:40:29.627283] [INFO] Service initialized
+[2025-11-07T11:40:29.627284] [INFO] Connection established
+[2025-11-07T11:40:29.627277] [INFO] Connection established
+[2025-11-07T11:40:29.627286] [INFO] Request processed successfully
+[2025-11-07T11:40:29.627289] [INFO] Service initialized
+[2025-11-07T11:40:29.627289] [INFO] Database query executed
+[2025-11-07T11:40:29.627297] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.627302] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.627300] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.627280] [INFO] Service initialized
+[2025-11-07T11:40:29.627305] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.627286] [INFO] Configuration loaded
+[2025-11-07T11:40:29.627304] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.627285] [INFO] Health check passed

@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.972621] [INFO] Connection established
+[2025-11-07T11:40:29.972643] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.972641] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.972623] [INFO] User logged in
+[2025-11-07T11:40:29.972631] [INFO] Cache hit
+[2025-11-07T11:40:29.972625] [INFO] Database query executed
+[2025-11-07T11:40:29.972632] [INFO] Connection established
+[2025-11-07T11:40:29.972642] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.972633] [INFO] Service initialized
+[2025-11-07T11:40:29.972639] [ERROR] Disk read failed
+[2025-11-07T11:40:29.972630] [INFO] User logged in
+[2025-11-07T11:40:29.972629] [INFO] Database query executed
+[2025-11-07T11:40:29.972644] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.972636] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.972635] [WARN] Timeout warning
+[2025-11-07T11:40:29.972645] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.972626] [INFO] Database query executed
+[2025-11-07T11:40:29.972648] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.972628] [INFO] Transaction completed
+[2025-11-07T11:40:29.972638] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.972646] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.972637] [WARN] Slow query performance
+[2025-11-07T11:40:29.972634] [INFO] Cache hit
+[2025-11-07T11:40:29.972640] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.972647] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.972624] [INFO] Service initialized
+[2025-11-07T11:40:29.972627] [INFO] Health check passed

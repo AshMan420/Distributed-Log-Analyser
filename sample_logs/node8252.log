@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.169922] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.169923] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.169897] [INFO] Session started
+[2025-11-07T11:40:30.169916] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.169891] [INFO] Service initialized
+[2025-11-07T11:40:30.169914] [ERROR] Disk read failed
+[2025-11-07T11:40:30.169920] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.169919] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.169896] [INFO] Cache hit
+[2025-11-07T11:40:30.169902] [INFO] Cache hit
+[2025-11-07T11:40:30.169905] [WARN] Slow query performance
+[2025-11-07T11:40:30.169912] [ERROR] Network timeout
+[2025-11-07T11:40:30.169901] [INFO] Session started
+[2025-11-07T11:40:30.169893] [INFO] Service initialized
+[2025-11-07T11:40:30.169900] [INFO] Health check passed
+[2025-11-07T11:40:30.169892] [INFO] Service initialized
+[2025-11-07T11:40:30.169908] [WARN] Queue size growing
+[2025-11-07T11:40:30.169915] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.169888] [INFO] Connection established
+[2025-11-07T11:40:30.169898] [INFO] User logged in
+[2025-11-07T11:40:30.169911] [ERROR] Invalid input data
+[2025-11-07T11:40:30.169904] [WARN] Cache miss
+[2025-11-07T11:40:30.169894] [INFO] Health check passed
+[2025-11-07T11:40:30.169918] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.169909] [WARN] Cache miss
+[2025-11-07T11:40:30.169921] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.169898] [INFO] Database query executed
+[2025-11-07T11:40:30.169895] [INFO] User logged in
+[2025-11-07T11:40:30.169890] [INFO] Cache hit
+[2025-11-07T11:40:30.169907] [WARN] Resource threshold approaching

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.431517] [INFO] Transaction completed
+[2025-11-07T11:40:29.431521] [INFO] Connection established
+[2025-11-07T11:40:29.431542] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.431545] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.431541] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.431523] [INFO] Request processed successfully
+[2025-11-07T11:40:29.431524] [INFO] User logged in
+[2025-11-07T11:40:29.431544] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.431520] [INFO] Session started
+[2025-11-07T11:40:29.431539] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.431516] [INFO] Session started
+[2025-11-07T11:40:29.431534] [ERROR] Database connection lost
+[2025-11-07T11:40:29.431536] [ERROR] Disk read failed
+[2025-11-07T11:40:29.431535] [ERROR] Authentication failed
+[2025-11-07T11:40:29.431527] [INFO] Transaction completed
+[2025-11-07T11:40:29.431537] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.431543] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.431513] [INFO] User logged in
+[2025-11-07T11:40:29.431528] [WARN] Disk space low
+[2025-11-07T11:40:29.431526] [INFO] Connection established
+[2025-11-07T11:40:29.431518] [INFO] Configuration loaded
+[2025-11-07T11:40:29.431529] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.431525] [INFO] Request processed successfully
+[2025-11-07T11:40:29.431538] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.431512] [INFO] Configuration loaded
+[2025-11-07T11:40:29.431540] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.431532] [WARN] Slow query performance
+[2025-11-07T11:40:29.431515] [INFO] Request processed successfully
+[2025-11-07T11:40:29.431514] [INFO] Health check passed
+[2025-11-07T11:40:29.431519] [INFO] Cache hit
+[2025-11-07T11:40:29.431530] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.431522] [INFO] Cache hit
+[2025-11-07T11:40:29.431531] [WARN] Resource threshold approaching

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.939388] [ERROR] Service unavailable
+[2025-11-07T11:40:29.939383] [INFO] User logged in
+[2025-11-07T11:40:29.939389] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.939397] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.939381] [INFO] Session started
+[2025-11-07T11:40:29.939394] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.939375] [INFO] Request processed successfully
+[2025-11-07T11:40:29.939373] [INFO] Cache hit
+[2025-11-07T11:40:29.939391] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.939376] [INFO] Database query executed
+[2025-11-07T11:40:29.939398] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.939395] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.939392] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.939379] [INFO] Configuration loaded
+[2025-11-07T11:40:29.939368] [INFO] Session started
+[2025-11-07T11:40:29.939380] [INFO] Transaction completed
+[2025-11-07T11:40:29.939390] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.939396] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.939371] [INFO] Service initialized
+[2025-11-07T11:40:29.939393] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.939374] [INFO] Transaction completed
+[2025-11-07T11:40:29.939382] [INFO] Configuration loaded
+[2025-11-07T11:40:29.939377] [INFO] Health check passed
+[2025-11-07T11:40:29.939370] [INFO] Transaction completed
+[2025-11-07T11:40:29.939387] [ERROR] Disk read failed
+[2025-11-07T11:40:29.939385] [WARN] Queue size growing
+[2025-11-07T11:40:29.939378] [INFO] Session started
+[2025-11-07T11:40:29.939386] [WARN] Queue size growing
+[2025-11-07T11:40:29.939384] [WARN] Queue size growing
+[2025-11-07T11:40:29.939372] [INFO] Configuration loaded

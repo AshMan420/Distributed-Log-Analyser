@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.579987] [INFO] User logged in
+[2025-11-07T11:40:29.580006] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.579992] [INFO] Connection established
+[2025-11-07T11:40:29.579988] [INFO] Health check passed
+[2025-11-07T11:40:29.579999] [WARN] Disk space low
+[2025-11-07T11:40:29.580010] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.580005] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.580007] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.579996] [WARN] High memory usage detected
+[2025-11-07T11:40:29.579997] [WARN] High memory usage detected
+[2025-11-07T11:40:29.579991] [INFO] Health check passed
+[2025-11-07T11:40:29.580002] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.579990] [INFO] Health check passed
+[2025-11-07T11:40:29.580003] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.579993] [INFO] Request processed successfully
+[2025-11-07T11:40:29.579989] [INFO] Session started
+[2025-11-07T11:40:29.580000] [WARN] Cache miss
+[2025-11-07T11:40:29.580001] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.579994] [INFO] Cache hit
+[2025-11-07T11:40:29.579985] [INFO] Session started
+[2025-11-07T11:40:29.579983] [INFO] Transaction completed
+[2025-11-07T11:40:29.580009] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.579986] [INFO] Connection established
+[2025-11-07T11:40:29.579995] [INFO] Service initialized
+[2025-11-07T11:40:29.580008] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.579998] [WARN] High memory usage detected
+[2025-11-07T11:40:29.580004] [DEBUG] Cache key generated

@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.402754] [INFO] Database query executed
+[2025-11-07T11:40:29.402761] [INFO] Health check passed
+[2025-11-07T11:40:29.402774] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.402770] [WARN] High memory usage detected
+[2025-11-07T11:40:29.402781] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402767] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.402763] [INFO] Database query executed
+[2025-11-07T11:40:29.402776] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.402757] [INFO] Database query executed
+[2025-11-07T11:40:29.402777] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.402773] [ERROR] Permission denied
+[2025-11-07T11:40:29.402750] [INFO] Transaction completed
+[2025-11-07T11:40:29.402751] [INFO] User logged in
+[2025-11-07T11:40:29.402766] [WARN] Timeout warning
+[2025-11-07T11:40:29.402765] [INFO] Database query executed
+[2025-11-07T11:40:29.402752] [INFO] Transaction completed
+[2025-11-07T11:40:29.402756] [INFO] Database query executed
+[2025-11-07T11:40:29.402779] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.402758] [INFO] Session started
+[2025-11-07T11:40:29.402778] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.402755] [INFO] User logged in
+[2025-11-07T11:40:29.402753] [INFO] User logged in
+[2025-11-07T11:40:29.402762] [INFO] Service initialized
+[2025-11-07T11:40:29.402749] [INFO] Service initialized
+[2025-11-07T11:40:29.402780] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.402771] [WARN] Disk space low
+[2025-11-07T11:40:29.402769] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.402759] [INFO] Health check passed

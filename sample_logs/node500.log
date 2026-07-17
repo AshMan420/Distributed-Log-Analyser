@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.343955] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.343954] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.343934] [INFO] Configuration loaded
+[2025-11-07T11:40:29.343945] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.343955] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.343953] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.343946] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.343926] [INFO] Service initialized
+[2025-11-07T11:40:29.343928] [INFO] Session started
+[2025-11-07T11:40:29.343948] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.343936] [INFO] User logged in
+[2025-11-07T11:40:29.343943] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.343929] [INFO] Cache hit
+[2025-11-07T11:40:29.343938] [INFO] Configuration loaded
+[2025-11-07T11:40:29.343930] [INFO] User logged in
+[2025-11-07T11:40:29.343935] [INFO] Cache hit
+[2025-11-07T11:40:29.343939] [INFO] Connection established
+[2025-11-07T11:40:29.343941] [WARN] High memory usage detected
+[2025-11-07T11:40:29.343940] [INFO] Service initialized
+[2025-11-07T11:40:29.343949] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.343947] [ERROR] Disk read failed
+[2025-11-07T11:40:29.343931] [INFO] Database query executed
+[2025-11-07T11:40:29.343951] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.343932] [INFO] Connection established
+[2025-11-07T11:40:29.343942] [WARN] Disk space low
+[2025-11-07T11:40:29.343927] [INFO] Connection established
+[2025-11-07T11:40:29.343952] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.343944] [WARN] Slow query performance
+[2025-11-07T11:40:29.343957] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.343956] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.343937] [INFO] Transaction completed
+[2025-11-07T11:40:29.343933] [INFO] Database query executed
+[2025-11-07T11:40:29.343950] [DEBUG] Variable value: x=42

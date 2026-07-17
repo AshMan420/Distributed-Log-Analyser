@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.598484] [INFO] Service initialized
+[2025-11-07T11:40:29.598485] [INFO] Connection established
+[2025-11-07T11:40:29.598490] [INFO] User logged in
+[2025-11-07T11:40:29.598512] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.598492] [INFO] Transaction completed
+[2025-11-07T11:40:29.598505] [ERROR] Disk read failed
+[2025-11-07T11:40:29.598491] [INFO] Connection established
+[2025-11-07T11:40:29.598486] [INFO] Health check passed
+[2025-11-07T11:40:29.598513] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.598495] [INFO] User logged in
+[2025-11-07T11:40:29.598498] [INFO] Transaction completed
+[2025-11-07T11:40:29.598493] [INFO] Cache hit
+[2025-11-07T11:40:29.598501] [WARN] Disk space low
+[2025-11-07T11:40:29.598496] [INFO] Session started
+[2025-11-07T11:40:29.598487] [INFO] Database query executed
+[2025-11-07T11:40:29.598507] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.598508] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.598494] [INFO] Service initialized
+[2025-11-07T11:40:29.598504] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.598503] [WARN] Slow query performance
+[2025-11-07T11:40:29.598482] [INFO] Service initialized
+[2025-11-07T11:40:29.598506] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.598488] [INFO] Request processed successfully
+[2025-11-07T11:40:29.598500] [INFO] Cache hit
+[2025-11-07T11:40:29.598489] [INFO] User logged in
+[2025-11-07T11:40:29.598497] [INFO] Session started
+[2025-11-07T11:40:29.598509] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.598510] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.598511] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.598499] [INFO] Transaction completed
+[2025-11-07T11:40:29.598502] [WARN] High memory usage detected

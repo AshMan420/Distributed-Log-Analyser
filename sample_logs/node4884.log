@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.811007] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.810978] [INFO] Service initialized
+[2025-11-07T11:40:29.811006] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.811002] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.810984] [INFO] Session started
+[2025-11-07T11:40:29.810988] [INFO] Connection established
+[2025-11-07T11:40:29.810986] [INFO] Request processed successfully
+[2025-11-07T11:40:29.810992] [INFO] Database query executed
+[2025-11-07T11:40:29.810983] [INFO] Health check passed
+[2025-11-07T11:40:29.810987] [INFO] Connection established
+[2025-11-07T11:40:29.810991] [INFO] Request processed successfully
+[2025-11-07T11:40:29.810999] [ERROR] Request failed
+[2025-11-07T11:40:29.810982] [INFO] Database query executed
+[2025-11-07T11:40:29.810998] [WARN] High memory usage detected
+[2025-11-07T11:40:29.811003] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.810981] [INFO] Cache hit
+[2025-11-07T11:40:29.810989] [INFO] Service initialized
+[2025-11-07T11:40:29.810979] [INFO] Database query executed
+[2025-11-07T11:40:29.810996] [WARN] High memory usage detected
+[2025-11-07T11:40:29.811001] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.810997] [WARN] Slow query performance
+[2025-11-07T11:40:29.810993] [INFO] Health check passed
+[2025-11-07T11:40:29.811009] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.811004] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.811008] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.810995] [WARN] Queue size growing
+[2025-11-07T11:40:29.810990] [INFO] Health check passed
+[2025-11-07T11:40:29.810985] [INFO] Database query executed
+[2025-11-07T11:40:29.811005] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.811000] [ERROR] Authentication failed
+[2025-11-07T11:40:29.810977] [INFO] Transaction completed
+[2025-11-07T11:40:29.810994] [INFO] Health check passed

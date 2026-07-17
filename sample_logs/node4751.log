@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.797964] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.797963] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.797962] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.797954] [INFO] Database query executed
+[2025-11-07T11:40:29.797955] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797961] [ERROR] File not found
+[2025-11-07T11:40:29.797945] [INFO] Service initialized
+[2025-11-07T11:40:29.797965] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.797970] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.797959] [ERROR] Authentication failed
+[2025-11-07T11:40:29.797957] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797948] [INFO] Transaction completed
+[2025-11-07T11:40:29.797943] [INFO] User logged in
+[2025-11-07T11:40:29.797969] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.797950] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797952] [INFO] Health check passed
+[2025-11-07T11:40:29.797958] [WARN] High memory usage detected
+[2025-11-07T11:40:29.797942] [INFO] Configuration loaded
+[2025-11-07T11:40:29.797953] [INFO] Health check passed
+[2025-11-07T11:40:29.797968] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.797956] [INFO] Transaction completed
+[2025-11-07T11:40:29.797947] [INFO] Database query executed
+[2025-11-07T11:40:29.797966] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.797951] [INFO] Configuration loaded
+[2025-11-07T11:40:29.797949] [INFO] User logged in
+[2025-11-07T11:40:29.797946] [INFO] Database query executed
+[2025-11-07T11:40:29.797944] [INFO] Database query executed
+[2025-11-07T11:40:29.797967] [DEBUG] Thread pool size: 8

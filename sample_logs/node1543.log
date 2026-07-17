@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.453900] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.453887] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.453888] [WARN] Cache miss
+[2025-11-07T11:40:29.453880] [INFO] Transaction completed
+[2025-11-07T11:40:29.453885] [INFO] Health check passed
+[2025-11-07T11:40:29.453877] [INFO] Request processed successfully
+[2025-11-07T11:40:29.453883] [INFO] Connection established
+[2025-11-07T11:40:29.453891] [ERROR] Database connection lost
+[2025-11-07T11:40:29.453894] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.453872] [INFO] Database query executed
+[2025-11-07T11:40:29.453871] [INFO] User logged in
+[2025-11-07T11:40:29.453876] [INFO] Connection established
+[2025-11-07T11:40:29.453899] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.453893] [ERROR] Database connection lost
+[2025-11-07T11:40:29.453870] [INFO] Cache hit
+[2025-11-07T11:40:29.453898] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.453901] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.453896] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.453889] [WARN] Disk space low
+[2025-11-07T11:40:29.453890] [WARN] Slow query performance
+[2025-11-07T11:40:29.453881] [INFO] Connection established
+[2025-11-07T11:40:29.453875] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453879] [INFO] Connection established
+[2025-11-07T11:40:29.453882] [INFO] Database query executed
+[2025-11-07T11:40:29.453886] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.453878] [INFO] Database query executed
+[2025-11-07T11:40:29.453895] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.453892] [ERROR] Permission denied
+[2025-11-07T11:40:29.453884] [INFO] Session started
+[2025-11-07T11:40:29.453874] [INFO] Connection established

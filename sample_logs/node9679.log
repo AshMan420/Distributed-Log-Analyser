@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.338529] [ERROR] Network timeout
+[2025-11-07T11:40:30.338517] [INFO] Session started
+[2025-11-07T11:40:30.338519] [INFO] Database query executed
+[2025-11-07T11:40:30.338515] [INFO] Configuration loaded
+[2025-11-07T11:40:30.338535] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.338520] [INFO] Health check passed
+[2025-11-07T11:40:30.338532] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.338530] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.338516] [INFO] Database query executed
+[2025-11-07T11:40:30.338524] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.338541] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.338512] [INFO] Request processed successfully
+[2025-11-07T11:40:30.338536] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.338527] [WARN] Slow query performance
+[2025-11-07T11:40:30.338531] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.338509] [INFO] Cache hit
+[2025-11-07T11:40:30.338538] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.338544] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.338534] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.338539] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.338518] [INFO] User logged in
+[2025-11-07T11:40:30.338528] [ERROR] Network timeout
+[2025-11-07T11:40:30.338543] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.338526] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.338533] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.338514] [INFO] Configuration loaded
+[2025-11-07T11:40:30.338525] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.338513] [INFO] Request processed successfully
+[2025-11-07T11:40:30.338537] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.338540] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.338521] [INFO] Session started
+[2025-11-07T11:40:30.338511] [INFO] Cache hit
+[2025-11-07T11:40:30.338522] [INFO] Connection established
+[2025-11-07T11:40:30.338545] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.338542] [DEBUG] Timer set: 30 seconds

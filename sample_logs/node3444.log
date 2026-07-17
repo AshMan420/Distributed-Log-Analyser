@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.662965] [ERROR] Authentication failed
+[2025-11-07T11:40:29.662944] [INFO] Cache hit
+[2025-11-07T11:40:29.662960] [WARN] Slow query performance
+[2025-11-07T11:40:29.662973] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.662954] [INFO] Request processed successfully
+[2025-11-07T11:40:29.662949] [INFO] Health check passed
+[2025-11-07T11:40:29.662970] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.662957] [WARN] High memory usage detected
+[2025-11-07T11:40:29.662952] [INFO] Health check passed
+[2025-11-07T11:40:29.662942] [INFO] Session started
+[2025-11-07T11:40:29.662959] [WARN] High memory usage detected
+[2025-11-07T11:40:29.662958] [WARN] High memory usage detected
+[2025-11-07T11:40:29.662950] [INFO] Transaction completed
+[2025-11-07T11:40:29.662968] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.662940] [INFO] Session started
+[2025-11-07T11:40:29.662947] [INFO] Transaction completed
+[2025-11-07T11:40:29.662943] [INFO] Configuration loaded
+[2025-11-07T11:40:29.662966] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.662948] [INFO] Session started
+[2025-11-07T11:40:29.662974] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.662953] [INFO] Request processed successfully
+[2025-11-07T11:40:29.662972] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.662962] [WARN] Queue size growing
+[2025-11-07T11:40:29.662945] [INFO] Session started
+[2025-11-07T11:40:29.662971] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.662969] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.662956] [INFO] Connection established
+[2025-11-07T11:40:29.662946] [INFO] Session started
+[2025-11-07T11:40:29.662967] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.662963] [ERROR] Request failed
+[2025-11-07T11:40:29.662955] [INFO] Transaction completed
+[2025-11-07T11:40:29.662951] [INFO] Cache hit
+[2025-11-07T11:40:29.662964] [ERROR] File not found

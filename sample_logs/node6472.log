@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.981853] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.981856] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.981836] [INFO] Cache hit
+[2025-11-07T11:40:29.981855] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.981842] [INFO] Request processed successfully
+[2025-11-07T11:40:29.981843] [INFO] Cache hit
+[2025-11-07T11:40:29.981858] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.981849] [ERROR] Authentication failed
+[2025-11-07T11:40:29.981844] [INFO] Cache hit
+[2025-11-07T11:40:29.981846] [WARN] Slow query performance
+[2025-11-07T11:40:29.981840] [INFO] Database query executed
+[2025-11-07T11:40:29.981845] [INFO] Cache hit
+[2025-11-07T11:40:29.981832] [INFO] Connection established
+[2025-11-07T11:40:29.981847] [WARN] Disk space low
+[2025-11-07T11:40:29.981848] [ERROR] Permission denied
+[2025-11-07T11:40:29.981854] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.981839] [INFO] Health check passed
+[2025-11-07T11:40:29.981857] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.981838] [INFO] Service initialized
+[2025-11-07T11:40:29.981851] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.981835] [INFO] Transaction completed
+[2025-11-07T11:40:29.981833] [INFO] Database query executed
+[2025-11-07T11:40:29.981852] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.981841] [INFO] Session started
+[2025-11-07T11:40:29.981850] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.981830] [INFO] Cache hit
+[2025-11-07T11:40:29.981834] [INFO] Connection established
+[2025-11-07T11:40:29.981837] [INFO] Database query executed

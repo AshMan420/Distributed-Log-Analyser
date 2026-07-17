@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.360853] [INFO] Transaction completed
+[2025-11-07T11:40:30.360877] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.360870] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.360863] [INFO] Configuration loaded
+[2025-11-07T11:40:30.360872] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.360867] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.360856] [INFO] Health check passed
+[2025-11-07T11:40:30.360868] [WARN] Timeout warning
+[2025-11-07T11:40:30.360860] [INFO] Cache hit
+[2025-11-07T11:40:30.360866] [INFO] Transaction completed
+[2025-11-07T11:40:30.360878] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.360869] [WARN] Cache miss
+[2025-11-07T11:40:30.360865] [INFO] Service initialized
+[2025-11-07T11:40:30.360857] [INFO] Cache hit
+[2025-11-07T11:40:30.360859] [INFO] Health check passed
+[2025-11-07T11:40:30.360861] [INFO] Connection established
+[2025-11-07T11:40:30.360874] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.360875] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.360854] [INFO] Health check passed
+[2025-11-07T11:40:30.360862] [INFO] Database query executed
+[2025-11-07T11:40:30.360855] [INFO] Connection established
+[2025-11-07T11:40:30.360858] [INFO] Database query executed
+[2025-11-07T11:40:30.360867] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.360876] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.360875] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.360864] [INFO] Request processed successfully
+[2025-11-07T11:40:30.360851] [INFO] Request processed successfully
+[2025-11-07T11:40:30.360871] [ERROR] Database connection lost

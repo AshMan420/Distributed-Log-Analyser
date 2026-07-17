@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.030430] [INFO] Health check passed
+[2025-11-07T11:40:30.030426] [INFO] Cache hit
+[2025-11-07T11:40:30.030437] [WARN] Cache miss
+[2025-11-07T11:40:30.030427] [INFO] Service initialized
+[2025-11-07T11:40:30.030442] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.030438] [WARN] Queue size growing
+[2025-11-07T11:40:30.030447] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.030448] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.030446] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.030439] [ERROR] Database connection lost
+[2025-11-07T11:40:30.030420] [INFO] Session started
+[2025-11-07T11:40:30.030443] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.030432] [INFO] Health check passed
+[2025-11-07T11:40:30.030447] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.030425] [INFO] Database query executed
+[2025-11-07T11:40:30.030424] [INFO] User logged in
+[2025-11-07T11:40:30.030445] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.030440] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.030434] [WARN] Cache miss
+[2025-11-07T11:40:30.030436] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.030429] [INFO] Cache hit
+[2025-11-07T11:40:30.030421] [INFO] User logged in
+[2025-11-07T11:40:30.030428] [INFO] Health check passed
+[2025-11-07T11:40:30.030431] [INFO] Cache hit
+[2025-11-07T11:40:30.030433] [INFO] Cache hit
+[2025-11-07T11:40:30.030423] [INFO] Database query executed
+[2025-11-07T11:40:30.030450] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.030435] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.030441] [DEBUG] Memory allocation: 2048 bytes

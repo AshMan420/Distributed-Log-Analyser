@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.228911] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.228909] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.228888] [INFO] Connection established
+[2025-11-07T11:40:30.228914] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.228903] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.228910] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.228908] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.228895] [INFO] Transaction completed
+[2025-11-07T11:40:30.228905] [ERROR] Network timeout
+[2025-11-07T11:40:30.228907] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.228887] [INFO] Session started
+[2025-11-07T11:40:30.228904] [ERROR] Invalid input data
+[2025-11-07T11:40:30.228890] [INFO] Connection established
+[2025-11-07T11:40:30.228901] [INFO] Database query executed
+[2025-11-07T11:40:30.228894] [INFO] User logged in
+[2025-11-07T11:40:30.228893] [INFO] Session started
+[2025-11-07T11:40:30.228889] [INFO] Transaction completed
+[2025-11-07T11:40:30.228899] [INFO] Session started
+[2025-11-07T11:40:30.228913] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.228912] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.228898] [INFO] Database query executed
+[2025-11-07T11:40:30.228897] [INFO] Configuration loaded
+[2025-11-07T11:40:30.228891] [INFO] Configuration loaded
+[2025-11-07T11:40:30.228894] [INFO] Transaction completed
+[2025-11-07T11:40:30.228898] [INFO] Connection established
+[2025-11-07T11:40:30.228900] [INFO] Transaction completed
+[2025-11-07T11:40:30.228906] [DEBUG] Entering function process_data()

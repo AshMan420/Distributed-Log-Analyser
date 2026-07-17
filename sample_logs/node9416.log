@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.299660] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.299649] [INFO] Service initialized
+[2025-11-07T11:40:30.299640] [INFO] User logged in
+[2025-11-07T11:40:30.299658] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.299644] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299654] [WARN] Disk space low
+[2025-11-07T11:40:30.299664] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.299659] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.299639] [INFO] Connection established
+[2025-11-07T11:40:30.299661] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.299652] [WARN] Cache miss
+[2025-11-07T11:40:30.299663] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.299642] [INFO] Health check passed
+[2025-11-07T11:40:30.299645] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299647] [INFO] Configuration loaded
+[2025-11-07T11:40:30.299638] [INFO] Service initialized
+[2025-11-07T11:40:30.299662] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.299648] [INFO] Cache hit
+[2025-11-07T11:40:30.299641] [INFO] Request processed successfully
+[2025-11-07T11:40:30.299643] [INFO] Transaction completed
+[2025-11-07T11:40:30.299650] [INFO] Request processed successfully
+[2025-11-07T11:40:30.299635] [INFO] Cache hit
+[2025-11-07T11:40:30.299652] [WARN] Timeout warning
+[2025-11-07T11:40:30.299646] [INFO] Health check passed
+[2025-11-07T11:40:30.299654] [WARN] Disk space low
+[2025-11-07T11:40:30.299657] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.299637] [INFO] Connection established
+[2025-11-07T11:40:30.299656] [ERROR] Invalid input data

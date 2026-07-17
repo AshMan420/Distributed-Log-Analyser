@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.365563] [INFO] Health check passed
+[2025-11-07T11:40:29.365575] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.365550] [INFO] Session started
+[2025-11-07T11:40:29.365553] [INFO] Transaction completed
+[2025-11-07T11:40:29.365578] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.365577] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.365568] [ERROR] Network timeout
+[2025-11-07T11:40:29.365558] [INFO] Service initialized
+[2025-11-07T11:40:29.365565] [WARN] Queue size growing
+[2025-11-07T11:40:29.365556] [INFO] Database query executed
+[2025-11-07T11:40:29.365557] [INFO] Database query executed
+[2025-11-07T11:40:29.365555] [INFO] Cache hit
+[2025-11-07T11:40:29.365562] [INFO] Session started
+[2025-11-07T11:40:29.365552] [INFO] Cache hit
+[2025-11-07T11:40:29.365559] [INFO] Connection established
+[2025-11-07T11:40:29.365573] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.365566] [WARN] Slow query performance
+[2025-11-07T11:40:29.365561] [INFO] Configuration loaded
+[2025-11-07T11:40:29.365576] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.365579] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.365554] [INFO] Session started
+[2025-11-07T11:40:29.365567] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.365572] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.365560] [INFO] Health check passed
+[2025-11-07T11:40:29.365574] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.365564] [WARN] Cache miss
+[2025-11-07T11:40:29.365571] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.365569] [ERROR] Permission denied
+[2025-11-07T11:40:29.365577] [DEBUG] Timer set: 30 seconds

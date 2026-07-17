@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.825529] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.825507] [INFO] Session started
+[2025-11-07T11:40:29.825530] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.825511] [INFO] Service initialized
+[2025-11-07T11:40:29.825517] [WARN] Disk space low
+[2025-11-07T11:40:29.825521] [WARN] Cache miss
+[2025-11-07T11:40:29.825502] [INFO] User logged in
+[2025-11-07T11:40:29.825503] [INFO] Connection established
+[2025-11-07T11:40:29.825537] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.825504] [INFO] Database query executed
+[2025-11-07T11:40:29.825497] [INFO] Session started
+[2025-11-07T11:40:29.825532] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.825515] [INFO] Transaction completed
+[2025-11-07T11:40:29.825528] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.825525] [ERROR] Network timeout
+[2025-11-07T11:40:29.825513] [INFO] Connection established
+[2025-11-07T11:40:29.825527] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.825501] [INFO] User logged in
+[2025-11-07T11:40:29.825500] [INFO] Health check passed
+[2025-11-07T11:40:29.825506] [INFO] Request processed successfully
+[2025-11-07T11:40:29.825514] [INFO] Database query executed
+[2025-11-07T11:40:29.825526] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.825499] [INFO] Connection established
+[2025-11-07T11:40:29.825535] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.825519] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.825510] [INFO] Service initialized
+[2025-11-07T11:40:29.825505] [INFO] Transaction completed
+[2025-11-07T11:40:29.825522] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.825523] [ERROR] File not found
+[2025-11-07T11:40:29.825533] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.825508] [INFO] Database query executed
+[2025-11-07T11:40:29.825531] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.825536] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.825534] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.825518] [WARN] Connection retry attempt

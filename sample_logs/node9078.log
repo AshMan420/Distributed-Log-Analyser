@@ -1,0 +1,22 @@
+[2025-11-07T11:40:30.265801] [INFO] Request processed successfully
+[2025-11-07T11:40:30.265800] [INFO] Session started
+[2025-11-07T11:40:30.265814] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.265798] [INFO] Service initialized
+[2025-11-07T11:40:30.265804] [INFO] Session started
+[2025-11-07T11:40:30.265803] [INFO] Health check passed
+[2025-11-07T11:40:30.265799] [INFO] Health check passed
+[2025-11-07T11:40:30.265806] [INFO] Configuration loaded
+[2025-11-07T11:40:30.265807] [INFO] Configuration loaded
+[2025-11-07T11:40:30.265810] [WARN] Disk space low
+[2025-11-07T11:40:30.265797] [INFO] Session started
+[2025-11-07T11:40:30.265811] [WARN] Cache miss
+[2025-11-07T11:40:30.265817] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.265802] [INFO] Service initialized
+[2025-11-07T11:40:30.265815] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.265816] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.265812] [WARN] Disk space low
+[2025-11-07T11:40:30.265818] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.265805] [INFO] Cache hit
+[2025-11-07T11:40:30.265808] [INFO] Service initialized
+[2025-11-07T11:40:30.265813] [ERROR] Disk read failed
+[2025-11-07T11:40:30.265809] [WARN] Queue size growing

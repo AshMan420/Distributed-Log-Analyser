@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.327263] [INFO] Cache hit
+[2025-11-07T11:40:29.327270] [WARN] High memory usage detected
+[2025-11-07T11:40:29.327280] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.327277] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.327258] [INFO] Connection established
+[2025-11-07T11:40:29.327259] [INFO] Database query executed
+[2025-11-07T11:40:29.327279] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.327257] [INFO] Request processed successfully
+[2025-11-07T11:40:29.327265] [INFO] Transaction completed
+[2025-11-07T11:40:29.327272] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.327271] [WARN] High memory usage detected
+[2025-11-07T11:40:29.327266] [INFO] Configuration loaded
+[2025-11-07T11:40:29.327264] [INFO] Database query executed
+[2025-11-07T11:40:29.327276] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.327260] [INFO] Configuration loaded
+[2025-11-07T11:40:29.327278] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.327255] [INFO] Connection established
+[2025-11-07T11:40:29.327262] [INFO] Cache hit
+[2025-11-07T11:40:29.327261] [INFO] Database query executed
+[2025-11-07T11:40:29.327267] [WARN] Slow query performance
+[2025-11-07T11:40:29.327256] [INFO] Health check passed
+[2025-11-07T11:40:29.327273] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.327269] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.327281] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.327252] [INFO] User logged in
+[2025-11-07T11:40:29.327254] [INFO] Health check passed
+[2025-11-07T11:40:29.327268] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.327274] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.327262] [INFO] Cache hit
+[2025-11-07T11:40:29.327275] [DEBUG] Timer set: 30 seconds

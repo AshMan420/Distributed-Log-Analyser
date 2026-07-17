@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.316750] [INFO] Database query executed
+[2025-11-07T11:40:29.316758] [INFO] Cache hit
+[2025-11-07T11:40:29.316753] [INFO] Transaction completed
+[2025-11-07T11:40:29.316751] [INFO] Session started
+[2025-11-07T11:40:29.316763] [INFO] User logged in
+[2025-11-07T11:40:29.316776] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.316781] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.316782] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.316761] [INFO] Service initialized
+[2025-11-07T11:40:29.316769] [WARN] Cache miss
+[2025-11-07T11:40:29.316778] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.316756] [INFO] Session started
+[2025-11-07T11:40:29.316760] [INFO] Configuration loaded
+[2025-11-07T11:40:29.316757] [INFO] User logged in
+[2025-11-07T11:40:29.316754] [INFO] Connection established
+[2025-11-07T11:40:29.316764] [WARN] High memory usage detected
+[2025-11-07T11:40:29.316767] [WARN] Cache miss
+[2025-11-07T11:40:29.316752] [INFO] Cache hit
+[2025-11-07T11:40:29.316768] [WARN] Cache miss
+[2025-11-07T11:40:29.316772] [ERROR] Permission denied
+[2025-11-07T11:40:29.316770] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.316748] [INFO] Health check passed
+[2025-11-07T11:40:29.316780] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.316755] [INFO] Connection established
+[2025-11-07T11:40:29.316775] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.316762] [INFO] Connection established
+[2025-11-07T11:40:29.316771] [ERROR] Authentication failed
+[2025-11-07T11:40:29.316774] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.316777] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.316766] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.316765] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.316779] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.316759] [INFO] Request processed successfully

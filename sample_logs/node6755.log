@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.011852] [INFO] Cache hit
+[2025-11-07T11:40:30.011857] [INFO] Session started
+[2025-11-07T11:40:30.011859] [INFO] Connection established
+[2025-11-07T11:40:30.011883] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.011864] [INFO] Health check passed
+[2025-11-07T11:40:30.011872] [ERROR] Request failed
+[2025-11-07T11:40:30.011854] [INFO] Cache hit
+[2025-11-07T11:40:30.011863] [INFO] Service initialized
+[2025-11-07T11:40:30.011862] [INFO] Cache hit
+[2025-11-07T11:40:30.011871] [WARN] Slow query performance
+[2025-11-07T11:40:30.011870] [WARN] Disk space low
+[2025-11-07T11:40:30.011877] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.011865] [INFO] Service initialized
+[2025-11-07T11:40:30.011856] [INFO] Health check passed
+[2025-11-07T11:40:30.011858] [INFO] Connection established
+[2025-11-07T11:40:30.011867] [INFO] Connection established
+[2025-11-07T11:40:30.011873] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.011867] [INFO] Transaction completed
+[2025-11-07T11:40:30.011878] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.011880] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.011860] [INFO] Session started
+[2025-11-07T11:40:30.011869] [WARN] Disk space low
+[2025-11-07T11:40:30.011875] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.011869] [WARN] Cache miss
+[2025-11-07T11:40:30.011858] [INFO] Connection established
+[2025-11-07T11:40:30.011875] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.011855] [INFO] Health check passed
+[2025-11-07T11:40:30.011881] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.011882] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.011879] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.011866] [INFO] Request processed successfully
+[2025-11-07T11:40:30.011861] [INFO] Session started
+[2025-11-07T11:40:30.011876] [DEBUG] HTTP request headers parsed

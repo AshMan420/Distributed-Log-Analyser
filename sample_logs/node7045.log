@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.042208] [INFO] Request processed successfully
+[2025-11-07T11:40:30.042217] [WARN] Timeout warning
+[2025-11-07T11:40:30.042230] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.042215] [INFO] User logged in
+[2025-11-07T11:40:30.042226] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.042223] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.042204] [INFO] Session started
+[2025-11-07T11:40:30.042229] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.042211] [INFO] User logged in
+[2025-11-07T11:40:30.042207] [INFO] Configuration loaded
+[2025-11-07T11:40:30.042205] [INFO] Cache hit
+[2025-11-07T11:40:30.042220] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.042212] [INFO] Database query executed
+[2025-11-07T11:40:30.042228] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.042214] [INFO] Transaction completed
+[2025-11-07T11:40:30.042202] [INFO] Transaction completed
+[2025-11-07T11:40:30.042222] [ERROR] Authentication failed
+[2025-11-07T11:40:30.042209] [INFO] Configuration loaded
+[2025-11-07T11:40:30.042232] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.042231] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.042206] [INFO] Cache hit
+[2025-11-07T11:40:30.042219] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.042225] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.042216] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.042221] [ERROR] File not found
+[2025-11-07T11:40:30.042210] [INFO] Cache hit
+[2025-11-07T11:40:30.042218] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.042213] [INFO] Cache hit
+[2025-11-07T11:40:30.042227] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.042224] [DEBUG] Loop iteration: 15

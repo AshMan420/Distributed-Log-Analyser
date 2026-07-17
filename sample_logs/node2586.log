@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.570834] [ERROR] Disk read failed
+[2025-11-07T11:40:29.570841] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.570838] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.570822] [INFO] Cache hit
+[2025-11-07T11:40:29.570823] [INFO] Request processed successfully
+[2025-11-07T11:40:29.570824] [INFO] Database query executed
+[2025-11-07T11:40:29.570812] [INFO] User logged in
+[2025-11-07T11:40:29.570814] [INFO] Cache hit
+[2025-11-07T11:40:29.570831] [WARN] Disk space low
+[2025-11-07T11:40:29.570827] [INFO] User logged in
+[2025-11-07T11:40:29.570840] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.570835] [ERROR] Service unavailable
+[2025-11-07T11:40:29.570816] [INFO] Configuration loaded
+[2025-11-07T11:40:29.570826] [INFO] Health check passed
+[2025-11-07T11:40:29.570833] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.570836] [ERROR] Service unavailable
+[2025-11-07T11:40:29.570843] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.570825] [INFO] Health check passed
+[2025-11-07T11:40:29.570818] [INFO] Connection established
+[2025-11-07T11:40:29.570842] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.570817] [INFO] Service initialized
+[2025-11-07T11:40:29.570821] [INFO] Transaction completed
+[2025-11-07T11:40:29.570829] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.570815] [INFO] Session started
+[2025-11-07T11:40:29.570820] [INFO] Service initialized
+[2025-11-07T11:40:29.570819] [INFO] Connection established
+[2025-11-07T11:40:29.570832] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.570839] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.570813] [INFO] Transaction completed
+[2025-11-07T11:40:29.570828] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.570830] [WARN] High memory usage detected

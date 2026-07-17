@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.261697] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.261695] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.261670] [INFO] Cache hit
+[2025-11-07T11:40:30.261678] [INFO] User logged in
+[2025-11-07T11:40:30.261672] [INFO] Service initialized
+[2025-11-07T11:40:30.261694] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.261682] [WARN] Slow query performance
+[2025-11-07T11:40:30.261696] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.261681] [WARN] Slow query performance
+[2025-11-07T11:40:30.261693] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.261669] [INFO] Database query executed
+[2025-11-07T11:40:30.261674] [INFO] Health check passed
+[2025-11-07T11:40:30.261679] [INFO] Health check passed
+[2025-11-07T11:40:30.261686] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.261677] [INFO] Session started
+[2025-11-07T11:40:30.261676] [INFO] Service initialized
+[2025-11-07T11:40:30.261684] [WARN] High memory usage detected
+[2025-11-07T11:40:30.261688] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.261690] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.261667] [INFO] Session started
+[2025-11-07T11:40:30.261668] [INFO] Database query executed
+[2025-11-07T11:40:30.261685] [ERROR] Authentication failed
+[2025-11-07T11:40:30.261680] [INFO] Session started
+[2025-11-07T11:40:30.261675] [INFO] Health check passed
+[2025-11-07T11:40:30.261673] [INFO] Transaction completed
+[2025-11-07T11:40:30.261680] [INFO] Health check passed
+[2025-11-07T11:40:30.261689] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.261691] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.261692] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.261687] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.261671] [INFO] Configuration loaded
+[2025-11-07T11:40:30.261683] [WARN] Connection retry attempt

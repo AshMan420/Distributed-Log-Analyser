@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.531431] [ERROR] Permission denied
+[2025-11-07T11:40:29.531425] [WARN] Slow query performance
+[2025-11-07T11:40:29.531428] [WARN] Cache miss
+[2025-11-07T11:40:29.531440] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.531433] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.531409] [INFO] Cache hit
+[2025-11-07T11:40:29.531432] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.531435] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.531438] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.531423] [INFO] Service initialized
+[2025-11-07T11:40:29.531412] [INFO] Session started
+[2025-11-07T11:40:29.531420] [INFO] Service initialized
+[2025-11-07T11:40:29.531439] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.531411] [INFO] Transaction completed
+[2025-11-07T11:40:29.531413] [INFO] Cache hit
+[2025-11-07T11:40:29.531414] [INFO] Health check passed
+[2025-11-07T11:40:29.531419] [INFO] User logged in
+[2025-11-07T11:40:29.531429] [WARN] Disk space low
+[2025-11-07T11:40:29.531437] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.531430] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.531418] [INFO] Database query executed
+[2025-11-07T11:40:29.531424] [INFO] Database query executed
+[2025-11-07T11:40:29.531415] [INFO] Database query executed
+[2025-11-07T11:40:29.531436] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.531422] [INFO] User logged in
+[2025-11-07T11:40:29.531421] [INFO] Connection established
+[2025-11-07T11:40:29.531417] [INFO] Request processed successfully
+[2025-11-07T11:40:29.531426] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.531427] [WARN] Disk space low
+[2025-11-07T11:40:29.531416] [INFO] Session started
+[2025-11-07T11:40:29.531434] [DEBUG] Entering function process_data()

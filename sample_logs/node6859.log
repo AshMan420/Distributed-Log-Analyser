@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.023048] [INFO] Cache hit
+[2025-11-07T11:40:30.023039] [INFO] Service initialized
+[2025-11-07T11:40:30.023057] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.023056] [ERROR] Authentication failed
+[2025-11-07T11:40:30.023044] [INFO] Health check passed
+[2025-11-07T11:40:30.023049] [INFO] Session started
+[2025-11-07T11:40:30.023058] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.023059] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.023041] [INFO] Cache hit
+[2025-11-07T11:40:30.023061] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.023046] [INFO] Configuration loaded
+[2025-11-07T11:40:30.023053] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.023038] [INFO] Configuration loaded
+[2025-11-07T11:40:30.023051] [WARN] Cache miss
+[2025-11-07T11:40:30.023042] [INFO] Configuration loaded
+[2025-11-07T11:40:30.023060] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.023062] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.023045] [INFO] Database query executed
+[2025-11-07T11:40:30.023040] [INFO] Transaction completed
+[2025-11-07T11:40:30.023047] [INFO] Configuration loaded
+[2025-11-07T11:40:30.023035] [INFO] Transaction completed
+[2025-11-07T11:40:30.023054] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.023052] [WARN] Slow query performance
+[2025-11-07T11:40:30.023055] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.023037] [INFO] Transaction completed
+[2025-11-07T11:40:30.023050] [INFO] Cache hit
+[2025-11-07T11:40:30.023043] [INFO] Configuration loaded

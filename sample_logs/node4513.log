@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.773772] [WARN] Cache miss
+[2025-11-07T11:40:29.773757] [INFO] User logged in
+[2025-11-07T11:40:29.773770] [INFO] Request processed successfully
+[2025-11-07T11:40:29.773759] [INFO] Configuration loaded
+[2025-11-07T11:40:29.773758] [INFO] Service initialized
+[2025-11-07T11:40:29.773766] [INFO] User logged in
+[2025-11-07T11:40:29.773763] [INFO] Service initialized
+[2025-11-07T11:40:29.773775] [ERROR] Permission denied
+[2025-11-07T11:40:29.773762] [INFO] Request processed successfully
+[2025-11-07T11:40:29.773785] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.773781] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.773778] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.773765] [INFO] Request processed successfully
+[2025-11-07T11:40:29.773781] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.773784] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.773768] [INFO] Request processed successfully
+[2025-11-07T11:40:29.773760] [INFO] Request processed successfully
+[2025-11-07T11:40:29.773783] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.773769] [INFO] Session started
+[2025-11-07T11:40:29.773773] [WARN] Disk space low
+[2025-11-07T11:40:29.773764] [INFO] Configuration loaded
+[2025-11-07T11:40:29.773771] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.773782] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.773761] [INFO] Request processed successfully
+[2025-11-07T11:40:29.773774] [WARN] Slow query performance
+[2025-11-07T11:40:29.773776] [ERROR] Disk read failed
+[2025-11-07T11:40:29.773780] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.773767] [INFO] Transaction completed
+[2025-11-07T11:40:29.773777] [DEBUG] Buffer size: 4096 bytes

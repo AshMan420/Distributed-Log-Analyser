@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.610606] [INFO] Transaction completed
+[2025-11-07T11:40:29.610628] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.610631] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.610615] [INFO] Request processed successfully
+[2025-11-07T11:40:29.610619] [WARN] Cache miss
+[2025-11-07T11:40:29.610630] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.610629] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.610621] [WARN] Slow query performance
+[2025-11-07T11:40:29.610635] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.610636] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.610617] [INFO] Connection established
+[2025-11-07T11:40:29.610611] [INFO] Health check passed
+[2025-11-07T11:40:29.610607] [INFO] Transaction completed
+[2025-11-07T11:40:29.610623] [WARN] Queue size growing
+[2025-11-07T11:40:29.610612] [INFO] User logged in
+[2025-11-07T11:40:29.610637] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.610625] [WARN] High memory usage detected
+[2025-11-07T11:40:29.610616] [INFO] Health check passed
+[2025-11-07T11:40:29.610605] [INFO] Connection established
+[2025-11-07T11:40:29.610614] [INFO] Transaction completed
+[2025-11-07T11:40:29.610620] [WARN] Queue size growing
+[2025-11-07T11:40:29.610604] [INFO] User logged in
+[2025-11-07T11:40:29.610638] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.610633] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.610632] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.610634] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.610626] [ERROR] Service unavailable
+[2025-11-07T11:40:29.610609] [INFO] Request processed successfully
+[2025-11-07T11:40:29.610610] [INFO] User logged in
+[2025-11-07T11:40:29.610627] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.610622] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.610618] [WARN] High memory usage detected
+[2025-11-07T11:40:29.610613] [INFO] Transaction completed
+[2025-11-07T11:40:29.610624] [WARN] Cache miss
+[2025-11-07T11:40:29.610602] [INFO] Health check passed
+[2025-11-07T11:40:29.610608] [INFO] Health check passed

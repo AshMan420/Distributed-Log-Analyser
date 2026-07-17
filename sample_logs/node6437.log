@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.978133] [INFO] Session started
+[2025-11-07T11:40:29.978146] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.978151] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.978134] [INFO] Session started
+[2025-11-07T11:40:29.978135] [INFO] Database query executed
+[2025-11-07T11:40:29.978145] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.978129] [INFO] Configuration loaded
+[2025-11-07T11:40:29.978148] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.978127] [INFO] Health check passed
+[2025-11-07T11:40:29.978150] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.978143] [ERROR] Request failed
+[2025-11-07T11:40:29.978128] [INFO] Connection established
+[2025-11-07T11:40:29.978147] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.978142] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.978132] [INFO] Configuration loaded
+[2025-11-07T11:40:29.978124] [INFO] Connection established
+[2025-11-07T11:40:29.978130] [INFO] Connection established
+[2025-11-07T11:40:29.978153] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.978141] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.978125] [INFO] User logged in
+[2025-11-07T11:40:29.978144] [ERROR] File not found
+[2025-11-07T11:40:29.978137] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.978131] [INFO] Service initialized
+[2025-11-07T11:40:29.978138] [WARN] High memory usage detected
+[2025-11-07T11:40:29.978140] [WARN] Queue size growing
+[2025-11-07T11:40:29.978126] [INFO] Health check passed
+[2025-11-07T11:40:29.978152] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.978149] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.978139] [WARN] Disk space low
+[2025-11-07T11:40:29.978136] [WARN] Cache miss

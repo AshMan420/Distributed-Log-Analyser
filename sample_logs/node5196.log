@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.842643] [INFO] Configuration loaded
+[2025-11-07T11:40:29.842640] [INFO] Configuration loaded
+[2025-11-07T11:40:29.842642] [INFO] Service initialized
+[2025-11-07T11:40:29.842641] [INFO] Cache hit
+[2025-11-07T11:40:29.842639] [INFO] Request processed successfully
+[2025-11-07T11:40:29.842635] [INFO] Database query executed
+[2025-11-07T11:40:29.842645] [INFO] Health check passed
+[2025-11-07T11:40:29.842661] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.842658] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.842657] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.842658] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.842647] [WARN] Queue size growing
+[2025-11-07T11:40:29.842661] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.842644] [INFO] Cache hit
+[2025-11-07T11:40:29.842634] [INFO] Request processed successfully
+[2025-11-07T11:40:29.842652] [ERROR] Authentication failed
+[2025-11-07T11:40:29.842645] [INFO] Session started
+[2025-11-07T11:40:29.842663] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.842636] [INFO] Service initialized
+[2025-11-07T11:40:29.842648] [WARN] Queue size growing
+[2025-11-07T11:40:29.842656] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.842638] [INFO] Service initialized
+[2025-11-07T11:40:29.842651] [WARN] Slow query performance
+[2025-11-07T11:40:29.842660] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.842646] [INFO] Transaction completed
+[2025-11-07T11:40:29.842653] [ERROR] Request failed
+[2025-11-07T11:40:29.842663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.842633] [INFO] Health check passed
+[2025-11-07T11:40:29.842649] [WARN] Disk space low
+[2025-11-07T11:40:29.842650] [WARN] High memory usage detected
+[2025-11-07T11:40:29.842654] [ERROR] Database connection lost
+[2025-11-07T11:40:29.842637] [INFO] Cache hit

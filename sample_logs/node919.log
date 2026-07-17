@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.387982] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.387974] [INFO] Session started
+[2025-11-07T11:40:29.387962] [INFO] Configuration loaded
+[2025-11-07T11:40:29.387985] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.387984] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.387975] [INFO] Connection established
+[2025-11-07T11:40:29.387987] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.387971] [INFO] Transaction completed
+[2025-11-07T11:40:29.387995] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.387992] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.387978] [WARN] Timeout warning
+[2025-11-07T11:40:29.387967] [INFO] Cache hit
+[2025-11-07T11:40:29.387972] [INFO] Database query executed
+[2025-11-07T11:40:29.387981] [WARN] Disk space low
+[2025-11-07T11:40:29.387960] [INFO] Health check passed
+[2025-11-07T11:40:29.387976] [WARN] Timeout warning
+[2025-11-07T11:40:29.387965] [INFO] Service initialized
+[2025-11-07T11:40:29.387969] [INFO] Service initialized
+[2025-11-07T11:40:29.387986] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.387979] [WARN] High memory usage detected
+[2025-11-07T11:40:29.387963] [INFO] Database query executed
+[2025-11-07T11:40:29.387991] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.387997] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.387996] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.387968] [INFO] User logged in
+[2025-11-07T11:40:29.387983] [ERROR] Service unavailable
+[2025-11-07T11:40:29.387964] [INFO] Transaction completed
+[2025-11-07T11:40:29.387991] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.387966] [INFO] Service initialized
+[2025-11-07T11:40:29.387980] [WARN] Timeout warning
+[2025-11-07T11:40:29.387970] [INFO] User logged in
+[2025-11-07T11:40:29.387994] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.387973] [INFO] Health check passed
+[2025-11-07T11:40:29.387990] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.387977] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.387989] [DEBUG] Loop iteration: 15

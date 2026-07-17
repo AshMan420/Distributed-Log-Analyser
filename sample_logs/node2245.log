@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.531642] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.531633] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.531626] [WARN] Timeout warning
+[2025-11-07T11:40:29.531629] [ERROR] Service unavailable
+[2025-11-07T11:40:29.531634] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.531623] [INFO] Service initialized
+[2025-11-07T11:40:29.531627] [WARN] Slow query performance
+[2025-11-07T11:40:29.531617] [INFO] User logged in
+[2025-11-07T11:40:29.531640] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.531615] [INFO] Session started
+[2025-11-07T11:40:29.531614] [INFO] Connection established
+[2025-11-07T11:40:29.531635] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.531625] [WARN] Timeout warning
+[2025-11-07T11:40:29.531621] [INFO] Service initialized
+[2025-11-07T11:40:29.531637] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.531612] [INFO] Service initialized
+[2025-11-07T11:40:29.531618] [INFO] Session started
+[2025-11-07T11:40:29.531620] [INFO] Request processed successfully
+[2025-11-07T11:40:29.531641] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.531616] [INFO] Transaction completed
+[2025-11-07T11:40:29.531631] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.531628] [ERROR] Permission denied
+[2025-11-07T11:40:29.531619] [INFO] Request processed successfully
+[2025-11-07T11:40:29.531613] [INFO] Health check passed
+[2025-11-07T11:40:29.531638] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.531636] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.531630] [ERROR] Authentication failed
+[2025-11-07T11:40:29.531632] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.531639] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.531622] [INFO] Cache hit
+[2025-11-07T11:40:29.531624] [WARN] Cache miss

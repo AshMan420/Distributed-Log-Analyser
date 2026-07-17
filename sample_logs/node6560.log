@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.991244] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.991223] [INFO] Configuration loaded
+[2025-11-07T11:40:29.991216] [INFO] Configuration loaded
+[2025-11-07T11:40:29.991227] [INFO] Health check passed
+[2025-11-07T11:40:29.991247] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.991229] [INFO] Session started
+[2025-11-07T11:40:29.991215] [INFO] User logged in
+[2025-11-07T11:40:29.991230] [INFO] Session started
+[2025-11-07T11:40:29.991225] [INFO] Configuration loaded
+[2025-11-07T11:40:29.991235] [WARN] Disk space low
+[2025-11-07T11:40:29.991241] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.991224] [INFO] Request processed successfully
+[2025-11-07T11:40:29.991219] [INFO] Cache hit
+[2025-11-07T11:40:29.991236] [WARN] Cache miss
+[2025-11-07T11:40:29.991246] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.991240] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.991226] [INFO] Health check passed
+[2025-11-07T11:40:29.991218] [INFO] Connection established
+[2025-11-07T11:40:29.991232] [WARN] Timeout warning
+[2025-11-07T11:40:29.991228] [INFO] Database query executed
+[2025-11-07T11:40:29.991238] [ERROR] Database connection lost
+[2025-11-07T11:40:29.991243] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.991237] [WARN] Slow query performance
+[2025-11-07T11:40:29.991221] [INFO] Request processed successfully
+[2025-11-07T11:40:29.991239] [ERROR] File not found
+[2025-11-07T11:40:29.991245] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.991233] [WARN] Slow query performance
+[2025-11-07T11:40:29.991231] [WARN] Cache miss
+[2025-11-07T11:40:29.991222] [INFO] Database query executed
+[2025-11-07T11:40:29.991234] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.991242] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.991220] [INFO] Transaction completed

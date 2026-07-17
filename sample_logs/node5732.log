@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.897219] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.897201] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.897189] [INFO] Health check passed
+[2025-11-07T11:40:29.897213] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.897194] [INFO] Request processed successfully
+[2025-11-07T11:40:29.897218] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.897211] [ERROR] Authentication failed
+[2025-11-07T11:40:29.897217] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.897202] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.897209] [ERROR] Authentication failed
+[2025-11-07T11:40:29.897184] [INFO] Cache hit
+[2025-11-07T11:40:29.897198] [INFO] Session started
+[2025-11-07T11:40:29.897214] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.897199] [WARN] Disk space low
+[2025-11-07T11:40:29.897190] [INFO] User logged in
+[2025-11-07T11:40:29.897196] [INFO] Transaction completed
+[2025-11-07T11:40:29.897191] [INFO] Connection established
+[2025-11-07T11:40:29.897193] [INFO] Transaction completed
+[2025-11-07T11:40:29.897216] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.897195] [INFO] Session started
+[2025-11-07T11:40:29.897221] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.897188] [INFO] Session started
+[2025-11-07T11:40:29.897220] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.897185] [INFO] Connection established
+[2025-11-07T11:40:29.897197] [INFO] Database query executed
+[2025-11-07T11:40:29.897205] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.897203] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.897206] [WARN] Timeout warning
+[2025-11-07T11:40:29.897187] [INFO] Transaction completed
+[2025-11-07T11:40:29.897204] [WARN] High memory usage detected
+[2025-11-07T11:40:29.897207] [WARN] Queue size growing
+[2025-11-07T11:40:29.897215] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.897212] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.897210] [ERROR] File not found
+[2025-11-07T11:40:29.897192] [INFO] Cache hit
+[2025-11-07T11:40:29.897183] [INFO] Configuration loaded
+[2025-11-07T11:40:29.897196] [INFO] Service initialized
+[2025-11-07T11:40:29.897200] [WARN] Queue size growing

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.135450] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.135447] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.135451] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.135446] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.135425] [INFO] Request processed successfully
+[2025-11-07T11:40:30.135449] [ERROR] Invalid input data
+[2025-11-07T11:40:30.135454] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.135458] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.135444] [WARN] Cache miss
+[2025-11-07T11:40:30.135441] [INFO] Cache hit
+[2025-11-07T11:40:30.135453] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.135437] [INFO] Connection established
+[2025-11-07T11:40:30.135421] [INFO] Database query executed
+[2025-11-07T11:40:30.135442] [INFO] Transaction completed
+[2025-11-07T11:40:30.135448] [ERROR] Database connection lost
+[2025-11-07T11:40:30.135427] [INFO] Cache hit
+[2025-11-07T11:40:30.135438] [INFO] Transaction completed
+[2025-11-07T11:40:30.135445] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.135435] [INFO] Connection established
+[2025-11-07T11:40:30.135423] [INFO] Transaction completed
+[2025-11-07T11:40:30.135436] [INFO] Health check passed
+[2025-11-07T11:40:30.135439] [INFO] Transaction completed
+[2025-11-07T11:40:30.135440] [INFO] Configuration loaded
+[2025-11-07T11:40:30.135456] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.135457] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.135422] [INFO] Database query executed
+[2025-11-07T11:40:30.135424] [INFO] Database query executed
+[2025-11-07T11:40:30.135459] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.135455] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.135426] [INFO] Health check passed
+[2025-11-07T11:40:30.135419] [INFO] Connection established
+[2025-11-07T11:40:30.135443] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.135452] [DEBUG] Cache key generated

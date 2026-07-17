@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.632479] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.632474] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.632483] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.632483] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.632469] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.632462] [INFO] Request processed successfully
+[2025-11-07T11:40:29.632466] [INFO] User logged in
+[2025-11-07T11:40:29.632480] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.632468] [WARN] Cache miss
+[2025-11-07T11:40:29.632475] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.632460] [INFO] Cache hit
+[2025-11-07T11:40:29.632465] [INFO] User logged in
+[2025-11-07T11:40:29.632452] [INFO] Configuration loaded
+[2025-11-07T11:40:29.632454] [INFO] Database query executed
+[2025-11-07T11:40:29.632484] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.632471] [WARN] Timeout warning
+[2025-11-07T11:40:29.632461] [INFO] Health check passed
+[2025-11-07T11:40:29.632472] [ERROR] Disk read failed
+[2025-11-07T11:40:29.632458] [INFO] Transaction completed
+[2025-11-07T11:40:29.632482] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.632470] [WARN] Queue size growing
+[2025-11-07T11:40:29.632481] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.632467] [INFO] Database query executed
+[2025-11-07T11:40:29.632478] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.632464] [INFO] User logged in
+[2025-11-07T11:40:29.632455] [INFO] Request processed successfully
+[2025-11-07T11:40:29.632473] [ERROR] Authentication failed
+[2025-11-07T11:40:29.632457] [INFO] Service initialized
+[2025-11-07T11:40:29.632456] [INFO] Service initialized
+[2025-11-07T11:40:29.632459] [INFO] Service initialized
+[2025-11-07T11:40:29.632463] [INFO] Request processed successfully
+[2025-11-07T11:40:29.632477] [DEBUG] Loop iteration: 15

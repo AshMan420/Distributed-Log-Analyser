@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.332979] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.332981] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.332973] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.332961] [INFO] Configuration loaded
+[2025-11-07T11:40:29.332980] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.332956] [INFO] Transaction completed
+[2025-11-07T11:40:29.332969] [WARN] Queue size growing
+[2025-11-07T11:40:29.332984] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.332985] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.332967] [INFO] Transaction completed
+[2025-11-07T11:40:29.332957] [INFO] Connection established
+[2025-11-07T11:40:29.332986] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.332970] [WARN] Slow query performance
+[2025-11-07T11:40:29.332964] [INFO] Session started
+[2025-11-07T11:40:29.332962] [INFO] Configuration loaded
+[2025-11-07T11:40:29.332983] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.332966] [INFO] Database query executed
+[2025-11-07T11:40:29.332972] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.332978] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.332974] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.332960] [INFO] Configuration loaded
+[2025-11-07T11:40:29.332965] [INFO] Connection established
+[2025-11-07T11:40:29.332958] [INFO] Database query executed
+[2025-11-07T11:40:29.332963] [INFO] User logged in
+[2025-11-07T11:40:29.332968] [INFO] Transaction completed
+[2025-11-07T11:40:29.332982] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.332977] [ERROR] Database connection lost
+[2025-11-07T11:40:29.332975] [WARN] Slow query performance
+[2025-11-07T11:40:29.332959] [INFO] User logged in
+[2025-11-07T11:40:29.332976] [ERROR] Request failed
+[2025-11-07T11:40:29.332971] [WARN] Disk space low

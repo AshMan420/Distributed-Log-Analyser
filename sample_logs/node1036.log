@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.400155] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.400163] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.400145] [INFO] Configuration loaded
+[2025-11-07T11:40:29.400166] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.400142] [INFO] Service initialized
+[2025-11-07T11:40:29.400137] [INFO] Request processed successfully
+[2025-11-07T11:40:29.400139] [INFO] Database query executed
+[2025-11-07T11:40:29.400147] [INFO] User logged in
+[2025-11-07T11:40:29.400153] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.400150] [INFO] User logged in
+[2025-11-07T11:40:29.400156] [WARN] Cache miss
+[2025-11-07T11:40:29.400162] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.400154] [WARN] Disk space low
+[2025-11-07T11:40:29.400144] [INFO] Request processed successfully
+[2025-11-07T11:40:29.400167] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.400164] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.400158] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.400158] [WARN] Queue size growing
+[2025-11-07T11:40:29.400148] [INFO] Configuration loaded
+[2025-11-07T11:40:29.400161] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.400138] [INFO] Transaction completed
+[2025-11-07T11:40:29.400170] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.400165] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.400146] [INFO] Session started
+[2025-11-07T11:40:29.400141] [INFO] Transaction completed
+[2025-11-07T11:40:29.400143] [INFO] Configuration loaded
+[2025-11-07T11:40:29.400157] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.400151] [INFO] Session started
+[2025-11-07T11:40:29.400152] [WARN] High memory usage detected
+[2025-11-07T11:40:29.400149] [INFO] Cache hit
+[2025-11-07T11:40:29.400160] [ERROR] Permission denied
+[2025-11-07T11:40:29.400169] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.400168] [DEBUG] HTTP request headers parsed

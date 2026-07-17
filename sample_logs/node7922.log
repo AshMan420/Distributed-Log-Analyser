@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.131898] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.131897] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.131885] [INFO] Configuration loaded
+[2025-11-07T11:40:30.131894] [ERROR] File not found
+[2025-11-07T11:40:30.131886] [INFO] Request processed successfully
+[2025-11-07T11:40:30.131878] [INFO] Database query executed
+[2025-11-07T11:40:30.131901] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.131905] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.131876] [INFO] Connection established
+[2025-11-07T11:40:30.131886] [INFO] Cache hit
+[2025-11-07T11:40:30.131874] [INFO] Transaction completed
+[2025-11-07T11:40:30.131896] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.131873] [INFO] Request processed successfully
+[2025-11-07T11:40:30.131877] [INFO] Connection established
+[2025-11-07T11:40:30.131888] [INFO] Service initialized
+[2025-11-07T11:40:30.131902] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.131892] [WARN] Queue size growing
+[2025-11-07T11:40:30.131879] [INFO] Connection established
+[2025-11-07T11:40:30.131889] [WARN] High memory usage detected
+[2025-11-07T11:40:30.131895] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.131904] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.131882] [INFO] Health check passed
+[2025-11-07T11:40:30.131883] [INFO] Cache hit
+[2025-11-07T11:40:30.131880] [INFO] Session started
+[2025-11-07T11:40:30.131891] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.131884] [INFO] User logged in
+[2025-11-07T11:40:30.131871] [INFO] Request processed successfully
+[2025-11-07T11:40:30.131890] [WARN] High memory usage detected
+[2025-11-07T11:40:30.131881] [INFO] Health check passed
+[2025-11-07T11:40:30.131903] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.131893] [ERROR] Request failed
+[2025-11-07T11:40:30.131870] [INFO] Session started
+[2025-11-07T11:40:30.131875] [INFO] Service initialized
+[2025-11-07T11:40:30.131900] [DEBUG] Memory allocation: 2048 bytes

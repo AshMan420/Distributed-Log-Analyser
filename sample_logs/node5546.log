@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.877390] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.877379] [INFO] Request processed successfully
+[2025-11-07T11:40:29.877368] [INFO] User logged in
+[2025-11-07T11:40:29.877374] [INFO] Database query executed
+[2025-11-07T11:40:29.877367] [INFO] Cache hit
+[2025-11-07T11:40:29.877377] [INFO] Session started
+[2025-11-07T11:40:29.877376] [INFO] Transaction completed
+[2025-11-07T11:40:29.877373] [INFO] Configuration loaded
+[2025-11-07T11:40:29.877387] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.877372] [INFO] Session started
+[2025-11-07T11:40:29.877369] [INFO] Request processed successfully
+[2025-11-07T11:40:29.877378] [INFO] Request processed successfully
+[2025-11-07T11:40:29.877370] [INFO] Transaction completed
+[2025-11-07T11:40:29.877392] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.877375] [INFO] Service initialized
+[2025-11-07T11:40:29.877384] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.877380] [WARN] Queue size growing
+[2025-11-07T11:40:29.877385] [ERROR] Permission denied
+[2025-11-07T11:40:29.877366] [INFO] Database query executed
+[2025-11-07T11:40:29.877381] [WARN] Queue size growing
+[2025-11-07T11:40:29.877371] [INFO] Request processed successfully
+[2025-11-07T11:40:29.877383] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.877391] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.877382] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.877389] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.877388] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.877365] [INFO] Session started
+[2025-11-07T11:40:29.877386] [ERROR] Invalid input data

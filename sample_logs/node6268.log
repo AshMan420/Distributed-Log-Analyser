@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.960150] [INFO] Request processed successfully
+[2025-11-07T11:40:29.960151] [INFO] Connection established
+[2025-11-07T11:40:29.960146] [INFO] Transaction completed
+[2025-11-07T11:40:29.960141] [INFO] User logged in
+[2025-11-07T11:40:29.960169] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.960168] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.960143] [INFO] Cache hit
+[2025-11-07T11:40:29.960160] [ERROR] Request failed
+[2025-11-07T11:40:29.960161] [ERROR] Authentication failed
+[2025-11-07T11:40:29.960140] [INFO] Configuration loaded
+[2025-11-07T11:40:29.960164] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.960168] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.960147] [INFO] Service initialized
+[2025-11-07T11:40:29.960158] [WARN] Slow query performance
+[2025-11-07T11:40:29.960155] [WARN] Slow query performance
+[2025-11-07T11:40:29.960159] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.960167] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.960145] [INFO] Configuration loaded
+[2025-11-07T11:40:29.960147] [INFO] Session started
+[2025-11-07T11:40:29.960149] [INFO] Request processed successfully
+[2025-11-07T11:40:29.960152] [INFO] User logged in
+[2025-11-07T11:40:29.960153] [INFO] Request processed successfully
+[2025-11-07T11:40:29.960157] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.960156] [WARN] Queue size growing
+[2025-11-07T11:40:29.960139] [INFO] Database query executed
+[2025-11-07T11:40:29.960149] [INFO] Transaction completed
+[2025-11-07T11:40:29.960166] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.960170] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.960144] [INFO] Database query executed
+[2025-11-07T11:40:29.960154] [INFO] Database query executed
+[2025-11-07T11:40:29.960165] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.960163] [DEBUG] Loop iteration: 15

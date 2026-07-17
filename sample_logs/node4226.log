@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.744495] [INFO] Session started
+[2025-11-07T11:40:29.744516] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.744511] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.744517] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.744505] [INFO] Session started
+[2025-11-07T11:40:29.744493] [INFO] User logged in
+[2025-11-07T11:40:29.744496] [INFO] Cache hit
+[2025-11-07T11:40:29.744521] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.744503] [INFO] Configuration loaded
+[2025-11-07T11:40:29.744509] [WARN] Timeout warning
+[2025-11-07T11:40:29.744518] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.744507] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.744504] [INFO] Service initialized
+[2025-11-07T11:40:29.744502] [INFO] Session started
+[2025-11-07T11:40:29.744510] [WARN] Queue size growing
+[2025-11-07T11:40:29.744512] [ERROR] Network timeout
+[2025-11-07T11:40:29.744499] [INFO] Service initialized
+[2025-11-07T11:40:29.744497] [INFO] Transaction completed
+[2025-11-07T11:40:29.744513] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.744498] [INFO] Transaction completed
+[2025-11-07T11:40:29.744500] [INFO] Health check passed
+[2025-11-07T11:40:29.744520] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.744514] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.744515] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.744508] [WARN] Timeout warning
+[2025-11-07T11:40:29.744506] [INFO] Connection established
+[2025-11-07T11:40:29.744501] [INFO] Health check passed
+[2025-11-07T11:40:29.744519] [DEBUG] Entering function process_data()

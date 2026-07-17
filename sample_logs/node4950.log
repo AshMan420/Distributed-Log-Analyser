@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.818211] [INFO] Configuration loaded
+[2025-11-07T11:40:29.818209] [INFO] User logged in
+[2025-11-07T11:40:29.818237] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.818231] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.818216] [INFO] Database query executed
+[2025-11-07T11:40:29.818235] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.818206] [INFO] Request processed successfully
+[2025-11-07T11:40:29.818220] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.818236] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.818215] [INFO] Request processed successfully
+[2025-11-07T11:40:29.818217] [INFO] Service initialized
+[2025-11-07T11:40:29.818204] [INFO] Connection established
+[2025-11-07T11:40:29.818224] [ERROR] Permission denied
+[2025-11-07T11:40:29.818218] [WARN] Timeout warning
+[2025-11-07T11:40:29.818207] [INFO] Database query executed
+[2025-11-07T11:40:29.818208] [INFO] Request processed successfully
+[2025-11-07T11:40:29.818219] [WARN] Slow query performance
+[2025-11-07T11:40:29.818222] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.818212] [INFO] User logged in
+[2025-11-07T11:40:29.818213] [INFO] Service initialized
+[2025-11-07T11:40:29.818210] [INFO] Health check passed
+[2025-11-07T11:40:29.818226] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.818230] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.818233] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.818232] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.818228] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.818234] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.818229] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.818223] [ERROR] File not found
+[2025-11-07T11:40:29.818227] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.818221] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.818214] [INFO] Transaction completed

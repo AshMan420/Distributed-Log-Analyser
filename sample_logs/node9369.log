@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.294910] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.294882] [INFO] Cache hit
+[2025-11-07T11:40:30.294887] [INFO] Database query executed
+[2025-11-07T11:40:30.294900] [ERROR] Database connection lost
+[2025-11-07T11:40:30.294902] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.294906] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.294891] [INFO] Service initialized
+[2025-11-07T11:40:30.294897] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.294892] [INFO] Configuration loaded
+[2025-11-07T11:40:30.294905] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.294903] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.294885] [INFO] Connection established
+[2025-11-07T11:40:30.294895] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.294888] [INFO] User logged in
+[2025-11-07T11:40:30.294901] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.294907] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.294886] [INFO] Connection established
+[2025-11-07T11:40:30.294894] [WARN] High memory usage detected
+[2025-11-07T11:40:30.294909] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.294898] [WARN] High memory usage detected
+[2025-11-07T11:40:30.294884] [INFO] User logged in
+[2025-11-07T11:40:30.294893] [INFO] Configuration loaded
+[2025-11-07T11:40:30.294896] [WARN] Slow query performance
+[2025-11-07T11:40:30.294889] [INFO] Database query executed
+[2025-11-07T11:40:30.294881] [INFO] User logged in
+[2025-11-07T11:40:30.294883] [INFO] Request processed successfully
+[2025-11-07T11:40:30.294908] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.294899] [ERROR] Invalid input data
+[2025-11-07T11:40:30.294879] [INFO] Service initialized
+[2025-11-07T11:40:30.294890] [INFO] User logged in
+[2025-11-07T11:40:30.294904] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.149565] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.149561] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.149550] [INFO] Configuration loaded
+[2025-11-07T11:40:30.149568] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.149569] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.149544] [INFO] Cache hit
+[2025-11-07T11:40:30.149551] [INFO] Database query executed
+[2025-11-07T11:40:30.149575] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.149552] [INFO] Database query executed
+[2025-11-07T11:40:30.149556] [INFO] Session started
+[2025-11-07T11:40:30.149554] [INFO] Connection established
+[2025-11-07T11:40:30.149560] [WARN] Queue size growing
+[2025-11-07T11:40:30.149547] [INFO] Service initialized
+[2025-11-07T11:40:30.149549] [INFO] Health check passed
+[2025-11-07T11:40:30.149563] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.149564] [WARN] High memory usage detected
+[2025-11-07T11:40:30.149577] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.149558] [INFO] Connection established
+[2025-11-07T11:40:30.149578] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.149572] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.149558] [INFO] Service initialized
+[2025-11-07T11:40:30.149567] [ERROR] Disk read failed
+[2025-11-07T11:40:30.149548] [INFO] Connection established
+[2025-11-07T11:40:30.149574] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.149576] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.149546] [INFO] Request processed successfully
+[2025-11-07T11:40:30.149557] [INFO] Configuration loaded
+[2025-11-07T11:40:30.149570] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.149579] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.149566] [ERROR] Service unavailable
+[2025-11-07T11:40:30.149562] [WARN] High memory usage detected
+[2025-11-07T11:40:30.149553] [INFO] Configuration loaded
+[2025-11-07T11:40:30.149555] [INFO] Transaction completed
+[2025-11-07T11:40:30.149571] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.149580] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.149573] [DEBUG] HTTP request headers parsed

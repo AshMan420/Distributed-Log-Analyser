@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.004169] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.004163] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.004165] [ERROR] Authentication failed
+[2025-11-07T11:40:30.004175] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.004153] [INFO] User logged in
+[2025-11-07T11:40:30.004158] [INFO] Database query executed
+[2025-11-07T11:40:30.004177] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.004157] [INFO] Session started
+[2025-11-07T11:40:30.004162] [INFO] Session started
+[2025-11-07T11:40:30.004176] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.004154] [INFO] Database query executed
+[2025-11-07T11:40:30.004155] [INFO] Health check passed
+[2025-11-07T11:40:30.004168] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.004159] [INFO] Configuration loaded
+[2025-11-07T11:40:30.004151] [INFO] Connection established
+[2025-11-07T11:40:30.004152] [INFO] Cache hit
+[2025-11-07T11:40:30.004171] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.004170] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.004179] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.004156] [INFO] Session started
+[2025-11-07T11:40:30.004172] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.004160] [INFO] User logged in
+[2025-11-07T11:40:30.004178] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.004164] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.004174] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.004166] [ERROR] Authentication failed
+[2025-11-07T11:40:30.004173] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.004161] [INFO] Health check passed

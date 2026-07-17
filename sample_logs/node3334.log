@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.651362] [WARN] Slow query performance
+[2025-11-07T11:40:29.651351] [INFO] Transaction completed
+[2025-11-07T11:40:29.651367] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.651361] [WARN] Timeout warning
+[2025-11-07T11:40:29.651358] [INFO] Connection established
+[2025-11-07T11:40:29.651371] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651366] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.651373] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.651369] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651363] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.651374] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.651365] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.651354] [INFO] Transaction completed
+[2025-11-07T11:40:29.651368] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.651372] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.651353] [INFO] Connection established
+[2025-11-07T11:40:29.651355] [INFO] Service initialized
+[2025-11-07T11:40:29.651348] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651360] [INFO] Service initialized
+[2025-11-07T11:40:29.651352] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651350] [INFO] User logged in
+[2025-11-07T11:40:29.651356] [INFO] Cache hit
+[2025-11-07T11:40:29.651364] [ERROR] Authentication failed
+[2025-11-07T11:40:29.651359] [INFO] Connection established
+[2025-11-07T11:40:29.651346] [INFO] Cache hit
+[2025-11-07T11:40:29.651370] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.651344] [INFO] Database query executed
+[2025-11-07T11:40:29.651357] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651349] [INFO] User logged in
+[2025-11-07T11:40:29.651347] [INFO] Session started

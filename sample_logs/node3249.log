@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.641642] [WARN] High memory usage detected
+[2025-11-07T11:40:29.641646] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.641624] [INFO] Health check passed
+[2025-11-07T11:40:29.641637] [WARN] Slow query performance
+[2025-11-07T11:40:29.641633] [WARN] Queue size growing
+[2025-11-07T11:40:29.641631] [INFO] Health check passed
+[2025-11-07T11:40:29.641622] [INFO] Cache hit
+[2025-11-07T11:40:29.641627] [INFO] Service initialized
+[2025-11-07T11:40:29.641651] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.641626] [INFO] Service initialized
+[2025-11-07T11:40:29.641634] [WARN] Queue size growing
+[2025-11-07T11:40:29.641645] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.641650] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.641628] [INFO] Request processed successfully
+[2025-11-07T11:40:29.641620] [INFO] Transaction completed
+[2025-11-07T11:40:29.641635] [WARN] Disk space low
+[2025-11-07T11:40:29.641616] [INFO] Service initialized
+[2025-11-07T11:40:29.641629] [INFO] Connection established
+[2025-11-07T11:40:29.641618] [INFO] Transaction completed
+[2025-11-07T11:40:29.641621] [INFO] Transaction completed
+[2025-11-07T11:40:29.641640] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.641639] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.641623] [INFO] Transaction completed
+[2025-11-07T11:40:29.641649] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.641653] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.641617] [INFO] Request processed successfully
+[2025-11-07T11:40:29.641641] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.641625] [INFO] Request processed successfully
+[2025-11-07T11:40:29.641638] [WARN] Cache miss
+[2025-11-07T11:40:29.641652] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.641636] [WARN] Disk space low
+[2025-11-07T11:40:29.641630] [INFO] Configuration loaded
+[2025-11-07T11:40:29.641643] [ERROR] Network timeout
+[2025-11-07T11:40:29.641632] [WARN] Queue size growing
+[2025-11-07T11:40:29.641647] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.641644] [ERROR] Permission denied
+[2025-11-07T11:40:29.641652] [DEBUG] HTTP request headers parsed

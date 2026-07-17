@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.854067] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.854048] [INFO] Session started
+[2025-11-07T11:40:29.854071] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.854069] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.854042] [INFO] Transaction completed
+[2025-11-07T11:40:29.854066] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.854040] [INFO] Transaction completed
+[2025-11-07T11:40:29.854070] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.854054] [INFO] Configuration loaded
+[2025-11-07T11:40:29.854051] [INFO] Database query executed
+[2025-11-07T11:40:29.854039] [INFO] Connection established
+[2025-11-07T11:40:29.854055] [WARN] Timeout warning
+[2025-11-07T11:40:29.854053] [INFO] Database query executed
+[2025-11-07T11:40:29.854046] [INFO] Connection established
+[2025-11-07T11:40:29.854061] [ERROR] Invalid input data
+[2025-11-07T11:40:29.854041] [INFO] Transaction completed
+[2025-11-07T11:40:29.854064] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.854045] [INFO] Session started
+[2025-11-07T11:40:29.854044] [INFO] Cache hit
+[2025-11-07T11:40:29.854060] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.854063] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.854050] [INFO] Service initialized
+[2025-11-07T11:40:29.854057] [WARN] Slow query performance
+[2025-11-07T11:40:29.854072] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.854062] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.854047] [INFO] Health check passed
+[2025-11-07T11:40:29.854065] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.854068] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.854059] [WARN] Queue size growing
+[2025-11-07T11:40:29.854037] [INFO] Session started
+[2025-11-07T11:40:29.854058] [WARN] Queue size growing
+[2025-11-07T11:40:29.854052] [INFO] Cache hit
+[2025-11-07T11:40:29.854049] [INFO] Connection established
+[2025-11-07T11:40:29.854043] [INFO] Session started
+[2025-11-07T11:40:29.854056] [WARN] Connection retry attempt

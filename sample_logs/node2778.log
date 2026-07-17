@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.591615] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.591618] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.591606] [INFO] User logged in
+[2025-11-07T11:40:29.591610] [WARN] Disk space low
+[2025-11-07T11:40:29.591621] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.591618] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.591594] [INFO] Service initialized
+[2025-11-07T11:40:29.591593] [INFO] Request processed successfully
+[2025-11-07T11:40:29.591622] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.591609] [WARN] Disk space low
+[2025-11-07T11:40:29.591597] [INFO] Database query executed
+[2025-11-07T11:40:29.591591] [INFO] Request processed successfully
+[2025-11-07T11:40:29.591599] [INFO] User logged in
+[2025-11-07T11:40:29.591619] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.591608] [WARN] Timeout warning
+[2025-11-07T11:40:29.591592] [INFO] Database query executed
+[2025-11-07T11:40:29.591617] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.591614] [ERROR] Disk read failed
+[2025-11-07T11:40:29.591600] [INFO] Health check passed
+[2025-11-07T11:40:29.591597] [INFO] Service initialized
+[2025-11-07T11:40:29.591600] [INFO] User logged in
+[2025-11-07T11:40:29.591602] [INFO] Request processed successfully
+[2025-11-07T11:40:29.591613] [ERROR] Disk read failed
+[2025-11-07T11:40:29.591610] [WARN] Queue size growing
+[2025-11-07T11:40:29.591604] [INFO] Transaction completed
+[2025-11-07T11:40:29.591616] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.591596] [INFO] User logged in
+[2025-11-07T11:40:29.591602] [INFO] Cache hit
+[2025-11-07T11:40:29.591604] [INFO] Transaction completed
+[2025-11-07T11:40:29.591620] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.591612] [ERROR] Authentication failed
+[2025-11-07T11:40:29.591605] [INFO] Health check passed
+[2025-11-07T11:40:29.591590] [INFO] Service initialized

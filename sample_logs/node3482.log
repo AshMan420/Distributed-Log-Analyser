@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.666745] [INFO] Request processed successfully
+[2025-11-07T11:40:29.666748] [WARN] Disk space low
+[2025-11-07T11:40:29.666752] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.666742] [INFO] Database query executed
+[2025-11-07T11:40:29.666743] [INFO] Health check passed
+[2025-11-07T11:40:29.666759] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.666759] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.666738] [INFO] Connection established
+[2025-11-07T11:40:29.666744] [INFO] Session started
+[2025-11-07T11:40:29.666736] [INFO] Transaction completed
+[2025-11-07T11:40:29.666746] [INFO] Database query executed
+[2025-11-07T11:40:29.666751] [ERROR] File not found
+[2025-11-07T11:40:29.666755] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.666739] [INFO] User logged in
+[2025-11-07T11:40:29.666737] [INFO] Database query executed
+[2025-11-07T11:40:29.666741] [INFO] Service initialized
+[2025-11-07T11:40:29.666762] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.666753] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.666760] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.666756] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.666762] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.666758] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.666754] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.666747] [INFO] Cache hit
+[2025-11-07T11:40:29.666740] [INFO] Session started
+[2025-11-07T11:40:29.666757] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.666750] [ERROR] Memory allocation error

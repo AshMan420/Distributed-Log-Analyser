@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.310833] [INFO] Database query executed
+[2025-11-07T11:40:30.310850] [ERROR] Network timeout
+[2025-11-07T11:40:30.310862] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.310825] [INFO] Request processed successfully
+[2025-11-07T11:40:30.310857] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.310854] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.310843] [INFO] Service initialized
+[2025-11-07T11:40:30.310830] [INFO] Configuration loaded
+[2025-11-07T11:40:30.310842] [INFO] Database query executed
+[2025-11-07T11:40:30.310849] [WARN] Timeout warning
+[2025-11-07T11:40:30.310860] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.310839] [INFO] Session started
+[2025-11-07T11:40:30.310829] [INFO] Cache hit
+[2025-11-07T11:40:30.310840] [INFO] Health check passed
+[2025-11-07T11:40:30.310835] [INFO] Database query executed
+[2025-11-07T11:40:30.310844] [INFO] Database query executed
+[2025-11-07T11:40:30.310863] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.310853] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.310856] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.310837] [INFO] Cache hit
+[2025-11-07T11:40:30.310858] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.310859] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.310828] [INFO] Health check passed
+[2025-11-07T11:40:30.310847] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.310838] [INFO] Database query executed
+[2025-11-07T11:40:30.310832] [INFO] Health check passed
+[2025-11-07T11:40:30.310834] [INFO] Transaction completed
+[2025-11-07T11:40:30.310831] [INFO] Health check passed
+[2025-11-07T11:40:30.310846] [INFO] Configuration loaded
+[2025-11-07T11:40:30.310852] [ERROR] Invalid input data
+[2025-11-07T11:40:30.310861] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.310827] [INFO] Request processed successfully

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.180159] [WARN] High memory usage detected
+[2025-11-07T11:40:30.180168] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.180152] [INFO] Health check passed
+[2025-11-07T11:40:30.180160] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.180145] [INFO] Session started
+[2025-11-07T11:40:30.180155] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.180147] [INFO] Cache hit
+[2025-11-07T11:40:30.180144] [INFO] Transaction completed
+[2025-11-07T11:40:30.180130] [INFO] Database query executed
+[2025-11-07T11:40:30.180171] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.180170] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.180132] [INFO] Health check passed
+[2025-11-07T11:40:30.180164] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.180158] [WARN] Timeout warning
+[2025-11-07T11:40:30.180149] [INFO] Transaction completed
+[2025-11-07T11:40:30.180163] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.180161] [WARN] High memory usage detected
+[2025-11-07T11:40:30.180169] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.180165] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.180146] [INFO] Request processed successfully
+[2025-11-07T11:40:30.180131] [INFO] Health check passed
+[2025-11-07T11:40:30.180166] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.180153] [INFO] Connection established
+[2025-11-07T11:40:30.180162] [ERROR] Service unavailable
+[2025-11-07T11:40:30.180150] [INFO] Session started
+[2025-11-07T11:40:30.180167] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.180156] [WARN] Timeout warning
+[2025-11-07T11:40:30.180157] [WARN] Cache miss
+[2025-11-07T11:40:30.180154] [INFO] Session started
+[2025-11-07T11:40:30.180151] [INFO] Service initialized
+[2025-11-07T11:40:30.180148] [INFO] Service initialized
+[2025-11-07T11:40:30.180129] [INFO] Configuration loaded

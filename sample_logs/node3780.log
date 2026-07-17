@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.698586] [INFO] Connection established
+[2025-11-07T11:40:29.698591] [INFO] Configuration loaded
+[2025-11-07T11:40:29.698584] [INFO] User logged in
+[2025-11-07T11:40:29.698580] [INFO] Session started
+[2025-11-07T11:40:29.698588] [INFO] Configuration loaded
+[2025-11-07T11:40:29.698603] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.698605] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.698589] [INFO] Connection established
+[2025-11-07T11:40:29.698607] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.698591] [INFO] Database query executed
+[2025-11-07T11:40:29.698602] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.698592] [INFO] Request processed successfully
+[2025-11-07T11:40:29.698598] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.698600] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.698606] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.698601] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.698595] [WARN] Timeout warning
+[2025-11-07T11:40:29.698596] [WARN] Disk space low
+[2025-11-07T11:40:29.698599] [ERROR] Permission denied
+[2025-11-07T11:40:29.698597] [WARN] High memory usage detected
+[2025-11-07T11:40:29.698581] [INFO] Transaction completed
+[2025-11-07T11:40:29.698604] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.698582] [INFO] User logged in
+[2025-11-07T11:40:29.698608] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.698588] [INFO] Transaction completed
+[2025-11-07T11:40:29.698586] [INFO] Request processed successfully
+[2025-11-07T11:40:29.698583] [INFO] Service initialized
+[2025-11-07T11:40:29.698593] [INFO] Service initialized
+[2025-11-07T11:40:29.698594] [INFO] Connection established

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.125547] [INFO] Service initialized
+[2025-11-07T11:40:30.125552] [INFO] Session started
+[2025-11-07T11:40:30.125566] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.125563] [ERROR] File not found
+[2025-11-07T11:40:30.125548] [INFO] Database query executed
+[2025-11-07T11:40:30.125556] [INFO] Connection established
+[2025-11-07T11:40:30.125564] [ERROR] File not found
+[2025-11-07T11:40:30.125558] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.125555] [INFO] Connection established
+[2025-11-07T11:40:30.125561] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.125567] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.125550] [INFO] Request processed successfully
+[2025-11-07T11:40:30.125569] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.125572] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.125554] [INFO] Request processed successfully
+[2025-11-07T11:40:30.125573] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.125549] [INFO] Transaction completed
+[2025-11-07T11:40:30.125553] [INFO] Session started
+[2025-11-07T11:40:30.125559] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.125560] [WARN] Cache miss
+[2025-11-07T11:40:30.125568] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.125550] [INFO] Session started
+[2025-11-07T11:40:30.125542] [INFO] User logged in
+[2025-11-07T11:40:30.125544] [INFO] Configuration loaded
+[2025-11-07T11:40:30.125565] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.125553] [INFO] Session started
+[2025-11-07T11:40:30.125570] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.125543] [INFO] Database query executed
+[2025-11-07T11:40:30.125545] [INFO] Transaction completed
+[2025-11-07T11:40:30.125571] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.125562] [WARN] Rate limit approaching

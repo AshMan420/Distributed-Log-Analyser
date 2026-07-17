@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.628500] [INFO] Connection established
+[2025-11-07T11:40:29.628525] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.628526] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.628507] [INFO] Request processed successfully
+[2025-11-07T11:40:29.628508] [INFO] Database query executed
+[2025-11-07T11:40:29.628504] [INFO] User logged in
+[2025-11-07T11:40:29.628520] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.628503] [INFO] Database query executed
+[2025-11-07T11:40:29.628502] [INFO] Health check passed
+[2025-11-07T11:40:29.628511] [INFO] Session started
+[2025-11-07T11:40:29.628528] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.628499] [INFO] Request processed successfully
+[2025-11-07T11:40:29.628509] [INFO] Cache hit
+[2025-11-07T11:40:29.628516] [WARN] Timeout warning
+[2025-11-07T11:40:29.628501] [INFO] Health check passed
+[2025-11-07T11:40:29.628513] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.628527] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.628529] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.628512] [WARN] Queue size growing
+[2025-11-07T11:40:29.628497] [INFO] Database query executed
+[2025-11-07T11:40:29.628518] [ERROR] Database connection lost
+[2025-11-07T11:40:29.628517] [ERROR] Authentication failed
+[2025-11-07T11:40:29.628521] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.628522] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.628515] [WARN] Timeout warning
+[2025-11-07T11:40:29.628506] [INFO] Health check passed
+[2025-11-07T11:40:29.628524] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.628519] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.628523] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.628505] [INFO] Database query executed
+[2025-11-07T11:40:29.628514] [WARN] Disk space low
+[2025-11-07T11:40:29.628510] [INFO] Database query executed
+[2025-11-07T11:40:29.628496] [INFO] Session started

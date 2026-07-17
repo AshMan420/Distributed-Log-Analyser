@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.359125] [INFO] User logged in
+[2025-11-07T11:40:29.359138] [INFO] Cache hit
+[2025-11-07T11:40:29.359144] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.359146] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.359129] [INFO] Cache hit
+[2025-11-07T11:40:29.359142] [ERROR] Service unavailable
+[2025-11-07T11:40:29.359152] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.359130] [INFO] Database query executed
+[2025-11-07T11:40:29.359151] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.359133] [INFO] Health check passed
+[2025-11-07T11:40:29.359132] [INFO] Health check passed
+[2025-11-07T11:40:29.359147] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.359149] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.359135] [INFO] Service initialized
+[2025-11-07T11:40:29.359140] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.359134] [INFO] Service initialized
+[2025-11-07T11:40:29.359137] [INFO] Transaction completed
+[2025-11-07T11:40:29.359154] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.359131] [INFO] Cache hit
+[2025-11-07T11:40:29.359150] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.359136] [INFO] Configuration loaded
+[2025-11-07T11:40:29.359128] [INFO] Database query executed
+[2025-11-07T11:40:29.359145] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.359124] [INFO] Database query executed
+[2025-11-07T11:40:29.359139] [INFO] Transaction completed
+[2025-11-07T11:40:29.359127] [INFO] Service initialized

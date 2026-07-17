@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.395758] [INFO] Service initialized
+[2025-11-07T11:40:29.395772] [WARN] High memory usage detected
+[2025-11-07T11:40:29.395771] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.395760] [INFO] User logged in
+[2025-11-07T11:40:29.395773] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.395781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.395767] [INFO] User logged in
+[2025-11-07T11:40:29.395754] [INFO] Transaction completed
+[2025-11-07T11:40:29.395778] [WARN] Queue size growing
+[2025-11-07T11:40:29.395763] [INFO] Transaction completed
+[2025-11-07T11:40:29.395768] [INFO] Database query executed
+[2025-11-07T11:40:29.395764] [INFO] User logged in
+[2025-11-07T11:40:29.395766] [INFO] Session started
+[2025-11-07T11:40:29.395757] [INFO] Service initialized
+[2025-11-07T11:40:29.395784] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.395769] [INFO] User logged in
+[2025-11-07T11:40:29.395780] [ERROR] File not found
+[2025-11-07T11:40:29.395777] [WARN] Queue size growing
+[2025-11-07T11:40:29.395789] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.395755] [INFO] Database query executed
+[2025-11-07T11:40:29.395761] [INFO] Request processed successfully
+[2025-11-07T11:40:29.395765] [INFO] Configuration loaded
+[2025-11-07T11:40:29.395756] [INFO] Session started
+[2025-11-07T11:40:29.395762] [INFO] Connection established
+[2025-11-07T11:40:29.395753] [INFO] Database query executed
+[2025-11-07T11:40:29.395774] [WARN] Queue size growing
+[2025-11-07T11:40:29.395770] [WARN] Queue size growing
+[2025-11-07T11:40:29.395786] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.395787] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.395759] [INFO] Cache hit
+[2025-11-07T11:40:29.395779] [ERROR] Network timeout
+[2025-11-07T11:40:29.395776] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.395774] [WARN] Slow query performance
+[2025-11-07T11:40:29.395775] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.395782] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.395785] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.395783] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.395788] [DEBUG] HTTP request headers parsed

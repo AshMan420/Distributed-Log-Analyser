@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.302176] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.302146] [INFO] Transaction completed
+[2025-11-07T11:40:30.302161] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.302169] [ERROR] Permission denied
+[2025-11-07T11:40:30.302173] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.302142] [INFO] Connection established
+[2025-11-07T11:40:30.302149] [INFO] Configuration loaded
+[2025-11-07T11:40:30.302154] [INFO] Connection established
+[2025-11-07T11:40:30.302162] [WARN] Timeout warning
+[2025-11-07T11:40:30.302175] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.302177] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.302170] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.302150] [INFO] Database query executed
+[2025-11-07T11:40:30.302167] [ERROR] Network timeout
+[2025-11-07T11:40:30.302144] [INFO] Service initialized
+[2025-11-07T11:40:30.302166] [WARN] Timeout warning
+[2025-11-07T11:40:30.302165] [WARN] Cache miss
+[2025-11-07T11:40:30.302164] [WARN] Queue size growing
+[2025-11-07T11:40:30.302147] [INFO] Health check passed
+[2025-11-07T11:40:30.302163] [WARN] Queue size growing
+[2025-11-07T11:40:30.302156] [INFO] Session started
+[2025-11-07T11:40:30.302148] [INFO] Request processed successfully
+[2025-11-07T11:40:30.302158] [INFO] Connection established
+[2025-11-07T11:40:30.302145] [INFO] Request processed successfully
+[2025-11-07T11:40:30.302153] [INFO] Service initialized
+[2025-11-07T11:40:30.302157] [INFO] Session started
+[2025-11-07T11:40:30.302155] [INFO] Connection established
+[2025-11-07T11:40:30.302151] [INFO] Connection established
+[2025-11-07T11:40:30.302160] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.302152] [INFO] Session started
+[2025-11-07T11:40:30.302159] [INFO] Database query executed
+[2025-11-07T11:40:30.302172] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.302174] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.302171] [DEBUG] Thread pool size: 8

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.893091] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.893068] [INFO] Session started
+[2025-11-07T11:40:29.893067] [INFO] User logged in
+[2025-11-07T11:40:29.893070] [INFO] Service initialized
+[2025-11-07T11:40:29.893082] [WARN] Queue size growing
+[2025-11-07T11:40:29.893087] [ERROR] Request failed
+[2025-11-07T11:40:29.893092] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.893086] [ERROR] File not found
+[2025-11-07T11:40:29.893088] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.893089] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.893077] [INFO] Request processed successfully
+[2025-11-07T11:40:29.893063] [INFO] Session started
+[2025-11-07T11:40:29.893080] [INFO] Health check passed
+[2025-11-07T11:40:29.893076] [INFO] Request processed successfully
+[2025-11-07T11:40:29.893074] [INFO] Service initialized
+[2025-11-07T11:40:29.893083] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.893085] [ERROR] Permission denied
+[2025-11-07T11:40:29.893069] [INFO] Connection established
+[2025-11-07T11:40:29.893078] [INFO] Cache hit
+[2025-11-07T11:40:29.893073] [INFO] Cache hit
+[2025-11-07T11:40:29.893095] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.893066] [INFO] Cache hit
+[2025-11-07T11:40:29.893072] [INFO] Session started
+[2025-11-07T11:40:29.893084] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.893096] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.893090] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.893064] [INFO] Health check passed
+[2025-11-07T11:40:29.893081] [WARN] High memory usage detected
+[2025-11-07T11:40:29.893094] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.893079] [INFO] Database query executed
+[2025-11-07T11:40:29.893075] [INFO] Connection established
+[2025-11-07T11:40:29.893071] [INFO] Session started
+[2025-11-07T11:40:29.893093] [DEBUG] Memory allocation: 2048 bytes

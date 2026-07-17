@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.205288] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.205282] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.205264] [INFO] Connection established
+[2025-11-07T11:40:30.205272] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.205287] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.205274] [WARN] High memory usage detected
+[2025-11-07T11:40:30.205270] [INFO] Cache hit
+[2025-11-07T11:40:30.205267] [INFO] Health check passed
+[2025-11-07T11:40:30.205273] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.205281] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.205262] [INFO] Request processed successfully
+[2025-11-07T11:40:30.205285] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.205283] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.205275] [WARN] Slow query performance
+[2025-11-07T11:40:30.205271] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.205284] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.205277] [ERROR] Permission denied
+[2025-11-07T11:40:30.205266] [INFO] Configuration loaded
+[2025-11-07T11:40:30.205265] [INFO] Session started
+[2025-11-07T11:40:30.205279] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.205280] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.205286] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.205269] [INFO] Cache hit
+[2025-11-07T11:40:30.205261] [INFO] Session started
+[2025-11-07T11:40:30.205258] [INFO] Configuration loaded
+[2025-11-07T11:40:30.205278] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.205268] [INFO] Database query executed
+[2025-11-07T11:40:30.205259] [INFO] Connection established
+[2025-11-07T11:40:30.205263] [INFO] Transaction completed
+[2025-11-07T11:40:30.205271] [INFO] Configuration loaded
+[2025-11-07T11:40:30.205260] [INFO] Session started
+[2025-11-07T11:40:30.205276] [ERROR] Network timeout

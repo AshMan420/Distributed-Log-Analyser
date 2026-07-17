@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.563355] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.563345] [ERROR] File not found
+[2025-11-07T11:40:29.563338] [INFO] Session started
+[2025-11-07T11:40:29.563329] [INFO] User logged in
+[2025-11-07T11:40:29.563334] [INFO] Request processed successfully
+[2025-11-07T11:40:29.563326] [INFO] Cache hit
+[2025-11-07T11:40:29.563350] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.563337] [INFO] Database query executed
+[2025-11-07T11:40:29.563339] [WARN] High memory usage detected
+[2025-11-07T11:40:29.563330] [INFO] Transaction completed
+[2025-11-07T11:40:29.563357] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.563332] [INFO] Request processed successfully
+[2025-11-07T11:40:29.563335] [INFO] Transaction completed
+[2025-11-07T11:40:29.563348] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.563328] [INFO] Transaction completed
+[2025-11-07T11:40:29.563353] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.563331] [INFO] Request processed successfully
+[2025-11-07T11:40:29.563356] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.563343] [WARN] Slow query performance
+[2025-11-07T11:40:29.563346] [ERROR] File not found
+[2025-11-07T11:40:29.563327] [INFO] Health check passed
+[2025-11-07T11:40:29.563325] [INFO] Service initialized
+[2025-11-07T11:40:29.563336] [INFO] Configuration loaded
+[2025-11-07T11:40:29.563344] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.563337] [INFO] Connection established
+[2025-11-07T11:40:29.563349] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.563351] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.563354] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.563323] [INFO] Request processed successfully
+[2025-11-07T11:40:29.563341] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.563352] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.563358] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.563324] [INFO] Session started
+[2025-11-07T11:40:29.563347] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.563333] [INFO] Configuration loaded
+[2025-11-07T11:40:29.563342] [WARN] Cache miss
+[2025-11-07T11:40:29.563321] [INFO] User logged in

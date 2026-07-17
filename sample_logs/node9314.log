@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.289504] [INFO] Connection established
+[2025-11-07T11:40:30.289523] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.289506] [INFO] Database query executed
+[2025-11-07T11:40:30.289513] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.289527] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.289497] [INFO] Cache hit
+[2025-11-07T11:40:30.289508] [WARN] Queue size growing
+[2025-11-07T11:40:30.289510] [WARN] Disk space low
+[2025-11-07T11:40:30.289500] [INFO] Configuration loaded
+[2025-11-07T11:40:30.289494] [INFO] Health check passed
+[2025-11-07T11:40:30.289509] [WARN] Cache miss
+[2025-11-07T11:40:30.289519] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.289514] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.289499] [INFO] Transaction completed
+[2025-11-07T11:40:30.289521] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.289524] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.289522] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.289498] [INFO] Health check passed
+[2025-11-07T11:40:30.289517] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.289496] [INFO] Request processed successfully
+[2025-11-07T11:40:30.289525] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.289515] [ERROR] Network timeout
+[2025-11-07T11:40:30.289505] [INFO] Cache hit
+[2025-11-07T11:40:30.289503] [INFO] Request processed successfully
+[2025-11-07T11:40:30.289526] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.289516] [ERROR] Disk read failed
+[2025-11-07T11:40:30.289520] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.289502] [INFO] Configuration loaded
+[2025-11-07T11:40:30.289507] [WARN] Slow query performance
+[2025-11-07T11:40:30.289511] [WARN] High memory usage detected
+[2025-11-07T11:40:30.289501] [INFO] Health check passed
+[2025-11-07T11:40:30.289512] [WARN] Queue size growing
+[2025-11-07T11:40:30.289528] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.289495] [INFO] Cache hit

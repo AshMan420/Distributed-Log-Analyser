@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.624918] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.624906] [WARN] Queue size growing
+[2025-11-07T11:40:29.624894] [INFO] Configuration loaded
+[2025-11-07T11:40:29.624891] [INFO] Cache hit
+[2025-11-07T11:40:29.624895] [INFO] Session started
+[2025-11-07T11:40:29.624921] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.624903] [WARN] Cache miss
+[2025-11-07T11:40:29.624915] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.624910] [ERROR] Database connection lost
+[2025-11-07T11:40:29.624901] [INFO] Health check passed
+[2025-11-07T11:40:29.624900] [INFO] Health check passed
+[2025-11-07T11:40:29.624893] [INFO] Request processed successfully
+[2025-11-07T11:40:29.624916] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.624908] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.624892] [INFO] Session started
+[2025-11-07T11:40:29.624905] [WARN] Timeout warning
+[2025-11-07T11:40:29.624914] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.624897] [INFO] Cache hit
+[2025-11-07T11:40:29.624919] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.624887] [INFO] User logged in
+[2025-11-07T11:40:29.624913] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.624917] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.624920] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.624899] [INFO] Session started
+[2025-11-07T11:40:29.624896] [INFO] Request processed successfully
+[2025-11-07T11:40:29.624902] [INFO] Service initialized
+[2025-11-07T11:40:29.624904] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.624907] [WARN] High memory usage detected
+[2025-11-07T11:40:29.624911] [ERROR] Service unavailable
+[2025-11-07T11:40:29.624909] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.624898] [INFO] Configuration loaded
+[2025-11-07T11:40:29.624912] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.624890] [INFO] Configuration loaded
+[2025-11-07T11:40:29.624888] [INFO] User logged in

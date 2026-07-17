@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.147828] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.147822] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.147812] [WARN] Slow query performance
+[2025-11-07T11:40:30.147805] [INFO] User logged in
+[2025-11-07T11:40:30.147803] [INFO] Service initialized
+[2025-11-07T11:40:30.147811] [INFO] Request processed successfully
+[2025-11-07T11:40:30.147815] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.147824] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.147832] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.147814] [WARN] Queue size growing
+[2025-11-07T11:40:30.147813] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.147826] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.147816] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.147807] [INFO] Request processed successfully
+[2025-11-07T11:40:30.147827] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.147808] [INFO] Database query executed
+[2025-11-07T11:40:30.147821] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.147831] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.147796] [INFO] Request processed successfully
+[2025-11-07T11:40:30.147830] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.147823] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.147820] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.147829] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.147799] [INFO] Configuration loaded
+[2025-11-07T11:40:30.147804] [INFO] User logged in
+[2025-11-07T11:40:30.147825] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.147817] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.147800] [INFO] Request processed successfully
+[2025-11-07T11:40:30.147798] [INFO] Service initialized
+[2025-11-07T11:40:30.147801] [INFO] Cache hit
+[2025-11-07T11:40:30.147810] [INFO] Request processed successfully
+[2025-11-07T11:40:30.147806] [INFO] Database query executed
+[2025-11-07T11:40:30.147802] [INFO] Request processed successfully
+[2025-11-07T11:40:30.147819] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.147809] [INFO] Connection established
+[2025-11-07T11:40:30.147818] [ERROR] Request failed

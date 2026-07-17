@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.958538] [INFO] Connection established
+[2025-11-07T11:40:29.958539] [INFO] Configuration loaded
+[2025-11-07T11:40:29.958550] [ERROR] Request failed
+[2025-11-07T11:40:29.958536] [INFO] Health check passed
+[2025-11-07T11:40:29.958533] [INFO] Transaction completed
+[2025-11-07T11:40:29.958544] [INFO] Database query executed
+[2025-11-07T11:40:29.958554] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.958545] [WARN] Cache miss
+[2025-11-07T11:40:29.958530] [INFO] Connection established
+[2025-11-07T11:40:29.958555] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.958553] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.958529] [INFO] Service initialized
+[2025-11-07T11:40:29.958542] [INFO] Health check passed
+[2025-11-07T11:40:29.958535] [INFO] User logged in
+[2025-11-07T11:40:29.958532] [INFO] Cache hit
+[2025-11-07T11:40:29.958548] [WARN] Timeout warning
+[2025-11-07T11:40:29.958556] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.958537] [INFO] Session started
+[2025-11-07T11:40:29.958528] [INFO] Connection established
+[2025-11-07T11:40:29.958540] [INFO] Cache hit
+[2025-11-07T11:40:29.958531] [INFO] Configuration loaded
+[2025-11-07T11:40:29.958559] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.958557] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.958551] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.958546] [WARN] Slow query performance
+[2025-11-07T11:40:29.958552] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.958543] [INFO] Connection established
+[2025-11-07T11:40:29.958558] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.958534] [INFO] Cache hit
+[2025-11-07T11:40:29.958547] [WARN] Queue size growing
+[2025-11-07T11:40:29.958549] [WARN] Disk space low
+[2025-11-07T11:40:29.958526] [INFO] Transaction completed
+[2025-11-07T11:40:29.958541] [INFO] Service initialized

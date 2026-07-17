@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.513736] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.513717] [INFO] Session started
+[2025-11-07T11:40:29.513730] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.513721] [INFO] Connection established
+[2025-11-07T11:40:29.513740] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.513723] [INFO] Cache hit
+[2025-11-07T11:40:29.513724] [INFO] Session started
+[2025-11-07T11:40:29.513739] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.513720] [INFO] User logged in
+[2025-11-07T11:40:29.513722] [INFO] User logged in
+[2025-11-07T11:40:29.513735] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.513733] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.513729] [ERROR] Invalid input data
+[2025-11-07T11:40:29.513719] [INFO] Cache hit
+[2025-11-07T11:40:29.513741] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.513725] [INFO] Health check passed
+[2025-11-07T11:40:29.513726] [WARN] Cache miss
+[2025-11-07T11:40:29.513732] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.513736] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.513728] [ERROR] Authentication failed
+[2025-11-07T11:40:29.513738] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.513737] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.513731] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.513727] [WARN] Timeout warning
+[2025-11-07T11:40:29.513734] [DEBUG] HTTP request headers parsed

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.920912] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.920897] [INFO] Connection established
+[2025-11-07T11:40:29.920916] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.920908] [ERROR] Permission denied
+[2025-11-07T11:40:29.920902] [INFO] Health check passed
+[2025-11-07T11:40:29.920899] [INFO] Cache hit
+[2025-11-07T11:40:29.920907] [ERROR] Disk read failed
+[2025-11-07T11:40:29.920894] [INFO] Health check passed
+[2025-11-07T11:40:29.920889] [INFO] Connection established
+[2025-11-07T11:40:29.920893] [INFO] Session started
+[2025-11-07T11:40:29.920890] [INFO] Service initialized
+[2025-11-07T11:40:29.920903] [WARN] Timeout warning
+[2025-11-07T11:40:29.920910] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.920917] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.920906] [WARN] Queue size growing
+[2025-11-07T11:40:29.920892] [INFO] Request processed successfully
+[2025-11-07T11:40:29.920914] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.920898] [INFO] User logged in
+[2025-11-07T11:40:29.920887] [INFO] Connection established
+[2025-11-07T11:40:29.920904] [WARN] Slow query performance
+[2025-11-07T11:40:29.920915] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.920905] [WARN] Queue size growing
+[2025-11-07T11:40:29.920911] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.920913] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.920895] [INFO] Health check passed
+[2025-11-07T11:40:29.920909] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.920901] [INFO] Configuration loaded
+[2025-11-07T11:40:29.920891] [INFO] Transaction completed
+[2025-11-07T11:40:29.920896] [INFO] Health check passed
+[2025-11-07T11:40:29.920886] [INFO] Cache hit
+[2025-11-07T11:40:29.920898] [INFO] User logged in

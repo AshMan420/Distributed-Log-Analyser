@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.436985] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.436957] [INFO] Configuration loaded
+[2025-11-07T11:40:29.436956] [INFO] Request processed successfully
+[2025-11-07T11:40:29.436984] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.436967] [INFO] User logged in
+[2025-11-07T11:40:29.436955] [INFO] Service initialized
+[2025-11-07T11:40:29.436981] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.436964] [INFO] Cache hit
+[2025-11-07T11:40:29.436979] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.436965] [INFO] Health check passed
+[2025-11-07T11:40:29.436954] [INFO] Connection established
+[2025-11-07T11:40:29.436976] [ERROR] Request failed
+[2025-11-07T11:40:29.436960] [INFO] Connection established
+[2025-11-07T11:40:29.436977] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.436958] [INFO] Health check passed
+[2025-11-07T11:40:29.436959] [INFO] Cache hit
+[2025-11-07T11:40:29.436970] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.436973] [WARN] Timeout warning
+[2025-11-07T11:40:29.436980] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.436966] [INFO] User logged in
+[2025-11-07T11:40:29.436982] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.436961] [INFO] Database query executed
+[2025-11-07T11:40:29.436971] [WARN] Disk space low
+[2025-11-07T11:40:29.436962] [INFO] Service initialized
+[2025-11-07T11:40:29.436975] [ERROR] Database connection lost
+[2025-11-07T11:40:29.436978] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.436969] [INFO] Database query executed
+[2025-11-07T11:40:29.436974] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.436963] [INFO] Service initialized
+[2025-11-07T11:40:29.436968] [INFO] Transaction completed
+[2025-11-07T11:40:29.436983] [DEBUG] Thread pool size: 8

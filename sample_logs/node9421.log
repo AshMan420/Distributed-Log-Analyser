@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.300510] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.300493] [INFO] Database query executed
+[2025-11-07T11:40:30.300507] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.300513] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.300498] [INFO] Health check passed
+[2025-11-07T11:40:30.300515] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.300499] [INFO] Configuration loaded
+[2025-11-07T11:40:30.300497] [INFO] Cache hit
+[2025-11-07T11:40:30.300501] [INFO] Service initialized
+[2025-11-07T11:40:30.300506] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.300505] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.300488] [INFO] Connection established
+[2025-11-07T11:40:30.300516] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.300508] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.300496] [INFO] Cache hit
+[2025-11-07T11:40:30.300503] [WARN] Slow query performance
+[2025-11-07T11:40:30.300491] [INFO] Service initialized
+[2025-11-07T11:40:30.300501] [INFO] Transaction completed
+[2025-11-07T11:40:30.300512] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.300495] [INFO] User logged in
+[2025-11-07T11:40:30.300494] [INFO] Session started
+[2025-11-07T11:40:30.300492] [INFO] Database query executed
+[2025-11-07T11:40:30.300514] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.300490] [INFO] User logged in
+[2025-11-07T11:40:30.300502] [INFO] Health check passed
+[2025-11-07T11:40:30.300511] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.300509] [DEBUG] HTTP request headers parsed

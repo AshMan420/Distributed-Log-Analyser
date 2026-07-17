@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.963274] [INFO] Configuration loaded
+[2025-11-07T11:40:29.963287] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.963280] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.963291] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.963279] [INFO] User logged in
+[2025-11-07T11:40:29.963272] [INFO] Configuration loaded
+[2025-11-07T11:40:29.963289] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.963274] [INFO] Session started
+[2025-11-07T11:40:29.963292] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.963268] [INFO] Connection established
+[2025-11-07T11:40:29.963288] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.963283] [WARN] High memory usage detected
+[2025-11-07T11:40:29.963269] [INFO] Request processed successfully
+[2025-11-07T11:40:29.963271] [INFO] Health check passed
+[2025-11-07T11:40:29.963276] [INFO] Cache hit
+[2025-11-07T11:40:29.963283] [WARN] Timeout warning
+[2025-11-07T11:40:29.963294] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.963272] [INFO] Service initialized
+[2025-11-07T11:40:29.963285] [ERROR] Authentication failed
+[2025-11-07T11:40:29.963267] [INFO] Database query executed
+[2025-11-07T11:40:29.963293] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.963266] [INFO] Configuration loaded
+[2025-11-07T11:40:29.963282] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.963270] [INFO] Session started
+[2025-11-07T11:40:29.963290] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.963278] [INFO] Cache hit
+[2025-11-07T11:40:29.963264] [INFO] Service initialized
+[2025-11-07T11:40:29.963277] [INFO] Connection established
+[2025-11-07T11:40:29.963295] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.963286] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.963275] [INFO] Session started

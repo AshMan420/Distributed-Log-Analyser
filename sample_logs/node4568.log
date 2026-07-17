@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.779178] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.779176] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.779163] [INFO] Database query executed
+[2025-11-07T11:40:29.779182] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.779175] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.779167] [INFO] Transaction completed
+[2025-11-07T11:40:29.779172] [WARN] Disk space low
+[2025-11-07T11:40:29.779171] [WARN] High memory usage detected
+[2025-11-07T11:40:29.779164] [INFO] Configuration loaded
+[2025-11-07T11:40:29.779155] [INFO] Service initialized
+[2025-11-07T11:40:29.779174] [ERROR] Database connection lost
+[2025-11-07T11:40:29.779183] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.779168] [INFO] Transaction completed
+[2025-11-07T11:40:29.779159] [INFO] Cache hit
+[2025-11-07T11:40:29.779165] [INFO] Connection established
+[2025-11-07T11:40:29.779180] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.779157] [INFO] Session started
+[2025-11-07T11:40:29.779158] [INFO] Health check passed
+[2025-11-07T11:40:29.779166] [INFO] Session started
+[2025-11-07T11:40:29.779181] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.779177] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.779179] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.779162] [INFO] Service initialized
+[2025-11-07T11:40:29.779161] [INFO] User logged in
+[2025-11-07T11:40:29.779170] [INFO] Health check passed
+[2025-11-07T11:40:29.779169] [INFO] Health check passed
+[2025-11-07T11:40:29.779160] [INFO] Service initialized

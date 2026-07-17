@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.943266] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.943249] [INFO] Request processed successfully
+[2025-11-07T11:40:29.943250] [INFO] Cache hit
+[2025-11-07T11:40:29.943264] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.943244] [INFO] Connection established
+[2025-11-07T11:40:29.943248] [INFO] Connection established
+[2025-11-07T11:40:29.943263] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.943246] [INFO] Request processed successfully
+[2025-11-07T11:40:29.943247] [INFO] Cache hit
+[2025-11-07T11:40:29.943253] [INFO] User logged in
+[2025-11-07T11:40:29.943266] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.943252] [INFO] Cache hit
+[2025-11-07T11:40:29.943269] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.943262] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.943257] [WARN] Timeout warning
+[2025-11-07T11:40:29.943255] [WARN] Cache miss
+[2025-11-07T11:40:29.943245] [INFO] Configuration loaded
+[2025-11-07T11:40:29.943268] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.943268] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.943264] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.943243] [INFO] User logged in
+[2025-11-07T11:40:29.943242] [INFO] Configuration loaded
+[2025-11-07T11:40:29.943258] [WARN] Queue size growing
+[2025-11-07T11:40:29.943260] [ERROR] Database connection lost
+[2025-11-07T11:40:29.943251] [INFO] Database query executed
+[2025-11-07T11:40:29.943259] [ERROR] Disk read failed
+[2025-11-07T11:40:29.943256] [WARN] Cache miss
+[2025-11-07T11:40:29.943254] [INFO] Request processed successfully

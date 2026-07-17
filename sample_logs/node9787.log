@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.349542] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.349547] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.349540] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349519] [INFO] Session started
+[2025-11-07T11:40:30.349538] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349534] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.349543] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.349541] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349520] [INFO] Cache hit
+[2025-11-07T11:40:30.349533] [WARN] Queue size growing
+[2025-11-07T11:40:30.349530] [INFO] Database query executed
+[2025-11-07T11:40:30.349537] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.349527] [INFO] Database query executed
+[2025-11-07T11:40:30.349539] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349531] [WARN] Slow query performance
+[2025-11-07T11:40:30.349522] [INFO] User logged in
+[2025-11-07T11:40:30.349529] [INFO] Service initialized
+[2025-11-07T11:40:30.349545] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.349524] [INFO] Service initialized
+[2025-11-07T11:40:30.349535] [ERROR] Network timeout
+[2025-11-07T11:40:30.349548] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.349518] [INFO] Transaction completed
+[2025-11-07T11:40:30.349516] [INFO] Service initialized
+[2025-11-07T11:40:30.349528] [INFO] Cache hit
+[2025-11-07T11:40:30.349546] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.349526] [INFO] Configuration loaded
+[2025-11-07T11:40:30.349521] [INFO] Health check passed
+[2025-11-07T11:40:30.349523] [INFO] Transaction completed
+[2025-11-07T11:40:30.349525] [INFO] Configuration loaded
+[2025-11-07T11:40:30.349515] [INFO] Service initialized
+[2025-11-07T11:40:30.349532] [WARN] Queue size growing
+[2025-11-07T11:40:30.349536] [ERROR] Request failed
+[2025-11-07T11:40:30.349544] [DEBUG] Timer set: 30 seconds

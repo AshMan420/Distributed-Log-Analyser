@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.453334] [WARN] Slow query performance
+[2025-11-07T11:40:29.453329] [INFO] Cache hit
+[2025-11-07T11:40:29.453324] [INFO] Cache hit
+[2025-11-07T11:40:29.453337] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.453322] [INFO] Database query executed
+[2025-11-07T11:40:29.453331] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453345] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.453333] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453322] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453335] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.453338] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.453340] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.453341] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.453323] [INFO] Cache hit
+[2025-11-07T11:40:29.453316] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453320] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453318] [INFO] Session started
+[2025-11-07T11:40:29.453344] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.453332] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453330] [INFO] Service initialized
+[2025-11-07T11:40:29.453327] [INFO] Session started
+[2025-11-07T11:40:29.453342] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.453326] [INFO] Service initialized
+[2025-11-07T11:40:29.453328] [INFO] Database query executed
+[2025-11-07T11:40:29.453343] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.453339] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.453321] [INFO] Cache hit
+[2025-11-07T11:40:29.453319] [INFO] Cache hit
+[2025-11-07T11:40:29.453325] [INFO] Health check passed
+[2025-11-07T11:40:29.453336] [ERROR] Network timeout
+[2025-11-07T11:40:29.453346] [DEBUG] Memory allocation: 2048 bytes

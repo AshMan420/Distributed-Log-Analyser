@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.342884] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.342870] [INFO] Connection established
+[2025-11-07T11:40:30.342864] [INFO] Configuration loaded
+[2025-11-07T11:40:30.342890] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.342873] [INFO] Request processed successfully
+[2025-11-07T11:40:30.342871] [INFO] Service initialized
+[2025-11-07T11:40:30.342891] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.342883] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.342879] [WARN] Cache miss
+[2025-11-07T11:40:30.342876] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.342874] [INFO] Cache hit
+[2025-11-07T11:40:30.342866] [INFO] Configuration loaded
+[2025-11-07T11:40:30.342861] [INFO] Connection established
+[2025-11-07T11:40:30.342872] [INFO] Cache hit
+[2025-11-07T11:40:30.342867] [INFO] Health check passed
+[2025-11-07T11:40:30.342877] [WARN] Disk space low
+[2025-11-07T11:40:30.342878] [WARN] Disk space low
+[2025-11-07T11:40:30.342889] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.342880] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.342886] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.342885] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.342881] [ERROR] Database connection lost
+[2025-11-07T11:40:30.342882] [ERROR] Service unavailable
+[2025-11-07T11:40:30.342863] [INFO] Database query executed
+[2025-11-07T11:40:30.342875] [INFO] Database query executed
+[2025-11-07T11:40:30.342887] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.342865] [INFO] User logged in
+[2025-11-07T11:40:30.342869] [INFO] Transaction completed
+[2025-11-07T11:40:30.342868] [INFO] Service initialized
+[2025-11-07T11:40:30.342888] [DEBUG] Cache key generated

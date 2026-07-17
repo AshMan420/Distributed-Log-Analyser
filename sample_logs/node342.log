@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.327480] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.327467] [INFO] Health check passed
+[2025-11-07T11:40:29.327487] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.327488] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.327473] [INFO] Connection established
+[2025-11-07T11:40:29.327465] [INFO] Transaction completed
+[2025-11-07T11:40:29.327463] [INFO] Service initialized
+[2025-11-07T11:40:29.327483] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.327490] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.327470] [INFO] Session started
+[2025-11-07T11:40:29.327469] [INFO] Health check passed
+[2025-11-07T11:40:29.327472] [INFO] Request processed successfully
+[2025-11-07T11:40:29.327468] [INFO] Request processed successfully
+[2025-11-07T11:40:29.327462] [INFO] User logged in
+[2025-11-07T11:40:29.327459] [INFO] Request processed successfully
+[2025-11-07T11:40:29.327457] [INFO] User logged in
+[2025-11-07T11:40:29.327481] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.327479] [ERROR] Disk read failed
+[2025-11-07T11:40:29.327475] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.327460] [INFO] Session started
+[2025-11-07T11:40:29.327482] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.327485] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.327491] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.327461] [INFO] User logged in
+[2025-11-07T11:40:29.327484] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.327470] [INFO] Connection established
+[2025-11-07T11:40:29.327477] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.327464] [INFO] Transaction completed
+[2025-11-07T11:40:29.327486] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.327478] [WARN] Cache miss
+[2025-11-07T11:40:29.327476] [WARN] Disk space low
+[2025-11-07T11:40:29.327466] [INFO] Session started
+[2025-11-07T11:40:29.327474] [WARN] Disk space low
+[2025-11-07T11:40:29.327489] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.327472] [INFO] Database query executed

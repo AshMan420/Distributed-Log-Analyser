@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.371351] [INFO] User logged in
+[2025-11-07T11:40:29.371360] [WARN] Disk space low
+[2025-11-07T11:40:29.371377] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.371366] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.371372] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.371355] [INFO] Database query executed
+[2025-11-07T11:40:29.371358] [INFO] User logged in
+[2025-11-07T11:40:29.371362] [WARN] Timeout warning
+[2025-11-07T11:40:29.371361] [WARN] Cache miss
+[2025-11-07T11:40:29.371349] [INFO] User logged in
+[2025-11-07T11:40:29.371359] [INFO] Session started
+[2025-11-07T11:40:29.371368] [ERROR] Service unavailable
+[2025-11-07T11:40:29.371350] [INFO] User logged in
+[2025-11-07T11:40:29.371347] [INFO] Request processed successfully
+[2025-11-07T11:40:29.371371] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.371375] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.371364] [WARN] Queue size growing
+[2025-11-07T11:40:29.371357] [INFO] Session started
+[2025-11-07T11:40:29.371344] [INFO] Transaction completed
+[2025-11-07T11:40:29.371354] [INFO] Health check passed
+[2025-11-07T11:40:29.371363] [WARN] Cache miss
+[2025-11-07T11:40:29.371365] [WARN] Slow query performance
+[2025-11-07T11:40:29.371378] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.371373] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.371353] [INFO] Cache hit
+[2025-11-07T11:40:29.371356] [INFO] Health check passed
+[2025-11-07T11:40:29.371345] [INFO] Service initialized
+[2025-11-07T11:40:29.371352] [INFO] Cache hit
+[2025-11-07T11:40:29.371369] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.371370] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.371367] [ERROR] Service unavailable
+[2025-11-07T11:40:29.371348] [INFO] Database query executed
+[2025-11-07T11:40:29.371376] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.371374] [DEBUG] Buffer size: 4096 bytes

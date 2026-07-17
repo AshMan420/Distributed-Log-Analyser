@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.438711] [INFO] Configuration loaded
+[2025-11-07T11:40:29.438728] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.438708] [INFO] Cache hit
+[2025-11-07T11:40:29.438718] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.438704] [INFO] Connection established
+[2025-11-07T11:40:29.438717] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.438712] [INFO] Request processed successfully
+[2025-11-07T11:40:29.438724] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.438709] [INFO] Cache hit
+[2025-11-07T11:40:29.438725] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.438713] [INFO] Request processed successfully
+[2025-11-07T11:40:29.438722] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.438729] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.438707] [INFO] Configuration loaded
+[2025-11-07T11:40:29.438710] [INFO] Request processed successfully
+[2025-11-07T11:40:29.438721] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.438715] [INFO] Transaction completed
+[2025-11-07T11:40:29.438709] [INFO] Connection established
+[2025-11-07T11:40:29.438727] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.438720] [ERROR] Disk read failed
+[2025-11-07T11:40:29.438706] [INFO] Configuration loaded
+[2025-11-07T11:40:29.438702] [INFO] Request processed successfully
+[2025-11-07T11:40:29.438723] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.438705] [INFO] Service initialized
+[2025-11-07T11:40:29.438719] [ERROR] Permission denied
+[2025-11-07T11:40:29.438726] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.438714] [INFO] Transaction completed

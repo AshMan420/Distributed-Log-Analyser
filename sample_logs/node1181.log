@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.415263] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.415253] [WARN] Slow query performance
+[2025-11-07T11:40:29.415245] [INFO] Connection established
+[2025-11-07T11:40:29.415254] [WARN] Slow query performance
+[2025-11-07T11:40:29.415240] [INFO] Configuration loaded
+[2025-11-07T11:40:29.415243] [INFO] User logged in
+[2025-11-07T11:40:29.415267] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.415260] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.415247] [INFO] Configuration loaded
+[2025-11-07T11:40:29.415235] [INFO] Transaction completed
+[2025-11-07T11:40:29.415251] [WARN] Slow query performance
+[2025-11-07T11:40:29.415241] [INFO] Health check passed
+[2025-11-07T11:40:29.415248] [INFO] Transaction completed
+[2025-11-07T11:40:29.415264] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.415239] [INFO] Connection established
+[2025-11-07T11:40:29.415258] [ERROR] File not found
+[2025-11-07T11:40:29.415257] [WARN] Cache miss
+[2025-11-07T11:40:29.415265] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.415237] [INFO] Session started
+[2025-11-07T11:40:29.415266] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.415246] [INFO] User logged in
+[2025-11-07T11:40:29.415244] [INFO] User logged in
+[2025-11-07T11:40:29.415262] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.415249] [INFO] Request processed successfully
+[2025-11-07T11:40:29.415259] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.415256] [WARN] High memory usage detected
+[2025-11-07T11:40:29.415255] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.415238] [INFO] Service initialized
+[2025-11-07T11:40:29.415242] [INFO] Connection established
+[2025-11-07T11:40:29.415261] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.415250] [INFO] Cache hit
+[2025-11-07T11:40:29.415252] [WARN] Rate limit approaching

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.733413] [WARN] Queue size growing
+[2025-11-07T11:40:29.733430] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.733422] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733412] [WARN] Cache miss
+[2025-11-07T11:40:29.733403] [INFO] Session started
+[2025-11-07T11:40:29.733406] [INFO] Connection established
+[2025-11-07T11:40:29.733410] [INFO] Database query executed
+[2025-11-07T11:40:29.733399] [INFO] Service initialized
+[2025-11-07T11:40:29.733402] [INFO] Database query executed
+[2025-11-07T11:40:29.733425] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.733418] [ERROR] File not found
+[2025-11-07T11:40:29.733419] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.733420] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.733428] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.733417] [WARN] Disk space low
+[2025-11-07T11:40:29.733424] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.733423] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.733414] [WARN] Slow query performance
+[2025-11-07T11:40:29.733407] [INFO] Request processed successfully
+[2025-11-07T11:40:29.733400] [INFO] Cache hit
+[2025-11-07T11:40:29.733397] [INFO] Health check passed
+[2025-11-07T11:40:29.733426] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.733404] [INFO] Health check passed
+[2025-11-07T11:40:29.733416] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.733429] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.733405] [INFO] Cache hit
+[2025-11-07T11:40:29.733401] [INFO] Database query executed
+[2025-11-07T11:40:29.733409] [INFO] Connection established
+[2025-11-07T11:40:29.733421] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.733408] [INFO] User logged in
+[2025-11-07T11:40:29.733427] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.733411] [INFO] Connection established

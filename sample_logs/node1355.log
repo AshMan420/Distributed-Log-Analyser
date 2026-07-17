@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.433312] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.433310] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.433314] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.433301] [INFO] Connection established
+[2025-11-07T11:40:29.433317] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.433313] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.433300] [INFO] Connection established
+[2025-11-07T11:40:29.433315] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.433304] [INFO] Session started
+[2025-11-07T11:40:29.433298] [INFO] Connection established
+[2025-11-07T11:40:29.433293] [INFO] Transaction completed
+[2025-11-07T11:40:29.433303] [INFO] Configuration loaded
+[2025-11-07T11:40:29.433291] [INFO] Connection established
+[2025-11-07T11:40:29.433290] [INFO] Database query executed
+[2025-11-07T11:40:29.433318] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.433302] [INFO] Request processed successfully
+[2025-11-07T11:40:29.433307] [WARN] Disk space low
+[2025-11-07T11:40:29.433289] [INFO] Database query executed
+[2025-11-07T11:40:29.433305] [INFO] Request processed successfully
+[2025-11-07T11:40:29.433309] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.433277] [INFO] Service initialized
+[2025-11-07T11:40:29.433306] [WARN] High memory usage detected
+[2025-11-07T11:40:29.433316] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.433311] [DEBUG] Cache key generated

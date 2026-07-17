@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.454085] [INFO] Service initialized
+[2025-11-07T11:40:29.454107] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.454101] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.454099] [ERROR] Invalid input data
+[2025-11-07T11:40:29.454083] [INFO] Cache hit
+[2025-11-07T11:40:29.454094] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.454102] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.454081] [INFO] Cache hit
+[2025-11-07T11:40:29.454105] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.454092] [INFO] Cache hit
+[2025-11-07T11:40:29.454103] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.454090] [INFO] Connection established
+[2025-11-07T11:40:29.454087] [INFO] Connection established
+[2025-11-07T11:40:29.454082] [INFO] Transaction completed
+[2025-11-07T11:40:29.454091] [INFO] Connection established
+[2025-11-07T11:40:29.454088] [INFO] Database query executed
+[2025-11-07T11:40:29.454089] [INFO] Cache hit
+[2025-11-07T11:40:29.454079] [INFO] Database query executed
+[2025-11-07T11:40:29.454098] [WARN] High memory usage detected
+[2025-11-07T11:40:29.454086] [INFO] Health check passed
+[2025-11-07T11:40:29.454084] [INFO] Transaction completed
+[2025-11-07T11:40:29.454095] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.454100] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.454106] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.454093] [INFO] Transaction completed
+[2025-11-07T11:40:29.454104] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.454108] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.454097] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.454096] [WARN] Slow query performance

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.958948] [WARN] Queue size growing
+[2025-11-07T11:40:29.958962] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.958954] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.958941] [INFO] Transaction completed
+[2025-11-07T11:40:29.958938] [INFO] Transaction completed
+[2025-11-07T11:40:29.958947] [WARN] Disk space low
+[2025-11-07T11:40:29.958960] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.958939] [INFO] Session started
+[2025-11-07T11:40:29.958958] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.958943] [INFO] User logged in
+[2025-11-07T11:40:29.958935] [INFO] Request processed successfully
+[2025-11-07T11:40:29.958945] [INFO] Database query executed
+[2025-11-07T11:40:29.958953] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.958961] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.958944] [INFO] Service initialized
+[2025-11-07T11:40:29.958959] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.958937] [INFO] Request processed successfully
+[2025-11-07T11:40:29.958957] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.958940] [INFO] User logged in
+[2025-11-07T11:40:29.958956] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.958942] [INFO] User logged in
+[2025-11-07T11:40:29.958936] [INFO] Database query executed
+[2025-11-07T11:40:29.958933] [INFO] User logged in
+[2025-11-07T11:40:29.958949] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.958955] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.958951] [ERROR] Authentication failed
+[2025-11-07T11:40:29.958963] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.958946] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.958952] [ERROR] Invalid input data

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.046248] [WARN] Queue size growing
+[2025-11-07T11:40:30.046236] [INFO] Request processed successfully
+[2025-11-07T11:40:30.046251] [WARN] Cache miss
+[2025-11-07T11:40:30.046261] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.046262] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.046256] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.046255] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.046242] [INFO] Session started
+[2025-11-07T11:40:30.046239] [INFO] Transaction completed
+[2025-11-07T11:40:30.046240] [INFO] User logged in
+[2025-11-07T11:40:30.046235] [INFO] Transaction completed
+[2025-11-07T11:40:30.046254] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.046259] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.046245] [INFO] User logged in
+[2025-11-07T11:40:30.046250] [WARN] High memory usage detected
+[2025-11-07T11:40:30.046257] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.046243] [INFO] Health check passed
+[2025-11-07T11:40:30.046246] [INFO] User logged in
+[2025-11-07T11:40:30.046258] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.046238] [INFO] Transaction completed
+[2025-11-07T11:40:30.046261] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.046249] [WARN] High memory usage detected
+[2025-11-07T11:40:30.046257] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.046244] [INFO] Configuration loaded
+[2025-11-07T11:40:30.046263] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.046252] [ERROR] Disk read failed
+[2025-11-07T11:40:30.046233] [INFO] Session started
+[2025-11-07T11:40:30.046232] [INFO] Request processed successfully
+[2025-11-07T11:40:30.046241] [INFO] Connection established
+[2025-11-07T11:40:30.046234] [INFO] Session started
+[2025-11-07T11:40:30.046247] [INFO] Transaction completed
+[2025-11-07T11:40:30.046237] [INFO] User logged in

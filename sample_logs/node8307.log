@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.175269] [INFO] Connection established
+[2025-11-07T11:40:30.175301] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.175303] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.175296] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.175293] [WARN] Timeout warning
+[2025-11-07T11:40:30.175297] [ERROR] Authentication failed
+[2025-11-07T11:40:30.175306] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.175285] [INFO] Database query executed
+[2025-11-07T11:40:30.175288] [INFO] Database query executed
+[2025-11-07T11:40:30.175292] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.175289] [INFO] Connection established
+[2025-11-07T11:40:30.175286] [INFO] Connection established
+[2025-11-07T11:40:30.175304] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.175300] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.175273] [INFO] Request processed successfully
+[2025-11-07T11:40:30.175302] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.175299] [ERROR] Authentication failed
+[2025-11-07T11:40:30.175308] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.175307] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.175282] [INFO] Session started
+[2025-11-07T11:40:30.175272] [INFO] Connection established
+[2025-11-07T11:40:30.175295] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.175270] [INFO] Session started
+[2025-11-07T11:40:30.175291] [INFO] Health check passed
+[2025-11-07T11:40:30.175305] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.175290] [INFO] Request processed successfully
+[2025-11-07T11:40:30.175271] [INFO] Request processed successfully
+[2025-11-07T11:40:30.175294] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.175298] [ERROR] Authentication failed
+[2025-11-07T11:40:30.175283] [INFO] Cache hit
+[2025-11-07T11:40:30.175284] [INFO] Health check passed
+[2025-11-07T11:40:30.175287] [INFO] User logged in

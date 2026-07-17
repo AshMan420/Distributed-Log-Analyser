@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.154855] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.154833] [INFO] Request processed successfully
+[2025-11-07T11:40:30.154831] [INFO] Database query executed
+[2025-11-07T11:40:30.154845] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.154824] [INFO] Session started
+[2025-11-07T11:40:30.154844] [WARN] Slow query performance
+[2025-11-07T11:40:30.154842] [WARN] High memory usage detected
+[2025-11-07T11:40:30.154840] [INFO] Cache hit
+[2025-11-07T11:40:30.154857] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.154847] [ERROR] Authentication failed
+[2025-11-07T11:40:30.154843] [WARN] Disk space low
+[2025-11-07T11:40:30.154856] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.154826] [INFO] Database query executed
+[2025-11-07T11:40:30.154839] [INFO] Configuration loaded
+[2025-11-07T11:40:30.154830] [INFO] Configuration loaded
+[2025-11-07T11:40:30.154848] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.154836] [INFO] Request processed successfully
+[2025-11-07T11:40:30.154852] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.154832] [INFO] Service initialized
+[2025-11-07T11:40:30.154851] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.154854] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.154849] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.154835] [INFO] Session started
+[2025-11-07T11:40:30.154846] [ERROR] Disk read failed
+[2025-11-07T11:40:30.154841] [INFO] Health check passed
+[2025-11-07T11:40:30.154829] [INFO] Session started
+[2025-11-07T11:40:30.154837] [INFO] Session started
+[2025-11-07T11:40:30.154827] [INFO] Configuration loaded
+[2025-11-07T11:40:30.154834] [INFO] User logged in
+[2025-11-07T11:40:30.154838] [INFO] Request processed successfully
+[2025-11-07T11:40:30.154828] [INFO] Configuration loaded
+[2025-11-07T11:40:30.154850] [DEBUG] Entering function process_data()

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.349343] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.349348] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.349318] [INFO] Health check passed
+[2025-11-07T11:40:30.349334] [WARN] Disk space low
+[2025-11-07T11:40:30.349327] [INFO] Database query executed
+[2025-11-07T11:40:30.349340] [ERROR] Network timeout
+[2025-11-07T11:40:30.349317] [INFO] Transaction completed
+[2025-11-07T11:40:30.349332] [INFO] Database query executed
+[2025-11-07T11:40:30.349322] [INFO] Request processed successfully
+[2025-11-07T11:40:30.349352] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.349349] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.349336] [WARN] Queue size growing
+[2025-11-07T11:40:30.349337] [ERROR] Network timeout
+[2025-11-07T11:40:30.349345] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.349339] [ERROR] File not found
+[2025-11-07T11:40:30.349344] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.349351] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.349319] [INFO] Health check passed
+[2025-11-07T11:40:30.349315] [INFO] Transaction completed
+[2025-11-07T11:40:30.349329] [INFO] Service initialized
+[2025-11-07T11:40:30.349342] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.349328] [INFO] Request processed successfully
+[2025-11-07T11:40:30.349324] [INFO] Connection established
+[2025-11-07T11:40:30.349323] [INFO] Database query executed
+[2025-11-07T11:40:30.349333] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.349347] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.349321] [INFO] Connection established
+[2025-11-07T11:40:30.349325] [INFO] Cache hit
+[2025-11-07T11:40:30.349320] [INFO] User logged in
+[2025-11-07T11:40:30.349330] [INFO] Connection established

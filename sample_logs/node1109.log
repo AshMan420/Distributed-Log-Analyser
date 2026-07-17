@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.407893] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.407895] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.407898] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.407881] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.407869] [INFO] Session started
+[2025-11-07T11:40:29.407891] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.407868] [INFO] Health check passed
+[2025-11-07T11:40:29.407892] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.407864] [INFO] Cache hit
+[2025-11-07T11:40:29.407897] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.407872] [INFO] Cache hit
+[2025-11-07T11:40:29.407875] [INFO] User logged in
+[2025-11-07T11:40:29.407871] [INFO] Request processed successfully
+[2025-11-07T11:40:29.407896] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.407877] [INFO] Transaction completed
+[2025-11-07T11:40:29.407880] [INFO] Database query executed
+[2025-11-07T11:40:29.407888] [ERROR] Disk read failed
+[2025-11-07T11:40:29.407890] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.407867] [INFO] Transaction completed
+[2025-11-07T11:40:29.407873] [INFO] Cache hit
+[2025-11-07T11:40:29.407885] [WARN] Disk space low
+[2025-11-07T11:40:29.407887] [ERROR] Request failed
+[2025-11-07T11:40:29.407865] [INFO] Configuration loaded
+[2025-11-07T11:40:29.407886] [WARN] High memory usage detected
+[2025-11-07T11:40:29.407882] [WARN] High memory usage detected
+[2025-11-07T11:40:29.407884] [WARN] High memory usage detected
+[2025-11-07T11:40:29.407889] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.407883] [WARN] Timeout warning
+[2025-11-07T11:40:29.407894] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.407866] [INFO] Connection established
+[2025-11-07T11:40:29.407878] [INFO] Cache hit
+[2025-11-07T11:40:29.407879] [INFO] Database query executed
+[2025-11-07T11:40:29.407870] [INFO] Health check passed
+[2025-11-07T11:40:29.407874] [INFO] Cache hit

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.152746] [INFO] User logged in
+[2025-11-07T11:40:30.152764] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.152765] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.152754] [WARN] Timeout warning
+[2025-11-07T11:40:30.152752] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.152742] [INFO] Health check passed
+[2025-11-07T11:40:30.152762] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.152747] [INFO] Health check passed
+[2025-11-07T11:40:30.152735] [INFO] Service initialized
+[2025-11-07T11:40:30.152760] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.152743] [INFO] Service initialized
+[2025-11-07T11:40:30.152749] [INFO] Session started
+[2025-11-07T11:40:30.152751] [INFO] Session started
+[2025-11-07T11:40:30.152753] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.152748] [INFO] Cache hit
+[2025-11-07T11:40:30.152744] [INFO] Transaction completed
+[2025-11-07T11:40:30.152741] [INFO] Health check passed
+[2025-11-07T11:40:30.152763] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.152755] [WARN] Timeout warning
+[2025-11-07T11:40:30.152738] [INFO] Health check passed
+[2025-11-07T11:40:30.152740] [INFO] Connection established
+[2025-11-07T11:40:30.152761] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.152737] [INFO] Cache hit
+[2025-11-07T11:40:30.152759] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.152745] [INFO] Service initialized
+[2025-11-07T11:40:30.152739] [INFO] Session started
+[2025-11-07T11:40:30.152757] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.152750] [INFO] Transaction completed
+[2025-11-07T11:40:30.152756] [ERROR] Database connection lost
+[2025-11-07T11:40:30.152758] [DEBUG] Thread pool size: 8

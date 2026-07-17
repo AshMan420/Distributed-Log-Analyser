@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.820611] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.820586] [INFO] User logged in
+[2025-11-07T11:40:29.820611] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.820605] [ERROR] Disk read failed
+[2025-11-07T11:40:29.820603] [ERROR] Network timeout
+[2025-11-07T11:40:29.820607] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.820595] [INFO] Database query executed
+[2025-11-07T11:40:29.820612] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.820599] [WARN] Cache miss
+[2025-11-07T11:40:29.820598] [INFO] Transaction completed
+[2025-11-07T11:40:29.820590] [INFO] Transaction completed
+[2025-11-07T11:40:29.820591] [INFO] Service initialized
+[2025-11-07T11:40:29.820610] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.820613] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.820609] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.820608] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.820597] [INFO] Service initialized
+[2025-11-07T11:40:29.820593] [INFO] Health check passed
+[2025-11-07T11:40:29.820589] [INFO] Database query executed
+[2025-11-07T11:40:29.820600] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.820588] [INFO] Transaction completed
+[2025-11-07T11:40:29.820592] [INFO] Database query executed
+[2025-11-07T11:40:29.820606] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.820601] [WARN] High memory usage detected
+[2025-11-07T11:40:29.820596] [INFO] Service initialized
+[2025-11-07T11:40:29.820602] [WARN] High memory usage detected
+[2025-11-07T11:40:29.820594] [INFO] Transaction completed

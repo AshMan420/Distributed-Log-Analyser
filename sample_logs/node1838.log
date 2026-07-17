@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.488142] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.488119] [INFO] User logged in
+[2025-11-07T11:40:29.488142] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.488140] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.488125] [INFO] Transaction completed
+[2025-11-07T11:40:29.488143] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.488135] [ERROR] Invalid input data
+[2025-11-07T11:40:29.488121] [INFO] User logged in
+[2025-11-07T11:40:29.488116] [INFO] Request processed successfully
+[2025-11-07T11:40:29.488122] [INFO] Cache hit
+[2025-11-07T11:40:29.488139] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.488120] [INFO] Session started
+[2025-11-07T11:40:29.488124] [INFO] Database query executed
+[2025-11-07T11:40:29.488138] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.488117] [INFO] Request processed successfully
+[2025-11-07T11:40:29.488126] [INFO] Service initialized
+[2025-11-07T11:40:29.488123] [INFO] Health check passed
+[2025-11-07T11:40:29.488113] [INFO] Database query executed
+[2025-11-07T11:40:29.488118] [INFO] Database query executed
+[2025-11-07T11:40:29.488128] [INFO] Transaction completed
+[2025-11-07T11:40:29.488131] [WARN] Slow query performance
+[2025-11-07T11:40:29.488137] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.488144] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.488134] [ERROR] Permission denied
+[2025-11-07T11:40:29.488129] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.488132] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.488141] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.488127] [INFO] Service initialized
+[2025-11-07T11:40:29.488130] [WARN] Slow query performance
+[2025-11-07T11:40:29.488133] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.488115] [INFO] Request processed successfully

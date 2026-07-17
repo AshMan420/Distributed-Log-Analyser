@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.056226] [INFO] Session started
+[2025-11-07T11:40:30.056252] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.056242] [WARN] Queue size growing
+[2025-11-07T11:40:30.056250] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.056240] [WARN] Slow query performance
+[2025-11-07T11:40:30.056247] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.056227] [INFO] Session started
+[2025-11-07T11:40:30.056238] [INFO] Configuration loaded
+[2025-11-07T11:40:30.056228] [INFO] Session started
+[2025-11-07T11:40:30.056235] [INFO] Request processed successfully
+[2025-11-07T11:40:30.056251] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.056236] [INFO] Configuration loaded
+[2025-11-07T11:40:30.056229] [INFO] User logged in
+[2025-11-07T11:40:30.056243] [ERROR] Disk read failed
+[2025-11-07T11:40:30.056232] [INFO] Session started
+[2025-11-07T11:40:30.056241] [WARN] Cache miss
+[2025-11-07T11:40:30.056230] [INFO] Session started
+[2025-11-07T11:40:30.056231] [INFO] Database query executed
+[2025-11-07T11:40:30.056253] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.056237] [INFO] Configuration loaded
+[2025-11-07T11:40:30.056248] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.056244] [ERROR] Service unavailable
+[2025-11-07T11:40:30.056226] [INFO] Database query executed
+[2025-11-07T11:40:30.056245] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.056225] [INFO] Transaction completed
+[2025-11-07T11:40:30.056249] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.056234] [INFO] Request processed successfully
+[2025-11-07T11:40:30.056246] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.056223] [INFO] Connection established
+[2025-11-07T11:40:30.056233] [INFO] Health check passed
+[2025-11-07T11:40:30.056239] [WARN] Rate limit approaching

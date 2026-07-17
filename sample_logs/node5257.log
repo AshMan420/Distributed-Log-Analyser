@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.848685] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.848686] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.848688] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.848674] [INFO] Session started
+[2025-11-07T11:40:29.848666] [INFO] Database query executed
+[2025-11-07T11:40:29.848684] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.848668] [INFO] Database query executed
+[2025-11-07T11:40:29.848664] [INFO] Database query executed
+[2025-11-07T11:40:29.848689] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.848687] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.848695] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.848675] [INFO] Session started
+[2025-11-07T11:40:29.848672] [INFO] Service initialized
+[2025-11-07T11:40:29.848667] [INFO] Session started
+[2025-11-07T11:40:29.848694] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.848663] [INFO] Service initialized
+[2025-11-07T11:40:29.848661] [INFO] Transaction completed
+[2025-11-07T11:40:29.848696] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.848678] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.848692] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.848677] [WARN] Timeout warning
+[2025-11-07T11:40:29.848669] [INFO] Database query executed
+[2025-11-07T11:40:29.848693] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.848681] [ERROR] Database connection lost
+[2025-11-07T11:40:29.848676] [INFO] Session started
+[2025-11-07T11:40:29.848691] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.848680] [ERROR] Permission denied
+[2025-11-07T11:40:29.848671] [INFO] Session started
+[2025-11-07T11:40:29.848679] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.848690] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.848673] [INFO] Cache hit
+[2025-11-07T11:40:29.848665] [INFO] Cache hit
+[2025-11-07T11:40:29.848670] [INFO] Connection established
+[2025-11-07T11:40:29.848683] [DEBUG] HTTP request headers parsed

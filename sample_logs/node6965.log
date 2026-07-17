@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.033819] [INFO] User logged in
+[2025-11-07T11:40:30.033812] [INFO] Health check passed
+[2025-11-07T11:40:30.033815] [INFO] Transaction completed
+[2025-11-07T11:40:30.033826] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.033806] [INFO] Cache hit
+[2025-11-07T11:40:30.033835] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.033817] [INFO] Transaction completed
+[2025-11-07T11:40:30.033832] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.033821] [WARN] Slow query performance
+[2025-11-07T11:40:30.033831] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.033810] [INFO] Connection established
+[2025-11-07T11:40:30.033836] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.033830] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.033829] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.033818] [INFO] User logged in
+[2025-11-07T11:40:30.033816] [INFO] Session started
+[2025-11-07T11:40:30.033807] [INFO] User logged in
+[2025-11-07T11:40:30.033809] [INFO] Transaction completed
+[2025-11-07T11:40:30.033827] [ERROR] Database connection lost
+[2025-11-07T11:40:30.033834] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.033804] [INFO] Configuration loaded
+[2025-11-07T11:40:30.033811] [INFO] Configuration loaded
+[2025-11-07T11:40:30.033814] [INFO] Transaction completed
+[2025-11-07T11:40:30.033820] [WARN] Queue size growing
+[2025-11-07T11:40:30.033808] [INFO] Service initialized
+[2025-11-07T11:40:30.033823] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.033813] [INFO] Health check passed
+[2025-11-07T11:40:30.033824] [WARN] High memory usage detected
+[2025-11-07T11:40:30.033822] [WARN] High memory usage detected
+[2025-11-07T11:40:30.033828] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.033833] [DEBUG] Timer set: 30 seconds

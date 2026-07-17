@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.591798] [INFO] Service initialized
+[2025-11-07T11:40:29.591803] [WARN] Slow query performance
+[2025-11-07T11:40:29.591806] [ERROR] File not found
+[2025-11-07T11:40:29.591813] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.591807] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.591812] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.591791] [INFO] Service initialized
+[2025-11-07T11:40:29.591788] [INFO] Connection established
+[2025-11-07T11:40:29.591808] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.591787] [INFO] Health check passed
+[2025-11-07T11:40:29.591811] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.591804] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.591810] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.591809] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.591801] [WARN] Timeout warning
+[2025-11-07T11:40:29.591799] [INFO] Session started
+[2025-11-07T11:40:29.591802] [WARN] Queue size growing
+[2025-11-07T11:40:29.591805] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.591815] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.591784] [INFO] Health check passed
+[2025-11-07T11:40:29.591786] [INFO] Connection established
+[2025-11-07T11:40:29.591796] [INFO] Request processed successfully
+[2025-11-07T11:40:29.591814] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.591794] [INFO] Health check passed
+[2025-11-07T11:40:29.591795] [INFO] Database query executed
+[2025-11-07T11:40:29.591790] [INFO] Health check passed
+[2025-11-07T11:40:29.591792] [INFO] Connection established
+[2025-11-07T11:40:29.591789] [INFO] Request processed successfully
+[2025-11-07T11:40:29.591793] [INFO] Configuration loaded
+[2025-11-07T11:40:29.591797] [INFO] Configuration loaded

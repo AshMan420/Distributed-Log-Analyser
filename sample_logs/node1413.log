@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.439568] [INFO] Session started
+[2025-11-07T11:40:29.439582] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.439571] [INFO] Cache hit
+[2025-11-07T11:40:29.439579] [WARN] Cache miss
+[2025-11-07T11:40:29.439593] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.439580] [WARN] Queue size growing
+[2025-11-07T11:40:29.439570] [INFO] Request processed successfully
+[2025-11-07T11:40:29.439567] [INFO] Database query executed
+[2025-11-07T11:40:29.439592] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.439586] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.439578] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.439572] [INFO] Configuration loaded
+[2025-11-07T11:40:29.439577] [INFO] Configuration loaded
+[2025-11-07T11:40:29.439585] [ERROR] Authentication failed
+[2025-11-07T11:40:29.439566] [INFO] Database query executed
+[2025-11-07T11:40:29.439584] [ERROR] Authentication failed
+[2025-11-07T11:40:29.439574] [INFO] Request processed successfully
+[2025-11-07T11:40:29.439569] [INFO] User logged in
+[2025-11-07T11:40:29.439563] [INFO] Connection established
+[2025-11-07T11:40:29.439590] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.439581] [WARN] Timeout warning
+[2025-11-07T11:40:29.439576] [INFO] Session started
+[2025-11-07T11:40:29.439591] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.439589] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.439587] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.439569] [INFO] Database query executed
+[2025-11-07T11:40:29.439573] [INFO] Connection established
+[2025-11-07T11:40:29.439575] [INFO] User logged in
+[2025-11-07T11:40:29.439562] [INFO] Request processed successfully
+[2025-11-07T11:40:29.439594] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.439565] [INFO] Request processed successfully
+[2025-11-07T11:40:29.439588] [DEBUG] Cache key generated

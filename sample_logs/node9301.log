@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.288261] [INFO] Configuration loaded
+[2025-11-07T11:40:30.288267] [INFO] Session started
+[2025-11-07T11:40:30.288254] [INFO] Health check passed
+[2025-11-07T11:40:30.288282] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.288259] [INFO] Transaction completed
+[2025-11-07T11:40:30.288276] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.288273] [ERROR] Invalid input data
+[2025-11-07T11:40:30.288262] [INFO] Transaction completed
+[2025-11-07T11:40:30.288265] [INFO] Health check passed
+[2025-11-07T11:40:30.288258] [INFO] User logged in
+[2025-11-07T11:40:30.288264] [INFO] Session started
+[2025-11-07T11:40:30.288268] [WARN] Slow query performance
+[2025-11-07T11:40:30.288281] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.288275] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.288256] [INFO] Request processed successfully
+[2025-11-07T11:40:30.288280] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.288263] [INFO] Cache hit
+[2025-11-07T11:40:30.288278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.288257] [INFO] Database query executed
+[2025-11-07T11:40:30.288269] [WARN] Slow query performance
+[2025-11-07T11:40:30.288252] [INFO] Request processed successfully
+[2025-11-07T11:40:30.288260] [INFO] Health check passed
+[2025-11-07T11:40:30.288263] [INFO] Request processed successfully
+[2025-11-07T11:40:30.288275] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.288271] [WARN] Timeout warning
+[2025-11-07T11:40:30.288255] [INFO] Service initialized
+[2025-11-07T11:40:30.288279] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.288277] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.288270] [WARN] Queue size growing
+[2025-11-07T11:40:30.288266] [INFO] Database query executed
+[2025-11-07T11:40:30.288273] [ERROR] Memory allocation error

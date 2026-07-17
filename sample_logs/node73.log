@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.298680] [ERROR] Authentication failed
+[2025-11-07T11:40:29.298686] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.298678] [WARN] High memory usage detected
+[2025-11-07T11:40:29.298683] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.298676] [WARN] Slow query performance
+[2025-11-07T11:40:29.298666] [INFO] Cache hit
+[2025-11-07T11:40:29.298667] [INFO] Health check passed
+[2025-11-07T11:40:29.298681] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.298679] [ERROR] Service unavailable
+[2025-11-07T11:40:29.298660] [INFO] Connection established
+[2025-11-07T11:40:29.298664] [INFO] Connection established
+[2025-11-07T11:40:29.298659] [INFO] Service initialized
+[2025-11-07T11:40:29.298671] [INFO] Connection established
+[2025-11-07T11:40:29.298658] [INFO] Session started
+[2025-11-07T11:40:29.298662] [INFO] Service initialized
+[2025-11-07T11:40:29.298670] [INFO] Connection established
+[2025-11-07T11:40:29.298672] [INFO] Connection established
+[2025-11-07T11:40:29.298663] [INFO] Cache hit
+[2025-11-07T11:40:29.298677] [WARN] Slow query performance
+[2025-11-07T11:40:29.298690] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.298673] [INFO] Cache hit
+[2025-11-07T11:40:29.298682] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.298668] [INFO] Database query executed
+[2025-11-07T11:40:29.298684] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.298669] [INFO] Connection established
+[2025-11-07T11:40:29.298661] [INFO] Database query executed
+[2025-11-07T11:40:29.298688] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.298674] [INFO] Transaction completed
+[2025-11-07T11:40:29.298675] [WARN] High memory usage detected
+[2025-11-07T11:40:29.298689] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.298685] [DEBUG] Loop iteration: 15

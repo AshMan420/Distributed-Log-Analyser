@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.316410] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.316386] [INFO] Connection established
+[2025-11-07T11:40:29.316390] [INFO] Request processed successfully
+[2025-11-07T11:40:29.316392] [INFO] Service initialized
+[2025-11-07T11:40:29.316399] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.316398] [WARN] Queue size growing
+[2025-11-07T11:40:29.316400] [WARN] Cache miss
+[2025-11-07T11:40:29.316403] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.316394] [INFO] Service initialized
+[2025-11-07T11:40:29.316404] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.316393] [INFO] Transaction completed
+[2025-11-07T11:40:29.316391] [INFO] Cache hit
+[2025-11-07T11:40:29.316406] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.316396] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.316408] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.316407] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.316397] [WARN] Slow query performance
+[2025-11-07T11:40:29.316395] [INFO] Database query executed
+[2025-11-07T11:40:29.316382] [INFO] Request processed successfully
+[2025-11-07T11:40:29.316389] [INFO] Health check passed
+[2025-11-07T11:40:29.316387] [INFO] Health check passed
+[2025-11-07T11:40:29.316402] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.316388] [INFO] Request processed successfully
+[2025-11-07T11:40:29.316384] [INFO] Cache hit
+[2025-11-07T11:40:29.316401] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.316405] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.316383] [INFO] Request processed successfully
+[2025-11-07T11:40:29.316385] [INFO] Health check passed
+[2025-11-07T11:40:29.316409] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.316381] [INFO] Transaction completed

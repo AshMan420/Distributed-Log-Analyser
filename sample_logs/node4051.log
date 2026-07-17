@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.726613] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.726593] [INFO] Cache hit
+[2025-11-07T11:40:29.726585] [INFO] Session started
+[2025-11-07T11:40:29.726617] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.726611] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.726592] [INFO] Service initialized
+[2025-11-07T11:40:29.726615] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.726591] [INFO] Request processed successfully
+[2025-11-07T11:40:29.726612] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.726598] [INFO] User logged in
+[2025-11-07T11:40:29.726589] [INFO] Configuration loaded
+[2025-11-07T11:40:29.726593] [INFO] Health check passed
+[2025-11-07T11:40:29.726590] [INFO] Service initialized
+[2025-11-07T11:40:29.726610] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.726614] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.726596] [INFO] Session started
+[2025-11-07T11:40:29.726587] [INFO] Transaction completed
+[2025-11-07T11:40:29.726597] [INFO] Service initialized
+[2025-11-07T11:40:29.726609] [ERROR] Service unavailable
+[2025-11-07T11:40:29.726604] [WARN] Timeout warning
+[2025-11-07T11:40:29.726605] [ERROR] Disk read failed
+[2025-11-07T11:40:29.726594] [INFO] Service initialized
+[2025-11-07T11:40:29.726618] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.726601] [WARN] Queue size growing
+[2025-11-07T11:40:29.726602] [WARN] Slow query performance
+[2025-11-07T11:40:29.726606] [ERROR] Request failed
+[2025-11-07T11:40:29.726596] [INFO] Cache hit
+[2025-11-07T11:40:29.726603] [WARN] Slow query performance
+[2025-11-07T11:40:29.726600] [INFO] Service initialized
+[2025-11-07T11:40:29.726616] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.726607] [ERROR] Disk read failed
+[2025-11-07T11:40:29.726599] [INFO] Configuration loaded
+[2025-11-07T11:40:29.726588] [INFO] Session started

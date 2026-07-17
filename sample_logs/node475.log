@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.341219] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.341204] [INFO] Connection established
+[2025-11-07T11:40:29.341193] [INFO] User logged in
+[2025-11-07T11:40:29.341221] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.341197] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341209] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.341199] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341198] [INFO] Database query executed
+[2025-11-07T11:40:29.341199] [INFO] User logged in
+[2025-11-07T11:40:29.341220] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.341213] [ERROR] Permission denied
+[2025-11-07T11:40:29.341212] [ERROR] Permission denied
+[2025-11-07T11:40:29.341200] [INFO] Health check passed
+[2025-11-07T11:40:29.341192] [INFO] Session started
+[2025-11-07T11:40:29.341223] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.341196] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341217] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.341222] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.341190] [INFO] User logged in
+[2025-11-07T11:40:29.341202] [INFO] Service initialized
+[2025-11-07T11:40:29.341211] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.341206] [INFO] Database query executed
+[2025-11-07T11:40:29.341201] [INFO] Transaction completed
+[2025-11-07T11:40:29.341203] [INFO] Cache hit
+[2025-11-07T11:40:29.341205] [INFO] Request processed successfully
+[2025-11-07T11:40:29.341208] [WARN] Slow query performance
+[2025-11-07T11:40:29.341214] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.341194] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341218] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.341195] [INFO] Transaction completed
+[2025-11-07T11:40:29.341210] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.341215] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.341207] [INFO] Cache hit
+[2025-11-07T11:40:29.341216] [DEBUG] Timer set: 30 seconds

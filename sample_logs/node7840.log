@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.123822] [INFO] Cache hit
+[2025-11-07T11:40:30.123844] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.123840] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.123843] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.123847] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.123823] [INFO] Configuration loaded
+[2025-11-07T11:40:30.123842] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.123845] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.123826] [INFO] Cache hit
+[2025-11-07T11:40:30.123835] [WARN] Cache miss
+[2025-11-07T11:40:30.123828] [INFO] Service initialized
+[2025-11-07T11:40:30.123846] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.123827] [INFO] Session started
+[2025-11-07T11:40:30.123848] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.123836] [WARN] Queue size growing
+[2025-11-07T11:40:30.123825] [INFO] Request processed successfully
+[2025-11-07T11:40:30.123818] [INFO] Cache hit
+[2025-11-07T11:40:30.123824] [INFO] Configuration loaded
+[2025-11-07T11:40:30.123841] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.123830] [INFO] Configuration loaded
+[2025-11-07T11:40:30.123833] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.123831] [INFO] User logged in
+[2025-11-07T11:40:30.123829] [INFO] Service initialized
+[2025-11-07T11:40:30.123838] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.123839] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.123837] [WARN] Queue size growing
+[2025-11-07T11:40:30.123820] [INFO] Database query executed
+[2025-11-07T11:40:30.123821] [INFO] Transaction completed
+[2025-11-07T11:40:30.123834] [WARN] Slow query performance
+[2025-11-07T11:40:30.123832] [INFO] Database query executed

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.102495] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.102491] [INFO] Configuration loaded
+[2025-11-07T11:40:30.102505] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.102502] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.102484] [INFO] Transaction completed
+[2025-11-07T11:40:30.102501] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.102489] [INFO] Cache hit
+[2025-11-07T11:40:30.102492] [INFO] Database query executed
+[2025-11-07T11:40:30.102497] [ERROR] File not found
+[2025-11-07T11:40:30.102477] [INFO] User logged in
+[2025-11-07T11:40:30.102493] [WARN] Disk space low
+[2025-11-07T11:40:30.102490] [INFO] Transaction completed
+[2025-11-07T11:40:30.102478] [INFO] Health check passed
+[2025-11-07T11:40:30.102485] [INFO] Session started
+[2025-11-07T11:40:30.102503] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.102495] [WARN] Timeout warning
+[2025-11-07T11:40:30.102487] [INFO] Database query executed
+[2025-11-07T11:40:30.102480] [INFO] User logged in
+[2025-11-07T11:40:30.102483] [INFO] Service initialized
+[2025-11-07T11:40:30.102479] [INFO] User logged in
+[2025-11-07T11:40:30.102482] [INFO] Session started
+[2025-11-07T11:40:30.102496] [ERROR] Service unavailable
+[2025-11-07T11:40:30.102486] [INFO] Health check passed
+[2025-11-07T11:40:30.102500] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.102506] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.102475] [INFO] Health check passed
+[2025-11-07T11:40:30.102501] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.102481] [INFO] Request processed successfully
+[2025-11-07T11:40:30.102504] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.102494] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.102488] [INFO] User logged in
+[2025-11-07T11:40:30.102476] [INFO] Cache hit
+[2025-11-07T11:40:30.102499] [DEBUG] Cache key generated

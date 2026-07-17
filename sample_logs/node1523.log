@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.451745] [INFO] User logged in
+[2025-11-07T11:40:29.451754] [WARN] Disk space low
+[2025-11-07T11:40:29.451752] [INFO] Cache hit
+[2025-11-07T11:40:29.451751] [INFO] Session started
+[2025-11-07T11:40:29.451741] [INFO] Connection established
+[2025-11-07T11:40:29.451768] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.451763] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.451747] [INFO] Service initialized
+[2025-11-07T11:40:29.451739] [INFO] Configuration loaded
+[2025-11-07T11:40:29.451759] [ERROR] Permission denied
+[2025-11-07T11:40:29.451765] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.451756] [WARN] Cache miss
+[2025-11-07T11:40:29.451744] [INFO] Cache hit
+[2025-11-07T11:40:29.451742] [INFO] Cache hit
+[2025-11-07T11:40:29.451749] [INFO] Service initialized
+[2025-11-07T11:40:29.451757] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.451740] [INFO] Cache hit
+[2025-11-07T11:40:29.451758] [ERROR] Authentication failed
+[2025-11-07T11:40:29.451766] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.451746] [INFO] Connection established
+[2025-11-07T11:40:29.451764] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.451751] [INFO] Health check passed
+[2025-11-07T11:40:29.451755] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.451762] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.451748] [INFO] Cache hit
+[2025-11-07T11:40:29.451743] [INFO] Transaction completed
+[2025-11-07T11:40:29.451761] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.451767] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.451750] [INFO] Cache hit
+[2025-11-07T11:40:29.451760] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.451768] [DEBUG] Loop iteration: 15

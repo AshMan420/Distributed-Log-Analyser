@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.338499] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.338477] [INFO] Connection established
+[2025-11-07T11:40:29.338488] [ERROR] Service unavailable
+[2025-11-07T11:40:29.338495] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.338483] [WARN] Timeout warning
+[2025-11-07T11:40:29.338474] [INFO] Request processed successfully
+[2025-11-07T11:40:29.338491] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.338475] [INFO] Database query executed
+[2025-11-07T11:40:29.338470] [INFO] Database query executed
+[2025-11-07T11:40:29.338467] [INFO] Request processed successfully
+[2025-11-07T11:40:29.338493] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.338497] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.338472] [INFO] User logged in
+[2025-11-07T11:40:29.338480] [WARN] Disk space low
+[2025-11-07T11:40:29.338485] [WARN] Queue size growing
+[2025-11-07T11:40:29.338482] [WARN] Queue size growing
+[2025-11-07T11:40:29.338469] [INFO] Transaction completed
+[2025-11-07T11:40:29.338492] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.338496] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.338479] [INFO] Cache hit
+[2025-11-07T11:40:29.338476] [INFO] Database query executed
+[2025-11-07T11:40:29.338500] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.338486] [ERROR] Network timeout
+[2025-11-07T11:40:29.338471] [INFO] Connection established
+[2025-11-07T11:40:29.338489] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.338475] [INFO] Database query executed
+[2025-11-07T11:40:29.338471] [INFO] Health check passed

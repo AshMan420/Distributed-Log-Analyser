@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.006395] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.006392] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.006370] [INFO] Cache hit
+[2025-11-07T11:40:30.006377] [INFO] Configuration loaded
+[2025-11-07T11:40:30.006378] [INFO] User logged in
+[2025-11-07T11:40:30.006385] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.006384] [INFO] User logged in
+[2025-11-07T11:40:30.006381] [INFO] Cache hit
+[2025-11-07T11:40:30.006391] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.006393] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.006397] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.006387] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.006390] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.006394] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.006389] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.006368] [INFO] Cache hit
+[2025-11-07T11:40:30.006369] [INFO] Transaction completed
+[2025-11-07T11:40:30.006374] [INFO] User logged in
+[2025-11-07T11:40:30.006375] [INFO] Cache hit
+[2025-11-07T11:40:30.006397] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.006398] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.006386] [ERROR] Permission denied
+[2025-11-07T11:40:30.006396] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.006379] [INFO] Request processed successfully
+[2025-11-07T11:40:30.006380] [INFO] User logged in
+[2025-11-07T11:40:30.006382] [INFO] Session started
+[2025-11-07T11:40:30.006376] [INFO] Health check passed
+[2025-11-07T11:40:30.006373] [INFO] Health check passed
+[2025-11-07T11:40:30.006372] [INFO] Database query executed
+[2025-11-07T11:40:30.006371] [INFO] Cache hit
+[2025-11-07T11:40:30.006383] [INFO] Cache hit

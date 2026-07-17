@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.462862] [INFO] Session started
+[2025-11-07T11:40:29.462876] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.462882] [ERROR] File not found
+[2025-11-07T11:40:29.462873] [WARN] Slow query performance
+[2025-11-07T11:40:29.462867] [INFO] Transaction completed
+[2025-11-07T11:40:29.462874] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.462875] [WARN] High memory usage detected
+[2025-11-07T11:40:29.462890] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.462884] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.462885] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.462877] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.462887] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.462879] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.462866] [INFO] Connection established
+[2025-11-07T11:40:29.462869] [INFO] Configuration loaded
+[2025-11-07T11:40:29.462870] [INFO] User logged in
+[2025-11-07T11:40:29.462881] [ERROR] File not found
+[2025-11-07T11:40:29.462868] [INFO] Session started
+[2025-11-07T11:40:29.462883] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.462889] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.462863] [INFO] User logged in
+[2025-11-07T11:40:29.462888] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.462878] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.462884] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.462879] [WARN] High memory usage detected
+[2025-11-07T11:40:29.462886] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.462872] [INFO] Cache hit
+[2025-11-07T11:40:29.462865] [INFO] Transaction completed
+[2025-11-07T11:40:29.462871] [INFO] Transaction completed
+[2025-11-07T11:40:29.462864] [INFO] Service initialized

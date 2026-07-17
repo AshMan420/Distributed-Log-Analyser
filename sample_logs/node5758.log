@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.899846] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.899831] [INFO] Service initialized
+[2025-11-07T11:40:29.899828] [INFO] Service initialized
+[2025-11-07T11:40:29.899823] [INFO] Database query executed
+[2025-11-07T11:40:29.899839] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.899833] [WARN] Queue size growing
+[2025-11-07T11:40:29.899829] [INFO] User logged in
+[2025-11-07T11:40:29.899819] [INFO] Configuration loaded
+[2025-11-07T11:40:29.899832] [INFO] Health check passed
+[2025-11-07T11:40:29.899837] [ERROR] Service unavailable
+[2025-11-07T11:40:29.899825] [INFO] Connection established
+[2025-11-07T11:40:29.899842] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.899841] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.899834] [WARN] Cache miss
+[2025-11-07T11:40:29.899843] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.899850] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.899852] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.899849] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.899845] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.899818] [INFO] Cache hit
+[2025-11-07T11:40:29.899822] [INFO] Cache hit
+[2025-11-07T11:40:29.899821] [INFO] Database query executed
+[2025-11-07T11:40:29.899840] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.899838] [ERROR] File not found
+[2025-11-07T11:40:29.899827] [INFO] User logged in
+[2025-11-07T11:40:29.899836] [ERROR] Authentication failed
+[2025-11-07T11:40:29.899844] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.899817] [INFO] Database query executed
+[2025-11-07T11:40:29.899848] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.899824] [INFO] Request processed successfully
+[2025-11-07T11:40:29.899826] [INFO] User logged in
+[2025-11-07T11:40:29.899830] [INFO] User logged in
+[2025-11-07T11:40:29.899835] [WARN] Timeout warning
+[2025-11-07T11:40:29.899820] [INFO] Database query executed

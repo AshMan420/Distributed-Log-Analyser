@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.444773] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.444774] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.444757] [INFO] Connection established
+[2025-11-07T11:40:29.444763] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.444753] [INFO] Database query executed
+[2025-11-07T11:40:29.444752] [INFO] Connection established
+[2025-11-07T11:40:29.444746] [INFO] Health check passed
+[2025-11-07T11:40:29.444754] [INFO] Database query executed
+[2025-11-07T11:40:29.444759] [INFO] Health check passed
+[2025-11-07T11:40:29.444751] [INFO] Connection established
+[2025-11-07T11:40:29.444750] [INFO] Health check passed
+[2025-11-07T11:40:29.444768] [ERROR] Permission denied
+[2025-11-07T11:40:29.444776] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.444755] [INFO] Database query executed
+[2025-11-07T11:40:29.444770] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.444760] [INFO] Health check passed
+[2025-11-07T11:40:29.444749] [INFO] Health check passed
+[2025-11-07T11:40:29.444766] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.444777] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.444769] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.444761] [INFO] Service initialized
+[2025-11-07T11:40:29.444767] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.444772] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.444748] [INFO] Connection established
+[2025-11-07T11:40:29.444771] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.444756] [INFO] Connection established
+[2025-11-07T11:40:29.444765] [WARN] Slow query performance
+[2025-11-07T11:40:29.444775] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.444758] [INFO] Configuration loaded
+[2025-11-07T11:40:29.444764] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.444762] [INFO] User logged in

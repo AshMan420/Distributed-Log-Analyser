@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.918795] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.918778] [INFO] Cache hit
+[2025-11-07T11:40:29.918758] [INFO] Session started
+[2025-11-07T11:40:29.918756] [INFO] Service initialized
+[2025-11-07T11:40:29.918757] [INFO] Configuration loaded
+[2025-11-07T11:40:29.918775] [INFO] Service initialized
+[2025-11-07T11:40:29.918788] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.918779] [INFO] Service initialized
+[2025-11-07T11:40:29.918783] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.918789] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.918785] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.918754] [INFO] Connection established
+[2025-11-07T11:40:29.918786] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.918782] [INFO] Transaction completed
+[2025-11-07T11:40:29.918753] [INFO] Transaction completed
+[2025-11-07T11:40:29.918798] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.918791] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.918752] [INFO] Cache hit
+[2025-11-07T11:40:29.918787] [ERROR] Authentication failed
+[2025-11-07T11:40:29.918796] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.918794] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.918793] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.918784] [WARN] Cache miss
+[2025-11-07T11:40:29.918780] [INFO] User logged in
+[2025-11-07T11:40:29.918759] [INFO] Service initialized
+[2025-11-07T11:40:29.918755] [INFO] Service initialized
+[2025-11-07T11:40:29.918797] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.918790] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.918776] [INFO] Service initialized
+[2025-11-07T11:40:29.918792] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.918777] [INFO] Session started
+[2025-11-07T11:40:29.918799] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.918781] [INFO] Configuration loaded

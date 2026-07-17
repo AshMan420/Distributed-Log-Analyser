@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.649566] [INFO] Session started
+[2025-11-07T11:40:29.649571] [INFO] Transaction completed
+[2025-11-07T11:40:29.649564] [INFO] User logged in
+[2025-11-07T11:40:29.649572] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.649589] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.649576] [ERROR] Network timeout
+[2025-11-07T11:40:29.649570] [INFO] Health check passed
+[2025-11-07T11:40:29.649562] [INFO] Transaction completed
+[2025-11-07T11:40:29.649587] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.649582] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.649573] [WARN] High memory usage detected
+[2025-11-07T11:40:29.649583] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.649554] [INFO] Cache hit
+[2025-11-07T11:40:29.649579] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.649581] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.649552] [INFO] Cache hit
+[2025-11-07T11:40:29.649565] [INFO] Session started
+[2025-11-07T11:40:29.649580] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.649560] [INFO] Health check passed
+[2025-11-07T11:40:29.649563] [INFO] Request processed successfully
+[2025-11-07T11:40:29.649556] [INFO] User logged in
+[2025-11-07T11:40:29.649585] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.649578] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.649557] [INFO] Transaction completed
+[2025-11-07T11:40:29.649590] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.649574] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.649569] [INFO] Transaction completed
+[2025-11-07T11:40:29.649588] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.649561] [INFO] Connection established
+[2025-11-07T11:40:29.649586] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.649577] [ERROR] Invalid input data
+[2025-11-07T11:40:29.649584] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.649567] [INFO] Session started
+[2025-11-07T11:40:29.649558] [INFO] Request processed successfully
+[2025-11-07T11:40:29.649559] [INFO] Configuration loaded
+[2025-11-07T11:40:29.649555] [INFO] Database query executed
+[2025-11-07T11:40:29.649568] [INFO] Service initialized
+[2025-11-07T11:40:29.649575] [WARN] Slow query performance

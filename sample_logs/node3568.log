@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.675633] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.675611] [INFO] Cache hit
+[2025-11-07T11:40:29.675623] [WARN] Queue size growing
+[2025-11-07T11:40:29.675625] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.675640] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.675639] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.675634] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.675614] [INFO] Transaction completed
+[2025-11-07T11:40:29.675607] [INFO] Service initialized
+[2025-11-07T11:40:29.675638] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.675605] [INFO] User logged in
+[2025-11-07T11:40:29.675636] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.675621] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.675635] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.675631] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.675618] [INFO] Service initialized
+[2025-11-07T11:40:29.675632] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.675627] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.675609] [INFO] Session started
+[2025-11-07T11:40:29.675610] [INFO] User logged in
+[2025-11-07T11:40:29.675619] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.675616] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675630] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.675613] [INFO] Transaction completed
+[2025-11-07T11:40:29.675629] [ERROR] Service unavailable
+[2025-11-07T11:40:29.675626] [ERROR] Request failed
+[2025-11-07T11:40:29.675624] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.675615] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675606] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675637] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.675620] [WARN] Queue size growing
+[2025-11-07T11:40:29.675622] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.675612] [INFO] User logged in
+[2025-11-07T11:40:29.675617] [INFO] Health check passed

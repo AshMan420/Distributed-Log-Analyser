@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.889768] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.889758] [WARN] High memory usage detected
+[2025-11-07T11:40:29.889767] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.889756] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.889739] [INFO] Request processed successfully
+[2025-11-07T11:40:29.889752] [INFO] Health check passed
+[2025-11-07T11:40:29.889761] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.889764] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.889753] [INFO] Session started
+[2025-11-07T11:40:29.889747] [INFO] Service initialized
+[2025-11-07T11:40:29.889737] [INFO] User logged in
+[2025-11-07T11:40:29.889751] [INFO] Service initialized
+[2025-11-07T11:40:29.889741] [INFO] Configuration loaded
+[2025-11-07T11:40:29.889755] [INFO] Configuration loaded
+[2025-11-07T11:40:29.889746] [INFO] Cache hit
+[2025-11-07T11:40:29.889745] [INFO] Connection established
+[2025-11-07T11:40:29.889743] [INFO] Service initialized
+[2025-11-07T11:40:29.889763] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.889754] [INFO] Health check passed
+[2025-11-07T11:40:29.889742] [INFO] Health check passed
+[2025-11-07T11:40:29.889749] [INFO] Configuration loaded
+[2025-11-07T11:40:29.889750] [INFO] Session started
+[2025-11-07T11:40:29.889748] [INFO] Connection established
+[2025-11-07T11:40:29.889744] [INFO] Configuration loaded
+[2025-11-07T11:40:29.889740] [INFO] Session started
+[2025-11-07T11:40:29.889757] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.889762] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.889760] [ERROR] Disk read failed
+[2025-11-07T11:40:29.889766] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.889759] [ERROR] Service unavailable

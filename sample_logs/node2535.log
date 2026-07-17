@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.561798] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.561797] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.561779] [INFO] Health check passed
+[2025-11-07T11:40:29.561785] [INFO] User logged in
+[2025-11-07T11:40:29.561788] [INFO] Health check passed
+[2025-11-07T11:40:29.561799] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.561790] [INFO] Request processed successfully
+[2025-11-07T11:40:29.561802] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.561793] [ERROR] File not found
+[2025-11-07T11:40:29.561794] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.561780] [INFO] Health check passed
+[2025-11-07T11:40:29.561787] [INFO] Cache hit
+[2025-11-07T11:40:29.561789] [INFO] Connection established
+[2025-11-07T11:40:29.561781] [INFO] Health check passed
+[2025-11-07T11:40:29.561791] [INFO] Request processed successfully
+[2025-11-07T11:40:29.561783] [INFO] User logged in
+[2025-11-07T11:40:29.561778] [INFO] Request processed successfully
+[2025-11-07T11:40:29.561796] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.561782] [INFO] Health check passed
+[2025-11-07T11:40:29.561784] [INFO] Transaction completed
+[2025-11-07T11:40:29.561801] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.561776] [INFO] Database query executed
+[2025-11-07T11:40:29.561786] [INFO] Connection established
+[2025-11-07T11:40:29.561795] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.561800] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.561792] [WARN] Slow query performance

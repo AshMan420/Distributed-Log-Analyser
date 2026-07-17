@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.331718] [INFO] Health check passed
+[2025-11-07T11:40:29.331736] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.331737] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.331717] [INFO] Connection established
+[2025-11-07T11:40:29.331720] [INFO] Configuration loaded
+[2025-11-07T11:40:29.331738] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.331714] [INFO] Database query executed
+[2025-11-07T11:40:29.331729] [WARN] High memory usage detected
+[2025-11-07T11:40:29.331733] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.331730] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.331711] [INFO] Transaction completed
+[2025-11-07T11:40:29.331725] [INFO] Session started
+[2025-11-07T11:40:29.331721] [INFO] Service initialized
+[2025-11-07T11:40:29.331722] [INFO] Configuration loaded
+[2025-11-07T11:40:29.331731] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.331724] [INFO] Request processed successfully
+[2025-11-07T11:40:29.331716] [INFO] User logged in
+[2025-11-07T11:40:29.331715] [INFO] Connection established
+[2025-11-07T11:40:29.331734] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.331726] [WARN] Disk space low
+[2025-11-07T11:40:29.331735] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.331723] [INFO] Cache hit
+[2025-11-07T11:40:29.331727] [WARN] Timeout warning
+[2025-11-07T11:40:29.331713] [INFO] Request processed successfully
+[2025-11-07T11:40:29.331739] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.331740] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.331741] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.331721] [INFO] Cache hit
+[2025-11-07T11:40:29.331719] [INFO] Connection established
+[2025-11-07T11:40:29.331732] [WARN] Slow query performance
+[2025-11-07T11:40:29.331728] [WARN] Rate limit approaching

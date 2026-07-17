@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.411144] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.411133] [INFO] Session started
+[2025-11-07T11:40:29.411128] [INFO] Database query executed
+[2025-11-07T11:40:29.411113] [INFO] Cache hit
+[2025-11-07T11:40:29.411130] [INFO] Health check passed
+[2025-11-07T11:40:29.411129] [INFO] Health check passed
+[2025-11-07T11:40:29.411140] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.411142] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.411109] [INFO] Health check passed
+[2025-11-07T11:40:29.411138] [ERROR] Permission denied
+[2025-11-07T11:40:29.411131] [INFO] Service initialized
+[2025-11-07T11:40:29.411111] [INFO] Connection established
+[2025-11-07T11:40:29.411145] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.411110] [INFO] Database query executed
+[2025-11-07T11:40:29.411141] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.411132] [INFO] Transaction completed
+[2025-11-07T11:40:29.411127] [INFO] Health check passed
+[2025-11-07T11:40:29.411126] [INFO] Configuration loaded
+[2025-11-07T11:40:29.411136] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.411137] [ERROR] Network timeout
+[2025-11-07T11:40:29.411134] [INFO] Request processed successfully
+[2025-11-07T11:40:29.411143] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.411135] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.411112] [INFO] Connection established

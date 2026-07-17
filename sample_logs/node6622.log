@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.998067] [WARN] Queue size growing
+[2025-11-07T11:40:29.998055] [INFO] Database query executed
+[2025-11-07T11:40:29.998058] [INFO] Connection established
+[2025-11-07T11:40:29.998056] [INFO] Health check passed
+[2025-11-07T11:40:29.998048] [INFO] Cache hit
+[2025-11-07T11:40:29.998080] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.998070] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.998073] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.998057] [INFO] Health check passed
+[2025-11-07T11:40:29.998081] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.998061] [INFO] Service initialized
+[2025-11-07T11:40:29.998065] [WARN] Timeout warning
+[2025-11-07T11:40:29.998050] [INFO] User logged in
+[2025-11-07T11:40:29.998083] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.998076] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.998082] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.998060] [INFO] Service initialized
+[2025-11-07T11:40:29.998078] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.998072] [ERROR] Disk read failed
+[2025-11-07T11:40:29.998075] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.998066] [WARN] Timeout warning
+[2025-11-07T11:40:29.998051] [INFO] Service initialized
+[2025-11-07T11:40:29.998053] [INFO] Configuration loaded
+[2025-11-07T11:40:29.998069] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.998068] [WARN] Timeout warning
+[2025-11-07T11:40:29.998062] [INFO] Cache hit
+[2025-11-07T11:40:29.998079] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.998074] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.998052] [INFO] Cache hit
+[2025-11-07T11:40:29.998059] [INFO] Configuration loaded
+[2025-11-07T11:40:29.998062] [INFO] Database query executed
+[2025-11-07T11:40:29.998063] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.998054] [INFO] Cache hit
+[2025-11-07T11:40:29.998077] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.998071] [ERROR] Memory allocation error

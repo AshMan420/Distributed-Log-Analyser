@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.376343] [INFO] Cache hit
+[2025-11-07T11:40:29.376349] [WARN] Queue size growing
+[2025-11-07T11:40:29.376351] [WARN] Cache miss
+[2025-11-07T11:40:29.376337] [INFO] Service initialized
+[2025-11-07T11:40:29.376338] [INFO] Connection established
+[2025-11-07T11:40:29.376356] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.376360] [ERROR] Authentication failed
+[2025-11-07T11:40:29.376355] [WARN] High memory usage detected
+[2025-11-07T11:40:29.376333] [INFO] Database query executed
+[2025-11-07T11:40:29.376350] [WARN] Timeout warning
+[2025-11-07T11:40:29.376354] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.376358] [ERROR] File not found
+[2025-11-07T11:40:29.376352] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.376341] [INFO] Transaction completed
+[2025-11-07T11:40:29.376344] [INFO] Configuration loaded
+[2025-11-07T11:40:29.376368] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.376365] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.376342] [INFO] Session started
+[2025-11-07T11:40:29.376363] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.376364] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.376353] [WARN] High memory usage detected
+[2025-11-07T11:40:29.376334] [INFO] Request processed successfully
+[2025-11-07T11:40:29.376335] [INFO] Cache hit
+[2025-11-07T11:40:29.376367] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.376340] [INFO] Health check passed
+[2025-11-07T11:40:29.376346] [INFO] User logged in
+[2025-11-07T11:40:29.376361] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.376362] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.376357] [WARN] High memory usage detected
+[2025-11-07T11:40:29.376369] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.376336] [INFO] Request processed successfully
+[2025-11-07T11:40:29.376347] [INFO] Session started
+[2025-11-07T11:40:29.376345] [INFO] Configuration loaded
+[2025-11-07T11:40:29.376359] [ERROR] Disk read failed
+[2025-11-07T11:40:29.376348] [WARN] Queue size growing
+[2025-11-07T11:40:29.376339] [INFO] Session started
+[2025-11-07T11:40:29.376368] [DEBUG] HTTP request headers parsed

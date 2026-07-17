@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.750294] [WARN] High memory usage detected
+[2025-11-07T11:40:29.750197] [INFO] Cache hit
+[2025-11-07T11:40:29.750325] [WARN] Timeout warning
+[2025-11-07T11:40:29.750222] [INFO] Session started
+[2025-11-07T11:40:29.750354] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.750284] [INFO] Health check passed
+[2025-11-07T11:40:29.750289] [INFO] Session started
+[2025-11-07T11:40:29.750299] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.750348] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.750281] [INFO] Configuration loaded
+[2025-11-07T11:40:29.750350] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.750286] [INFO] Service initialized
+[2025-11-07T11:40:29.750347] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.750327] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.750252] [INFO] Session started
+[2025-11-07T11:40:29.750353] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.750249] [INFO] Cache hit
+[2025-11-07T11:40:29.750200] [INFO] Connection established
+[2025-11-07T11:40:29.750237] [INFO] User logged in
+[2025-11-07T11:40:29.750246] [INFO] User logged in
+[2025-11-07T11:40:29.750330] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.750276] [INFO] Session started
+[2025-11-07T11:40:29.750199] [INFO] Health check passed
+[2025-11-07T11:40:29.750352] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.750201] [INFO] Session started
+[2025-11-07T11:40:29.750345] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.750297] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.750243] [INFO] Request processed successfully
+[2025-11-07T11:40:29.750331] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.750196] [INFO] Session started
+[2025-11-07T11:40:29.750240] [INFO] Health check passed
+[2025-11-07T11:40:29.750254] [INFO] Service initialized
+[2025-11-07T11:40:29.750329] [ERROR] Request failed

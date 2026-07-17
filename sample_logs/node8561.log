@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.200817] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.200814] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.200800] [INFO] Request processed successfully
+[2025-11-07T11:40:30.200794] [INFO] Session started
+[2025-11-07T11:40:30.200820] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.200801] [INFO] Connection established
+[2025-11-07T11:40:30.200797] [INFO] Session started
+[2025-11-07T11:40:30.200789] [INFO] Session started
+[2025-11-07T11:40:30.200805] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.200786] [INFO] Session started
+[2025-11-07T11:40:30.200791] [INFO] Configuration loaded
+[2025-11-07T11:40:30.200802] [INFO] Connection established
+[2025-11-07T11:40:30.200818] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.200808] [ERROR] Database connection lost
+[2025-11-07T11:40:30.200812] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.200799] [INFO] Cache hit
+[2025-11-07T11:40:30.200815] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.200806] [WARN] Slow query performance
+[2025-11-07T11:40:30.200803] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.200819] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.200813] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.200804] [WARN] Cache miss
+[2025-11-07T11:40:30.200784] [INFO] Cache hit
+[2025-11-07T11:40:30.200796] [INFO] Transaction completed
+[2025-11-07T11:40:30.200816] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.200790] [INFO] Configuration loaded
+[2025-11-07T11:40:30.200807] [ERROR] Request failed
+[2025-11-07T11:40:30.200788] [INFO] Cache hit
+[2025-11-07T11:40:30.200793] [INFO] Connection established
+[2025-11-07T11:40:30.200811] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.200810] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.200821] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.200798] [INFO] Service initialized
+[2025-11-07T11:40:30.200792] [INFO] Health check passed
+[2025-11-07T11:40:30.200795] [INFO] Connection established
+[2025-11-07T11:40:30.200787] [INFO] Service initialized

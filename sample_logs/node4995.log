@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.822460] [INFO] Cache hit
+[2025-11-07T11:40:29.822479] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.822454] [INFO] User logged in
+[2025-11-07T11:40:29.822462] [INFO] Service initialized
+[2025-11-07T11:40:29.822473] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.822463] [INFO] Request processed successfully
+[2025-11-07T11:40:29.822478] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.822459] [INFO] Request processed successfully
+[2025-11-07T11:40:29.822468] [WARN] Disk space low
+[2025-11-07T11:40:29.822461] [INFO] Cache hit
+[2025-11-07T11:40:29.822475] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.822474] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.822480] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.822466] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.822458] [INFO] Session started
+[2025-11-07T11:40:29.822452] [INFO] Configuration loaded
+[2025-11-07T11:40:29.822477] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.822465] [WARN] Slow query performance
+[2025-11-07T11:40:29.822476] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.822471] [ERROR] File not found
+[2025-11-07T11:40:29.822478] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.822464] [INFO] Transaction completed
+[2025-11-07T11:40:29.822467] [WARN] Timeout warning
+[2025-11-07T11:40:29.822472] [ERROR] Permission denied
+[2025-11-07T11:40:29.822453] [INFO] Health check passed
+[2025-11-07T11:40:29.822469] [WARN] Cache miss
+[2025-11-07T11:40:29.822456] [INFO] Connection established
+[2025-11-07T11:40:29.822457] [INFO] Database query executed
+[2025-11-07T11:40:29.822455] [INFO] Service initialized

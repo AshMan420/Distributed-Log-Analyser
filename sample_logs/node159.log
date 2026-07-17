@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.307828] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.307803] [INFO] Connection established
+[2025-11-07T11:40:29.307823] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.307812] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307825] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.307815] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.307802] [INFO] Cache hit
+[2025-11-07T11:40:29.307827] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.307817] [WARN] Cache miss
+[2025-11-07T11:40:29.307799] [INFO] Session started
+[2025-11-07T11:40:29.307795] [INFO] Cache hit
+[2025-11-07T11:40:29.307810] [INFO] Transaction completed
+[2025-11-07T11:40:29.307806] [INFO] Connection established
+[2025-11-07T11:40:29.307824] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.307818] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.307804] [INFO] Connection established
+[2025-11-07T11:40:29.307800] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307814] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.307797] [INFO] Health check passed
+[2025-11-07T11:40:29.307813] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.307798] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307829] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.307816] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.307821] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.307808] [INFO] Health check passed
+[2025-11-07T11:40:29.307805] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307826] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.307811] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307822] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.307801] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307809] [INFO] Transaction completed
+[2025-11-07T11:40:29.307796] [INFO] Connection established
+[2025-11-07T11:40:29.307807] [INFO] Session started
+[2025-11-07T11:40:29.307820] [ERROR] Request failed

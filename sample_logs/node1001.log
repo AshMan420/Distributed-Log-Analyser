@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.396593] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.396568] [INFO] Health check passed
+[2025-11-07T11:40:29.396574] [INFO] Health check passed
+[2025-11-07T11:40:29.396570] [INFO] Session started
+[2025-11-07T11:40:29.396567] [INFO] Connection established
+[2025-11-07T11:40:29.396599] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.396594] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.396569] [INFO] Cache hit
+[2025-11-07T11:40:29.396576] [INFO] Configuration loaded
+[2025-11-07T11:40:29.396584] [WARN] Disk space low
+[2025-11-07T11:40:29.396579] [INFO] Transaction completed
+[2025-11-07T11:40:29.396581] [INFO] Cache hit
+[2025-11-07T11:40:29.396583] [INFO] Configuration loaded
+[2025-11-07T11:40:29.396571] [INFO] User logged in
+[2025-11-07T11:40:29.396600] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.396565] [INFO] Health check passed
+[2025-11-07T11:40:29.396577] [INFO] Transaction completed
+[2025-11-07T11:40:29.396590] [WARN] Slow query performance
+[2025-11-07T11:40:29.396591] [ERROR] Database connection lost
+[2025-11-07T11:40:29.396595] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.396587] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.396573] [INFO] Connection established
+[2025-11-07T11:40:29.396588] [WARN] Timeout warning
+[2025-11-07T11:40:29.396572] [INFO] Transaction completed
+[2025-11-07T11:40:29.396586] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.396580] [INFO] Cache hit
+[2025-11-07T11:40:29.396601] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.396597] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.396598] [DEBUG] HTTP request headers parsed

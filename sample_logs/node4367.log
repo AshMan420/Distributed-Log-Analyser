@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.758993] [ERROR] File not found
+[2025-11-07T11:40:29.759001] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.758994] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.758997] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.758977] [INFO] Connection established
+[2025-11-07T11:40:29.758974] [INFO] Cache hit
+[2025-11-07T11:40:29.758983] [INFO] User logged in
+[2025-11-07T11:40:29.758984] [INFO] Transaction completed
+[2025-11-07T11:40:29.758991] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.758998] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.758978] [INFO] Health check passed
+[2025-11-07T11:40:29.758985] [INFO] Cache hit
+[2025-11-07T11:40:29.758980] [INFO] Service initialized
+[2025-11-07T11:40:29.758972] [INFO] Session started
+[2025-11-07T11:40:29.758992] [WARN] Cache miss
+[2025-11-07T11:40:29.758976] [INFO] User logged in
+[2025-11-07T11:40:29.759002] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.758982] [INFO] Connection established
+[2025-11-07T11:40:29.758975] [INFO] Health check passed
+[2025-11-07T11:40:29.758981] [INFO] User logged in
+[2025-11-07T11:40:29.758979] [INFO] User logged in
+[2025-11-07T11:40:29.758989] [WARN] High memory usage detected
+[2025-11-07T11:40:29.758996] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.759000] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.758999] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.759003] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.758995] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.758990] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.758987] [INFO] Configuration loaded
+[2025-11-07T11:40:29.758986] [INFO] Cache hit

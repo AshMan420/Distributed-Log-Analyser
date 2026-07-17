@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.063154] [INFO] Cache hit
+[2025-11-07T11:40:30.063139] [INFO] Session started
+[2025-11-07T11:40:30.063151] [INFO] Health check passed
+[2025-11-07T11:40:30.063171] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.063155] [INFO] Session started
+[2025-11-07T11:40:30.063144] [INFO] Database query executed
+[2025-11-07T11:40:30.063168] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.063138] [INFO] Request processed successfully
+[2025-11-07T11:40:30.063157] [WARN] Slow query performance
+[2025-11-07T11:40:30.063142] [INFO] Database query executed
+[2025-11-07T11:40:30.063160] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.063170] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.063169] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.063150] [INFO] Request processed successfully
+[2025-11-07T11:40:30.063158] [WARN] Timeout warning
+[2025-11-07T11:40:30.063171] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.063153] [INFO] Session started
+[2025-11-07T11:40:30.063149] [INFO] Service initialized
+[2025-11-07T11:40:30.063145] [INFO] Request processed successfully
+[2025-11-07T11:40:30.063140] [INFO] Request processed successfully
+[2025-11-07T11:40:30.063141] [INFO] Service initialized
+[2025-11-07T11:40:30.063165] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.063163] [ERROR] Network timeout
+[2025-11-07T11:40:30.063162] [ERROR] File not found
+[2025-11-07T11:40:30.063147] [INFO] Health check passed
+[2025-11-07T11:40:30.063137] [INFO] Database query executed
+[2025-11-07T11:40:30.063167] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.063173] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.063146] [INFO] User logged in
+[2025-11-07T11:40:30.063172] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.063166] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.063159] [WARN] Deprecated API usage

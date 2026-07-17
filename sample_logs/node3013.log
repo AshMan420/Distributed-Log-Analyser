@@ -1,0 +1,43 @@
+[2025-11-07T11:40:29.615379] [INFO] Connection established
+[2025-11-07T11:40:29.615415] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.615389] [INFO] Configuration loaded
+[2025-11-07T11:40:29.615402] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.615419] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.615382] [INFO] Service initialized
+[2025-11-07T11:40:29.615417] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.615396] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.615398] [WARN] Cache miss
+[2025-11-07T11:40:29.615403] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.615387] [INFO] Session started
+[2025-11-07T11:40:29.615405] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.615386] [INFO] Configuration loaded
+[2025-11-07T11:40:29.615390] [INFO] Configuration loaded
+[2025-11-07T11:40:29.615385] [INFO] Session started
+[2025-11-07T11:40:29.615400] [ERROR] Permission denied
+[2025-11-07T11:40:29.615407] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.615392] [WARN] Queue size growing
+[2025-11-07T11:40:29.615380] [INFO] Database query executed
+[2025-11-07T11:40:29.615418] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.615414] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.615388] [INFO] Configuration loaded
+[2025-11-07T11:40:29.615381] [INFO] Session started
+[2025-11-07T11:40:29.615406] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.615397] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.615393] [WARN] Disk space low
+[2025-11-07T11:40:29.615413] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.615376] [INFO] User logged in
+[2025-11-07T11:40:29.615383] [INFO] Service initialized
+[2025-11-07T11:40:29.615397] [WARN] Cache miss
+[2025-11-07T11:40:29.615384] [INFO] Cache hit
+[2025-11-07T11:40:29.615421] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.615374] [INFO] Session started
+[2025-11-07T11:40:29.615395] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.615410] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.615377] [INFO] Cache hit
+[2025-11-07T11:40:29.615378] [INFO] User logged in
+[2025-11-07T11:40:29.615409] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.615391] [INFO] Configuration loaded
+[2025-11-07T11:40:29.615385] [INFO] Request processed successfully
+[2025-11-07T11:40:29.615412] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.615402] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.615400] [ERROR] Network timeout

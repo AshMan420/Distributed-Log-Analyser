@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.797261] [INFO] Database query executed
+[2025-11-07T11:40:29.797255] [INFO] User logged in
+[2025-11-07T11:40:29.797268] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.797273] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.797252] [INFO] Transaction completed
+[2025-11-07T11:40:29.797247] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797265] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.797272] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.797248] [INFO] Service initialized
+[2025-11-07T11:40:29.797249] [INFO] Health check passed
+[2025-11-07T11:40:29.797262] [INFO] User logged in
+[2025-11-07T11:40:29.797259] [INFO] Transaction completed
+[2025-11-07T11:40:29.797263] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.797269] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.797260] [INFO] Cache hit
+[2025-11-07T11:40:29.797250] [INFO] Session started
+[2025-11-07T11:40:29.797276] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.797270] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.797251] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797266] [ERROR] Database connection lost
+[2025-11-07T11:40:29.797253] [INFO] User logged in
+[2025-11-07T11:40:29.797254] [INFO] Session started
+[2025-11-07T11:40:29.797275] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.797274] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.797256] [INFO] Connection established
+[2025-11-07T11:40:29.797258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797257] [INFO] Session started
+[2025-11-07T11:40:29.797267] [ERROR] File not found
+[2025-11-07T11:40:29.797271] [DEBUG] Cache key generated

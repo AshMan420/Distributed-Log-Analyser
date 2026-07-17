@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.453679] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.453681] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.453656] [INFO] Session started
+[2025-11-07T11:40:29.453665] [INFO] Cache hit
+[2025-11-07T11:40:29.453658] [INFO] Service initialized
+[2025-11-07T11:40:29.453666] [INFO] Session started
+[2025-11-07T11:40:29.453677] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.453678] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.453654] [INFO] Connection established
+[2025-11-07T11:40:29.453673] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.453670] [WARN] Slow query performance
+[2025-11-07T11:40:29.453669] [INFO] Cache hit
+[2025-11-07T11:40:29.453685] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.453682] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.453673] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.453667] [INFO] Configuration loaded
+[2025-11-07T11:40:29.453659] [INFO] Transaction completed
+[2025-11-07T11:40:29.453660] [INFO] Health check passed
+[2025-11-07T11:40:29.453661] [INFO] Request processed successfully
+[2025-11-07T11:40:29.453684] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.453676] [ERROR] Invalid input data
+[2025-11-07T11:40:29.453668] [INFO] Session started
+[2025-11-07T11:40:29.453664] [INFO] Request processed successfully
+[2025-11-07T11:40:29.453662] [INFO] Service initialized
+[2025-11-07T11:40:29.453683] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.453671] [WARN] Slow query performance
+[2025-11-07T11:40:29.453675] [ERROR] Invalid input data
+[2025-11-07T11:40:29.453657] [INFO] Request processed successfully
+[2025-11-07T11:40:29.453680] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.453663] [INFO] User logged in

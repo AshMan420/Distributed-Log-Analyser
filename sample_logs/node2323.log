@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.539588] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.539590] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.539559] [INFO] Request processed successfully
+[2025-11-07T11:40:29.539599] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.539585] [WARN] Cache miss
+[2025-11-07T11:40:29.539565] [INFO] Service initialized
+[2025-11-07T11:40:29.539579] [INFO] Connection established
+[2025-11-07T11:40:29.539563] [INFO] User logged in
+[2025-11-07T11:40:29.539573] [INFO] Database query executed
+[2025-11-07T11:40:29.539587] [ERROR] Database connection lost
+[2025-11-07T11:40:29.539562] [INFO] User logged in
+[2025-11-07T11:40:29.539583] [INFO] Service initialized
+[2025-11-07T11:40:29.539560] [INFO] Connection established
+[2025-11-07T11:40:29.539597] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.539584] [WARN] Cache miss
+[2025-11-07T11:40:29.539593] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.539591] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.539598] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.539581] [INFO] Service initialized
+[2025-11-07T11:40:29.539576] [INFO] Connection established
+[2025-11-07T11:40:29.539578] [INFO] Connection established
+[2025-11-07T11:40:29.539596] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.539592] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539594] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.539580] [INFO] Database query executed
+[2025-11-07T11:40:29.539582] [INFO] User logged in
+[2025-11-07T11:40:29.539595] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.539564] [INFO] Cache hit
+[2025-11-07T11:40:29.539600] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.539589] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.539575] [INFO] Session started

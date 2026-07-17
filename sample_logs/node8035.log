@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.143649] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.143634] [INFO] Service initialized
+[2025-11-07T11:40:30.143628] [INFO] Cache hit
+[2025-11-07T11:40:30.143639] [ERROR] Authentication failed
+[2025-11-07T11:40:30.143629] [INFO] Service initialized
+[2025-11-07T11:40:30.143631] [INFO] Request processed successfully
+[2025-11-07T11:40:30.143630] [INFO] Transaction completed
+[2025-11-07T11:40:30.143644] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.143643] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.143627] [INFO] Health check passed
+[2025-11-07T11:40:30.143638] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.143647] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.143645] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.143624] [INFO] Configuration loaded
+[2025-11-07T11:40:30.143633] [INFO] Session started
+[2025-11-07T11:40:30.143650] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.143648] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.143641] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.143640] [ERROR] Network timeout
+[2025-11-07T11:40:30.143623] [INFO] Health check passed
+[2025-11-07T11:40:30.143625] [INFO] Health check passed
+[2025-11-07T11:40:30.143642] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.143637] [WARN] Disk space low
+[2025-11-07T11:40:30.143636] [INFO] User logged in
+[2025-11-07T11:40:30.143632] [INFO] Database query executed
+[2025-11-07T11:40:30.143635] [INFO] Service initialized
+[2025-11-07T11:40:30.143646] [DEBUG] Timer set: 30 seconds

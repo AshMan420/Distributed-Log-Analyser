@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.871170] [INFO] Health check passed
+[2025-11-07T11:40:29.871185] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.871183] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.871178] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.871184] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.871171] [INFO] User logged in
+[2025-11-07T11:40:29.871180] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.871173] [INFO] Service initialized
+[2025-11-07T11:40:29.871171] [INFO] Connection established
+[2025-11-07T11:40:29.871179] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.871174] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.871167] [INFO] Health check passed
+[2025-11-07T11:40:29.871169] [INFO] Transaction completed
+[2025-11-07T11:40:29.871176] [ERROR] Permission denied
+[2025-11-07T11:40:29.871182] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.871175] [WARN] Queue size growing
+[2025-11-07T11:40:29.871165] [INFO] Session started
+[2025-11-07T11:40:29.871172] [INFO] Database query executed
+[2025-11-07T11:40:29.871166] [INFO] User logged in
+[2025-11-07T11:40:29.871164] [INFO] Session started
+[2025-11-07T11:40:29.871163] [INFO] Connection established
+[2025-11-07T11:40:29.871181] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.871177] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.871161] [INFO] Database query executed
+[2025-11-07T11:40:29.871168] [INFO] Transaction completed

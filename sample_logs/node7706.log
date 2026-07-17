@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.109895] [INFO] User logged in
+[2025-11-07T11:40:30.109897] [WARN] Cache miss
+[2025-11-07T11:40:30.109880] [INFO] Transaction completed
+[2025-11-07T11:40:30.109896] [INFO] Request processed successfully
+[2025-11-07T11:40:30.109889] [INFO] Connection established
+[2025-11-07T11:40:30.109892] [INFO] Health check passed
+[2025-11-07T11:40:30.109885] [INFO] Connection established
+[2025-11-07T11:40:30.109894] [INFO] Connection established
+[2025-11-07T11:40:30.109908] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.109904] [ERROR] Invalid input data
+[2025-11-07T11:40:30.109901] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.109909] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.109905] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.109887] [INFO] User logged in
+[2025-11-07T11:40:30.109907] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.109882] [INFO] Health check passed
+[2025-11-07T11:40:30.109891] [INFO] Health check passed
+[2025-11-07T11:40:30.109881] [INFO] Session started
+[2025-11-07T11:40:30.109910] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.109906] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.109898] [WARN] Queue size growing
+[2025-11-07T11:40:30.109900] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.109903] [ERROR] File not found
+[2025-11-07T11:40:30.109902] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.109890] [INFO] Connection established
+[2025-11-07T11:40:30.109893] [INFO] Transaction completed
+[2025-11-07T11:40:30.109886] [INFO] Service initialized
+[2025-11-07T11:40:30.109884] [INFO] Connection established
+[2025-11-07T11:40:30.109888] [INFO] Service initialized
+[2025-11-07T11:40:30.109883] [INFO] Configuration loaded
+[2025-11-07T11:40:30.109899] [WARN] Slow query performance

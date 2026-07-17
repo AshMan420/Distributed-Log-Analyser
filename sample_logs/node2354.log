@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.542936] [ERROR] Request failed
+[2025-11-07T11:40:29.542941] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.542946] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.542938] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.542943] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.542931] [INFO] Session started
+[2025-11-07T11:40:29.542944] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.542940] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.542923] [INFO] Transaction completed
+[2025-11-07T11:40:29.542921] [INFO] User logged in
+[2025-11-07T11:40:29.542926] [INFO] User logged in
+[2025-11-07T11:40:29.542933] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.542929] [INFO] Connection established
+[2025-11-07T11:40:29.542934] [WARN] Slow query performance
+[2025-11-07T11:40:29.542937] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.542942] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.542932] [INFO] Database query executed
+[2025-11-07T11:40:29.542930] [INFO] Transaction completed
+[2025-11-07T11:40:29.542928] [INFO] Request processed successfully
+[2025-11-07T11:40:29.542925] [INFO] Request processed successfully
+[2025-11-07T11:40:29.542920] [INFO] Database query executed
+[2025-11-07T11:40:29.542924] [INFO] Request processed successfully
+[2025-11-07T11:40:29.542927] [INFO] Database query executed
+[2025-11-07T11:40:29.542935] [ERROR] Disk read failed
+[2025-11-07T11:40:29.542944] [DEBUG] Entering function process_data()

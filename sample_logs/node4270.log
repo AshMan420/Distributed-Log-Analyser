@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.748902] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.748891] [INFO] Configuration loaded
+[2025-11-07T11:40:29.748911] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.748908] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.748910] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.748913] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.748886] [INFO] Request processed successfully
+[2025-11-07T11:40:29.748890] [INFO] Configuration loaded
+[2025-11-07T11:40:29.748887] [INFO] Cache hit
+[2025-11-07T11:40:29.748883] [INFO] Database query executed
+[2025-11-07T11:40:29.748884] [INFO] Session started
+[2025-11-07T11:40:29.748888] [INFO] Configuration loaded
+[2025-11-07T11:40:29.748885] [INFO] Configuration loaded
+[2025-11-07T11:40:29.748895] [INFO] Service initialized
+[2025-11-07T11:40:29.748906] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.748895] [INFO] Session started
+[2025-11-07T11:40:29.748901] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.748899] [ERROR] Service unavailable
+[2025-11-07T11:40:29.748904] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.748881] [INFO] Session started
+[2025-11-07T11:40:29.748907] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.748903] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.748898] [WARN] Timeout warning
+[2025-11-07T11:40:29.748889] [INFO] Configuration loaded
+[2025-11-07T11:40:29.748909] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.748905] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.748897] [INFO] Transaction completed
+[2025-11-07T11:40:29.748900] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.748912] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.748894] [INFO] Session started
+[2025-11-07T11:40:29.748892] [INFO] Database query executed
+[2025-11-07T11:40:29.748893] [INFO] Request processed successfully

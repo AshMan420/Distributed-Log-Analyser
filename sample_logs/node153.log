@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.307185] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.307187] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.307172] [INFO] Database query executed
+[2025-11-07T11:40:29.307177] [INFO] Health check passed
+[2025-11-07T11:40:29.307182] [WARN] High memory usage detected
+[2025-11-07T11:40:29.307166] [INFO] Service initialized
+[2025-11-07T11:40:29.307189] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.307168] [INFO] Transaction completed
+[2025-11-07T11:40:29.307176] [INFO] Session started
+[2025-11-07T11:40:29.307175] [INFO] Database query executed
+[2025-11-07T11:40:29.307174] [INFO] Connection established
+[2025-11-07T11:40:29.307178] [INFO] Configuration loaded
+[2025-11-07T11:40:29.307183] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.307188] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.307174] [INFO] Cache hit
+[2025-11-07T11:40:29.307173] [INFO] Connection established
+[2025-11-07T11:40:29.307181] [WARN] Queue size growing
+[2025-11-07T11:40:29.307170] [INFO] Transaction completed
+[2025-11-07T11:40:29.307180] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.307186] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.307179] [WARN] Timeout warning
+[2025-11-07T11:40:29.307171] [INFO] Request processed successfully
+[2025-11-07T11:40:29.307169] [INFO] User logged in
+[2025-11-07T11:40:29.307184] [DEBUG] Entering function process_data()

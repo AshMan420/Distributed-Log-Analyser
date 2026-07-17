@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.912938] [INFO] Transaction completed
+[2025-11-07T11:40:29.912946] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.912943] [ERROR] Invalid input data
+[2025-11-07T11:40:29.912948] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.912952] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.912944] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.912945] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.912941] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.912930] [INFO] Session started
+[2025-11-07T11:40:29.912939] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.912933] [INFO] Cache hit
+[2025-11-07T11:40:29.912934] [INFO] Request processed successfully
+[2025-11-07T11:40:29.912928] [INFO] Request processed successfully
+[2025-11-07T11:40:29.912951] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.912926] [INFO] Health check passed
+[2025-11-07T11:40:29.912936] [INFO] Session started
+[2025-11-07T11:40:29.912931] [INFO] Transaction completed
+[2025-11-07T11:40:29.912942] [WARN] Queue size growing
+[2025-11-07T11:40:29.912940] [WARN] Cache miss
+[2025-11-07T11:40:29.912937] [INFO] Configuration loaded
+[2025-11-07T11:40:29.912929] [INFO] Database query executed
+[2025-11-07T11:40:29.912927] [INFO] Database query executed
+[2025-11-07T11:40:29.912932] [INFO] Database query executed
+[2025-11-07T11:40:29.912935] [INFO] Transaction completed
+[2025-11-07T11:40:29.912947] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.912924] [INFO] Session started
+[2025-11-07T11:40:29.912950] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.912949] [DEBUG] Connection pool status checked

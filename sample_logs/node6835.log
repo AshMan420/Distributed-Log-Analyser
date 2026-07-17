@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.020674] [ERROR] Disk read failed
+[2025-11-07T11:40:30.020664] [INFO] Session started
+[2025-11-07T11:40:30.020672] [WARN] Slow query performance
+[2025-11-07T11:40:30.020680] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.020678] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.020661] [INFO] User logged in
+[2025-11-07T11:40:30.020684] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.020667] [INFO] Configuration loaded
+[2025-11-07T11:40:30.020665] [INFO] Transaction completed
+[2025-11-07T11:40:30.020668] [INFO] Service initialized
+[2025-11-07T11:40:30.020682] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.020669] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.020683] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.020671] [WARN] Timeout warning
+[2025-11-07T11:40:30.020663] [INFO] Configuration loaded
+[2025-11-07T11:40:30.020681] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.020662] [INFO] Configuration loaded
+[2025-11-07T11:40:30.020666] [INFO] Configuration loaded
+[2025-11-07T11:40:30.020670] [WARN] Queue size growing
+[2025-11-07T11:40:30.020679] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.020673] [ERROR] Request failed
+[2025-11-07T11:40:30.020660] [INFO] Connection established
+[2025-11-07T11:40:30.020676] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.020677] [DEBUG] Entering function process_data()

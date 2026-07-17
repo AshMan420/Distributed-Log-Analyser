@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.353500] [WARN] Slow query performance
+[2025-11-07T11:40:30.353485] [INFO] Database query executed
+[2025-11-07T11:40:30.353502] [WARN] Timeout warning
+[2025-11-07T11:40:30.353498] [INFO] Request processed successfully
+[2025-11-07T11:40:30.353495] [INFO] Request processed successfully
+[2025-11-07T11:40:30.353512] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.353511] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.353504] [WARN] Timeout warning
+[2025-11-07T11:40:30.353508] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.353494] [INFO] Configuration loaded
+[2025-11-07T11:40:30.353503] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.353489] [INFO] Transaction completed
+[2025-11-07T11:40:30.353493] [INFO] Configuration loaded
+[2025-11-07T11:40:30.353515] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.353510] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.353501] [WARN] High memory usage detected
+[2025-11-07T11:40:30.353499] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.353497] [INFO] Configuration loaded
+[2025-11-07T11:40:30.353496] [INFO] Health check passed
+[2025-11-07T11:40:30.353514] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.353505] [WARN] Slow query performance
+[2025-11-07T11:40:30.353513] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.353506] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.353488] [INFO] User logged in
+[2025-11-07T11:40:30.353487] [INFO] Database query executed
+[2025-11-07T11:40:30.353509] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.353490] [INFO] Session started
+[2025-11-07T11:40:30.353492] [INFO] Service initialized
+[2025-11-07T11:40:30.353491] [INFO] Request processed successfully

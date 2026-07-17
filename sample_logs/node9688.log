@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.339463] [INFO] Configuration loaded
+[2025-11-07T11:40:30.339462] [INFO] Configuration loaded
+[2025-11-07T11:40:30.339468] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.339476] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.339470] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.339461] [INFO] User logged in
+[2025-11-07T11:40:30.339450] [INFO] Session started
+[2025-11-07T11:40:30.339448] [INFO] User logged in
+[2025-11-07T11:40:30.339469] [ERROR] Disk read failed
+[2025-11-07T11:40:30.339471] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.339475] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.339460] [INFO] Cache hit
+[2025-11-07T11:40:30.339474] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.339472] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.339456] [INFO] User logged in
+[2025-11-07T11:40:30.339453] [INFO] Request processed successfully
+[2025-11-07T11:40:30.339477] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.339455] [INFO] Cache hit
+[2025-11-07T11:40:30.339467] [WARN] Cache miss
+[2025-11-07T11:40:30.339464] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.339466] [WARN] Cache miss
+[2025-11-07T11:40:30.339451] [INFO] Database query executed
+[2025-11-07T11:40:30.339459] [INFO] Transaction completed
+[2025-11-07T11:40:30.339473] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.339454] [INFO] Connection established
+[2025-11-07T11:40:30.339452] [INFO] User logged in
+[2025-11-07T11:40:30.339458] [INFO] Connection established
+[2025-11-07T11:40:30.339457] [INFO] Cache hit
+[2025-11-07T11:40:30.339465] [WARN] Deprecated API usage

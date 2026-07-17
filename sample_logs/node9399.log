@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.297992] [ERROR] Network timeout
+[2025-11-07T11:40:30.297982] [INFO] Session started
+[2025-11-07T11:40:30.297988] [WARN] Cache miss
+[2025-11-07T11:40:30.297989] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.297998] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297999] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.297996] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297985] [INFO] Session started
+[2025-11-07T11:40:30.297971] [INFO] Connection established
+[2025-11-07T11:40:30.297991] [ERROR] Network timeout
+[2025-11-07T11:40:30.298003] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.297974] [INFO] Service initialized
+[2025-11-07T11:40:30.297980] [INFO] Cache hit
+[2025-11-07T11:40:30.297995] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.297973] [INFO] Cache hit
+[2025-11-07T11:40:30.297987] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.297977] [INFO] Request processed successfully
+[2025-11-07T11:40:30.297984] [INFO] Health check passed
+[2025-11-07T11:40:30.298001] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.297976] [INFO] Transaction completed
+[2025-11-07T11:40:30.297981] [INFO] Request processed successfully
+[2025-11-07T11:40:30.297978] [INFO] Transaction completed
+[2025-11-07T11:40:30.298006] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.297990] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.297969] [INFO] Health check passed
+[2025-11-07T11:40:30.298000] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.297994] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.297975] [INFO] Request processed successfully
+[2025-11-07T11:40:30.298005] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297986] [WARN] Slow query performance
+[2025-11-07T11:40:30.297979] [INFO] Configuration loaded
+[2025-11-07T11:40:30.298002] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.298004] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.297997] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297972] [INFO] Health check passed
+[2025-11-07T11:40:30.297983] [INFO] Health check passed

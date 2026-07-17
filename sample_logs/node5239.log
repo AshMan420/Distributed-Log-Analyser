@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.846913] [INFO] Database query executed
+[2025-11-07T11:40:29.846915] [INFO] Service initialized
+[2025-11-07T11:40:29.846910] [INFO] User logged in
+[2025-11-07T11:40:29.846933] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.846934] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.846922] [INFO] Transaction completed
+[2025-11-07T11:40:29.846908] [INFO] Health check passed
+[2025-11-07T11:40:29.846936] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.846920] [INFO] User logged in
+[2025-11-07T11:40:29.846924] [WARN] Queue size growing
+[2025-11-07T11:40:29.846916] [INFO] User logged in
+[2025-11-07T11:40:29.846906] [INFO] Configuration loaded
+[2025-11-07T11:40:29.846911] [INFO] Request processed successfully
+[2025-11-07T11:40:29.846929] [WARN] Slow query performance
+[2025-11-07T11:40:29.846917] [INFO] Transaction completed
+[2025-11-07T11:40:29.846937] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.846921] [INFO] Health check passed
+[2025-11-07T11:40:29.846940] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.846931] [ERROR] Database connection lost
+[2025-11-07T11:40:29.846938] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.846930] [ERROR] Database connection lost
+[2025-11-07T11:40:29.846914] [INFO] Request processed successfully
+[2025-11-07T11:40:29.846935] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.846919] [INFO] Configuration loaded
+[2025-11-07T11:40:29.846923] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.846909] [INFO] Database query executed
+[2025-11-07T11:40:29.846939] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.846926] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.846927] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.846932] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.846918] [INFO] Request processed successfully
+[2025-11-07T11:40:29.846912] [INFO] Transaction completed
+[2025-11-07T11:40:29.846928] [WARN] Timeout warning
+[2025-11-07T11:40:29.846925] [WARN] Rate limit approaching

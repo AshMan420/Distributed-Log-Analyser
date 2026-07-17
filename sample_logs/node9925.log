@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.364017] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.363998] [INFO] Request processed successfully
+[2025-11-07T11:40:30.364002] [INFO] Session started
+[2025-11-07T11:40:30.363993] [INFO] Health check passed
+[2025-11-07T11:40:30.364004] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.364014] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.364000] [INFO] User logged in
+[2025-11-07T11:40:30.363994] [INFO] Session started
+[2025-11-07T11:40:30.364003] [WARN] Timeout warning
+[2025-11-07T11:40:30.364013] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.363988] [INFO] Configuration loaded
+[2025-11-07T11:40:30.364005] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.364010] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.363999] [INFO] Configuration loaded
+[2025-11-07T11:40:30.364008] [ERROR] Service unavailable
+[2025-11-07T11:40:30.364001] [INFO] Cache hit
+[2025-11-07T11:40:30.364012] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.364016] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.363996] [INFO] Connection established
+[2025-11-07T11:40:30.363990] [INFO] Connection established
+[2025-11-07T11:40:30.363991] [INFO] Cache hit
+[2025-11-07T11:40:30.364014] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.364011] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.364015] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.364018] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.364019] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.363992] [INFO] Request processed successfully
+[2025-11-07T11:40:30.363997] [INFO] Session started
+[2025-11-07T11:40:30.364006] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.363995] [INFO] Session started
+[2025-11-07T11:40:30.363999] [INFO] Database query executed
+[2025-11-07T11:40:30.364007] [ERROR] Memory allocation error

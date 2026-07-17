@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.313109] [INFO] User logged in
+[2025-11-07T11:40:29.313108] [INFO] Request processed successfully
+[2025-11-07T11:40:29.313116] [ERROR] File not found
+[2025-11-07T11:40:29.313114] [INFO] User logged in
+[2025-11-07T11:40:29.313122] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.313118] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.313102] [INFO] Database query executed
+[2025-11-07T11:40:29.313124] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.313106] [INFO] Request processed successfully
+[2025-11-07T11:40:29.313126] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.313125] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.313119] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.313105] [INFO] Database query executed
+[2025-11-07T11:40:29.313129] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.313104] [INFO] Cache hit
+[2025-11-07T11:40:29.313121] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.313107] [INFO] Transaction completed
+[2025-11-07T11:40:29.313117] [ERROR] Invalid input data
+[2025-11-07T11:40:29.313127] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.313115] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.313111] [INFO] Request processed successfully
+[2025-11-07T11:40:29.313123] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.313112] [INFO] Health check passed
+[2025-11-07T11:40:29.313113] [INFO] Configuration loaded
+[2025-11-07T11:40:29.313110] [INFO] Connection established
+[2025-11-07T11:40:29.313120] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.313107] [INFO] Service initialized
+[2025-11-07T11:40:29.313128] [DEBUG] Loop iteration: 15

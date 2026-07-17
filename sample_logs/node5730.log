@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.896997] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.896975] [INFO] Configuration loaded
+[2025-11-07T11:40:29.896991] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.896993] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.896995] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.896970] [INFO] Service initialized
+[2025-11-07T11:40:29.896996] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.896982] [INFO] User logged in
+[2025-11-07T11:40:29.896984] [INFO] Cache hit
+[2025-11-07T11:40:29.896978] [INFO] Database query executed
+[2025-11-07T11:40:29.896983] [INFO] Transaction completed
+[2025-11-07T11:40:29.896973] [INFO] Request processed successfully
+[2025-11-07T11:40:29.896972] [INFO] User logged in
+[2025-11-07T11:40:29.896980] [INFO] Connection established
+[2025-11-07T11:40:29.896998] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.896989] [ERROR] Network timeout
+[2025-11-07T11:40:29.896977] [INFO] Session started
+[2025-11-07T11:40:29.896994] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.896985] [INFO] Transaction completed
+[2025-11-07T11:40:29.896976] [INFO] Transaction completed
+[2025-11-07T11:40:29.896990] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.896995] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.896987] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.896988] [ERROR] Authentication failed
+[2025-11-07T11:40:29.896974] [INFO] Connection established
+[2025-11-07T11:40:29.896986] [WARN] Slow query performance
+[2025-11-07T11:40:29.896981] [INFO] Cache hit
+[2025-11-07T11:40:29.896979] [INFO] Cache hit

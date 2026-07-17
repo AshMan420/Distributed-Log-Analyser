@@ -1,0 +1,23 @@
+[2025-11-07T11:40:29.844617] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.844614] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.844622] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.844606] [INFO] Health check passed
+[2025-11-07T11:40:29.844604] [INFO] Session started
+[2025-11-07T11:40:29.844603] [INFO] Request processed successfully
+[2025-11-07T11:40:29.844615] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.844620] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.844611] [WARN] High memory usage detected
+[2025-11-07T11:40:29.844618] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.844601] [INFO] Database query executed
+[2025-11-07T11:40:29.844598] [INFO] Session started
+[2025-11-07T11:40:29.844608] [INFO] User logged in
+[2025-11-07T11:40:29.844610] [INFO] Configuration loaded
+[2025-11-07T11:40:29.844609] [INFO] User logged in
+[2025-11-07T11:40:29.844602] [INFO] Request processed successfully
+[2025-11-07T11:40:29.844607] [INFO] Session started
+[2025-11-07T11:40:29.844621] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.844600] [INFO] Transaction completed
+[2025-11-07T11:40:29.844613] [ERROR] Invalid input data
+[2025-11-07T11:40:29.844616] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.844619] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.844605] [INFO] Health check passed

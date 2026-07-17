@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.652427] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.652407] [INFO] Connection established
+[2025-11-07T11:40:29.652411] [INFO] Cache hit
+[2025-11-07T11:40:29.652426] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.652414] [INFO] Configuration loaded
+[2025-11-07T11:40:29.652425] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.652404] [INFO] User logged in
+[2025-11-07T11:40:29.652413] [INFO] User logged in
+[2025-11-07T11:40:29.652402] [INFO] Database query executed
+[2025-11-07T11:40:29.652416] [WARN] Queue size growing
+[2025-11-07T11:40:29.652419] [WARN] Slow query performance
+[2025-11-07T11:40:29.652420] [ERROR] Disk read failed
+[2025-11-07T11:40:29.652429] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.652412] [INFO] Health check passed
+[2025-11-07T11:40:29.652422] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.652409] [INFO] Session started
+[2025-11-07T11:40:29.652430] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.652399] [INFO] User logged in
+[2025-11-07T11:40:29.652423] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.652428] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.652410] [INFO] User logged in
+[2025-11-07T11:40:29.652417] [WARN] Timeout warning
+[2025-11-07T11:40:29.652408] [INFO] Configuration loaded
+[2025-11-07T11:40:29.652415] [WARN] Cache miss
+[2025-11-07T11:40:29.652421] [ERROR] File not found
+[2025-11-07T11:40:29.652401] [INFO] Connection established
+[2025-11-07T11:40:29.652403] [INFO] Request processed successfully
+[2025-11-07T11:40:29.652405] [INFO] Service initialized
+[2025-11-07T11:40:29.652406] [INFO] Cache hit
+[2025-11-07T11:40:29.652418] [WARN] Queue size growing
+[2025-11-07T11:40:29.652424] [DEBUG] Loop iteration: 15

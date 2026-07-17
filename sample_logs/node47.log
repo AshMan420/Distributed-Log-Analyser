@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.295904] [INFO] User logged in
+[2025-11-07T11:40:29.295909] [INFO] Database query executed
+[2025-11-07T11:40:29.295926] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.295898] [INFO] Request processed successfully
+[2025-11-07T11:40:29.295913] [INFO] Connection established
+[2025-11-07T11:40:29.295910] [INFO] Session started
+[2025-11-07T11:40:29.295903] [INFO] Transaction completed
+[2025-11-07T11:40:29.295899] [INFO] Transaction completed
+[2025-11-07T11:40:29.295922] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.295905] [INFO] Database query executed
+[2025-11-07T11:40:29.295919] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.295912] [INFO] Service initialized
+[2025-11-07T11:40:29.295906] [INFO] Session started
+[2025-11-07T11:40:29.295927] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.295924] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.295911] [INFO] Cache hit
+[2025-11-07T11:40:29.295907] [INFO] Cache hit
+[2025-11-07T11:40:29.295923] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.295901] [INFO] Transaction completed
+[2025-11-07T11:40:29.295920] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.295914] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.295918] [ERROR] Permission denied
+[2025-11-07T11:40:29.295901] [INFO] Session started
+[2025-11-07T11:40:29.295917] [ERROR] Authentication failed
+[2025-11-07T11:40:29.295915] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.295908] [INFO] Session started
+[2025-11-07T11:40:29.295925] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.295916] [WARN] Cache miss
+[2025-11-07T11:40:29.295921] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.295897] [INFO] Configuration loaded

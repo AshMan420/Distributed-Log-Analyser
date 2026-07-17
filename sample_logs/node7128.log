@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.051155] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.051149] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.051138] [INFO] Service initialized
+[2025-11-07T11:40:30.051132] [INFO] Session started
+[2025-11-07T11:40:30.051148] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.051156] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.051152] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.051159] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.051144] [INFO] Configuration loaded
+[2025-11-07T11:40:30.051150] [WARN] Timeout warning
+[2025-11-07T11:40:30.051158] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.051140] [INFO] Session started
+[2025-11-07T11:40:30.051136] [INFO] Configuration loaded
+[2025-11-07T11:40:30.051160] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.051142] [INFO] Health check passed
+[2025-11-07T11:40:30.051154] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.051143] [INFO] Health check passed
+[2025-11-07T11:40:30.051147] [WARN] Queue size growing
+[2025-11-07T11:40:30.051136] [INFO] Session started
+[2025-11-07T11:40:30.051146] [INFO] Database query executed
+[2025-11-07T11:40:30.051151] [ERROR] Request failed
+[2025-11-07T11:40:30.051141] [INFO] Cache hit
+[2025-11-07T11:40:30.051145] [INFO] User logged in
+[2025-11-07T11:40:30.051161] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.051139] [INFO] Connection established
+[2025-11-07T11:40:30.051157] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.051153] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.051137] [INFO] Transaction completed
+[2025-11-07T11:40:30.051133] [INFO] Configuration loaded
+[2025-11-07T11:40:30.051135] [INFO] Cache hit
+[2025-11-07T11:40:30.051162] [DEBUG] Timer set: 30 seconds

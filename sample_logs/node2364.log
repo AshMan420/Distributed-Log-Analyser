@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.543968] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.543947] [INFO] Configuration loaded
+[2025-11-07T11:40:29.543951] [INFO] Configuration loaded
+[2025-11-07T11:40:29.543958] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.543954] [INFO] Session started
+[2025-11-07T11:40:29.543964] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.543963] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.543966] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.543952] [INFO] Database query executed
+[2025-11-07T11:40:29.543967] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.543960] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.543969] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.543955] [INFO] Session started
+[2025-11-07T11:40:29.543962] [ERROR] Service unavailable
+[2025-11-07T11:40:29.543945] [INFO] Health check passed
+[2025-11-07T11:40:29.543956] [INFO] Connection established
+[2025-11-07T11:40:29.543949] [INFO] Configuration loaded
+[2025-11-07T11:40:29.543965] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.543959] [WARN] Timeout warning
+[2025-11-07T11:40:29.543955] [INFO] Health check passed
+[2025-11-07T11:40:29.543948] [INFO] Session started
+[2025-11-07T11:40:29.543950] [INFO] Transaction completed
+[2025-11-07T11:40:29.543953] [INFO] User logged in
+[2025-11-07T11:40:29.543961] [WARN] Resource threshold approaching

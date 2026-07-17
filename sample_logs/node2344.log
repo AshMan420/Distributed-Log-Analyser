@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.541937] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.541926] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.541934] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.541924] [WARN] Queue size growing
+[2025-11-07T11:40:29.541906] [INFO] Database query executed
+[2025-11-07T11:40:29.541907] [INFO] Cache hit
+[2025-11-07T11:40:29.541929] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.541909] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541911] [INFO] Database query executed
+[2025-11-07T11:40:29.541936] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.541922] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.541923] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.541913] [INFO] User logged in
+[2025-11-07T11:40:29.541905] [INFO] Request processed successfully
+[2025-11-07T11:40:29.541919] [INFO] Session started
+[2025-11-07T11:40:29.541921] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.541935] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.541910] [INFO] Service initialized
+[2025-11-07T11:40:29.541914] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541917] [INFO] Health check passed
+[2025-11-07T11:40:29.541912] [INFO] Session started
+[2025-11-07T11:40:29.541925] [WARN] Cache miss
+[2025-11-07T11:40:29.541933] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.541915] [INFO] Configuration loaded
+[2025-11-07T11:40:29.541928] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.541938] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.541916] [INFO] Request processed successfully
+[2025-11-07T11:40:29.541927] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.541920] [WARN] Cache miss
+[2025-11-07T11:40:29.541930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.541932] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.541931] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.541904] [INFO] Connection established
+[2025-11-07T11:40:29.541918] [INFO] User logged in

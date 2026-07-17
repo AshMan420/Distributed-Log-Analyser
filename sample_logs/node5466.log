@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.869709] [INFO] User logged in
+[2025-11-07T11:40:29.869713] [WARN] Slow query performance
+[2025-11-07T11:40:29.869699] [INFO] Database query executed
+[2025-11-07T11:40:29.869711] [WARN] High memory usage detected
+[2025-11-07T11:40:29.869703] [INFO] Connection established
+[2025-11-07T11:40:29.869705] [INFO] Connection established
+[2025-11-07T11:40:29.869723] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.869725] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.869721] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.869724] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.869700] [INFO] Cache hit
+[2025-11-07T11:40:29.869719] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.869710] [INFO] User logged in
+[2025-11-07T11:40:29.869718] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.869701] [INFO] Session started
+[2025-11-07T11:40:29.869715] [WARN] Timeout warning
+[2025-11-07T11:40:29.869702] [INFO] Database query executed
+[2025-11-07T11:40:29.869707] [INFO] Configuration loaded
+[2025-11-07T11:40:29.869698] [INFO] Session started
+[2025-11-07T11:40:29.869716] [ERROR] Service unavailable
+[2025-11-07T11:40:29.869717] [ERROR] Database connection lost
+[2025-11-07T11:40:29.869706] [INFO] Configuration loaded
+[2025-11-07T11:40:29.869720] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.869704] [INFO] Transaction completed
+[2025-11-07T11:40:29.869722] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.869714] [WARN] Timeout warning
+[2025-11-07T11:40:29.869712] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.869708] [INFO] Database query executed

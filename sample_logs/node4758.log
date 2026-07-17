@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.798640] [ERROR] Database connection lost
+[2025-11-07T11:40:29.798648] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.798634] [INFO] Connection established
+[2025-11-07T11:40:29.798646] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.798642] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.798644] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.798624] [INFO] Transaction completed
+[2025-11-07T11:40:29.798627] [INFO] Service initialized
+[2025-11-07T11:40:29.798630] [INFO] Configuration loaded
+[2025-11-07T11:40:29.798629] [INFO] Connection established
+[2025-11-07T11:40:29.798649] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.798641] [ERROR] Disk read failed
+[2025-11-07T11:40:29.798639] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.798623] [INFO] Session started
+[2025-11-07T11:40:29.798631] [INFO] Cache hit
+[2025-11-07T11:40:29.798626] [INFO] Health check passed
+[2025-11-07T11:40:29.798643] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.798636] [INFO] Transaction completed
+[2025-11-07T11:40:29.798637] [INFO] Cache hit
+[2025-11-07T11:40:29.798645] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.798638] [INFO] Request processed successfully
+[2025-11-07T11:40:29.798633] [INFO] User logged in
+[2025-11-07T11:40:29.798635] [INFO] Database query executed
+[2025-11-07T11:40:29.798630] [INFO] Session started
+[2025-11-07T11:40:29.798647] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.798632] [INFO] Database query executed
+[2025-11-07T11:40:29.798625] [INFO] Health check passed

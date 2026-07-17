@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.013503] [INFO] User logged in
+[2025-11-07T11:40:30.013508] [INFO] User logged in
+[2025-11-07T11:40:30.013512] [WARN] Disk space low
+[2025-11-07T11:40:30.013510] [INFO] Request processed successfully
+[2025-11-07T11:40:30.013519] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.013507] [INFO] Service initialized
+[2025-11-07T11:40:30.013522] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.013523] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.013499] [INFO] Connection established
+[2025-11-07T11:40:30.013516] [ERROR] Request failed
+[2025-11-07T11:40:30.013514] [WARN] Timeout warning
+[2025-11-07T11:40:30.013506] [INFO] Health check passed
+[2025-11-07T11:40:30.013497] [INFO] Request processed successfully
+[2025-11-07T11:40:30.013509] [INFO] Session started
+[2025-11-07T11:40:30.013521] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.013517] [ERROR] Invalid input data
+[2025-11-07T11:40:30.013527] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.013524] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.013520] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.013513] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.013501] [INFO] Connection established
+[2025-11-07T11:40:30.013500] [INFO] Service initialized
+[2025-11-07T11:40:30.013502] [INFO] Request processed successfully
+[2025-11-07T11:40:30.013504] [INFO] Session started
+[2025-11-07T11:40:30.013526] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.013525] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.013511] [WARN] High memory usage detected
+[2025-11-07T11:40:30.013496] [INFO] Transaction completed
+[2025-11-07T11:40:30.013515] [WARN] High memory usage detected
+[2025-11-07T11:40:30.013495] [INFO] Transaction completed
+[2025-11-07T11:40:30.013518] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.013505] [INFO] Service initialized
+[2025-11-07T11:40:30.013498] [INFO] Connection established

@@ -1,0 +1,40 @@
+[2025-11-07T11:40:29.788557] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.788537] [INFO] Cache hit
+[2025-11-07T11:40:29.788539] [INFO] Health check passed
+[2025-11-07T11:40:29.788551] [WARN] Disk space low
+[2025-11-07T11:40:29.788548] [INFO] Service initialized
+[2025-11-07T11:40:29.788555] [ERROR] File not found
+[2025-11-07T11:40:29.788553] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.788546] [INFO] Health check passed
+[2025-11-07T11:40:29.788538] [INFO] Request processed successfully
+[2025-11-07T11:40:29.788558] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.788547] [INFO] Request processed successfully
+[2025-11-07T11:40:29.788534] [INFO] Request processed successfully
+[2025-11-07T11:40:29.788535] [INFO] Health check passed
+[2025-11-07T11:40:29.788567] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.788552] [WARN] Queue size growing
+[2025-11-07T11:40:29.788549] [INFO] Transaction completed
+[2025-11-07T11:40:29.788568] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.788543] [INFO] Configuration loaded
+[2025-11-07T11:40:29.788562] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.788564] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.788561] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.788563] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.788542] [INFO] Database query executed
+[2025-11-07T11:40:29.788532] [INFO] Cache hit
+[2025-11-07T11:40:29.788565] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.788559] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.788531] [INFO] Health check passed
+[2025-11-07T11:40:29.788530] [INFO] Configuration loaded
+[2025-11-07T11:40:29.788541] [INFO] Request processed successfully
+[2025-11-07T11:40:29.788528] [INFO] Health check passed
+[2025-11-07T11:40:29.788556] [ERROR] Authentication failed
+[2025-11-07T11:40:29.788529] [INFO] Cache hit
+[2025-11-07T11:40:29.788550] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.788533] [INFO] Cache hit
+[2025-11-07T11:40:29.788554] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.788544] [INFO] Cache hit
+[2025-11-07T11:40:29.788536] [INFO] Health check passed
+[2025-11-07T11:40:29.788560] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.788569] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.788540] [INFO] Health check passed

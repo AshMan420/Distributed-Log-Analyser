@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.595317] [INFO] Session started
+[2025-11-07T11:40:29.595314] [INFO] Transaction completed
+[2025-11-07T11:40:29.595332] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.595327] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.595320] [INFO] Request processed successfully
+[2025-11-07T11:40:29.595341] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.595322] [INFO] Session started
+[2025-11-07T11:40:29.595339] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.595319] [INFO] User logged in
+[2025-11-07T11:40:29.595321] [INFO] Configuration loaded
+[2025-11-07T11:40:29.595328] [WARN] Timeout warning
+[2025-11-07T11:40:29.595313] [INFO] Transaction completed
+[2025-11-07T11:40:29.595342] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.595338] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.595324] [INFO] Request processed successfully
+[2025-11-07T11:40:29.595325] [WARN] Timeout warning
+[2025-11-07T11:40:29.595323] [INFO] Health check passed
+[2025-11-07T11:40:29.595340] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.595316] [INFO] Transaction completed
+[2025-11-07T11:40:29.595311] [INFO] Cache hit
+[2025-11-07T11:40:29.595333] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.595331] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.595334] [WARN] Timeout warning
+[2025-11-07T11:40:29.595330] [WARN] Cache miss
+[2025-11-07T11:40:29.595312] [INFO] Configuration loaded
+[2025-11-07T11:40:29.595329] [WARN] Slow query performance
+[2025-11-07T11:40:29.595337] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.595315] [INFO] Session started
+[2025-11-07T11:40:29.595335] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.595326] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.595318] [INFO] Cache hit

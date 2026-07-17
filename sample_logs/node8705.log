@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.215142] [INFO] Database query executed
+[2025-11-07T11:40:30.215147] [INFO] Transaction completed
+[2025-11-07T11:40:30.215139] [INFO] Cache hit
+[2025-11-07T11:40:30.215160] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.215145] [INFO] Cache hit
+[2025-11-07T11:40:30.215141] [INFO] Database query executed
+[2025-11-07T11:40:30.215144] [INFO] Service initialized
+[2025-11-07T11:40:30.215148] [INFO] Transaction completed
+[2025-11-07T11:40:30.215165] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.215153] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.215138] [INFO] User logged in
+[2025-11-07T11:40:30.215135] [INFO] Database query executed
+[2025-11-07T11:40:30.215143] [INFO] Database query executed
+[2025-11-07T11:40:30.215154] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.215158] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.215155] [ERROR] File not found
+[2025-11-07T11:40:30.215159] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.215137] [INFO] Service initialized
+[2025-11-07T11:40:30.215146] [INFO] Cache hit
+[2025-11-07T11:40:30.215165] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.215151] [INFO] Transaction completed
+[2025-11-07T11:40:30.215149] [INFO] User logged in
+[2025-11-07T11:40:30.215150] [INFO] Session started
+[2025-11-07T11:40:30.215164] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.215152] [INFO] Database query executed
+[2025-11-07T11:40:30.215140] [INFO] Health check passed
+[2025-11-07T11:40:30.215156] [ERROR] Authentication failed
+[2025-11-07T11:40:30.215162] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.215146] [INFO] Transaction completed
+[2025-11-07T11:40:30.215161] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.215163] [DEBUG] Timer set: 30 seconds

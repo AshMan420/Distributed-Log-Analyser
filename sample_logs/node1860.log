@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.490461] [WARN] Timeout warning
+[2025-11-07T11:40:29.490455] [INFO] Session started
+[2025-11-07T11:40:29.490449] [INFO] Request processed successfully
+[2025-11-07T11:40:29.490451] [INFO] Connection established
+[2025-11-07T11:40:29.490464] [ERROR] Disk read failed
+[2025-11-07T11:40:29.490456] [INFO] Cache hit
+[2025-11-07T11:40:29.490472] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.490459] [INFO] Request processed successfully
+[2025-11-07T11:40:29.490452] [INFO] User logged in
+[2025-11-07T11:40:29.490466] [ERROR] Invalid input data
+[2025-11-07T11:40:29.490463] [WARN] Cache miss
+[2025-11-07T11:40:29.490462] [WARN] High memory usage detected
+[2025-11-07T11:40:29.490465] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.490473] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.490470] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.490475] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.490454] [INFO] Service initialized
+[2025-11-07T11:40:29.490460] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.490469] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.490450] [INFO] Database query executed
+[2025-11-07T11:40:29.490448] [INFO] User logged in
+[2025-11-07T11:40:29.490467] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.490453] [INFO] Database query executed
+[2025-11-07T11:40:29.490471] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.490457] [INFO] Connection established
+[2025-11-07T11:40:29.490444] [INFO] Transaction completed
+[2025-11-07T11:40:29.490468] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.490458] [INFO] Session started
+[2025-11-07T11:40:29.490446] [INFO] Database query executed
+[2025-11-07T11:40:29.490474] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.490447] [INFO] Connection established

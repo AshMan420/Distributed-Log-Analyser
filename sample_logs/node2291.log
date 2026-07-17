@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.536309] [WARN] Slow query performance
+[2025-11-07T11:40:29.536305] [INFO] Cache hit
+[2025-11-07T11:40:29.536298] [INFO] Service initialized
+[2025-11-07T11:40:29.536300] [INFO] Cache hit
+[2025-11-07T11:40:29.536303] [INFO] Health check passed
+[2025-11-07T11:40:29.536321] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.536301] [INFO] Health check passed
+[2025-11-07T11:40:29.536315] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.536317] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.536311] [ERROR] Service unavailable
+[2025-11-07T11:40:29.536306] [INFO] Session started
+[2025-11-07T11:40:29.536297] [INFO] Connection established
+[2025-11-07T11:40:29.536308] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.536307] [INFO] Connection established
+[2025-11-07T11:40:29.536295] [INFO] Transaction completed
+[2025-11-07T11:40:29.536310] [ERROR] Request failed
+[2025-11-07T11:40:29.536319] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.536314] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.536302] [INFO] Transaction completed
+[2025-11-07T11:40:29.536316] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.536322] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.536320] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.536318] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.536299] [INFO] Database query executed
+[2025-11-07T11:40:29.536312] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.536304] [INFO] Connection established

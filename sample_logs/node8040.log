@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.144149] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.144156] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.144141] [WARN] High memory usage detected
+[2025-11-07T11:40:30.144153] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.144144] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.144150] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.144132] [INFO] Configuration loaded
+[2025-11-07T11:40:30.144135] [INFO] Session started
+[2025-11-07T11:40:30.144127] [INFO] Connection established
+[2025-11-07T11:40:30.144147] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.144130] [INFO] Cache hit
+[2025-11-07T11:40:30.144128] [INFO] Configuration loaded
+[2025-11-07T11:40:30.144134] [INFO] User logged in
+[2025-11-07T11:40:30.144146] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.144151] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.144140] [WARN] Cache miss
+[2025-11-07T11:40:30.144136] [INFO] Health check passed
+[2025-11-07T11:40:30.144145] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.144152] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.144148] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.144143] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.144138] [INFO] User logged in
+[2025-11-07T11:40:30.144129] [INFO] Transaction completed
+[2025-11-07T11:40:30.144125] [INFO] Service initialized
+[2025-11-07T11:40:30.144137] [INFO] Configuration loaded
+[2025-11-07T11:40:30.144155] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.144123] [INFO] Request processed successfully
+[2025-11-07T11:40:30.144142] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.144133] [INFO] Transaction completed
+[2025-11-07T11:40:30.144154] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.144126] [INFO] Request processed successfully
+[2025-11-07T11:40:30.144131] [INFO] Cache hit

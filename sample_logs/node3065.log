@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.621468] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.621471] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.621443] [INFO] Request processed successfully
+[2025-11-07T11:40:29.621466] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.621451] [INFO] Service initialized
+[2025-11-07T11:40:29.621470] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.621444] [INFO] Cache hit
+[2025-11-07T11:40:29.621453] [INFO] Database query executed
+[2025-11-07T11:40:29.621447] [INFO] User logged in
+[2025-11-07T11:40:29.621464] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.621442] [INFO] Health check passed
+[2025-11-07T11:40:29.621455] [INFO] Service initialized
+[2025-11-07T11:40:29.621460] [WARN] Cache miss
+[2025-11-07T11:40:29.621446] [INFO] User logged in
+[2025-11-07T11:40:29.621469] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.621445] [INFO] Request processed successfully
+[2025-11-07T11:40:29.621465] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.621457] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.621459] [WARN] Disk space low
+[2025-11-07T11:40:29.621467] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.621456] [INFO] Database query executed
+[2025-11-07T11:40:29.621452] [INFO] Health check passed
+[2025-11-07T11:40:29.621463] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.621448] [INFO] Configuration loaded
+[2025-11-07T11:40:29.621462] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.621454] [INFO] Health check passed
+[2025-11-07T11:40:29.621458] [WARN] Cache miss
+[2025-11-07T11:40:29.621440] [INFO] Request processed successfully
+[2025-11-07T11:40:29.621450] [INFO] Session started
+[2025-11-07T11:40:29.621461] [ERROR] Service unavailable
+[2025-11-07T11:40:29.621449] [INFO] Request processed successfully

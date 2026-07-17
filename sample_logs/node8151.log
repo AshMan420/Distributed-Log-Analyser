@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.156051] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.156036] [INFO] Database query executed
+[2025-11-07T11:40:30.156048] [ERROR] Request failed
+[2025-11-07T11:40:30.156039] [INFO] Cache hit
+[2025-11-07T11:40:30.156030] [INFO] Transaction completed
+[2025-11-07T11:40:30.156057] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.156053] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.156056] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.156031] [INFO] Session started
+[2025-11-07T11:40:30.156054] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.156047] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.156050] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.156045] [WARN] Slow query performance
+[2025-11-07T11:40:30.156029] [INFO] Session started
+[2025-11-07T11:40:30.156035] [INFO] Database query executed
+[2025-11-07T11:40:30.156055] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.156044] [WARN] Slow query performance
+[2025-11-07T11:40:30.156041] [INFO] Session started
+[2025-11-07T11:40:30.156058] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.156040] [INFO] Session started
+[2025-11-07T11:40:30.156043] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.156027] [INFO] Service initialized
+[2025-11-07T11:40:30.156042] [INFO] Session started
+[2025-11-07T11:40:30.156032] [INFO] Connection established
+[2025-11-07T11:40:30.156034] [INFO] Configuration loaded
+[2025-11-07T11:40:30.156046] [WARN] Cache miss
+[2025-11-07T11:40:30.156033] [INFO] Request processed successfully
+[2025-11-07T11:40:30.156052] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.156037] [INFO] Transaction completed
+[2025-11-07T11:40:30.156038] [INFO] Connection established

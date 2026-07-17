@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.418778] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.418765] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.418757] [INFO] Session started
+[2025-11-07T11:40:29.418767] [WARN] Slow query performance
+[2025-11-07T11:40:29.418760] [INFO] Request processed successfully
+[2025-11-07T11:40:29.418753] [INFO] Service initialized
+[2025-11-07T11:40:29.418762] [INFO] Session started
+[2025-11-07T11:40:29.418777] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.418772] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.418769] [ERROR] Request failed
+[2025-11-07T11:40:29.418779] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.418750] [INFO] Transaction completed
+[2025-11-07T11:40:29.418763] [INFO] Transaction completed
+[2025-11-07T11:40:29.418775] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.418776] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.418780] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.418768] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.418756] [INFO] Service initialized
+[2025-11-07T11:40:29.418763] [INFO] Connection established
+[2025-11-07T11:40:29.418752] [INFO] Session started
+[2025-11-07T11:40:29.418770] [ERROR] Request failed
+[2025-11-07T11:40:29.418758] [INFO] Service initialized
+[2025-11-07T11:40:29.418774] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.418781] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.418755] [INFO] Request processed successfully
+[2025-11-07T11:40:29.418759] [INFO] User logged in
+[2025-11-07T11:40:29.418771] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.418766] [WARN] Slow query performance
+[2025-11-07T11:40:29.418754] [INFO] Session started
+[2025-11-07T11:40:29.418751] [INFO] Session started
+[2025-11-07T11:40:29.418773] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.418748] [INFO] User logged in

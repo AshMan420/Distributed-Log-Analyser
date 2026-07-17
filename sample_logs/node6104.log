@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.941332] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.941307] [INFO] Transaction completed
+[2025-11-07T11:40:29.941309] [INFO] Session started
+[2025-11-07T11:40:29.941304] [INFO] Service initialized
+[2025-11-07T11:40:29.941313] [INFO] Transaction completed
+[2025-11-07T11:40:29.941331] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.941319] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.941308] [INFO] Database query executed
+[2025-11-07T11:40:29.941327] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.941321] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.941328] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.941320] [WARN] Disk space low
+[2025-11-07T11:40:29.941310] [INFO] Connection established
+[2025-11-07T11:40:29.941315] [INFO] Request processed successfully
+[2025-11-07T11:40:29.941314] [INFO] Session started
+[2025-11-07T11:40:29.941330] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.941326] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.941325] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.941323] [ERROR] Permission denied
+[2025-11-07T11:40:29.941311] [INFO] Health check passed
+[2025-11-07T11:40:29.941306] [INFO] Session started
+[2025-11-07T11:40:29.941316] [INFO] Service initialized
+[2025-11-07T11:40:29.941324] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.941322] [ERROR] Permission denied
+[2025-11-07T11:40:29.941312] [INFO] Connection established
+[2025-11-07T11:40:29.941317] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.941329] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.941318] [WARN] Deprecated API usage

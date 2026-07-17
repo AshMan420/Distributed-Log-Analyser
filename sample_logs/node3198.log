@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.635232] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.635235] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.635173] [INFO] User logged in
+[2025-11-07T11:40:29.635258] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.635172] [INFO] User logged in
+[2025-11-07T11:40:29.635266] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.635233] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.635170] [INFO] Connection established
+[2025-11-07T11:40:29.635188] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.635182] [INFO] Cache hit
+[2025-11-07T11:40:29.635181] [INFO] User logged in
+[2025-11-07T11:40:29.635180] [INFO] Cache hit
+[2025-11-07T11:40:29.635175] [INFO] Service initialized
+[2025-11-07T11:40:29.635177] [INFO] User logged in
+[2025-11-07T11:40:29.635256] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.635185] [INFO] Database query executed
+[2025-11-07T11:40:29.635257] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.635186] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.635189] [ERROR] Service unavailable
+[2025-11-07T11:40:29.634954] [INFO] Transaction completed
+[2025-11-07T11:40:29.635183] [INFO] Configuration loaded
+[2025-11-07T11:40:29.635179] [INFO] Transaction completed
+[2025-11-07T11:40:29.635191] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.635264] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.635178] [INFO] Cache hit
+[2025-11-07T11:40:29.635231] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.635230] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.635190] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.635174] [INFO] Connection established
+[2025-11-07T11:40:29.635184] [INFO] Transaction completed
+[2025-11-07T11:40:29.635176] [INFO] Service initialized

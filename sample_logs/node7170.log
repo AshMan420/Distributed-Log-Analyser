@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.055343] [INFO] Cache hit
+[2025-11-07T11:40:30.055338] [INFO] Service initialized
+[2025-11-07T11:40:30.055330] [INFO] Session started
+[2025-11-07T11:40:30.055364] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.055356] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.055344] [INFO] Connection established
+[2025-11-07T11:40:30.055355] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.055341] [INFO] Session started
+[2025-11-07T11:40:30.055332] [INFO] Health check passed
+[2025-11-07T11:40:30.055360] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.055359] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.055350] [ERROR] Authentication failed
+[2025-11-07T11:40:30.055337] [INFO] Health check passed
+[2025-11-07T11:40:30.055331] [INFO] Configuration loaded
+[2025-11-07T11:40:30.055348] [WARN] Slow query performance
+[2025-11-07T11:40:30.055345] [INFO] Database query executed
+[2025-11-07T11:40:30.055352] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.055365] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.055347] [WARN] Cache miss
+[2025-11-07T11:40:30.055363] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.055358] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.055353] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.055333] [INFO] Transaction completed
+[2025-11-07T11:40:30.055342] [INFO] Cache hit
+[2025-11-07T11:40:30.055361] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.055336] [INFO] Transaction completed
+[2025-11-07T11:40:30.055349] [WARN] Cache miss
+[2025-11-07T11:40:30.055334] [INFO] Cache hit
+[2025-11-07T11:40:30.055366] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.055357] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.055339] [INFO] Configuration loaded
+[2025-11-07T11:40:30.055335] [INFO] Session started
+[2025-11-07T11:40:30.055351] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.055354] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.055346] [WARN] Slow query performance
+[2025-11-07T11:40:30.055362] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.055340] [INFO] Transaction completed

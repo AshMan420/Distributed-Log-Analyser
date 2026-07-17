@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.656895] [INFO] Service initialized
+[2025-11-07T11:40:29.656902] [INFO] Connection established
+[2025-11-07T11:40:29.656891] [INFO] Database query executed
+[2025-11-07T11:40:29.656916] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.656905] [INFO] Connection established
+[2025-11-07T11:40:29.656925] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.656915] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.656904] [INFO] Connection established
+[2025-11-07T11:40:29.656920] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.656924] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.656898] [INFO] Health check passed
+[2025-11-07T11:40:29.656896] [INFO] Cache hit
+[2025-11-07T11:40:29.656899] [INFO] Transaction completed
+[2025-11-07T11:40:29.656897] [INFO] Configuration loaded
+[2025-11-07T11:40:29.656902] [INFO] Transaction completed
+[2025-11-07T11:40:29.656919] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.656922] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.656918] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.656917] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.656913] [WARN] Disk space low
+[2025-11-07T11:40:29.656923] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.656906] [INFO] Connection established
+[2025-11-07T11:40:29.656893] [INFO] Connection established
+[2025-11-07T11:40:29.656912] [WARN] High memory usage detected
+[2025-11-07T11:40:29.656907] [INFO] Database query executed
+[2025-11-07T11:40:29.656921] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.656894] [INFO] Connection established
+[2025-11-07T11:40:29.656911] [WARN] Timeout warning
+[2025-11-07T11:40:29.656903] [INFO] Health check passed
+[2025-11-07T11:40:29.656914] [ERROR] Service unavailable
+[2025-11-07T11:40:29.656892] [INFO] Service initialized
+[2025-11-07T11:40:29.656910] [WARN] Timeout warning
+[2025-11-07T11:40:29.656901] [INFO] Database query executed
+[2025-11-07T11:40:29.656908] [WARN] Cache miss

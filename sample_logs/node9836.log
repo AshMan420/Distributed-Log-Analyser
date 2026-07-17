@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.354666] [WARN] Timeout warning
+[2025-11-07T11:40:30.354657] [INFO] Cache hit
+[2025-11-07T11:40:30.354668] [WARN] Queue size growing
+[2025-11-07T11:40:30.354676] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.354678] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.354675] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.354664] [WARN] High memory usage detected
+[2025-11-07T11:40:30.354650] [INFO] Health check passed
+[2025-11-07T11:40:30.354651] [INFO] Cache hit
+[2025-11-07T11:40:30.354672] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.354648] [INFO] Service initialized
+[2025-11-07T11:40:30.354660] [INFO] Transaction completed
+[2025-11-07T11:40:30.354679] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.354671] [ERROR] Disk read failed
+[2025-11-07T11:40:30.354674] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.354653] [INFO] Cache hit
+[2025-11-07T11:40:30.354658] [INFO] Database query executed
+[2025-11-07T11:40:30.354680] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.354655] [INFO] Transaction completed
+[2025-11-07T11:40:30.354654] [INFO] Service initialized
+[2025-11-07T11:40:30.354670] [ERROR] Invalid input data
+[2025-11-07T11:40:30.354663] [INFO] Cache hit
+[2025-11-07T11:40:30.354662] [INFO] Session started
+[2025-11-07T11:40:30.354652] [INFO] Service initialized
+[2025-11-07T11:40:30.354656] [INFO] Configuration loaded
+[2025-11-07T11:40:30.354659] [INFO] Service initialized
+[2025-11-07T11:40:30.354677] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.354661] [INFO] Configuration loaded
+[2025-11-07T11:40:30.354667] [WARN] Disk space low
+[2025-11-07T11:40:30.354667] [WARN] Timeout warning
+[2025-11-07T11:40:30.354673] [DEBUG] Timer set: 30 seconds

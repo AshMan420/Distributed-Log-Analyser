@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.349784] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.349763] [INFO] Connection established
+[2025-11-07T11:40:29.349790] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.349779] [WARN] Cache miss
+[2025-11-07T11:40:29.349761] [INFO] Cache hit
+[2025-11-07T11:40:29.349758] [INFO] Database query executed
+[2025-11-07T11:40:29.349786] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.349769] [INFO] Cache hit
+[2025-11-07T11:40:29.349787] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.349768] [INFO] Transaction completed
+[2025-11-07T11:40:29.349756] [INFO] Transaction completed
+[2025-11-07T11:40:29.349782] [ERROR] Disk read failed
+[2025-11-07T11:40:29.349783] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.349775] [INFO] User logged in
+[2025-11-07T11:40:29.349767] [INFO] Health check passed
+[2025-11-07T11:40:29.349776] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.349792] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.349785] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.349772] [INFO] Request processed successfully
+[2025-11-07T11:40:29.349777] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.349773] [INFO] Session started
+[2025-11-07T11:40:29.349766] [INFO] Transaction completed
+[2025-11-07T11:40:29.349770] [INFO] Transaction completed
+[2025-11-07T11:40:29.349759] [INFO] Connection established
+[2025-11-07T11:40:29.349781] [ERROR] Service unavailable
+[2025-11-07T11:40:29.349780] [WARN] Disk space low
+[2025-11-07T11:40:29.349790] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.349771] [INFO] Configuration loaded
+[2025-11-07T11:40:29.349774] [INFO] Service initialized
+[2025-11-07T11:40:29.349778] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.349762] [INFO] Connection established
+[2025-11-07T11:40:29.349765] [INFO] Health check passed
+[2025-11-07T11:40:29.349789] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.349760] [INFO] Cache hit
+[2025-11-07T11:40:29.349764] [INFO] Transaction completed

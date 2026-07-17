@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.623212] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.623225] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.623223] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.623210] [INFO] Transaction completed
+[2025-11-07T11:40:29.623220] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.623215] [WARN] Queue size growing
+[2025-11-07T11:40:29.623219] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.623208] [INFO] Database query executed
+[2025-11-07T11:40:29.623226] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.623216] [ERROR] Database connection lost
+[2025-11-07T11:40:29.623200] [INFO] Health check passed
+[2025-11-07T11:40:29.623209] [INFO] Configuration loaded
+[2025-11-07T11:40:29.623201] [INFO] Configuration loaded
+[2025-11-07T11:40:29.623218] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.623211] [INFO] Request processed successfully
+[2025-11-07T11:40:29.623222] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.623203] [INFO] Request processed successfully
+[2025-11-07T11:40:29.623206] [INFO] Service initialized
+[2025-11-07T11:40:29.623207] [INFO] Configuration loaded
+[2025-11-07T11:40:29.623199] [INFO] Request processed successfully
+[2025-11-07T11:40:29.623213] [WARN] Cache miss
+[2025-11-07T11:40:29.623221] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.623217] [ERROR] Database connection lost
+[2025-11-07T11:40:29.623214] [WARN] Cache miss
+[2025-11-07T11:40:29.623198] [INFO] Configuration loaded
+[2025-11-07T11:40:29.623205] [INFO] Request processed successfully
+[2025-11-07T11:40:29.623202] [INFO] Database query executed
+[2025-11-07T11:40:29.623204] [INFO] Service initialized

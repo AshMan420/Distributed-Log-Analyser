@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.815140] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.815139] [WARN] Timeout warning
+[2025-11-07T11:40:29.815153] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.815126] [INFO] Health check passed
+[2025-11-07T11:40:29.815153] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.815155] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.815139] [WARN] Slow query performance
+[2025-11-07T11:40:29.815149] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.815150] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.815147] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.815133] [INFO] Session started
+[2025-11-07T11:40:29.815141] [WARN] Slow query performance
+[2025-11-07T11:40:29.815130] [INFO] User logged in
+[2025-11-07T11:40:29.815136] [INFO] Configuration loaded
+[2025-11-07T11:40:29.815122] [INFO] Health check passed
+[2025-11-07T11:40:29.815129] [INFO] Session started
+[2025-11-07T11:40:29.815143] [WARN] Slow query performance
+[2025-11-07T11:40:29.815121] [INFO] Database query executed
+[2025-11-07T11:40:29.815125] [INFO] Health check passed
+[2025-11-07T11:40:29.815124] [INFO] Health check passed
+[2025-11-07T11:40:29.815134] [INFO] Transaction completed
+[2025-11-07T11:40:29.815132] [INFO] Configuration loaded
+[2025-11-07T11:40:29.815127] [INFO] User logged in
+[2025-11-07T11:40:29.815144] [ERROR] Permission denied
+[2025-11-07T11:40:29.815148] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.815142] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.815138] [WARN] Queue size growing
+[2025-11-07T11:40:29.815128] [INFO] Request processed successfully
+[2025-11-07T11:40:29.815145] [ERROR] Database connection lost
+[2025-11-07T11:40:29.815135] [INFO] Transaction completed
+[2025-11-07T11:40:29.815151] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.815152] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.815136] [INFO] Database query executed
+[2025-11-07T11:40:29.815123] [INFO] Connection established

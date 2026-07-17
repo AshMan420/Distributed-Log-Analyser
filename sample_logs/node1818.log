@@ -1,0 +1,23 @@
+[2025-11-07T11:40:29.485934] [INFO] Health check passed
+[2025-11-07T11:40:29.485950] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.485931] [INFO] Service initialized
+[2025-11-07T11:40:29.485943] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.485939] [INFO] User logged in
+[2025-11-07T11:40:29.485938] [INFO] User logged in
+[2025-11-07T11:40:29.485933] [INFO] Health check passed
+[2025-11-07T11:40:29.485951] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.485953] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.485949] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.485955] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.485942] [WARN] Queue size growing
+[2025-11-07T11:40:29.485936] [INFO] Connection established
+[2025-11-07T11:40:29.485947] [WARN] Slow query performance
+[2025-11-07T11:40:29.485935] [INFO] Database query executed
+[2025-11-07T11:40:29.485946] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.485945] [WARN] Timeout warning
+[2025-11-07T11:40:29.485937] [INFO] Request processed successfully
+[2025-11-07T11:40:29.485952] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.485941] [INFO] User logged in
+[2025-11-07T11:40:29.485944] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.485948] [ERROR] Request failed
+[2025-11-07T11:40:29.485940] [INFO] Cache hit

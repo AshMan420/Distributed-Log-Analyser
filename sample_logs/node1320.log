@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.429675] [INFO] Database query executed
+[2025-11-07T11:40:29.429694] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.429689] [ERROR] Invalid input data
+[2025-11-07T11:40:29.429672] [INFO] Session started
+[2025-11-07T11:40:29.429692] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.429691] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.429671] [INFO] Health check passed
+[2025-11-07T11:40:29.429677] [INFO] Cache hit
+[2025-11-07T11:40:29.429685] [INFO] Health check passed
+[2025-11-07T11:40:29.429676] [INFO] Connection established
+[2025-11-07T11:40:29.429678] [INFO] Database query executed
+[2025-11-07T11:40:29.429696] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.429679] [INFO] Service initialized
+[2025-11-07T11:40:29.429684] [INFO] Cache hit
+[2025-11-07T11:40:29.429688] [WARN] Slow query performance
+[2025-11-07T11:40:29.429687] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.429697] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.429681] [INFO] Service initialized
+[2025-11-07T11:40:29.429680] [INFO] Health check passed
+[2025-11-07T11:40:29.429690] [ERROR] Network timeout
+[2025-11-07T11:40:29.429698] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.429683] [INFO] Cache hit
+[2025-11-07T11:40:29.429699] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.429682] [INFO] Database query executed
+[2025-11-07T11:40:29.429673] [INFO] Request processed successfully
+[2025-11-07T11:40:29.429693] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.429674] [INFO] Transaction completed
+[2025-11-07T11:40:29.429695] [DEBUG] Entering function process_data()

@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.669411] [INFO] Transaction completed
+[2025-11-07T11:40:29.669424] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.669434] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.669433] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.669419] [INFO] Configuration loaded
+[2025-11-07T11:40:29.669417] [INFO] Health check passed
+[2025-11-07T11:40:29.669414] [INFO] Database query executed
+[2025-11-07T11:40:29.669425] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.669410] [INFO] Service initialized
+[2025-11-07T11:40:29.669435] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.669422] [WARN] Slow query performance
+[2025-11-07T11:40:29.669418] [INFO] Configuration loaded
+[2025-11-07T11:40:29.669437] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.669407] [INFO] Database query executed
+[2025-11-07T11:40:29.669420] [INFO] Session started
+[2025-11-07T11:40:29.669415] [INFO] Transaction completed
+[2025-11-07T11:40:29.669438] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.669430] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.669421] [WARN] Cache miss
+[2025-11-07T11:40:29.669408] [INFO] Health check passed
+[2025-11-07T11:40:29.669423] [WARN] Cache miss
+[2025-11-07T11:40:29.669416] [INFO] Request processed successfully
+[2025-11-07T11:40:29.669426] [ERROR] Permission denied
+[2025-11-07T11:40:29.669436] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.669432] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.669412] [INFO] Connection established
+[2025-11-07T11:40:29.669413] [INFO] Configuration loaded
+[2025-11-07T11:40:29.669405] [INFO] Service initialized
+[2025-11-07T11:40:29.669428] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.669409] [INFO] Cache hit
+[2025-11-07T11:40:29.669437] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.669429] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.669431] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.669427] [ERROR] Memory allocation error

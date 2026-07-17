@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.748536] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.748521] [INFO] Session started
+[2025-11-07T11:40:29.748510] [INFO] User logged in
+[2025-11-07T11:40:29.748534] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.748508] [INFO] Database query executed
+[2025-11-07T11:40:29.748531] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.748511] [INFO] Connection established
+[2025-11-07T11:40:29.748530] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.748512] [INFO] Configuration loaded
+[2025-11-07T11:40:29.748516] [INFO] Connection established
+[2025-11-07T11:40:29.748514] [INFO] Transaction completed
+[2025-11-07T11:40:29.748525] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.748519] [INFO] Transaction completed
+[2025-11-07T11:40:29.748520] [INFO] Connection established
+[2025-11-07T11:40:29.748527] [ERROR] Service unavailable
+[2025-11-07T11:40:29.748518] [INFO] Request processed successfully
+[2025-11-07T11:40:29.748517] [INFO] Connection established
+[2025-11-07T11:40:29.748526] [WARN] Queue size growing
+[2025-11-07T11:40:29.748507] [INFO] Session started
+[2025-11-07T11:40:29.748513] [INFO] Cache hit
+[2025-11-07T11:40:29.748524] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.748532] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.748523] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.748535] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.748522] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.748528] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.748529] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.748515] [INFO] Service initialized
+[2025-11-07T11:40:29.748533] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.748515] [INFO] Database query executed

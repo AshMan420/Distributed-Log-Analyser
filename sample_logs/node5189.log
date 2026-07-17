@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.841994] [INFO] User logged in
+[2025-11-07T11:40:29.841991] [INFO] Health check passed
+[2025-11-07T11:40:29.841996] [INFO] Cache hit
+[2025-11-07T11:40:29.841982] [INFO] Session started
+[2025-11-07T11:40:29.842009] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.841980] [INFO] Configuration loaded
+[2025-11-07T11:40:29.842013] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.841993] [INFO] Connection established
+[2025-11-07T11:40:29.842003] [WARN] Slow query performance
+[2025-11-07T11:40:29.842008] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.842014] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.842011] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.841987] [INFO] Configuration loaded
+[2025-11-07T11:40:29.841995] [INFO] Cache hit
+[2025-11-07T11:40:29.842002] [WARN] Slow query performance
+[2025-11-07T11:40:29.842015] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.842005] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.842007] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.842000] [WARN] High memory usage detected
+[2025-11-07T11:40:29.841997] [INFO] Database query executed
+[2025-11-07T11:40:29.841985] [INFO] Session started
+[2025-11-07T11:40:29.841986] [INFO] Connection established
+[2025-11-07T11:40:29.841990] [INFO] Health check passed
+[2025-11-07T11:40:29.841983] [INFO] Service initialized
+[2025-11-07T11:40:29.842001] [WARN] Slow query performance
+[2025-11-07T11:40:29.842006] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.841992] [INFO] Session started
+[2025-11-07T11:40:29.841984] [INFO] Cache hit
+[2025-11-07T11:40:29.841989] [INFO] Transaction completed
+[2025-11-07T11:40:29.842012] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.842010] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.841988] [INFO] Transaction completed
+[2025-11-07T11:40:29.842004] [ERROR] Disk read failed
+[2025-11-07T11:40:29.841998] [INFO] Database query executed
+[2025-11-07T11:40:29.841999] [WARN] Resource threshold approaching

@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.497380] [ERROR] Request failed
+[2025-11-07T11:40:29.497377] [INFO] Connection established
+[2025-11-07T11:40:29.497364] [INFO] Database query executed
+[2025-11-07T11:40:29.497386] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.497381] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.497372] [INFO] Database query executed
+[2025-11-07T11:40:29.497371] [INFO] Health check passed
+[2025-11-07T11:40:29.497382] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.497372] [INFO] Configuration loaded
+[2025-11-07T11:40:29.497378] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.497375] [INFO] Request processed successfully
+[2025-11-07T11:40:29.497384] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.497373] [INFO] Session started
+[2025-11-07T11:40:29.497366] [INFO] Database query executed
+[2025-11-07T11:40:29.497387] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.497376] [INFO] Configuration loaded
+[2025-11-07T11:40:29.497370] [INFO] Cache hit
+[2025-11-07T11:40:29.497367] [INFO] User logged in
+[2025-11-07T11:40:29.497383] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.497385] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.497379] [ERROR] Database connection lost
+[2025-11-07T11:40:29.497388] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.497389] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.497368] [INFO] Session started
+[2025-11-07T11:40:29.497374] [INFO] Health check passed
+[2025-11-07T11:40:29.497369] [INFO] Connection established

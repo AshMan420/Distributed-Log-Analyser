@@ -1,0 +1,23 @@
+[2025-11-07T11:40:30.057721] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.057716] [WARN] Slow query performance
+[2025-11-07T11:40:30.057708] [INFO] Service initialized
+[2025-11-07T11:40:30.057720] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.057714] [INFO] Connection established
+[2025-11-07T11:40:30.057713] [INFO] Cache hit
+[2025-11-07T11:40:30.057715] [INFO] Configuration loaded
+[2025-11-07T11:40:30.057727] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.057722] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.057709] [INFO] Connection established
+[2025-11-07T11:40:30.057723] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.057707] [INFO] Transaction completed
+[2025-11-07T11:40:30.057725] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.057710] [INFO] Connection established
+[2025-11-07T11:40:30.057712] [INFO] Transaction completed
+[2025-11-07T11:40:30.057717] [WARN] Cache miss
+[2025-11-07T11:40:30.057728] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.057705] [INFO] Database query executed
+[2025-11-07T11:40:30.057724] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.057706] [INFO] Session started
+[2025-11-07T11:40:30.057726] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.057711] [INFO] Connection established
+[2025-11-07T11:40:30.057718] [ERROR] Authentication failed

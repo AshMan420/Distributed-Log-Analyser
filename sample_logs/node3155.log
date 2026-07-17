@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.630507] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.630503] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.630475] [INFO] Configuration loaded
+[2025-11-07T11:40:29.630485] [INFO] Health check passed
+[2025-11-07T11:40:29.630486] [INFO] Cache hit
+[2025-11-07T11:40:29.630481] [INFO] Database query executed
+[2025-11-07T11:40:29.630496] [ERROR] Database connection lost
+[2025-11-07T11:40:29.630491] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.630488] [INFO] Connection established
+[2025-11-07T11:40:29.630483] [INFO] Transaction completed
+[2025-11-07T11:40:29.630494] [WARN] Timeout warning
+[2025-11-07T11:40:29.630490] [WARN] Timeout warning
+[2025-11-07T11:40:29.630480] [INFO] Connection established
+[2025-11-07T11:40:29.630502] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.630497] [ERROR] Network timeout
+[2025-11-07T11:40:29.630482] [INFO] Database query executed
+[2025-11-07T11:40:29.630500] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.630492] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.630493] [WARN] Slow query performance
+[2025-11-07T11:40:29.630505] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.630478] [INFO] Configuration loaded
+[2025-11-07T11:40:29.630487] [INFO] Database query executed
+[2025-11-07T11:40:29.630479] [INFO] Service initialized
+[2025-11-07T11:40:29.630498] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.630489] [INFO] Connection established
+[2025-11-07T11:40:29.630504] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.630477] [INFO] User logged in
+[2025-11-07T11:40:29.630501] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.630499] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.630506] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.630484] [INFO] Database query executed
+[2025-11-07T11:40:29.630495] [WARN] Queue size growing

@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.545121] [INFO] Connection established
+[2025-11-07T11:40:29.545136] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.545137] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.545130] [ERROR] Request failed
+[2025-11-07T11:40:29.545116] [INFO] Connection established
+[2025-11-07T11:40:29.545124] [INFO] Session started
+[2025-11-07T11:40:29.545139] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.545114] [INFO] Connection established
+[2025-11-07T11:40:29.545125] [WARN] Timeout warning
+[2025-11-07T11:40:29.545133] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.545112] [INFO] Health check passed
+[2025-11-07T11:40:29.545126] [WARN] Disk space low
+[2025-11-07T11:40:29.545131] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.545122] [INFO] Request processed successfully
+[2025-11-07T11:40:29.545132] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.545119] [INFO] Session started
+[2025-11-07T11:40:29.545113] [INFO] Session started
+[2025-11-07T11:40:29.545129] [ERROR] Disk read failed
+[2025-11-07T11:40:29.545138] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.545120] [INFO] User logged in
+[2025-11-07T11:40:29.545115] [INFO] Configuration loaded
+[2025-11-07T11:40:29.545117] [INFO] Cache hit
+[2025-11-07T11:40:29.545118] [INFO] Health check passed
+[2025-11-07T11:40:29.545123] [INFO] Session started
+[2025-11-07T11:40:29.545135] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.545128] [WARN] High memory usage detected
+[2025-11-07T11:40:29.545134] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.545127] [WARN] Resource threshold approaching

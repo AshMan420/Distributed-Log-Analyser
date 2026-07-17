@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.892497] [WARN] Disk space low
+[2025-11-07T11:40:29.892504] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892478] [INFO] Configuration loaded
+[2025-11-07T11:40:29.892496] [WARN] Queue size growing
+[2025-11-07T11:40:29.892486] [INFO] Transaction completed
+[2025-11-07T11:40:29.892501] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892479] [INFO] Cache hit
+[2025-11-07T11:40:29.892480] [INFO] Configuration loaded
+[2025-11-07T11:40:29.892505] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.892490] [INFO] Service initialized
+[2025-11-07T11:40:29.892509] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892510] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.892490] [INFO] Cache hit
+[2025-11-07T11:40:29.892495] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.892487] [INFO] Transaction completed
+[2025-11-07T11:40:29.892506] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.892489] [INFO] Request processed successfully
+[2025-11-07T11:40:29.892507] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.892511] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892485] [INFO] Connection established
+[2025-11-07T11:40:29.892503] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892481] [INFO] Service initialized
+[2025-11-07T11:40:29.892482] [INFO] Session started
+[2025-11-07T11:40:29.892513] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.892493] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.892500] [ERROR] Request failed
+[2025-11-07T11:40:29.892508] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.892492] [INFO] Session started
+[2025-11-07T11:40:29.892498] [WARN] High memory usage detected
+[2025-11-07T11:40:29.892502] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.892512] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.892491] [INFO] Health check passed
+[2025-11-07T11:40:29.892484] [INFO] User logged in
+[2025-11-07T11:40:29.892476] [INFO] Configuration loaded
+[2025-11-07T11:40:29.892483] [INFO] Session started
+[2025-11-07T11:40:29.892488] [INFO] Request processed successfully
+[2025-11-07T11:40:29.892494] [WARN] Slow query performance

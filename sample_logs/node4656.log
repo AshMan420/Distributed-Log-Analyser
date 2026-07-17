@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.788165] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.788162] [ERROR] Disk read failed
+[2025-11-07T11:40:29.788164] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.788146] [INFO] Service initialized
+[2025-11-07T11:40:29.788143] [INFO] Cache hit
+[2025-11-07T11:40:29.788154] [INFO] User logged in
+[2025-11-07T11:40:29.788159] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.788141] [INFO] Request processed successfully
+[2025-11-07T11:40:29.788136] [INFO] Request processed successfully
+[2025-11-07T11:40:29.788168] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.788172] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.788144] [INFO] Database query executed
+[2025-11-07T11:40:29.788170] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.788158] [WARN] Slow query performance
+[2025-11-07T11:40:29.788138] [INFO] User logged in
+[2025-11-07T11:40:29.788140] [INFO] Cache hit
+[2025-11-07T11:40:29.788166] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.788156] [WARN] Queue size growing
+[2025-11-07T11:40:29.788169] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.788157] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.788139] [INFO] Configuration loaded
+[2025-11-07T11:40:29.788171] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.788147] [INFO] Database query executed
+[2025-11-07T11:40:29.788173] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.788151] [INFO] User logged in
+[2025-11-07T11:40:29.788161] [ERROR] Authentication failed
+[2025-11-07T11:40:29.788145] [INFO] Database query executed
+[2025-11-07T11:40:29.788149] [INFO] User logged in
+[2025-11-07T11:40:29.788142] [INFO] Cache hit
+[2025-11-07T11:40:29.788167] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.788174] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.788150] [INFO] User logged in
+[2025-11-07T11:40:29.788153] [INFO] Request processed successfully

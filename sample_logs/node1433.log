@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.441897] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.441903] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.441881] [INFO] Service initialized
+[2025-11-07T11:40:29.441885] [INFO] Configuration loaded
+[2025-11-07T11:40:29.441891] [WARN] Queue size growing
+[2025-11-07T11:40:29.441884] [INFO] Configuration loaded
+[2025-11-07T11:40:29.441875] [INFO] Service initialized
+[2025-11-07T11:40:29.441896] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.441877] [INFO] Configuration loaded
+[2025-11-07T11:40:29.441883] [INFO] Transaction completed
+[2025-11-07T11:40:29.441892] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.441902] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.441876] [INFO] Database query executed
+[2025-11-07T11:40:29.441882] [INFO] Service initialized
+[2025-11-07T11:40:29.441898] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.441893] [WARN] Slow query performance
+[2025-11-07T11:40:29.441890] [INFO] Service initialized
+[2025-11-07T11:40:29.441900] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.441887] [INFO] Connection established
+[2025-11-07T11:40:29.441904] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.441886] [INFO] User logged in
+[2025-11-07T11:40:29.441879] [INFO] Request processed successfully
+[2025-11-07T11:40:29.441899] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.441895] [ERROR] Permission denied
+[2025-11-07T11:40:29.441901] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.441894] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.441880] [INFO] Request processed successfully
+[2025-11-07T11:40:29.441888] [INFO] User logged in
+[2025-11-07T11:40:29.441889] [INFO] Transaction completed

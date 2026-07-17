@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.712210] [INFO] Connection established
+[2025-11-07T11:40:29.712215] [WARN] High memory usage detected
+[2025-11-07T11:40:29.712216] [WARN] Queue size growing
+[2025-11-07T11:40:29.712196] [INFO] Request processed successfully
+[2025-11-07T11:40:29.712218] [ERROR] Permission denied
+[2025-11-07T11:40:29.712211] [INFO] User logged in
+[2025-11-07T11:40:29.712225] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.712201] [INFO] Session started
+[2025-11-07T11:40:29.712202] [INFO] Database query executed
+[2025-11-07T11:40:29.712204] [INFO] Configuration loaded
+[2025-11-07T11:40:29.712221] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.712203] [INFO] Transaction completed
+[2025-11-07T11:40:29.712220] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.712227] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.712219] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.712205] [INFO] Transaction completed
+[2025-11-07T11:40:29.712207] [INFO] Database query executed
+[2025-11-07T11:40:29.712224] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.712199] [INFO] Connection established
+[2025-11-07T11:40:29.712217] [WARN] Timeout warning
+[2025-11-07T11:40:29.712223] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.712209] [INFO] Database query executed
+[2025-11-07T11:40:29.712230] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.712229] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.712200] [INFO] Session started
+[2025-11-07T11:40:29.712222] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.712228] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.712198] [INFO] Request processed successfully
+[2025-11-07T11:40:29.712212] [INFO] Database query executed
+[2025-11-07T11:40:29.712214] [WARN] Cache miss
+[2025-11-07T11:40:29.712208] [INFO] Transaction completed
+[2025-11-07T11:40:29.712213] [WARN] Cache miss
+[2025-11-07T11:40:29.712206] [INFO] Database query executed
+[2025-11-07T11:40:29.712226] [DEBUG] Loop iteration: 15

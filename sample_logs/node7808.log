@@ -1,0 +1,25 @@
+[2025-11-07T11:40:30.120649] [INFO] User logged in
+[2025-11-07T11:40:30.120657] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.120654] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.120653] [ERROR] Network timeout
+[2025-11-07T11:40:30.120665] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.120645] [INFO] Session started
+[2025-11-07T11:40:30.120658] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.120644] [INFO] Service initialized
+[2025-11-07T11:40:30.120663] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.120647] [INFO] Transaction completed
+[2025-11-07T11:40:30.120660] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.120651] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.120666] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.120655] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.120662] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.120642] [INFO] Configuration loaded
+[2025-11-07T11:40:30.120639] [INFO] Service initialized
+[2025-11-07T11:40:30.120656] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.120664] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.120646] [INFO] Connection established
+[2025-11-07T11:40:30.120643] [INFO] Session started
+[2025-11-07T11:40:30.120650] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.120641] [INFO] User logged in
+[2025-11-07T11:40:30.120659] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.120648] [INFO] Database query executed

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.455717] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.455701] [INFO] Service initialized
+[2025-11-07T11:40:29.455697] [INFO] Request processed successfully
+[2025-11-07T11:40:29.455698] [INFO] Database query executed
+[2025-11-07T11:40:29.455709] [WARN] High memory usage detected
+[2025-11-07T11:40:29.455716] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.455710] [WARN] High memory usage detected
+[2025-11-07T11:40:29.455707] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.455708] [WARN] Cache miss
+[2025-11-07T11:40:29.455705] [INFO] Transaction completed
+[2025-11-07T11:40:29.455693] [INFO] Configuration loaded
+[2025-11-07T11:40:29.455718] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.455720] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.455721] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.455699] [INFO] User logged in
+[2025-11-07T11:40:29.455704] [INFO] Transaction completed
+[2025-11-07T11:40:29.455694] [INFO] Connection established
+[2025-11-07T11:40:29.455719] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.455691] [INFO] Health check passed
+[2025-11-07T11:40:29.455703] [INFO] Session started
+[2025-11-07T11:40:29.455700] [INFO] User logged in
+[2025-11-07T11:40:29.455713] [ERROR] File not found
+[2025-11-07T11:40:29.455706] [INFO] Health check passed
+[2025-11-07T11:40:29.455715] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.455696] [INFO] Session started
+[2025-11-07T11:40:29.455711] [WARN] Disk space low
+[2025-11-07T11:40:29.455714] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.455702] [INFO] Session started
+[2025-11-07T11:40:29.455695] [INFO] Configuration loaded

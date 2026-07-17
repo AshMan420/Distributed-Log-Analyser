@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.283389] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.283387] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.283374] [INFO] Configuration loaded
+[2025-11-07T11:40:30.283369] [INFO] Connection established
+[2025-11-07T11:40:30.283371] [INFO] Connection established
+[2025-11-07T11:40:30.283382] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.283367] [INFO] Health check passed
+[2025-11-07T11:40:30.283368] [INFO] Health check passed
+[2025-11-07T11:40:30.283365] [INFO] Configuration loaded
+[2025-11-07T11:40:30.283386] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.283385] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.283388] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.283379] [INFO] Session started
+[2025-11-07T11:40:30.283370] [INFO] Configuration loaded
+[2025-11-07T11:40:30.283390] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.283380] [WARN] Timeout warning
+[2025-11-07T11:40:30.283378] [INFO] Cache hit
+[2025-11-07T11:40:30.283377] [INFO] User logged in
+[2025-11-07T11:40:30.283373] [INFO] Connection established
+[2025-11-07T11:40:30.283372] [INFO] Service initialized
+[2025-11-07T11:40:30.283381] [WARN] Timeout warning
+[2025-11-07T11:40:30.283376] [INFO] Cache hit
+[2025-11-07T11:40:30.283384] [ERROR] File not found
+[2025-11-07T11:40:30.283391] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.283392] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.283392] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.283383] [WARN] Slow query performance
+[2025-11-07T11:40:30.283375] [INFO] Connection established

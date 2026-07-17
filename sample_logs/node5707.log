@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.894659] [WARN] Queue size growing
+[2025-11-07T11:40:29.894663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.894657] [WARN] Slow query performance
+[2025-11-07T11:40:29.894658] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.894669] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.894651] [INFO] Connection established
+[2025-11-07T11:40:29.894664] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.894653] [INFO] Connection established
+[2025-11-07T11:40:29.894668] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.894645] [INFO] Session started
+[2025-11-07T11:40:29.894667] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.894670] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.894643] [INFO] User logged in
+[2025-11-07T11:40:29.894665] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.894660] [WARN] Queue size growing
+[2025-11-07T11:40:29.894654] [INFO] Cache hit
+[2025-11-07T11:40:29.894661] [ERROR] Service unavailable
+[2025-11-07T11:40:29.894654] [INFO] Service initialized
+[2025-11-07T11:40:29.894671] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.894649] [INFO] Health check passed
+[2025-11-07T11:40:29.894642] [INFO] User logged in
+[2025-11-07T11:40:29.894648] [INFO] Cache hit
+[2025-11-07T11:40:29.894662] [ERROR] Service unavailable
+[2025-11-07T11:40:29.894644] [INFO] Health check passed
+[2025-11-07T11:40:29.894655] [WARN] Slow query performance
+[2025-11-07T11:40:29.894666] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.894647] [INFO] Transaction completed
+[2025-11-07T11:40:29.894650] [INFO] Cache hit
+[2025-11-07T11:40:29.894647] [INFO] Service initialized

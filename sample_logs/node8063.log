@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.146401] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.146383] [INFO] Request processed successfully
+[2025-11-07T11:40:30.146378] [INFO] Session started
+[2025-11-07T11:40:30.146380] [INFO] Database query executed
+[2025-11-07T11:40:30.146385] [INFO] Transaction completed
+[2025-11-07T11:40:30.146396] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.146375] [INFO] Connection established
+[2025-11-07T11:40:30.146384] [INFO] Connection established
+[2025-11-07T11:40:30.146377] [INFO] Service initialized
+[2025-11-07T11:40:30.146394] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.146388] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.146392] [ERROR] Service unavailable
+[2025-11-07T11:40:30.146398] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.146386] [INFO] Database query executed
+[2025-11-07T11:40:30.146390] [WARN] Queue size growing
+[2025-11-07T11:40:30.146376] [INFO] Request processed successfully
+[2025-11-07T11:40:30.146381] [INFO] Request processed successfully
+[2025-11-07T11:40:30.146387] [WARN] Disk space low
+[2025-11-07T11:40:30.146399] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.146402] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.146382] [INFO] Connection established
+[2025-11-07T11:40:30.146380] [INFO] User logged in
+[2025-11-07T11:40:30.146395] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.146393] [ERROR] Database connection lost
+[2025-11-07T11:40:30.146397] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.146389] [WARN] Slow query performance
+[2025-11-07T11:40:30.146400] [DEBUG] HTTP request headers parsed

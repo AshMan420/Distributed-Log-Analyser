@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.975842] [ERROR] Invalid input data
+[2025-11-07T11:40:29.975834] [INFO] User logged in
+[2025-11-07T11:40:29.975844] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.975851] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.975831] [INFO] Session started
+[2025-11-07T11:40:29.975849] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.975835] [INFO] Configuration loaded
+[2025-11-07T11:40:29.975846] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.975850] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.975848] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.975832] [INFO] Request processed successfully
+[2025-11-07T11:40:29.975838] [INFO] Connection established
+[2025-11-07T11:40:29.975836] [INFO] Connection established
+[2025-11-07T11:40:29.975852] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.975840] [INFO] Cache hit
+[2025-11-07T11:40:29.975828] [INFO] Session started
+[2025-11-07T11:40:29.975841] [WARN] Disk space low
+[2025-11-07T11:40:29.975825] [INFO] Cache hit
+[2025-11-07T11:40:29.975845] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.975829] [INFO] Service initialized
+[2025-11-07T11:40:29.975837] [INFO] Configuration loaded
+[2025-11-07T11:40:29.975833] [INFO] Service initialized
+[2025-11-07T11:40:29.975839] [INFO] Service initialized
+[2025-11-07T11:40:29.975847] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.975827] [INFO] Service initialized
+[2025-11-07T11:40:29.975843] [ERROR] Request failed
+[2025-11-07T11:40:29.975830] [INFO] Transaction completed

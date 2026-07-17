@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.249724] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.249713] [WARN] Cache miss
+[2025-11-07T11:40:30.249729] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.249706] [INFO] Cache hit
+[2025-11-07T11:40:30.249699] [INFO] Service initialized
+[2025-11-07T11:40:30.249697] [INFO] Service initialized
+[2025-11-07T11:40:30.249704] [INFO] User logged in
+[2025-11-07T11:40:30.249717] [ERROR] Database connection lost
+[2025-11-07T11:40:30.249723] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.249727] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.249720] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.249695] [INFO] Transaction completed
+[2025-11-07T11:40:30.249693] [INFO] Configuration loaded
+[2025-11-07T11:40:30.249722] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.249692] [INFO] Health check passed
+[2025-11-07T11:40:30.249728] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.249730] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.249705] [INFO] User logged in
+[2025-11-07T11:40:30.249701] [INFO] Cache hit
+[2025-11-07T11:40:30.249702] [INFO] Cache hit
+[2025-11-07T11:40:30.249709] [INFO] User logged in
+[2025-11-07T11:40:30.249708] [INFO] Request processed successfully
+[2025-11-07T11:40:30.249716] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.249714] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.249698] [INFO] Configuration loaded
+[2025-11-07T11:40:30.249694] [INFO] User logged in
+[2025-11-07T11:40:30.249712] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.249718] [ERROR] Request failed
+[2025-11-07T11:40:30.249710] [WARN] High memory usage detected
+[2025-11-07T11:40:30.249725] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.249700] [INFO] User logged in

@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.323950] [INFO] Health check passed
+[2025-11-07T11:40:29.323955] [INFO] Configuration loaded
+[2025-11-07T11:40:29.323973] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.323951] [INFO] Session started
+[2025-11-07T11:40:29.323964] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.323975] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.323943] [INFO] Service initialized
+[2025-11-07T11:40:29.323946] [INFO] Transaction completed
+[2025-11-07T11:40:29.323972] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.323972] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.323965] [ERROR] Permission denied
+[2025-11-07T11:40:29.323956] [INFO] Configuration loaded
+[2025-11-07T11:40:29.323966] [ERROR] Disk read failed
+[2025-11-07T11:40:29.323957] [INFO] Session started
+[2025-11-07T11:40:29.323969] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.323953] [INFO] Cache hit
+[2025-11-07T11:40:29.323962] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.323954] [INFO] Request processed successfully
+[2025-11-07T11:40:29.323963] [WARN] Disk space low
+[2025-11-07T11:40:29.323958] [INFO] Connection established
+[2025-11-07T11:40:29.323947] [INFO] Database query executed
+[2025-11-07T11:40:29.323944] [INFO] Session started
+[2025-11-07T11:40:29.323948] [INFO] Service initialized
+[2025-11-07T11:40:29.323964] [WARN] Timeout warning
+[2025-11-07T11:40:29.323949] [INFO] Connection established
+[2025-11-07T11:40:29.323945] [INFO] Service initialized
+[2025-11-07T11:40:29.323968] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.323959] [INFO] User logged in
+[2025-11-07T11:40:29.323970] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.323961] [INFO] User logged in
+[2025-11-07T11:40:29.323971] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.323952] [INFO] Session started
+[2025-11-07T11:40:29.323974] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.323960] [INFO] Cache hit

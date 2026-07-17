@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.496976] [INFO] Health check passed
+[2025-11-07T11:40:29.496987] [INFO] Configuration loaded
+[2025-11-07T11:40:29.497003] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.497000] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.496983] [INFO] Connection established
+[2025-11-07T11:40:29.496974] [INFO] Transaction completed
+[2025-11-07T11:40:29.496977] [INFO] Session started
+[2025-11-07T11:40:29.496975] [INFO] Request processed successfully
+[2025-11-07T11:40:29.496979] [INFO] User logged in
+[2025-11-07T11:40:29.496988] [INFO] Database query executed
+[2025-11-07T11:40:29.496999] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.496982] [INFO] Database query executed
+[2025-11-07T11:40:29.496989] [INFO] User logged in
+[2025-11-07T11:40:29.496978] [INFO] Connection established
+[2025-11-07T11:40:29.497001] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.496992] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.496986] [INFO] Connection established
+[2025-11-07T11:40:29.496980] [INFO] Health check passed
+[2025-11-07T11:40:29.496985] [INFO] Service initialized
+[2025-11-07T11:40:29.496981] [INFO] Transaction completed
+[2025-11-07T11:40:29.496994] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.496990] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.496993] [ERROR] Database connection lost
+[2025-11-07T11:40:29.496996] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.496998] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.497002] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.496973] [INFO] Request processed successfully
+[2025-11-07T11:40:29.496991] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.496995] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.496984] [INFO] Connection established

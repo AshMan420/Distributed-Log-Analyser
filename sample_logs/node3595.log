@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.679156] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.679161] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.679155] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.679143] [INFO] Request processed successfully
+[2025-11-07T11:40:29.679150] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.679139] [INFO] Transaction completed
+[2025-11-07T11:40:29.679133] [INFO] Configuration loaded
+[2025-11-07T11:40:29.679152] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.679147] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.679145] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.679154] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.679157] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.679141] [INFO] User logged in
+[2025-11-07T11:40:29.679142] [INFO] Service initialized
+[2025-11-07T11:40:29.679158] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.679134] [INFO] Session started
+[2025-11-07T11:40:29.679136] [INFO] Session started
+[2025-11-07T11:40:29.679135] [INFO] Configuration loaded
+[2025-11-07T11:40:29.679146] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.679138] [INFO] Transaction completed
+[2025-11-07T11:40:29.679153] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.679160] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.679137] [INFO] Service initialized
+[2025-11-07T11:40:29.679140] [INFO] User logged in
+[2025-11-07T11:40:29.679144] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.679159] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.679131] [INFO] Cache hit
+[2025-11-07T11:40:29.679151] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.679148] [ERROR] Invalid input data

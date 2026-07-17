@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.488564] [INFO] Health check passed
+[2025-11-07T11:40:29.488582] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.488560] [INFO] Transaction completed
+[2025-11-07T11:40:29.488576] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.488583] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.488566] [INFO] Connection established
+[2025-11-07T11:40:29.488562] [INFO] Cache hit
+[2025-11-07T11:40:29.488575] [ERROR] Request failed
+[2025-11-07T11:40:29.488571] [WARN] Cache miss
+[2025-11-07T11:40:29.488568] [INFO] Configuration loaded
+[2025-11-07T11:40:29.488587] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.488580] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.488581] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.488574] [ERROR] Disk read failed
+[2025-11-07T11:40:29.488565] [INFO] Database query executed
+[2025-11-07T11:40:29.488586] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.488584] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.488586] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.488579] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.488577] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.488585] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.488572] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.488573] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.488569] [INFO] Configuration loaded
+[2025-11-07T11:40:29.488563] [INFO] Service initialized
+[2025-11-07T11:40:29.488570] [WARN] Queue size growing
+[2025-11-07T11:40:29.488561] [INFO] Configuration loaded
+[2025-11-07T11:40:29.488567] [INFO] Configuration loaded

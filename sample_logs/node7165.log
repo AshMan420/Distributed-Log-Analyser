@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.054844] [WARN] Timeout warning
+[2025-11-07T11:40:30.054823] [INFO] Database query executed
+[2025-11-07T11:40:30.054840] [WARN] Cache miss
+[2025-11-07T11:40:30.054827] [INFO] Cache hit
+[2025-11-07T11:40:30.054849] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.054839] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.054837] [WARN] Cache miss
+[2025-11-07T11:40:30.054848] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.054843] [WARN] Queue size growing
+[2025-11-07T11:40:30.054845] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.054854] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.054847] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.054829] [INFO] Connection established
+[2025-11-07T11:40:30.054842] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.054852] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.054822] [INFO] Connection established
+[2025-11-07T11:40:30.054850] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.054836] [INFO] Service initialized
+[2025-11-07T11:40:30.054833] [INFO] User logged in
+[2025-11-07T11:40:30.054826] [INFO] Session started
+[2025-11-07T11:40:30.054835] [INFO] Transaction completed
+[2025-11-07T11:40:30.054834] [INFO] Session started
+[2025-11-07T11:40:30.054853] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.054821] [INFO] Cache hit
+[2025-11-07T11:40:30.054846] [ERROR] File not found
+[2025-11-07T11:40:30.054832] [INFO] Health check passed
+[2025-11-07T11:40:30.054825] [INFO] Request processed successfully
+[2025-11-07T11:40:30.054855] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.054838] [WARN] Cache miss
+[2025-11-07T11:40:30.054831] [INFO] Transaction completed
+[2025-11-07T11:40:30.054830] [INFO] Database query executed
+[2025-11-07T11:40:30.054851] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.054841] [WARN] Disk space low
+[2025-11-07T11:40:30.054828] [INFO] Connection established
+[2025-11-07T11:40:30.054824] [INFO] Session started

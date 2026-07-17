@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.629615] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.629598] [INFO] Database query executed
+[2025-11-07T11:40:29.629603] [INFO] Health check passed
+[2025-11-07T11:40:29.629613] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.629602] [INFO] Transaction completed
+[2025-11-07T11:40:29.629606] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.629612] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.629610] [ERROR] File not found
+[2025-11-07T11:40:29.629605] [WARN] High memory usage detected
+[2025-11-07T11:40:29.629599] [INFO] Request processed successfully
+[2025-11-07T11:40:29.629607] [WARN] Cache miss
+[2025-11-07T11:40:29.629591] [INFO] Database query executed
+[2025-11-07T11:40:29.629597] [INFO] Cache hit
+[2025-11-07T11:40:29.629608] [WARN] Cache miss
+[2025-11-07T11:40:29.629596] [INFO] Cache hit
+[2025-11-07T11:40:29.629590] [INFO] Session started
+[2025-11-07T11:40:29.629588] [INFO] Database query executed
+[2025-11-07T11:40:29.629600] [INFO] Connection established
+[2025-11-07T11:40:29.629593] [INFO] Transaction completed
+[2025-11-07T11:40:29.629595] [INFO] Request processed successfully
+[2025-11-07T11:40:29.629611] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.629614] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.629609] [WARN] Queue size growing
+[2025-11-07T11:40:29.629592] [INFO] Connection established
+[2025-11-07T11:40:29.629594] [INFO] Database query executed
+[2025-11-07T11:40:29.629601] [INFO] Transaction completed
+[2025-11-07T11:40:29.629604] [INFO] Database query executed

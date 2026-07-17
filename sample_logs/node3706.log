@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.691165] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.691154] [INFO] Session started
+[2025-11-07T11:40:29.691155] [INFO] Request processed successfully
+[2025-11-07T11:40:29.691150] [INFO] Request processed successfully
+[2025-11-07T11:40:29.691167] [ERROR] Database connection lost
+[2025-11-07T11:40:29.691156] [INFO] Database query executed
+[2025-11-07T11:40:29.691152] [INFO] User logged in
+[2025-11-07T11:40:29.691163] [INFO] Transaction completed
+[2025-11-07T11:40:29.691151] [INFO] Request processed successfully
+[2025-11-07T11:40:29.691161] [INFO] Session started
+[2025-11-07T11:40:29.691174] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.691170] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.691175] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.691173] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.691162] [INFO] Health check passed
+[2025-11-07T11:40:29.691157] [INFO] Cache hit
+[2025-11-07T11:40:29.691166] [ERROR] Request failed
+[2025-11-07T11:40:29.691164] [INFO] Connection established
+[2025-11-07T11:40:29.691160] [INFO] Database query executed
+[2025-11-07T11:40:29.691153] [INFO] Session started
+[2025-11-07T11:40:29.691169] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.691175] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.691171] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.691158] [INFO] Request processed successfully
+[2025-11-07T11:40:29.691176] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.691172] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.691177] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.691149] [INFO] Database query executed
+[2025-11-07T11:40:29.691159] [INFO] Session started

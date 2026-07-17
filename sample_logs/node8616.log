@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.206456] [INFO] Cache hit
+[2025-11-07T11:40:30.206465] [WARN] Disk space low
+[2025-11-07T11:40:30.206473] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.206454] [INFO] User logged in
+[2025-11-07T11:40:30.206469] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.206476] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.206460] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.206459] [INFO] Cache hit
+[2025-11-07T11:40:30.206453] [INFO] Database query executed
+[2025-11-07T11:40:30.206446] [INFO] Service initialized
+[2025-11-07T11:40:30.206448] [INFO] Service initialized
+[2025-11-07T11:40:30.206452] [INFO] Health check passed
+[2025-11-07T11:40:30.206474] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.206471] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.206464] [WARN] Cache miss
+[2025-11-07T11:40:30.206449] [INFO] Health check passed
+[2025-11-07T11:40:30.206458] [INFO] Database query executed
+[2025-11-07T11:40:30.206461] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.206463] [WARN] Timeout warning
+[2025-11-07T11:40:30.206475] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.206456] [INFO] Health check passed
+[2025-11-07T11:40:30.206450] [INFO] Cache hit
+[2025-11-07T11:40:30.206462] [WARN] Timeout warning
+[2025-11-07T11:40:30.206451] [INFO] Session started
+[2025-11-07T11:40:30.206477] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.206447] [INFO] Request processed successfully
+[2025-11-07T11:40:30.206461] [WARN] Cache miss
+[2025-11-07T11:40:30.206466] [ERROR] Authentication failed
+[2025-11-07T11:40:30.206472] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.206468] [ERROR] Request failed
+[2025-11-07T11:40:30.206470] [DEBUG] Variable value: x=42

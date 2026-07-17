@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.685451] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.685437] [WARN] Disk space low
+[2025-11-07T11:40:29.685433] [INFO] Session started
+[2025-11-07T11:40:29.685430] [INFO] Transaction completed
+[2025-11-07T11:40:29.685453] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.685439] [WARN] High memory usage detected
+[2025-11-07T11:40:29.685446] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.685454] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.685457] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.685447] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.685425] [INFO] Transaction completed
+[2025-11-07T11:40:29.685448] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.685443] [WARN] High memory usage detected
+[2025-11-07T11:40:29.685429] [INFO] Health check passed
+[2025-11-07T11:40:29.685450] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.685426] [INFO] User logged in
+[2025-11-07T11:40:29.685434] [INFO] Database query executed
+[2025-11-07T11:40:29.685456] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.685424] [INFO] Database query executed
+[2025-11-07T11:40:29.685445] [ERROR] Permission denied
+[2025-11-07T11:40:29.685428] [INFO] Health check passed
+[2025-11-07T11:40:29.685431] [INFO] Service initialized
+[2025-11-07T11:40:29.685421] [INFO] Request processed successfully
+[2025-11-07T11:40:29.685436] [INFO] Configuration loaded
+[2025-11-07T11:40:29.685441] [WARN] Slow query performance
+[2025-11-07T11:40:29.685435] [INFO] User logged in
+[2025-11-07T11:40:29.685423] [INFO] Cache hit
+[2025-11-07T11:40:29.685442] [WARN] Timeout warning
+[2025-11-07T11:40:29.685449] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.685438] [WARN] High memory usage detected
+[2025-11-07T11:40:29.685444] [ERROR] Authentication failed
+[2025-11-07T11:40:29.685427] [INFO] Transaction completed
+[2025-11-07T11:40:29.685452] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.685440] [WARN] Queue size growing
+[2025-11-07T11:40:29.685432] [INFO] Service initialized
+[2025-11-07T11:40:29.685455] [DEBUG] Timer set: 30 seconds

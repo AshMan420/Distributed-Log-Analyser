@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.012380] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.012356] [INFO] Database query executed
+[2025-11-07T11:40:30.012352] [INFO] Session started
+[2025-11-07T11:40:30.012348] [INFO] Session started
+[2025-11-07T11:40:30.012351] [INFO] Transaction completed
+[2025-11-07T11:40:30.012373] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.012366] [WARN] Cache miss
+[2025-11-07T11:40:30.012367] [ERROR] Request failed
+[2025-11-07T11:40:30.012377] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.012362] [WARN] Cache miss
+[2025-11-07T11:40:30.012369] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.012370] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.012354] [INFO] User logged in
+[2025-11-07T11:40:30.012350] [INFO] Service initialized
+[2025-11-07T11:40:30.012363] [WARN] Timeout warning
+[2025-11-07T11:40:30.012353] [INFO] Health check passed
+[2025-11-07T11:40:30.012355] [INFO] Connection established
+[2025-11-07T11:40:30.012357] [INFO] Request processed successfully
+[2025-11-07T11:40:30.012359] [WARN] Disk space low
+[2025-11-07T11:40:30.012364] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.012349] [INFO] Connection established
+[2025-11-07T11:40:30.012358] [INFO] Health check passed
+[2025-11-07T11:40:30.012375] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.012347] [INFO] Transaction completed
+[2025-11-07T11:40:30.012378] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.012376] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.012361] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.012381] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.012372] [DEBUG] Entering function process_data()

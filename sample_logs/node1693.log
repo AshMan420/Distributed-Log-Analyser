@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.469311] [INFO] Session started
+[2025-11-07T11:40:29.469336] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.469247] [INFO] Configuration loaded
+[2025-11-07T11:40:29.469246] [INFO] Service initialized
+[2025-11-07T11:40:29.469312] [INFO] User logged in
+[2025-11-07T11:40:29.469335] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.469242] [INFO] Request processed successfully
+[2025-11-07T11:40:29.469333] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.469322] [ERROR] Request failed
+[2025-11-07T11:40:29.469319] [WARN] Cache miss
+[2025-11-07T11:40:29.469337] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.469313] [INFO] Health check passed
+[2025-11-07T11:40:29.469334] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.469339] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.469318] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.469320] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.469316] [INFO] Session started
+[2025-11-07T11:40:29.469317] [INFO] Configuration loaded
+[2025-11-07T11:40:29.469331] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.469259] [INFO] Request processed successfully
+[2025-11-07T11:40:29.469245] [INFO] Transaction completed
+[2025-11-07T11:40:29.469338] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.469314] [INFO] Configuration loaded
+[2025-11-07T11:40:29.469257] [INFO] Connection established
+[2025-11-07T11:40:29.469341] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.469340] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.469256] [INFO] Request processed successfully
+[2025-11-07T11:40:29.469321] [ERROR] Disk read failed
+[2025-11-07T11:40:29.469258] [INFO] Health check passed
+[2025-11-07T11:40:29.469244] [INFO] Cache hit

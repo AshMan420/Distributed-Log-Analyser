@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.922875] [INFO] Database query executed
+[2025-11-07T11:40:29.922892] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.922863] [INFO] Database query executed
+[2025-11-07T11:40:29.922862] [INFO] User logged in
+[2025-11-07T11:40:29.922867] [INFO] Service initialized
+[2025-11-07T11:40:29.922878] [INFO] Connection established
+[2025-11-07T11:40:29.922882] [WARN] Cache miss
+[2025-11-07T11:40:29.922872] [INFO] Request processed successfully
+[2025-11-07T11:40:29.922874] [INFO] User logged in
+[2025-11-07T11:40:29.922870] [INFO] Session started
+[2025-11-07T11:40:29.922884] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.922871] [INFO] User logged in
+[2025-11-07T11:40:29.922877] [INFO] Request processed successfully
+[2025-11-07T11:40:29.922890] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.922860] [INFO] Configuration loaded
+[2025-11-07T11:40:29.922876] [INFO] Request processed successfully
+[2025-11-07T11:40:29.922885] [ERROR] Authentication failed
+[2025-11-07T11:40:29.922888] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.922864] [INFO] Transaction completed
+[2025-11-07T11:40:29.922896] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.922893] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.922879] [WARN] Cache miss
+[2025-11-07T11:40:29.922897] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.922869] [INFO] Cache hit
+[2025-11-07T11:40:29.922894] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.922886] [ERROR] Invalid input data
+[2025-11-07T11:40:29.922868] [INFO] Session started
+[2025-11-07T11:40:29.922865] [INFO] Connection established
+[2025-11-07T11:40:29.922873] [INFO] Database query executed
+[2025-11-07T11:40:29.922895] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.922883] [WARN] High memory usage detected
+[2025-11-07T11:40:29.922880] [WARN] Slow query performance
+[2025-11-07T11:40:29.922889] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.922887] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.922866] [INFO] Request processed successfully

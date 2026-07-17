@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.728575] [INFO] Request processed successfully
+[2025-11-07T11:40:29.728574] [INFO] Health check passed
+[2025-11-07T11:40:29.728591] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.728584] [ERROR] File not found
+[2025-11-07T11:40:29.728585] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.728570] [INFO] Transaction completed
+[2025-11-07T11:40:29.728586] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.728565] [INFO] User logged in
+[2025-11-07T11:40:29.728588] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.728566] [INFO] Transaction completed
+[2025-11-07T11:40:29.728567] [INFO] Configuration loaded
+[2025-11-07T11:40:29.728568] [INFO] Cache hit
+[2025-11-07T11:40:29.728576] [INFO] Database query executed
+[2025-11-07T11:40:29.728577] [INFO] Connection established
+[2025-11-07T11:40:29.728579] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.728573] [INFO] Cache hit
+[2025-11-07T11:40:29.728583] [ERROR] File not found
+[2025-11-07T11:40:29.728590] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.728580] [WARN] Slow query performance
+[2025-11-07T11:40:29.728578] [WARN] Slow query performance
+[2025-11-07T11:40:29.728581] [WARN] Slow query performance
+[2025-11-07T11:40:29.728571] [INFO] Request processed successfully
+[2025-11-07T11:40:29.728587] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.728569] [INFO] Service initialized
+[2025-11-07T11:40:29.728592] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.728572] [INFO] Transaction completed
+[2025-11-07T11:40:29.728571] [INFO] Connection established
+[2025-11-07T11:40:29.728563] [INFO] Health check passed
+[2025-11-07T11:40:29.728589] [DEBUG] Thread pool size: 8

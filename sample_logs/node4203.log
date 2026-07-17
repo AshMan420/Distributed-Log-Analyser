@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.742161] [INFO] User logged in
+[2025-11-07T11:40:29.742172] [WARN] Disk space low
+[2025-11-07T11:40:29.742184] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.742167] [INFO] User logged in
+[2025-11-07T11:40:29.742171] [INFO] Session started
+[2025-11-07T11:40:29.742164] [INFO] Health check passed
+[2025-11-07T11:40:29.742168] [INFO] Session started
+[2025-11-07T11:40:29.742181] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.742173] [WARN] Slow query performance
+[2025-11-07T11:40:29.742180] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.742178] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.742174] [WARN] Timeout warning
+[2025-11-07T11:40:29.742163] [INFO] Session started
+[2025-11-07T11:40:29.742186] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.742166] [INFO] Health check passed
+[2025-11-07T11:40:29.742160] [INFO] Service initialized
+[2025-11-07T11:40:29.742179] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.742159] [INFO] Cache hit
+[2025-11-07T11:40:29.742162] [INFO] Request processed successfully
+[2025-11-07T11:40:29.742170] [INFO] Session started
+[2025-11-07T11:40:29.742176] [ERROR] Permission denied
+[2025-11-07T11:40:29.742175] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.742183] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.742182] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.742169] [INFO] Health check passed
+[2025-11-07T11:40:29.742165] [INFO] Configuration loaded
+[2025-11-07T11:40:29.742185] [DEBUG] Buffer size: 4096 bytes

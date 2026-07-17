@@ -1,0 +1,39 @@
+[2025-11-07T11:40:30.023346] [WARN] Queue size growing
+[2025-11-07T11:40:30.023347] [WARN] High memory usage detected
+[2025-11-07T11:40:30.023360] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.023336] [INFO] Session started
+[2025-11-07T11:40:30.023328] [INFO] Session started
+[2025-11-07T11:40:30.023330] [INFO] Transaction completed
+[2025-11-07T11:40:30.023332] [INFO] Database query executed
+[2025-11-07T11:40:30.023335] [INFO] Cache hit
+[2025-11-07T11:40:30.023354] [ERROR] Service unavailable
+[2025-11-07T11:40:30.023351] [WARN] Timeout warning
+[2025-11-07T11:40:30.023340] [INFO] Service initialized
+[2025-11-07T11:40:30.023340] [INFO] Transaction completed
+[2025-11-07T11:40:30.023348] [WARN] Cache miss
+[2025-11-07T11:40:30.023334] [INFO] Database query executed
+[2025-11-07T11:40:30.023365] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.023358] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.023333] [INFO] Transaction completed
+[2025-11-07T11:40:30.023361] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.023338] [INFO] Connection established
+[2025-11-07T11:40:30.023337] [INFO] Configuration loaded
+[2025-11-07T11:40:30.023362] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.023366] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.023350] [WARN] Cache miss
+[2025-11-07T11:40:30.023359] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.023339] [INFO] Request processed successfully
+[2025-11-07T11:40:30.023345] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.023364] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.023353] [ERROR] Request failed
+[2025-11-07T11:40:30.023342] [INFO] User logged in
+[2025-11-07T11:40:30.023352] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.023343] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.023327] [INFO] Database query executed
+[2025-11-07T11:40:30.023331] [INFO] Cache hit
+[2025-11-07T11:40:30.023344] [WARN] Cache miss
+[2025-11-07T11:40:30.023355] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.023356] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.023349] [WARN] Cache miss
+[2025-11-07T11:40:30.023363] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.023357] [DEBUG] Entering function process_data()

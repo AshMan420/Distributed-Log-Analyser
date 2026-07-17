@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.057139] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.057125] [WARN] Slow query performance
+[2025-11-07T11:40:30.057124] [INFO] Health check passed
+[2025-11-07T11:40:30.057113] [INFO] User logged in
+[2025-11-07T11:40:30.057120] [INFO] Session started
+[2025-11-07T11:40:30.057121] [INFO] Session started
+[2025-11-07T11:40:30.057112] [INFO] Transaction completed
+[2025-11-07T11:40:30.057141] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.057140] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.057126] [WARN] Timeout warning
+[2025-11-07T11:40:30.057118] [INFO] Service initialized
+[2025-11-07T11:40:30.057136] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.057137] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.057111] [INFO] Cache hit
+[2025-11-07T11:40:30.057122] [INFO] Session started
+[2025-11-07T11:40:30.057116] [INFO] Request processed successfully
+[2025-11-07T11:40:30.057130] [WARN] Cache miss
+[2025-11-07T11:40:30.057134] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.057135] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.057142] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.057117] [INFO] Connection established
+[2025-11-07T11:40:30.057129] [WARN] Disk space low
+[2025-11-07T11:40:30.057127] [WARN] Slow query performance
+[2025-11-07T11:40:30.057119] [INFO] Request processed successfully
+[2025-11-07T11:40:30.057131] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.057114] [INFO] Database query executed
+[2025-11-07T11:40:30.057110] [INFO] Session started
+[2025-11-07T11:40:30.057133] [ERROR] Permission denied
+[2025-11-07T11:40:30.057132] [WARN] Disk space low
+[2025-11-07T11:40:30.057115] [INFO] Connection established
+[2025-11-07T11:40:30.057138] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.057128] [WARN] Timeout warning
+[2025-11-07T11:40:30.057123] [INFO] Health check passed

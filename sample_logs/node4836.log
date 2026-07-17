@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.806273] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.806274] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.806248] [INFO] Database query executed
+[2025-11-07T11:40:29.806261] [WARN] High memory usage detected
+[2025-11-07T11:40:29.806267] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.806250] [INFO] Database query executed
+[2025-11-07T11:40:29.806268] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.806276] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.806247] [INFO] Request processed successfully
+[2025-11-07T11:40:29.806253] [INFO] Transaction completed
+[2025-11-07T11:40:29.806264] [ERROR] File not found
+[2025-11-07T11:40:29.806270] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.806265] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.806254] [INFO] User logged in
+[2025-11-07T11:40:29.806258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.806260] [WARN] Disk space low
+[2025-11-07T11:40:29.806252] [INFO] Cache hit
+[2025-11-07T11:40:29.806249] [INFO] Configuration loaded
+[2025-11-07T11:40:29.806254] [INFO] Health check passed
+[2025-11-07T11:40:29.806256] [INFO] Database query executed
+[2025-11-07T11:40:29.806269] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.806257] [INFO] Connection established
+[2025-11-07T11:40:29.806266] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.806272] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.806272] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.806256] [INFO] Health check passed
+[2025-11-07T11:40:29.806271] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.806262] [WARN] Timeout warning
+[2025-11-07T11:40:29.806260] [WARN] Slow query performance
+[2025-11-07T11:40:29.806275] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.806246] [INFO] Service initialized

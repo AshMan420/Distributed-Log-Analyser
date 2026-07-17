@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.830793] [ERROR] Authentication failed
+[2025-11-07T11:40:29.830788] [WARN] Timeout warning
+[2025-11-07T11:40:29.830787] [INFO] Session started
+[2025-11-07T11:40:29.830786] [INFO] Configuration loaded
+[2025-11-07T11:40:29.830784] [INFO] Request processed successfully
+[2025-11-07T11:40:29.830802] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.830791] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.830772] [INFO] Connection established
+[2025-11-07T11:40:29.830790] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.830797] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.830801] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.830795] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.830779] [INFO] Cache hit
+[2025-11-07T11:40:29.830806] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.830773] [INFO] Cache hit
+[2025-11-07T11:40:29.830799] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.830794] [ERROR] Invalid input data
+[2025-11-07T11:40:29.830782] [INFO] Connection established
+[2025-11-07T11:40:29.830798] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.830780] [INFO] User logged in
+[2025-11-07T11:40:29.830807] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.830775] [INFO] Database query executed
+[2025-11-07T11:40:29.830777] [INFO] Database query executed
+[2025-11-07T11:40:29.830804] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.830783] [INFO] Service initialized
+[2025-11-07T11:40:29.830776] [INFO] Connection established
+[2025-11-07T11:40:29.830781] [INFO] Request processed successfully
+[2025-11-07T11:40:29.830808] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.830774] [INFO] Health check passed
+[2025-11-07T11:40:29.830778] [INFO] Database query executed
+[2025-11-07T11:40:29.830803] [DEBUG] Loop iteration: 15

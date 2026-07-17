@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.891712] [INFO] Cache hit
+[2025-11-07T11:40:29.891720] [WARN] Timeout warning
+[2025-11-07T11:40:29.891732] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.891734] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.891722] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.891703] [INFO] Health check passed
+[2025-11-07T11:40:29.891714] [INFO] User logged in
+[2025-11-07T11:40:29.891710] [INFO] Transaction completed
+[2025-11-07T11:40:29.891718] [INFO] Health check passed
+[2025-11-07T11:40:29.891735] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.891709] [INFO] Connection established
+[2025-11-07T11:40:29.891711] [INFO] Session started
+[2025-11-07T11:40:29.891724] [ERROR] Request failed
+[2025-11-07T11:40:29.891729] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.891716] [INFO] Database query executed
+[2025-11-07T11:40:29.891730] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.891731] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.891721] [WARN] Slow query performance
+[2025-11-07T11:40:29.891713] [INFO] Session started
+[2025-11-07T11:40:29.891704] [INFO] User logged in
+[2025-11-07T11:40:29.891726] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.891708] [INFO] Database query executed
+[2025-11-07T11:40:29.891723] [WARN] Cache miss
+[2025-11-07T11:40:29.891719] [WARN] Slow query performance
+[2025-11-07T11:40:29.891706] [INFO] Transaction completed
+[2025-11-07T11:40:29.891715] [INFO] Transaction completed
+[2025-11-07T11:40:29.891737] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.891717] [INFO] Transaction completed
+[2025-11-07T11:40:29.891735] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.891728] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.891707] [INFO] Database query executed
+[2025-11-07T11:40:29.891736] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.891725] [ERROR] Disk read failed
+[2025-11-07T11:40:29.891732] [DEBUG] Variable value: x=42

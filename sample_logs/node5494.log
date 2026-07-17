@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.872451] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.872443] [ERROR] Invalid input data
+[2025-11-07T11:40:29.872446] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.872450] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.872426] [INFO] Service initialized
+[2025-11-07T11:40:29.872434] [INFO] User logged in
+[2025-11-07T11:40:29.872424] [INFO] User logged in
+[2025-11-07T11:40:29.872429] [INFO] Request processed successfully
+[2025-11-07T11:40:29.872445] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.872435] [INFO] Health check passed
+[2025-11-07T11:40:29.872440] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.872449] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.872448] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.872427] [INFO] Connection established
+[2025-11-07T11:40:29.872428] [INFO] Cache hit
+[2025-11-07T11:40:29.872441] [WARN] Disk space low
+[2025-11-07T11:40:29.872439] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.872431] [INFO] Request processed successfully
+[2025-11-07T11:40:29.872422] [INFO] Database query executed
+[2025-11-07T11:40:29.872430] [INFO] Connection established
+[2025-11-07T11:40:29.872433] [INFO] Connection established
+[2025-11-07T11:40:29.872437] [INFO] Configuration loaded
+[2025-11-07T11:40:29.872432] [INFO] Session started
+[2025-11-07T11:40:29.872425] [INFO] Transaction completed
+[2025-11-07T11:40:29.872438] [INFO] User logged in
+[2025-11-07T11:40:29.872444] [ERROR] Database connection lost
+[2025-11-07T11:40:29.872442] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.872436] [INFO] Cache hit
+[2025-11-07T11:40:29.872447] [DEBUG] Buffer size: 4096 bytes

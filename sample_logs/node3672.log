@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.687832] [WARN] Slow query performance
+[2025-11-07T11:40:29.687826] [INFO] Cache hit
+[2025-11-07T11:40:29.687833] [WARN] High memory usage detected
+[2025-11-07T11:40:29.687821] [INFO] User logged in
+[2025-11-07T11:40:29.687838] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.687846] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.687842] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.687820] [INFO] Transaction completed
+[2025-11-07T11:40:29.687843] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.687837] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.687841] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.687819] [INFO] Transaction completed
+[2025-11-07T11:40:29.687828] [INFO] Session started
+[2025-11-07T11:40:29.687813] [INFO] Cache hit
+[2025-11-07T11:40:29.687816] [INFO] Service initialized
+[2025-11-07T11:40:29.687831] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.687845] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.687834] [WARN] High memory usage detected
+[2025-11-07T11:40:29.687840] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.687839] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.687815] [INFO] Cache hit
+[2025-11-07T11:40:29.687823] [INFO] Database query executed
+[2025-11-07T11:40:29.687814] [INFO] Transaction completed
+[2025-11-07T11:40:29.687811] [INFO] Database query executed
+[2025-11-07T11:40:29.687824] [INFO] Request processed successfully
+[2025-11-07T11:40:29.687827] [INFO] Connection established
+[2025-11-07T11:40:29.687830] [INFO] User logged in
+[2025-11-07T11:40:29.687822] [INFO] Database query executed
+[2025-11-07T11:40:29.687818] [INFO] Connection established
+[2025-11-07T11:40:29.687836] [ERROR] Invalid input data
+[2025-11-07T11:40:29.687825] [INFO] Database query executed
+[2025-11-07T11:40:29.687844] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.687817] [INFO] Configuration loaded
+[2025-11-07T11:40:29.687835] [ERROR] Service unavailable

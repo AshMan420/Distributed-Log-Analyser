@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.819570] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.819546] [INFO] Database query executed
+[2025-11-07T11:40:29.819567] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.819566] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.819543] [INFO] Cache hit
+[2025-11-07T11:40:29.819555] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.819539] [INFO] Session started
+[2025-11-07T11:40:29.819552] [INFO] User logged in
+[2025-11-07T11:40:29.819557] [WARN] Timeout warning
+[2025-11-07T11:40:29.819545] [INFO] Configuration loaded
+[2025-11-07T11:40:29.819563] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.819556] [WARN] Disk space low
+[2025-11-07T11:40:29.819549] [INFO] User logged in
+[2025-11-07T11:40:29.819547] [INFO] Health check passed
+[2025-11-07T11:40:29.819565] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.819554] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.819550] [INFO] Configuration loaded
+[2025-11-07T11:40:29.819569] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.819559] [WARN] Queue size growing
+[2025-11-07T11:40:29.819544] [INFO] Session started
+[2025-11-07T11:40:29.819553] [WARN] Slow query performance
+[2025-11-07T11:40:29.819541] [INFO] Database query executed
+[2025-11-07T11:40:29.819562] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.819564] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.819551] [INFO] Service initialized
+[2025-11-07T11:40:29.819561] [ERROR] Request failed
+[2025-11-07T11:40:29.819558] [WARN] Disk space low
+[2025-11-07T11:40:29.819560] [WARN] Slow query performance
+[2025-11-07T11:40:29.819548] [INFO] Database query executed
+[2025-11-07T11:40:29.819542] [INFO] Health check passed
+[2025-11-07T11:40:29.819568] [DEBUG] HTTP request headers parsed

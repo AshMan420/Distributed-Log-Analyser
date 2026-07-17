@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.192046] [INFO] Cache hit
+[2025-11-07T11:40:30.192061] [WARN] Slow query performance
+[2025-11-07T11:40:30.192071] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.192068] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.192070] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192052] [INFO] Connection established
+[2025-11-07T11:40:30.192063] [ERROR] Service unavailable
+[2025-11-07T11:40:30.192064] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192043] [INFO] Transaction completed
+[2025-11-07T11:40:30.192045] [INFO] Request processed successfully
+[2025-11-07T11:40:30.192072] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192069] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.192060] [WARN] Timeout warning
+[2025-11-07T11:40:30.192049] [INFO] Service initialized
+[2025-11-07T11:40:30.192047] [INFO] Connection established
+[2025-11-07T11:40:30.192056] [INFO] User logged in
+[2025-11-07T11:40:30.192054] [INFO] Configuration loaded
+[2025-11-07T11:40:30.192066] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192062] [WARN] Cache miss
+[2025-11-07T11:40:30.192057] [INFO] User logged in
+[2025-11-07T11:40:30.192055] [INFO] Connection established
+[2025-11-07T11:40:30.192065] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.192053] [INFO] Database query executed
+[2025-11-07T11:40:30.192061] [WARN] Slow query performance
+[2025-11-07T11:40:30.192067] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.192059] [INFO] Transaction completed
+[2025-11-07T11:40:30.192050] [INFO] Configuration loaded
+[2025-11-07T11:40:30.192044] [INFO] Connection established
+[2025-11-07T11:40:30.192058] [INFO] Configuration loaded
+[2025-11-07T11:40:30.192048] [INFO] Cache hit

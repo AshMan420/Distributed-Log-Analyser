@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.645847] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.645822] [INFO] Session started
+[2025-11-07T11:40:29.645843] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.645845] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.645819] [INFO] Configuration loaded
+[2025-11-07T11:40:29.645846] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.645839] [ERROR] Service unavailable
+[2025-11-07T11:40:29.645844] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.645840] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.645829] [INFO] Configuration loaded
+[2025-11-07T11:40:29.645823] [INFO] Database query executed
+[2025-11-07T11:40:29.645827] [INFO] Cache hit
+[2025-11-07T11:40:29.645842] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.645849] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.645816] [INFO] Cache hit
+[2025-11-07T11:40:29.645817] [INFO] Request processed successfully
+[2025-11-07T11:40:29.645825] [INFO] Session started
+[2025-11-07T11:40:29.645848] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.645837] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.645821] [INFO] User logged in
+[2025-11-07T11:40:29.645822] [INFO] Session started
+[2025-11-07T11:40:29.645834] [WARN] Disk space low
+[2025-11-07T11:40:29.645838] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.645836] [WARN] High memory usage detected
+[2025-11-07T11:40:29.645824] [INFO] Connection established
+[2025-11-07T11:40:29.645833] [INFO] Transaction completed
+[2025-11-07T11:40:29.645832] [INFO] Transaction completed
+[2025-11-07T11:40:29.645818] [INFO] Request processed successfully
+[2025-11-07T11:40:29.645835] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.645826] [INFO] Request processed successfully
+[2025-11-07T11:40:29.645830] [INFO] Configuration loaded
+[2025-11-07T11:40:29.645831] [INFO] Request processed successfully
+[2025-11-07T11:40:29.645828] [INFO] Database query executed
+[2025-11-07T11:40:29.645850] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.645847] [DEBUG] Entering function process_data()

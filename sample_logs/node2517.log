@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.559851] [INFO] Connection established
+[2025-11-07T11:40:29.559849] [INFO] Transaction completed
+[2025-11-07T11:40:29.559865] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.559859] [ERROR] Request failed
+[2025-11-07T11:40:29.559867] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.559869] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.559866] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.559847] [INFO] Service initialized
+[2025-11-07T11:40:29.559846] [INFO] Service initialized
+[2025-11-07T11:40:29.559843] [INFO] User logged in
+[2025-11-07T11:40:29.559857] [WARN] Timeout warning
+[2025-11-07T11:40:29.559861] [ERROR] File not found
+[2025-11-07T11:40:29.559870] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.559863] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.559848] [INFO] Service initialized
+[2025-11-07T11:40:29.559854] [INFO] Cache hit
+[2025-11-07T11:40:29.559850] [INFO] Session started
+[2025-11-07T11:40:29.559860] [ERROR] Network timeout
+[2025-11-07T11:40:29.559852] [INFO] Health check passed
+[2025-11-07T11:40:29.559864] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.559853] [INFO] Transaction completed
+[2025-11-07T11:40:29.559844] [INFO] Health check passed
+[2025-11-07T11:40:29.559845] [INFO] Transaction completed
+[2025-11-07T11:40:29.559855] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.559871] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.559858] [WARN] High memory usage detected
+[2025-11-07T11:40:29.559842] [INFO] Service initialized
+[2025-11-07T11:40:29.559868] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.559856] [WARN] High memory usage detected
+[2025-11-07T11:40:29.559862] [DEBUG] Memory allocation: 2048 bytes

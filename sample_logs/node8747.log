@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.232611] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.232614] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.232585] [INFO] Session started
+[2025-11-07T11:40:30.232600] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.232594] [INFO] User logged in
+[2025-11-07T11:40:30.232597] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.232613] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.232592] [INFO] Database query executed
+[2025-11-07T11:40:30.232604] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.232609] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.232612] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.232608] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.232596] [WARN] Disk space low
+[2025-11-07T11:40:30.232588] [INFO] Transaction completed
+[2025-11-07T11:40:30.232589] [INFO] Request processed successfully
+[2025-11-07T11:40:30.232589] [INFO] Session started
+[2025-11-07T11:40:30.232583] [INFO] Configuration loaded
+[2025-11-07T11:40:30.232584] [INFO] Transaction completed
+[2025-11-07T11:40:30.232582] [INFO] Transaction completed
+[2025-11-07T11:40:30.232601] [WARN] Timeout warning
+[2025-11-07T11:40:30.232592] [INFO] Health check passed
+[2025-11-07T11:40:30.232586] [INFO] Configuration loaded
+[2025-11-07T11:40:30.232617] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.232605] [ERROR] Disk read failed
+[2025-11-07T11:40:30.232587] [INFO] Session started
+[2025-11-07T11:40:30.232598] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.232580] [INFO] Database query executed
+[2025-11-07T11:40:30.232593] [INFO] Cache hit
+[2025-11-07T11:40:30.232591] [INFO] Session started
+[2025-11-07T11:40:30.232615] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.232606] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.232602] [WARN] High memory usage detected

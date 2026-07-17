@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.895435] [INFO] User logged in
+[2025-11-07T11:40:29.895434] [INFO] Health check passed
+[2025-11-07T11:40:29.895427] [INFO] Health check passed
+[2025-11-07T11:40:29.895452] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.895437] [INFO] Health check passed
+[2025-11-07T11:40:29.895436] [INFO] Session started
+[2025-11-07T11:40:29.895432] [INFO] Transaction completed
+[2025-11-07T11:40:29.895441] [ERROR] Permission denied
+[2025-11-07T11:40:29.895430] [INFO] User logged in
+[2025-11-07T11:40:29.895446] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.895445] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.895444] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.895429] [INFO] Cache hit
+[2025-11-07T11:40:29.895431] [INFO] Database query executed
+[2025-11-07T11:40:29.895450] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.895448] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.895424] [INFO] Service initialized
+[2025-11-07T11:40:29.895447] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.895433] [INFO] Configuration loaded
+[2025-11-07T11:40:29.895439] [INFO] Health check passed
+[2025-11-07T11:40:29.895438] [INFO] Request processed successfully
+[2025-11-07T11:40:29.895443] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.895440] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.895428] [INFO] Health check passed
+[2025-11-07T11:40:29.895442] [ERROR] Network timeout
+[2025-11-07T11:40:29.895426] [INFO] User logged in
+[2025-11-07T11:40:29.895449] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.895451] [DEBUG] Variable value: x=42

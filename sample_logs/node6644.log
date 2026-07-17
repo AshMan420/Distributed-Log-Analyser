@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.000354] [INFO] Connection established
+[2025-11-07T11:40:30.000351] [INFO] Request processed successfully
+[2025-11-07T11:40:30.000369] [ERROR] Request failed
+[2025-11-07T11:40:30.000361] [INFO] Health check passed
+[2025-11-07T11:40:30.000368] [WARN] High memory usage detected
+[2025-11-07T11:40:30.000358] [INFO] Database query executed
+[2025-11-07T11:40:30.000363] [INFO] Health check passed
+[2025-11-07T11:40:30.000366] [WARN] Disk space low
+[2025-11-07T11:40:30.000375] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.000372] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.000362] [INFO] Session started
+[2025-11-07T11:40:30.000353] [INFO] Service initialized
+[2025-11-07T11:40:30.000352] [INFO] Connection established
+[2025-11-07T11:40:30.000373] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.000356] [INFO] Connection established
+[2025-11-07T11:40:30.000374] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.000360] [INFO] Service initialized
+[2025-11-07T11:40:30.000355] [INFO] Database query executed
+[2025-11-07T11:40:30.000364] [INFO] Request processed successfully
+[2025-11-07T11:40:30.000371] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.000365] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.000357] [INFO] Connection established
+[2025-11-07T11:40:30.000359] [INFO] Health check passed
+[2025-11-07T11:40:30.000370] [DEBUG] Thread pool size: 8

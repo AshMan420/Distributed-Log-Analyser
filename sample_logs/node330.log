@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.326231] [INFO] Session started
+[2025-11-07T11:40:29.326236] [INFO] User logged in
+[2025-11-07T11:40:29.326232] [INFO] Connection established
+[2025-11-07T11:40:29.326234] [INFO] Health check passed
+[2025-11-07T11:40:29.326233] [INFO] Cache hit
+[2025-11-07T11:40:29.326246] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.326223] [INFO] Cache hit
+[2025-11-07T11:40:29.326237] [INFO] User logged in
+[2025-11-07T11:40:29.326228] [INFO] Database query executed
+[2025-11-07T11:40:29.326244] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.326247] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.326234] [INFO] Session started
+[2025-11-07T11:40:29.326239] [WARN] Timeout warning
+[2025-11-07T11:40:29.326229] [INFO] Configuration loaded
+[2025-11-07T11:40:29.326226] [INFO] Health check passed
+[2025-11-07T11:40:29.326252] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.326248] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.326245] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.326238] [INFO] Health check passed
+[2025-11-07T11:40:29.326225] [INFO] Session started
+[2025-11-07T11:40:29.326235] [INFO] Connection established
+[2025-11-07T11:40:29.326251] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.326230] [INFO] Health check passed
+[2025-11-07T11:40:29.326250] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.326249] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.326240] [WARN] High memory usage detected
+[2025-11-07T11:40:29.326243] [ERROR] Disk read failed
+[2025-11-07T11:40:29.326241] [WARN] Slow query performance
+[2025-11-07T11:40:29.326242] [WARN] High memory usage detected
+[2025-11-07T11:40:29.326227] [INFO] Configuration loaded

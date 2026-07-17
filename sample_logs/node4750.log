@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.797863] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.797870] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.797859] [ERROR] Invalid input data
+[2025-11-07T11:40:29.797848] [INFO] Connection established
+[2025-11-07T11:40:29.797862] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.797858] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.797842] [INFO] Transaction completed
+[2025-11-07T11:40:29.797871] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.797856] [INFO] Configuration loaded
+[2025-11-07T11:40:29.797857] [WARN] Slow query performance
+[2025-11-07T11:40:29.797853] [INFO] Session started
+[2025-11-07T11:40:29.797847] [INFO] Cache hit
+[2025-11-07T11:40:29.797850] [INFO] User logged in
+[2025-11-07T11:40:29.797845] [INFO] Health check passed
+[2025-11-07T11:40:29.797869] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.797866] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.797868] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.797855] [INFO] Transaction completed
+[2025-11-07T11:40:29.797851] [INFO] Session started
+[2025-11-07T11:40:29.797854] [INFO] Request processed successfully
+[2025-11-07T11:40:29.797849] [INFO] Connection established
+[2025-11-07T11:40:29.797846] [INFO] Session started
+[2025-11-07T11:40:29.797865] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.797864] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.797844] [INFO] Session started
+[2025-11-07T11:40:29.797867] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.797860] [ERROR] Database connection lost
+[2025-11-07T11:40:29.797852] [INFO] Configuration loaded

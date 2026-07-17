@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.311145] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.311135] [WARN] Queue size growing
+[2025-11-07T11:40:29.311127] [INFO] Connection established
+[2025-11-07T11:40:29.311119] [INFO] User logged in
+[2025-11-07T11:40:29.311147] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.311120] [INFO] Configuration loaded
+[2025-11-07T11:40:29.311124] [INFO] Cache hit
+[2025-11-07T11:40:29.311146] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.311143] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.311121] [INFO] Health check passed
+[2025-11-07T11:40:29.311129] [INFO] Transaction completed
+[2025-11-07T11:40:29.311126] [INFO] User logged in
+[2025-11-07T11:40:29.311131] [INFO] Cache hit
+[2025-11-07T11:40:29.311139] [ERROR] Request failed
+[2025-11-07T11:40:29.311142] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.311132] [INFO] Configuration loaded
+[2025-11-07T11:40:29.311133] [INFO] Session started
+[2025-11-07T11:40:29.311138] [WARN] Cache miss
+[2025-11-07T11:40:29.311140] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.311136] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.311141] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.311149] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.311123] [INFO] Service initialized
+[2025-11-07T11:40:29.311117] [INFO] Cache hit
+[2025-11-07T11:40:29.311130] [INFO] Session started
+[2025-11-07T11:40:29.311144] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.311137] [WARN] Queue size growing
+[2025-11-07T11:40:29.311148] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.311128] [INFO] Connection established
+[2025-11-07T11:40:29.311122] [INFO] Configuration loaded
+[2025-11-07T11:40:29.311127] [INFO] Connection established
+[2025-11-07T11:40:29.311125] [INFO] Connection established
+[2025-11-07T11:40:29.311134] [INFO] Configuration loaded

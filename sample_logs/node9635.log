@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.333358] [INFO] Connection established
+[2025-11-07T11:40:30.333381] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.333372] [INFO] Session started
+[2025-11-07T11:40:30.333385] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.333378] [WARN] Timeout warning
+[2025-11-07T11:40:30.333355] [INFO] Cache hit
+[2025-11-07T11:40:30.333370] [INFO] Cache hit
+[2025-11-07T11:40:30.333388] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.333357] [INFO] Session started
+[2025-11-07T11:40:30.333387] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.333379] [ERROR] Request failed
+[2025-11-07T11:40:30.333371] [INFO] Database query executed
+[2025-11-07T11:40:30.333376] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.333367] [INFO] Service initialized
+[2025-11-07T11:40:30.333374] [INFO] Session started
+[2025-11-07T11:40:30.333352] [INFO] Transaction completed
+[2025-11-07T11:40:30.333377] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.333375] [WARN] Slow query performance
+[2025-11-07T11:40:30.333389] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.333359] [INFO] User logged in
+[2025-11-07T11:40:30.333382] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.333356] [INFO] User logged in
+[2025-11-07T11:40:30.333354] [INFO] Connection established
+[2025-11-07T11:40:30.333369] [INFO] Cache hit
+[2025-11-07T11:40:30.333386] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.333383] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.333373] [INFO] Connection established
+[2025-11-07T11:40:30.333368] [INFO] Health check passed
+[2025-11-07T11:40:30.333384] [DEBUG] Thread pool size: 8

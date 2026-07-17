@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.776917] [WARN] High memory usage detected
+[2025-11-07T11:40:29.776905] [INFO] Configuration loaded
+[2025-11-07T11:40:29.776919] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.776898] [INFO] Health check passed
+[2025-11-07T11:40:29.776907] [INFO] Database query executed
+[2025-11-07T11:40:29.776903] [INFO] Service initialized
+[2025-11-07T11:40:29.776928] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.776897] [INFO] Service initialized
+[2025-11-07T11:40:29.776909] [INFO] User logged in
+[2025-11-07T11:40:29.776925] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.776914] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.776904] [INFO] Cache hit
+[2025-11-07T11:40:29.776906] [INFO] Cache hit
+[2025-11-07T11:40:29.776923] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.776921] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.776913] [WARN] Cache miss
+[2025-11-07T11:40:29.776916] [WARN] Disk space low
+[2025-11-07T11:40:29.776900] [INFO] Connection established
+[2025-11-07T11:40:29.776924] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.776902] [INFO] Cache hit
+[2025-11-07T11:40:29.776922] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.776920] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.776901] [INFO] Session started
+[2025-11-07T11:40:29.776926] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.776915] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.776899] [INFO] Configuration loaded
+[2025-11-07T11:40:29.776908] [INFO] Cache hit
+[2025-11-07T11:40:29.776910] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.776918] [ERROR] Service unavailable
+[2025-11-07T11:40:29.776929] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.776896] [INFO] Configuration loaded
+[2025-11-07T11:40:29.776911] [WARN] High memory usage detected
+[2025-11-07T11:40:29.776927] [DEBUG] Thread pool size: 8

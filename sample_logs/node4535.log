@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.775950] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.775954] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.775945] [WARN] Queue size growing
+[2025-11-07T11:40:29.775951] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.775933] [INFO] Session started
+[2025-11-07T11:40:29.775929] [INFO] Transaction completed
+[2025-11-07T11:40:29.775930] [INFO] Configuration loaded
+[2025-11-07T11:40:29.775941] [INFO] Connection established
+[2025-11-07T11:40:29.775953] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.775934] [INFO] Database query executed
+[2025-11-07T11:40:29.775936] [INFO] Health check passed
+[2025-11-07T11:40:29.775932] [INFO] Configuration loaded
+[2025-11-07T11:40:29.775939] [INFO] Database query executed
+[2025-11-07T11:40:29.775949] [ERROR] Service unavailable
+[2025-11-07T11:40:29.775948] [ERROR] Service unavailable
+[2025-11-07T11:40:29.775942] [INFO] Cache hit
+[2025-11-07T11:40:29.775938] [INFO] Configuration loaded
+[2025-11-07T11:40:29.775928] [INFO] Cache hit
+[2025-11-07T11:40:29.775943] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.775937] [INFO] Connection established
+[2025-11-07T11:40:29.775931] [INFO] Transaction completed
+[2025-11-07T11:40:29.775952] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.775955] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.775940] [INFO] Health check passed
+[2025-11-07T11:40:29.775944] [WARN] High memory usage detected
+[2025-11-07T11:40:29.775935] [INFO] Health check passed
+[2025-11-07T11:40:29.775956] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.775946] [WARN] Deprecated API usage

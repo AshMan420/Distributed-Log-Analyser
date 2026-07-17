@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.904538] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.904517] [INFO] Service initialized
+[2025-11-07T11:40:29.904522] [INFO] Service initialized
+[2025-11-07T11:40:29.904513] [INFO] Cache hit
+[2025-11-07T11:40:29.904521] [INFO] Cache hit
+[2025-11-07T11:40:29.904543] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.904516] [INFO] Database query executed
+[2025-11-07T11:40:29.904540] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.904533] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.904539] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.904518] [INFO] Configuration loaded
+[2025-11-07T11:40:29.904512] [INFO] Service initialized
+[2025-11-07T11:40:29.904541] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.904530] [WARN] Cache miss
+[2025-11-07T11:40:29.904509] [INFO] Database query executed
+[2025-11-07T11:40:29.904532] [ERROR] Database connection lost
+[2025-11-07T11:40:29.904523] [INFO] Cache hit
+[2025-11-07T11:40:29.904529] [WARN] Timeout warning
+[2025-11-07T11:40:29.904520] [INFO] User logged in
+[2025-11-07T11:40:29.904515] [INFO] Connection established
+[2025-11-07T11:40:29.904542] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.904525] [WARN] Slow query performance
+[2025-11-07T11:40:29.904527] [WARN] Queue size growing
+[2025-11-07T11:40:29.904519] [INFO] Health check passed
+[2025-11-07T11:40:29.904536] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.904514] [INFO] Health check passed
+[2025-11-07T11:40:29.904534] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.904524] [WARN] Slow query performance
+[2025-11-07T11:40:29.904528] [WARN] Disk space low
+[2025-11-07T11:40:29.904535] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.904537] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.904523] [INFO] Transaction completed
+[2025-11-07T11:40:29.904511] [INFO] Session started
+[2025-11-07T11:40:29.904531] [ERROR] Request failed

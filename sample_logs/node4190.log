@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.740895] [ERROR] Request failed
+[2025-11-07T11:40:29.740888] [INFO] Configuration loaded
+[2025-11-07T11:40:29.740870] [INFO] Configuration loaded
+[2025-11-07T11:40:29.740902] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.740881] [INFO] Service initialized
+[2025-11-07T11:40:29.740883] [INFO] Transaction completed
+[2025-11-07T11:40:29.740904] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.740905] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.740873] [INFO] Connection established
+[2025-11-07T11:40:29.740903] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.740882] [INFO] Service initialized
+[2025-11-07T11:40:29.740901] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.740878] [INFO] Database query executed
+[2025-11-07T11:40:29.740891] [WARN] Disk space low
+[2025-11-07T11:40:29.740886] [INFO] Transaction completed
+[2025-11-07T11:40:29.740880] [INFO] Connection established
+[2025-11-07T11:40:29.740885] [INFO] Request processed successfully
+[2025-11-07T11:40:29.740893] [WARN] Slow query performance
+[2025-11-07T11:40:29.740899] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.740894] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.740874] [INFO] Database query executed
+[2025-11-07T11:40:29.740896] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.740892] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.740889] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.740884] [INFO] Request processed successfully
+[2025-11-07T11:40:29.740877] [INFO] Cache hit
+[2025-11-07T11:40:29.740879] [INFO] Connection established
+[2025-11-07T11:40:29.740875] [INFO] Session started
+[2025-11-07T11:40:29.740887] [INFO] Database query executed
+[2025-11-07T11:40:29.740876] [INFO] Transaction completed
+[2025-11-07T11:40:29.740872] [INFO] Configuration loaded
+[2025-11-07T11:40:29.740898] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.740900] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.740897] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.740890] [WARN] Timeout warning

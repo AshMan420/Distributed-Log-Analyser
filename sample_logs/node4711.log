@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.793615] [INFO] Service initialized
+[2025-11-07T11:40:29.793625] [INFO] Health check passed
+[2025-11-07T11:40:29.793614] [INFO] User logged in
+[2025-11-07T11:40:29.793622] [INFO] Connection established
+[2025-11-07T11:40:29.793628] [WARN] Cache miss
+[2025-11-07T11:40:29.793626] [INFO] User logged in
+[2025-11-07T11:40:29.793638] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.793634] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.793637] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793637] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793619] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793640] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.793612] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793629] [WARN] Cache miss
+[2025-11-07T11:40:29.793632] [ERROR] Network timeout
+[2025-11-07T11:40:29.793620] [INFO] User logged in
+[2025-11-07T11:40:29.793636] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.793621] [INFO] Transaction completed
+[2025-11-07T11:40:29.793624] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793640] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.793633] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.793641] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.793627] [INFO] Session started
+[2025-11-07T11:40:29.793631] [WARN] High memory usage detected
+[2025-11-07T11:40:29.793617] [INFO] User logged in
+[2025-11-07T11:40:29.793618] [INFO] Health check passed
+[2025-11-07T11:40:29.793630] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.793623] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793616] [INFO] Health check passed

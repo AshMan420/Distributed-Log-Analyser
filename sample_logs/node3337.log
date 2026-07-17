@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.651694] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.651701] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.651702] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.651695] [ERROR] Database connection lost
+[2025-11-07T11:40:29.651677] [INFO] Session started
+[2025-11-07T11:40:29.651683] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651693] [WARN] Slow query performance
+[2025-11-07T11:40:29.651690] [INFO] Service initialized
+[2025-11-07T11:40:29.651686] [INFO] Service initialized
+[2025-11-07T11:40:29.651685] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651700] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.651684] [INFO] User logged in
+[2025-11-07T11:40:29.651699] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.651687] [INFO] Session started
+[2025-11-07T11:40:29.651675] [INFO] Connection established
+[2025-11-07T11:40:29.651696] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.651691] [WARN] Timeout warning
+[2025-11-07T11:40:29.651703] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.651676] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651698] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.651704] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.651682] [INFO] User logged in
+[2025-11-07T11:40:29.651689] [INFO] Session started
+[2025-11-07T11:40:29.651680] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651681] [INFO] User logged in
+[2025-11-07T11:40:29.651692] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.651688] [INFO] Connection established
+[2025-11-07T11:40:29.651678] [INFO] Database query executed
+[2025-11-07T11:40:29.651697] [DEBUG] Loop iteration: 15

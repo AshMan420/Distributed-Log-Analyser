@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.302428] [ERROR] Invalid input data
+[2025-11-07T11:40:29.302421] [INFO] Connection established
+[2025-11-07T11:40:29.302434] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.302404] [INFO] Request processed successfully
+[2025-11-07T11:40:29.302405] [INFO] Session started
+[2025-11-07T11:40:29.302393] [INFO] User logged in
+[2025-11-07T11:40:29.302407] [INFO] Transaction completed
+[2025-11-07T11:40:29.302429] [ERROR] Network timeout
+[2025-11-07T11:40:29.302396] [INFO] Cache hit
+[2025-11-07T11:40:29.302406] [INFO] Service initialized
+[2025-11-07T11:40:29.302400] [INFO] Session started
+[2025-11-07T11:40:29.302402] [INFO] Service initialized
+[2025-11-07T11:40:29.302422] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.302401] [INFO] Transaction completed
+[2025-11-07T11:40:29.302427] [ERROR] Request failed
+[2025-11-07T11:40:29.302431] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.302400] [INFO] User logged in
+[2025-11-07T11:40:29.302408] [INFO] Health check passed
+[2025-11-07T11:40:29.302399] [INFO] Health check passed
+[2025-11-07T11:40:29.302425] [WARN] Cache miss
+[2025-11-07T11:40:29.302403] [INFO] Session started
+[2025-11-07T11:40:29.302433] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.302394] [INFO] Configuration loaded
+[2025-11-07T11:40:29.302395] [INFO] Health check passed
+[2025-11-07T11:40:29.302426] [WARN] Timeout warning
+[2025-11-07T11:40:29.302398] [INFO] User logged in
+[2025-11-07T11:40:29.302424] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.302420] [INFO] Connection established
+[2025-11-07T11:40:29.302423] [WARN] Disk space low
+[2025-11-07T11:40:29.302435] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.302430] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.302432] [DEBUG] Memory allocation: 2048 bytes

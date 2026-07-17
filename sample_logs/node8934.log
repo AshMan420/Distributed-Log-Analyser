@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.251636] [INFO] Session started
+[2025-11-07T11:40:30.251663] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.251649] [INFO] Session started
+[2025-11-07T11:40:30.251668] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251646] [INFO] Request processed successfully
+[2025-11-07T11:40:30.251641] [INFO] Transaction completed
+[2025-11-07T11:40:30.251640] [INFO] Database query executed
+[2025-11-07T11:40:30.251659] [ERROR] Authentication failed
+[2025-11-07T11:40:30.251657] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.251642] [INFO] Cache hit
+[2025-11-07T11:40:30.251672] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.251665] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.251651] [INFO] Health check passed
+[2025-11-07T11:40:30.251652] [INFO] Session started
+[2025-11-07T11:40:30.251653] [WARN] Disk space low
+[2025-11-07T11:40:30.251655] [WARN] High memory usage detected
+[2025-11-07T11:40:30.251656] [WARN] Cache miss
+[2025-11-07T11:40:30.251647] [INFO] Service initialized
+[2025-11-07T11:40:30.251661] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251639] [INFO] Database query executed
+[2025-11-07T11:40:30.251669] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.251648] [INFO] User logged in
+[2025-11-07T11:40:30.251635] [INFO] Request processed successfully
+[2025-11-07T11:40:30.251664] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.251644] [INFO] Database query executed
+[2025-11-07T11:40:30.251638] [INFO] Service initialized
+[2025-11-07T11:40:30.251643] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251667] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.251660] [ERROR] Database connection lost
+[2025-11-07T11:40:30.251671] [DEBUG] Loop iteration: 15

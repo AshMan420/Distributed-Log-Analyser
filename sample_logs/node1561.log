@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.455861] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.455856] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.455851] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.455860] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.455855] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.455848] [WARN] Timeout warning
+[2025-11-07T11:40:29.455839] [INFO] Health check passed
+[2025-11-07T11:40:29.455843] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.455849] [WARN] Cache miss
+[2025-11-07T11:40:29.455833] [INFO] Cache hit
+[2025-11-07T11:40:29.455834] [INFO] Request processed successfully
+[2025-11-07T11:40:29.455857] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.455859] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.455831] [INFO] Connection established
+[2025-11-07T11:40:29.455862] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.455838] [INFO] Configuration loaded
+[2025-11-07T11:40:29.455854] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.455852] [ERROR] Invalid input data
+[2025-11-07T11:40:29.455844] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.455832] [INFO] Health check passed
+[2025-11-07T11:40:29.455829] [INFO] Health check passed
+[2025-11-07T11:40:29.455835] [INFO] Health check passed
+[2025-11-07T11:40:29.455841] [INFO] Database query executed
+[2025-11-07T11:40:29.455853] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.455846] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.455858] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.455827] [INFO] Request processed successfully
+[2025-11-07T11:40:29.455864] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.455847] [WARN] Cache miss
+[2025-11-07T11:40:29.455830] [INFO] Configuration loaded
+[2025-11-07T11:40:29.455840] [INFO] Request processed successfully
+[2025-11-07T11:40:29.455863] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.455842] [INFO] User logged in
+[2025-11-07T11:40:29.455836] [INFO] Cache hit
+[2025-11-07T11:40:29.455845] [WARN] Disk space low
+[2025-11-07T11:40:29.455837] [INFO] Health check passed

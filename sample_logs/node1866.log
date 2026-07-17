@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.491090] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.491068] [INFO] Configuration loaded
+[2025-11-07T11:40:29.491088] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.491078] [INFO] User logged in
+[2025-11-07T11:40:29.491082] [ERROR] Disk read failed
+[2025-11-07T11:40:29.491086] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.491092] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.491070] [INFO] Configuration loaded
+[2025-11-07T11:40:29.491072] [INFO] Service initialized
+[2025-11-07T11:40:29.491072] [INFO] Transaction completed
+[2025-11-07T11:40:29.491084] [ERROR] Invalid input data
+[2025-11-07T11:40:29.491081] [WARN] Queue size growing
+[2025-11-07T11:40:29.491066] [INFO] Configuration loaded
+[2025-11-07T11:40:29.491074] [INFO] User logged in
+[2025-11-07T11:40:29.491077] [INFO] Session started
+[2025-11-07T11:40:29.491067] [INFO] User logged in
+[2025-11-07T11:40:29.491076] [INFO] Configuration loaded
+[2025-11-07T11:40:29.491089] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.491073] [INFO] Request processed successfully
+[2025-11-07T11:40:29.491085] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.491069] [INFO] User logged in
+[2025-11-07T11:40:29.491091] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.491080] [INFO] Session started
+[2025-11-07T11:40:29.491076] [INFO] Transaction completed
+[2025-11-07T11:40:29.491064] [INFO] Connection established
+[2025-11-07T11:40:29.491079] [INFO] Database query executed
+[2025-11-07T11:40:29.491065] [INFO] Transaction completed
+[2025-11-07T11:40:29.491087] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.491093] [DEBUG] HTTP request headers parsed

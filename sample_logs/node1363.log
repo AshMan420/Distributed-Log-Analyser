@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.434147] [INFO] User logged in
+[2025-11-07T11:40:29.434158] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.434151] [INFO] Session started
+[2025-11-07T11:40:29.434142] [INFO] Service initialized
+[2025-11-07T11:40:29.434145] [INFO] Database query executed
+[2025-11-07T11:40:29.434143] [INFO] Connection established
+[2025-11-07T11:40:29.434148] [INFO] Request processed successfully
+[2025-11-07T11:40:29.434159] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.434146] [INFO] Service initialized
+[2025-11-07T11:40:29.434153] [INFO] Session started
+[2025-11-07T11:40:29.434157] [ERROR] Permission denied
+[2025-11-07T11:40:29.434140] [INFO] Cache hit
+[2025-11-07T11:40:29.434161] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.434149] [INFO] Configuration loaded
+[2025-11-07T11:40:29.434144] [INFO] Connection established
+[2025-11-07T11:40:29.434152] [INFO] Health check passed
+[2025-11-07T11:40:29.434163] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.434155] [WARN] Cache miss
+[2025-11-07T11:40:29.434138] [INFO] Database query executed
+[2025-11-07T11:40:29.434156] [ERROR] Database connection lost
+[2025-11-07T11:40:29.434162] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.434160] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.434141] [INFO] Request processed successfully
+[2025-11-07T11:40:29.434150] [INFO] Transaction completed

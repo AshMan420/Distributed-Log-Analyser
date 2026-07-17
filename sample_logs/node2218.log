@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.528916] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.528909] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.528898] [INFO] Request processed successfully
+[2025-11-07T11:40:29.528906] [INFO] Health check passed
+[2025-11-07T11:40:29.528914] [ERROR] File not found
+[2025-11-07T11:40:29.528903] [INFO] Connection established
+[2025-11-07T11:40:29.528920] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.528917] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.528896] [INFO] Connection established
+[2025-11-07T11:40:29.528894] [INFO] Connection established
+[2025-11-07T11:40:29.528922] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.528893] [INFO] Cache hit
+[2025-11-07T11:40:29.528910] [WARN] Cache miss
+[2025-11-07T11:40:29.528921] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.528901] [INFO] Cache hit
+[2025-11-07T11:40:29.528900] [INFO] Configuration loaded
+[2025-11-07T11:40:29.528919] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.528911] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.528913] [WARN] Cache miss
+[2025-11-07T11:40:29.528908] [INFO] Session started
+[2025-11-07T11:40:29.528923] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.528915] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.528905] [INFO] Transaction completed
+[2025-11-07T11:40:29.528899] [INFO] Health check passed
+[2025-11-07T11:40:29.528892] [INFO] Request processed successfully
+[2025-11-07T11:40:29.528907] [INFO] Session started
+[2025-11-07T11:40:29.528918] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.528904] [INFO] Health check passed
+[2025-11-07T11:40:29.528912] [WARN] Slow query performance
+[2025-11-07T11:40:29.528902] [INFO] Transaction completed
+[2025-11-07T11:40:29.528897] [INFO] Configuration loaded

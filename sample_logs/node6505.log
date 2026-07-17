@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.985584] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.985572] [INFO] Session started
+[2025-11-07T11:40:29.985586] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.985577] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.985566] [INFO] Cache hit
+[2025-11-07T11:40:29.985565] [INFO] Cache hit
+[2025-11-07T11:40:29.985580] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.985573] [INFO] Cache hit
+[2025-11-07T11:40:29.985585] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.985583] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.985588] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.985568] [INFO] Cache hit
+[2025-11-07T11:40:29.985581] [ERROR] File not found
+[2025-11-07T11:40:29.985570] [INFO] Health check passed
+[2025-11-07T11:40:29.985576] [WARN] Slow query performance
+[2025-11-07T11:40:29.985569] [INFO] Session started
+[2025-11-07T11:40:29.985589] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.985590] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.985563] [INFO] User logged in
+[2025-11-07T11:40:29.985574] [INFO] Request processed successfully
+[2025-11-07T11:40:29.985578] [WARN] Disk space low
+[2025-11-07T11:40:29.985567] [INFO] Service initialized
+[2025-11-07T11:40:29.985571] [INFO] Transaction completed
+[2025-11-07T11:40:29.985587] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.985582] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.985575] [INFO] Cache hit
+[2025-11-07T11:40:29.985591] [DEBUG] HTTP request headers parsed

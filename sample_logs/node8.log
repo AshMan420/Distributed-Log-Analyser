@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.292148] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.292142] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.292130] [INFO] Session started
+[2025-11-07T11:40:29.292141] [ERROR] Disk read failed
+[2025-11-07T11:40:29.292143] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.292146] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.292147] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.292137] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.292140] [ERROR] Authentication failed
+[2025-11-07T11:40:29.292119] [INFO] Request processed successfully
+[2025-11-07T11:40:29.292123] [INFO] Cache hit
+[2025-11-07T11:40:29.292133] [INFO] Database query executed
+[2025-11-07T11:40:29.292153] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.292144] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.292127] [INFO] Connection established
+[2025-11-07T11:40:29.292124] [INFO] Database query executed
+[2025-11-07T11:40:29.292134] [WARN] Cache miss
+[2025-11-07T11:40:29.292131] [INFO] Service initialized
+[2025-11-07T11:40:29.292129] [INFO] Session started
+[2025-11-07T11:40:29.292152] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.292135] [WARN] Cache miss
+[2025-11-07T11:40:29.292122] [INFO] Health check passed
+[2025-11-07T11:40:29.292132] [INFO] Cache hit
+[2025-11-07T11:40:29.292121] [INFO] Service initialized
+[2025-11-07T11:40:29.292145] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.292138] [WARN] Cache miss
+[2025-11-07T11:40:29.292139] [WARN] Timeout warning
+[2025-11-07T11:40:29.292149] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.292151] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.292150] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.292126] [INFO] Session started
+[2025-11-07T11:40:29.292128] [INFO] Request processed successfully
+[2025-11-07T11:40:29.292136] [WARN] Cache miss
+[2025-11-07T11:40:29.292127] [INFO] Transaction completed
+[2025-11-07T11:40:29.292125] [INFO] Database query executed

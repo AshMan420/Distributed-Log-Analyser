@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.016910] [INFO] Configuration loaded
+[2025-11-07T11:40:30.016968] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.016960] [INFO] Cache hit
+[2025-11-07T11:40:30.016969] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.016962] [WARN] Cache miss
+[2025-11-07T11:40:30.016951] [INFO] Health check passed
+[2025-11-07T11:40:30.016955] [INFO] Transaction completed
+[2025-11-07T11:40:30.016976] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.016907] [INFO] Request processed successfully
+[2025-11-07T11:40:30.016965] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.016963] [WARN] Slow query performance
+[2025-11-07T11:40:30.016954] [INFO] Session started
+[2025-11-07T11:40:30.016957] [INFO] Request processed successfully
+[2025-11-07T11:40:30.016972] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.016964] [WARN] Queue size growing
+[2025-11-07T11:40:30.016973] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.016974] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.016908] [INFO] Cache hit
+[2025-11-07T11:40:30.016950] [INFO] Request processed successfully
+[2025-11-07T11:40:30.016953] [INFO] Cache hit
+[2025-11-07T11:40:30.016975] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.016956] [INFO] Health check passed
+[2025-11-07T11:40:30.016977] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.016971] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.016979] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.016958] [INFO] Request processed successfully
+[2025-11-07T11:40:30.016970] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.016952] [INFO] Connection established
+[2025-11-07T11:40:30.016967] [ERROR] Service unavailable
+[2025-11-07T11:40:30.016961] [WARN] Slow query performance
+[2025-11-07T11:40:30.016971] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.016959] [INFO] Connection established

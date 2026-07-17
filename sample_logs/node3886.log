@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.709398] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.709396] [ERROR] Disk read failed
+[2025-11-07T11:40:29.709393] [INFO] Transaction completed
+[2025-11-07T11:40:29.709400] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.709395] [ERROR] Disk read failed
+[2025-11-07T11:40:29.709388] [INFO] User logged in
+[2025-11-07T11:40:29.709392] [INFO] Connection established
+[2025-11-07T11:40:29.709394] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.709391] [INFO] Request processed successfully
+[2025-11-07T11:40:29.709402] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.709405] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.709404] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.709381] [INFO] Session started
+[2025-11-07T11:40:29.709399] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.709386] [INFO] Database query executed
+[2025-11-07T11:40:29.709406] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.709389] [INFO] User logged in
+[2025-11-07T11:40:29.709387] [INFO] Transaction completed
+[2025-11-07T11:40:29.709401] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.709385] [INFO] Database query executed
+[2025-11-07T11:40:29.709383] [INFO] Database query executed
+[2025-11-07T11:40:29.709390] [INFO] Database query executed
+[2025-11-07T11:40:29.709403] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.709384] [INFO] Session started

@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.865806] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.865808] [ERROR] File not found
+[2025-11-07T11:40:29.865798] [INFO] Database query executed
+[2025-11-07T11:40:29.865813] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.865814] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.865795] [INFO] Connection established
+[2025-11-07T11:40:29.865809] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.865787] [INFO] Request processed successfully
+[2025-11-07T11:40:29.865807] [ERROR] File not found
+[2025-11-07T11:40:29.865817] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.865794] [INFO] Health check passed
+[2025-11-07T11:40:29.865790] [INFO] Service initialized
+[2025-11-07T11:40:29.865796] [INFO] Transaction completed
+[2025-11-07T11:40:29.865786] [INFO] Service initialized
+[2025-11-07T11:40:29.865812] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.865802] [WARN] Slow query performance
+[2025-11-07T11:40:29.865797] [INFO] Database query executed
+[2025-11-07T11:40:29.865803] [WARN] Queue size growing
+[2025-11-07T11:40:29.865799] [INFO] User logged in
+[2025-11-07T11:40:29.865805] [WARN] Slow query performance
+[2025-11-07T11:40:29.865800] [INFO] Transaction completed
+[2025-11-07T11:40:29.865810] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.865818] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.865785] [INFO] Request processed successfully
+[2025-11-07T11:40:29.865788] [INFO] User logged in
+[2025-11-07T11:40:29.865791] [INFO] Transaction completed
+[2025-11-07T11:40:29.865819] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.865801] [INFO] Configuration loaded
+[2025-11-07T11:40:29.865811] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.865789] [INFO] Configuration loaded
+[2025-11-07T11:40:29.865804] [WARN] Queue size growing
+[2025-11-07T11:40:29.865793] [INFO] User logged in
+[2025-11-07T11:40:29.865815] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.865803] [WARN] Cache miss
+[2025-11-07T11:40:29.865784] [INFO] Cache hit
+[2025-11-07T11:40:29.865792] [INFO] Service initialized
+[2025-11-07T11:40:29.865816] [DEBUG] Buffer size: 4096 bytes

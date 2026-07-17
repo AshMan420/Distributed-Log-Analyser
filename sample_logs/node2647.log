@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.577270] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.577281] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.577276] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.577252] [INFO] User logged in
+[2025-11-07T11:40:29.577250] [INFO] Connection established
+[2025-11-07T11:40:29.577280] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.577279] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.577265] [INFO] Health check passed
+[2025-11-07T11:40:29.577277] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.577261] [INFO] Cache hit
+[2025-11-07T11:40:29.577254] [INFO] Database query executed
+[2025-11-07T11:40:29.577263] [INFO] Configuration loaded
+[2025-11-07T11:40:29.577251] [INFO] User logged in
+[2025-11-07T11:40:29.577264] [INFO] Connection established
+[2025-11-07T11:40:29.577259] [INFO] Session started
+[2025-11-07T11:40:29.577268] [WARN] Slow query performance
+[2025-11-07T11:40:29.577269] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.577257] [INFO] Database query executed
+[2025-11-07T11:40:29.577262] [INFO] Session started
+[2025-11-07T11:40:29.577260] [INFO] Health check passed
+[2025-11-07T11:40:29.577275] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.577274] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.577258] [INFO] Health check passed
+[2025-11-07T11:40:29.577267] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.577256] [INFO] Request processed successfully
+[2025-11-07T11:40:29.577253] [INFO] Session started
+[2025-11-07T11:40:29.577273] [ERROR] Request failed
+[2025-11-07T11:40:29.577271] [ERROR] Request failed
+[2025-11-07T11:40:29.577272] [ERROR] Invalid input data
+[2025-11-07T11:40:29.577278] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.577265] [INFO] Request processed successfully

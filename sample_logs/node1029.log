@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.399412] [INFO] Connection established
+[2025-11-07T11:40:29.399411] [INFO] Service initialized
+[2025-11-07T11:40:29.399404] [INFO] Health check passed
+[2025-11-07T11:40:29.399418] [INFO] User logged in
+[2025-11-07T11:40:29.399420] [WARN] Timeout warning
+[2025-11-07T11:40:29.399427] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.399408] [INFO] Session started
+[2025-11-07T11:40:29.399433] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.399405] [INFO] Health check passed
+[2025-11-07T11:40:29.399436] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.399428] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.399411] [INFO] Request processed successfully
+[2025-11-07T11:40:29.399415] [INFO] Request processed successfully
+[2025-11-07T11:40:29.399414] [INFO] Transaction completed
+[2025-11-07T11:40:29.399422] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.399430] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.399407] [INFO] Connection established
+[2025-11-07T11:40:29.399434] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.399406] [INFO] Service initialized
+[2025-11-07T11:40:29.399432] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.399426] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.399431] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.399421] [WARN] Cache miss
+[2025-11-07T11:40:29.399409] [INFO] Configuration loaded
+[2025-11-07T11:40:29.399435] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.399416] [INFO] Service initialized
+[2025-11-07T11:40:29.399429] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.399424] [ERROR] File not found
+[2025-11-07T11:40:29.399419] [INFO] Service initialized
+[2025-11-07T11:40:29.399425] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.399413] [INFO] Service initialized
+[2025-11-07T11:40:29.399417] [INFO] Cache hit
+[2025-11-07T11:40:29.399423] [ERROR] Request failed

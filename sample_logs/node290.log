@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.322000] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.321979] [INFO] Service initialized
+[2025-11-07T11:40:29.321999] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.321995] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.321974] [INFO] Configuration loaded
+[2025-11-07T11:40:29.321987] [WARN] High memory usage detected
+[2025-11-07T11:40:29.321988] [WARN] Disk space low
+[2025-11-07T11:40:29.321975] [INFO] Cache hit
+[2025-11-07T11:40:29.321985] [INFO] Request processed successfully
+[2025-11-07T11:40:29.321972] [INFO] Session started
+[2025-11-07T11:40:29.321998] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.321992] [ERROR] File not found
+[2025-11-07T11:40:29.321980] [INFO] Transaction completed
+[2025-11-07T11:40:29.321991] [ERROR] Database connection lost
+[2025-11-07T11:40:29.321977] [INFO] Request processed successfully
+[2025-11-07T11:40:29.321978] [INFO] Transaction completed
+[2025-11-07T11:40:29.321973] [INFO] Service initialized
+[2025-11-07T11:40:29.321983] [INFO] Health check passed
+[2025-11-07T11:40:29.321990] [WARN] Queue size growing
+[2025-11-07T11:40:29.321998] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.321984] [INFO] Cache hit
+[2025-11-07T11:40:29.321993] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.321976] [INFO] Request processed successfully
+[2025-11-07T11:40:29.321994] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.321997] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.321986] [INFO] Configuration loaded
+[2025-11-07T11:40:29.321996] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.321981] [INFO] Database query executed
+[2025-11-07T11:40:29.321989] [WARN] Disk space low
+[2025-11-07T11:40:29.321982] [INFO] Request processed successfully

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.336877] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.336866] [INFO] Configuration loaded
+[2025-11-07T11:40:29.336891] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.336885] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.336871] [INFO] Configuration loaded
+[2025-11-07T11:40:29.336874] [INFO] User logged in
+[2025-11-07T11:40:29.336864] [INFO] Health check passed
+[2025-11-07T11:40:29.336878] [ERROR] Service unavailable
+[2025-11-07T11:40:29.336869] [INFO] Connection established
+[2025-11-07T11:40:29.336880] [ERROR] Authentication failed
+[2025-11-07T11:40:29.336863] [INFO] Connection established
+[2025-11-07T11:40:29.336865] [INFO] Configuration loaded
+[2025-11-07T11:40:29.336883] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.336888] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.336881] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.336882] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.336885] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.336872] [INFO] Session started
+[2025-11-07T11:40:29.336887] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.336886] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.336890] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.336870] [INFO] Transaction completed
+[2025-11-07T11:40:29.336870] [INFO] Request processed successfully
+[2025-11-07T11:40:29.336873] [INFO] Connection established
+[2025-11-07T11:40:29.336876] [INFO] Cache hit
+[2025-11-07T11:40:29.336868] [INFO] Request processed successfully
+[2025-11-07T11:40:29.336889] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.336875] [INFO] Transaction completed
+[2025-11-07T11:40:29.336884] [DEBUG] Cache key generated

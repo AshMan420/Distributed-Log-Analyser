@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.304173] [INFO] Database query executed
+[2025-11-07T11:40:29.304194] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.304183] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.304176] [INFO] Session started
+[2025-11-07T11:40:29.304182] [INFO] Service initialized
+[2025-11-07T11:40:29.304168] [INFO] Database query executed
+[2025-11-07T11:40:29.304185] [WARN] Cache miss
+[2025-11-07T11:40:29.304184] [WARN] Slow query performance
+[2025-11-07T11:40:29.304178] [INFO] User logged in
+[2025-11-07T11:40:29.304169] [INFO] Cache hit
+[2025-11-07T11:40:29.304172] [INFO] Cache hit
+[2025-11-07T11:40:29.304191] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.304177] [INFO] Session started
+[2025-11-07T11:40:29.304189] [ERROR] Authentication failed
+[2025-11-07T11:40:29.304195] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.304190] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.304181] [INFO] Database query executed
+[2025-11-07T11:40:29.304188] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.304174] [INFO] Service initialized
+[2025-11-07T11:40:29.304170] [INFO] Health check passed
+[2025-11-07T11:40:29.304180] [INFO] Connection established
+[2025-11-07T11:40:29.304179] [INFO] User logged in
+[2025-11-07T11:40:29.304171] [INFO] Connection established
+[2025-11-07T11:40:29.304192] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.304175] [INFO] Connection established
+[2025-11-07T11:40:29.304187] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.304167] [INFO] Service initialized
+[2025-11-07T11:40:29.304193] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.304186] [WARN] Connection retry attempt

@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.604129] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.604109] [INFO] Session started
+[2025-11-07T11:40:29.604103] [INFO] Transaction completed
+[2025-11-07T11:40:29.604116] [WARN] Queue size growing
+[2025-11-07T11:40:29.604119] [WARN] Slow query performance
+[2025-11-07T11:40:29.604110] [INFO] Session started
+[2025-11-07T11:40:29.604117] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.604111] [INFO] User logged in
+[2025-11-07T11:40:29.604104] [INFO] Database query executed
+[2025-11-07T11:40:29.604121] [ERROR] Authentication failed
+[2025-11-07T11:40:29.604112] [INFO] Service initialized
+[2025-11-07T11:40:29.604128] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.604105] [INFO] Health check passed
+[2025-11-07T11:40:29.604109] [INFO] Connection established
+[2025-11-07T11:40:29.604120] [WARN] Timeout warning
+[2025-11-07T11:40:29.604118] [WARN] Slow query performance
+[2025-11-07T11:40:29.604124] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.604114] [INFO] Cache hit
+[2025-11-07T11:40:29.604115] [INFO] Database query executed
+[2025-11-07T11:40:29.604106] [INFO] Request processed successfully
+[2025-11-07T11:40:29.604126] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.604107] [INFO] User logged in
+[2025-11-07T11:40:29.604122] [ERROR] Network timeout
+[2025-11-07T11:40:29.604127] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.604125] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.604123] [DEBUG] Connection pool status checked

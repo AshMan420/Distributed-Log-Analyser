@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.783402] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.783389] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.783386] [INFO] Health check passed
+[2025-11-07T11:40:29.783397] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.783401] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.783385] [INFO] Connection established
+[2025-11-07T11:40:29.783400] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.783399] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.783390] [WARN] Cache miss
+[2025-11-07T11:40:29.783380] [INFO] Service initialized
+[2025-11-07T11:40:29.783376] [INFO] Service initialized
+[2025-11-07T11:40:29.783396] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.783391] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.783382] [INFO] Cache hit
+[2025-11-07T11:40:29.783372] [INFO] Session started
+[2025-11-07T11:40:29.783374] [INFO] User logged in
+[2025-11-07T11:40:29.783384] [INFO] Configuration loaded
+[2025-11-07T11:40:29.783402] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.783392] [ERROR] Disk read failed
+[2025-11-07T11:40:29.783398] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.783379] [INFO] Service initialized
+[2025-11-07T11:40:29.783378] [INFO] Service initialized
+[2025-11-07T11:40:29.783393] [ERROR] Authentication failed
+[2025-11-07T11:40:29.783377] [INFO] Database query executed
+[2025-11-07T11:40:29.783375] [INFO] Request processed successfully
+[2025-11-07T11:40:29.783388] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.783387] [INFO] Service initialized
+[2025-11-07T11:40:29.783383] [INFO] Cache hit
+[2025-11-07T11:40:29.783395] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.783381] [INFO] Request processed successfully

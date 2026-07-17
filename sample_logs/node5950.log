@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.923643] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.923639] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.923633] [WARN] Cache miss
+[2025-11-07T11:40:29.923638] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.923641] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.923622] [INFO] Cache hit
+[2025-11-07T11:40:29.923628] [INFO] Configuration loaded
+[2025-11-07T11:40:29.923632] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.923642] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.923611] [INFO] Service initialized
+[2025-11-07T11:40:29.923637] [ERROR] Permission denied
+[2025-11-07T11:40:29.923608] [INFO] Service initialized
+[2025-11-07T11:40:29.923612] [INFO] User logged in
+[2025-11-07T11:40:29.923640] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.923610] [INFO] Cache hit
+[2025-11-07T11:40:29.923636] [WARN] Slow query performance
+[2025-11-07T11:40:29.923630] [INFO] Request processed successfully
+[2025-11-07T11:40:29.923623] [INFO] Database query executed
+[2025-11-07T11:40:29.923614] [INFO] Database query executed
+[2025-11-07T11:40:29.923629] [INFO] Session started
+[2025-11-07T11:40:29.923627] [INFO] Connection established
+[2025-11-07T11:40:29.923631] [INFO] Database query executed
+[2025-11-07T11:40:29.923626] [INFO] User logged in
+[2025-11-07T11:40:29.923635] [WARN] Slow query performance
+[2025-11-07T11:40:29.923613] [INFO] Transaction completed
+[2025-11-07T11:40:29.923625] [INFO] Request processed successfully
+[2025-11-07T11:40:29.923634] [WARN] Timeout warning

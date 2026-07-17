@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.671498] [WARN] Timeout warning
+[2025-11-07T11:40:29.671483] [INFO] Configuration loaded
+[2025-11-07T11:40:29.671502] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.671482] [INFO] Transaction completed
+[2025-11-07T11:40:29.671508] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.671497] [WARN] Slow query performance
+[2025-11-07T11:40:29.671504] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.671490] [INFO] Configuration loaded
+[2025-11-07T11:40:29.671481] [INFO] Transaction completed
+[2025-11-07T11:40:29.671493] [INFO] Cache hit
+[2025-11-07T11:40:29.671492] [INFO] Health check passed
+[2025-11-07T11:40:29.671506] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.671499] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.671500] [ERROR] Invalid input data
+[2025-11-07T11:40:29.671486] [INFO] Health check passed
+[2025-11-07T11:40:29.671491] [INFO] Configuration loaded
+[2025-11-07T11:40:29.671480] [INFO] Cache hit
+[2025-11-07T11:40:29.671503] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.671509] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.671507] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.671485] [INFO] Configuration loaded
+[2025-11-07T11:40:29.671494] [INFO] Request processed successfully
+[2025-11-07T11:40:29.671496] [INFO] Health check passed
+[2025-11-07T11:40:29.671487] [INFO] Health check passed
+[2025-11-07T11:40:29.671489] [INFO] Database query executed
+[2025-11-07T11:40:29.671495] [INFO] Connection established
+[2025-11-07T11:40:29.671501] [ERROR] Database connection lost
+[2025-11-07T11:40:29.671488] [INFO] Connection established
+[2025-11-07T11:40:29.671505] [DEBUG] Entering function process_data()

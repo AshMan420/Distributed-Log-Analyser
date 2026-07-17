@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.266796] [INFO] Health check passed
+[2025-11-07T11:40:30.266802] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.266803] [WARN] Queue size growing
+[2025-11-07T11:40:30.266794] [INFO] Service initialized
+[2025-11-07T11:40:30.266788] [INFO] User logged in
+[2025-11-07T11:40:30.266789] [INFO] Cache hit
+[2025-11-07T11:40:30.266791] [INFO] Health check passed
+[2025-11-07T11:40:30.266792] [INFO] Transaction completed
+[2025-11-07T11:40:30.266814] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.266808] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.266800] [WARN] Slow query performance
+[2025-11-07T11:40:30.266801] [WARN] Cache miss
+[2025-11-07T11:40:30.266816] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.266813] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.266798] [INFO] Service initialized
+[2025-11-07T11:40:30.266804] [WARN] Disk space low
+[2025-11-07T11:40:30.266810] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.266782] [INFO] Health check passed
+[2025-11-07T11:40:30.266787] [INFO] Transaction completed
+[2025-11-07T11:40:30.266811] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.266805] [WARN] Queue size growing
+[2025-11-07T11:40:30.266809] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.266793] [INFO] Database query executed
+[2025-11-07T11:40:30.266783] [INFO] Database query executed
+[2025-11-07T11:40:30.266785] [INFO] Cache hit
+[2025-11-07T11:40:30.266806] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.266797] [INFO] Connection established
+[2025-11-07T11:40:30.266789] [INFO] Service initialized
+[2025-11-07T11:40:30.266784] [INFO] Service initialized
+[2025-11-07T11:40:30.266795] [INFO] Session started
+[2025-11-07T11:40:30.266799] [WARN] Timeout warning
+[2025-11-07T11:40:30.266812] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.266807] [ERROR] Database connection lost
+[2025-11-07T11:40:30.266815] [DEBUG] Variable value: x=42

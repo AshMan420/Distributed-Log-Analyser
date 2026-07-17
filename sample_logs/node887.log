@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.384779] [INFO] Configuration loaded
+[2025-11-07T11:40:29.384787] [INFO] Service initialized
+[2025-11-07T11:40:29.384785] [INFO] User logged in
+[2025-11-07T11:40:29.384795] [INFO] User logged in
+[2025-11-07T11:40:29.384790] [INFO] Health check passed
+[2025-11-07T11:40:29.384803] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.384797] [WARN] High memory usage detected
+[2025-11-07T11:40:29.384804] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.384783] [INFO] Service initialized
+[2025-11-07T11:40:29.384778] [INFO] User logged in
+[2025-11-07T11:40:29.384790] [INFO] Transaction completed
+[2025-11-07T11:40:29.384781] [INFO] Health check passed
+[2025-11-07T11:40:29.384789] [INFO] Cache hit
+[2025-11-07T11:40:29.384784] [INFO] Database query executed
+[2025-11-07T11:40:29.384807] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.384776] [INFO] Cache hit
+[2025-11-07T11:40:29.384780] [INFO] Request processed successfully
+[2025-11-07T11:40:29.384808] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.384786] [INFO] Health check passed
+[2025-11-07T11:40:29.384801] [ERROR] Disk read failed
+[2025-11-07T11:40:29.384792] [INFO] Service initialized
+[2025-11-07T11:40:29.384799] [WARN] Timeout warning
+[2025-11-07T11:40:29.384800] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.384791] [INFO] Session started
+[2025-11-07T11:40:29.384795] [INFO] Database query executed
+[2025-11-07T11:40:29.384793] [INFO] Transaction completed
+[2025-11-07T11:40:29.384810] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.384809] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.384788] [INFO] Database query executed
+[2025-11-07T11:40:29.384805] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.384798] [WARN] Slow query performance
+[2025-11-07T11:40:29.384806] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.384802] [ERROR] File not found
+[2025-11-07T11:40:29.384782] [INFO] Session started

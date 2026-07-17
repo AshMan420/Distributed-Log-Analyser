@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.898363] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.898364] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.898348] [INFO] Session started
+[2025-11-07T11:40:29.898365] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.898368] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.898367] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.898349] [INFO] Health check passed
+[2025-11-07T11:40:29.898359] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.898353] [INFO] Service initialized
+[2025-11-07T11:40:29.898358] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.898346] [INFO] Service initialized
+[2025-11-07T11:40:29.898352] [INFO] Transaction completed
+[2025-11-07T11:40:29.898342] [INFO] Connection established
+[2025-11-07T11:40:29.898341] [INFO] Connection established
+[2025-11-07T11:40:29.898357] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.898338] [INFO] Transaction completed
+[2025-11-07T11:40:29.898339] [INFO] Configuration loaded
+[2025-11-07T11:40:29.898361] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.898345] [INFO] Transaction completed
+[2025-11-07T11:40:29.898351] [INFO] Session started
+[2025-11-07T11:40:29.898355] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.898340] [INFO] Database query executed
+[2025-11-07T11:40:29.898354] [WARN] Queue size growing
+[2025-11-07T11:40:29.898347] [INFO] Configuration loaded
+[2025-11-07T11:40:29.898360] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.898366] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.898350] [INFO] Database query executed
+[2025-11-07T11:40:29.898368] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.898343] [INFO] Cache hit
+[2025-11-07T11:40:29.898344] [INFO] Health check passed
+[2025-11-07T11:40:29.898356] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.898362] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.898351] [INFO] Cache hit

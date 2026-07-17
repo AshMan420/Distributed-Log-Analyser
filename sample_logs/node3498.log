@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.668322] [INFO] User logged in
+[2025-11-07T11:40:29.668339] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.668333] [INFO] Connection established
+[2025-11-07T11:40:29.668320] [INFO] Configuration loaded
+[2025-11-07T11:40:29.668337] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.668340] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.668324] [INFO] Request processed successfully
+[2025-11-07T11:40:29.668334] [WARN] Queue size growing
+[2025-11-07T11:40:29.668335] [WARN] Disk space low
+[2025-11-07T11:40:29.668328] [INFO] Session started
+[2025-11-07T11:40:29.668341] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.668331] [INFO] Transaction completed
+[2025-11-07T11:40:29.668323] [INFO] Request processed successfully
+[2025-11-07T11:40:29.668321] [INFO] Configuration loaded
+[2025-11-07T11:40:29.668344] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.668330] [INFO] Connection established
+[2025-11-07T11:40:29.668326] [INFO] Service initialized
+[2025-11-07T11:40:29.668332] [INFO] Transaction completed
+[2025-11-07T11:40:29.668347] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.668325] [INFO] Cache hit
+[2025-11-07T11:40:29.668327] [INFO] User logged in
+[2025-11-07T11:40:29.668329] [INFO] User logged in
+[2025-11-07T11:40:29.668319] [INFO] Session started
+[2025-11-07T11:40:29.668343] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.668336] [WARN] Timeout warning
+[2025-11-07T11:40:29.668345] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.668338] [ERROR] File not found
+[2025-11-07T11:40:29.668346] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.668342] [DEBUG] Variable value: x=42

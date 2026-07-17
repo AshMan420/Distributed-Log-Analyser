@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.069937] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.069935] [ERROR] Request failed
+[2025-11-07T11:40:30.069927] [INFO] Health check passed
+[2025-11-07T11:40:30.069925] [INFO] Database query executed
+[2025-11-07T11:40:30.069928] [INFO] Request processed successfully
+[2025-11-07T11:40:30.069944] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.069934] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.069920] [INFO] User logged in
+[2025-11-07T11:40:30.069928] [INFO] Transaction completed
+[2025-11-07T11:40:30.069931] [WARN] Timeout warning
+[2025-11-07T11:40:30.069936] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.069919] [INFO] Transaction completed
+[2025-11-07T11:40:30.069918] [INFO] Cache hit
+[2025-11-07T11:40:30.069915] [INFO] Database query executed
+[2025-11-07T11:40:30.069923] [INFO] Transaction completed
+[2025-11-07T11:40:30.069943] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.069916] [INFO] User logged in
+[2025-11-07T11:40:30.069932] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.069930] [WARN] Slow query performance
+[2025-11-07T11:40:30.069926] [INFO] Session started
+[2025-11-07T11:40:30.069942] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.069939] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.069922] [INFO] Request processed successfully
+[2025-11-07T11:40:30.069938] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.069940] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.069921] [INFO] Service initialized
+[2025-11-07T11:40:30.069924] [INFO] Session started
+[2025-11-07T11:40:30.069929] [INFO] User logged in
+[2025-11-07T11:40:30.069941] [DEBUG] Variable value: x=42

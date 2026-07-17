@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.302909] [ERROR] Disk read failed
+[2025-11-07T11:40:30.302896] [INFO] Database query executed
+[2025-11-07T11:40:30.302917] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.302912] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.302918] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.302904] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.302916] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.302895] [INFO] Request processed successfully
+[2025-11-07T11:40:30.302911] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.302906] [WARN] Cache miss
+[2025-11-07T11:40:30.302888] [INFO] Health check passed
+[2025-11-07T11:40:30.302893] [INFO] User logged in
+[2025-11-07T11:40:30.302910] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.302885] [INFO] Transaction completed
+[2025-11-07T11:40:30.302900] [INFO] User logged in
+[2025-11-07T11:40:30.302905] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.302901] [INFO] Cache hit
+[2025-11-07T11:40:30.302913] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.302897] [INFO] Cache hit
+[2025-11-07T11:40:30.302883] [INFO] Session started
+[2025-11-07T11:40:30.302887] [INFO] Session started
+[2025-11-07T11:40:30.302903] [WARN] Queue size growing
+[2025-11-07T11:40:30.302915] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.302886] [INFO] Cache hit
+[2025-11-07T11:40:30.302914] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.302890] [INFO] Connection established
+[2025-11-07T11:40:30.302892] [INFO] Session started
+[2025-11-07T11:40:30.302908] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.302889] [INFO] Service initialized
+[2025-11-07T11:40:30.302894] [INFO] Transaction completed
+[2025-11-07T11:40:30.302907] [ERROR] Database connection lost
+[2025-11-07T11:40:30.302891] [INFO] Transaction completed
+[2025-11-07T11:40:30.302898] [INFO] Configuration loaded
+[2025-11-07T11:40:30.302899] [INFO] Configuration loaded
+[2025-11-07T11:40:30.302902] [WARN] Deprecated API usage

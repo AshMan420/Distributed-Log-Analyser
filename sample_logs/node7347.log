@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.073185] [INFO] Session started
+[2025-11-07T11:40:30.073187] [INFO] Configuration loaded
+[2025-11-07T11:40:30.073195] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.073197] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.073201] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.073174] [INFO] Request processed successfully
+[2025-11-07T11:40:30.073188] [INFO] User logged in
+[2025-11-07T11:40:30.073196] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.073179] [INFO] Connection established
+[2025-11-07T11:40:30.073180] [INFO] Connection established
+[2025-11-07T11:40:30.073200] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.073194] [ERROR] Authentication failed
+[2025-11-07T11:40:30.073175] [INFO] Request processed successfully
+[2025-11-07T11:40:30.073199] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.073182] [INFO] Service initialized
+[2025-11-07T11:40:30.073202] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.073203] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.073192] [WARN] Cache miss
+[2025-11-07T11:40:30.073187] [INFO] Transaction completed
+[2025-11-07T11:40:30.073190] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.073191] [WARN] Slow query performance
+[2025-11-07T11:40:30.073176] [INFO] Transaction completed
+[2025-11-07T11:40:30.073186] [INFO] User logged in
+[2025-11-07T11:40:30.073184] [INFO] Session started
+[2025-11-07T11:40:30.073193] [ERROR] Request failed
+[2025-11-07T11:40:30.073177] [INFO] Configuration loaded
+[2025-11-07T11:40:30.073181] [INFO] Configuration loaded
+[2025-11-07T11:40:30.073198] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.073178] [INFO] Request processed successfully

@@ -1,0 +1,26 @@
+[2025-11-07T11:40:30.247643] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.247625] [INFO] User logged in
+[2025-11-07T11:40:30.247644] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.247629] [INFO] Configuration loaded
+[2025-11-07T11:40:30.247640] [ERROR] Network timeout
+[2025-11-07T11:40:30.247631] [INFO] User logged in
+[2025-11-07T11:40:30.247628] [INFO] Request processed successfully
+[2025-11-07T11:40:30.247647] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.247637] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.247633] [INFO] Request processed successfully
+[2025-11-07T11:40:30.247634] [INFO] Transaction completed
+[2025-11-07T11:40:30.247632] [INFO] Database query executed
+[2025-11-07T11:40:30.247636] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.247638] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.247645] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.247627] [INFO] Session started
+[2025-11-07T11:40:30.247649] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.247639] [ERROR] Request failed
+[2025-11-07T11:40:30.247642] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.247635] [INFO] Transaction completed
+[2025-11-07T11:40:30.247648] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.247624] [INFO] User logged in
+[2025-11-07T11:40:30.247630] [INFO] User logged in
+[2025-11-07T11:40:30.247626] [INFO] Session started
+[2025-11-07T11:40:30.247641] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.247646] [DEBUG] Buffer size: 4096 bytes

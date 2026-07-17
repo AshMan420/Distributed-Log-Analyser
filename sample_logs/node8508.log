@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.195104] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.195088] [INFO] User logged in
+[2025-11-07T11:40:30.195102] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.195107] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.195103] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.195086] [INFO] User logged in
+[2025-11-07T11:40:30.195099] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.195100] [ERROR] File not found
+[2025-11-07T11:40:30.195109] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.195096] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.195075] [INFO] Database query executed
+[2025-11-07T11:40:30.195087] [INFO] Health check passed
+[2025-11-07T11:40:30.195091] [INFO] Service initialized
+[2025-11-07T11:40:30.195098] [WARN] Disk space low
+[2025-11-07T11:40:30.195084] [INFO] Database query executed
+[2025-11-07T11:40:30.195105] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.195094] [INFO] Session started
+[2025-11-07T11:40:30.195072] [INFO] User logged in
+[2025-11-07T11:40:30.195076] [INFO] Service initialized
+[2025-11-07T11:40:30.195108] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.195085] [INFO] Session started
+[2025-11-07T11:40:30.195074] [INFO] User logged in
+[2025-11-07T11:40:30.195089] [INFO] Service initialized
+[2025-11-07T11:40:30.195095] [WARN] Cache miss
+[2025-11-07T11:40:30.195110] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.195093] [INFO] Transaction completed
+[2025-11-07T11:40:30.195092] [INFO] Request processed successfully
+[2025-11-07T11:40:30.195090] [INFO] User logged in
+[2025-11-07T11:40:30.195101] [ERROR] Permission denied
+[2025-11-07T11:40:30.195097] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.195106] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,21 @@
+[2025-11-07T11:40:29.822096] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.822103] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.822085] [INFO] Health check passed
+[2025-11-07T11:40:29.822087] [INFO] Configuration loaded
+[2025-11-07T11:40:29.822088] [INFO] Request processed successfully
+[2025-11-07T11:40:29.822092] [INFO] User logged in
+[2025-11-07T11:40:29.822093] [INFO] Service initialized
+[2025-11-07T11:40:29.822091] [INFO] Session started
+[2025-11-07T11:40:29.822101] [ERROR] Network timeout
+[2025-11-07T11:40:29.822094] [INFO] Cache hit
+[2025-11-07T11:40:29.822090] [INFO] Cache hit
+[2025-11-07T11:40:29.822098] [WARN] Slow query performance
+[2025-11-07T11:40:29.822089] [INFO] Database query executed
+[2025-11-07T11:40:29.822106] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.822107] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.822102] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.822097] [WARN] Queue size growing
+[2025-11-07T11:40:29.822105] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.822095] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.822104] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.822100] [ERROR] Request failed

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.358253] [WARN] Slow query performance
+[2025-11-07T11:40:29.358263] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.358235] [INFO] Session started
+[2025-11-07T11:40:29.358252] [WARN] Timeout warning
+[2025-11-07T11:40:29.358251] [WARN] Timeout warning
+[2025-11-07T11:40:29.358238] [INFO] Session started
+[2025-11-07T11:40:29.358259] [ERROR] Authentication failed
+[2025-11-07T11:40:29.358250] [INFO] Configuration loaded
+[2025-11-07T11:40:29.358246] [INFO] Request processed successfully
+[2025-11-07T11:40:29.358256] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.358241] [INFO] Service initialized
+[2025-11-07T11:40:29.358243] [INFO] Health check passed
+[2025-11-07T11:40:29.358255] [WARN] Disk space low
+[2025-11-07T11:40:29.358264] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.358248] [INFO] Transaction completed
+[2025-11-07T11:40:29.358242] [INFO] Database query executed
+[2025-11-07T11:40:29.358248] [INFO] Request processed successfully
+[2025-11-07T11:40:29.358262] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.358250] [INFO] Health check passed
+[2025-11-07T11:40:29.358254] [WARN] Cache miss
+[2025-11-07T11:40:29.358245] [INFO] Configuration loaded
+[2025-11-07T11:40:29.358239] [INFO] Cache hit
+[2025-11-07T11:40:29.358258] [ERROR] File not found
+[2025-11-07T11:40:29.358247] [INFO] Session started
+[2025-11-07T11:40:29.358240] [INFO] Transaction completed
+[2025-11-07T11:40:29.358265] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.358261] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.358237] [INFO] Request processed successfully
+[2025-11-07T11:40:29.358266] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.358267] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.358260] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.358244] [INFO] Connection established

@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.130559] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.130554] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.130543] [INFO] Service initialized
+[2025-11-07T11:40:30.130557] [ERROR] Authentication failed
+[2025-11-07T11:40:30.130542] [INFO] Connection established
+[2025-11-07T11:40:30.130547] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.130538] [INFO] Session started
+[2025-11-07T11:40:30.130544] [INFO] Database query executed
+[2025-11-07T11:40:30.130533] [INFO] Cache hit
+[2025-11-07T11:40:30.130539] [INFO] Database query executed
+[2025-11-07T11:40:30.130532] [INFO] User logged in
+[2025-11-07T11:40:30.130546] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.130531] [INFO] Session started
+[2025-11-07T11:40:30.130564] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.130561] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.130536] [INFO] Session started
+[2025-11-07T11:40:30.130551] [WARN] Slow query performance
+[2025-11-07T11:40:30.130566] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.130535] [INFO] User logged in
+[2025-11-07T11:40:30.130541] [INFO] Health check passed
+[2025-11-07T11:40:30.130556] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.130534] [INFO] Transaction completed
+[2025-11-07T11:40:30.130560] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.130550] [WARN] Queue size growing
+[2025-11-07T11:40:30.130540] [INFO] Transaction completed
+[2025-11-07T11:40:30.130554] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.130549] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.130567] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.130545] [INFO] Request processed successfully
+[2025-11-07T11:40:30.130558] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.130537] [INFO] Configuration loaded
+[2025-11-07T11:40:30.130553] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.130548] [WARN] Slow query performance
+[2025-11-07T11:40:30.130565] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.130562] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.130563] [DEBUG] Memory allocation: 2048 bytes

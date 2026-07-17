@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.918672] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.918673] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.918574] [INFO] Session started
+[2025-11-07T11:40:29.918648] [INFO] Request processed successfully
+[2025-11-07T11:40:29.918660] [WARN] Timeout warning
+[2025-11-07T11:40:29.918663] [ERROR] Network timeout
+[2025-11-07T11:40:29.918668] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.918575] [INFO] Transaction completed
+[2025-11-07T11:40:29.918577] [INFO] Connection established
+[2025-11-07T11:40:29.918667] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.918650] [INFO] Session started
+[2025-11-07T11:40:29.918658] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.918572] [INFO] Health check passed
+[2025-11-07T11:40:29.918657] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.918662] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.918652] [INFO] Transaction completed
+[2025-11-07T11:40:29.918576] [INFO] Health check passed
+[2025-11-07T11:40:29.918669] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.918670] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.918653] [INFO] Transaction completed
+[2025-11-07T11:40:29.918651] [INFO] Configuration loaded
+[2025-11-07T11:40:29.918654] [INFO] Configuration loaded
+[2025-11-07T11:40:29.918578] [INFO] Request processed successfully
+[2025-11-07T11:40:29.918671] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.918665] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.918674] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.918655] [INFO] Session started
+[2025-11-07T11:40:29.918580] [INFO] User logged in
+[2025-11-07T11:40:29.918675] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.918656] [INFO] Database query executed
+[2025-11-07T11:40:29.918666] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.918659] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.918664] [ERROR] Authentication failed
+[2025-11-07T11:40:29.918579] [INFO] Health check passed

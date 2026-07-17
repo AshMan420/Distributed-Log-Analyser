@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.539164] [INFO] Connection established
+[2025-11-07T11:40:29.539185] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.539162] [INFO] Cache hit
+[2025-11-07T11:40:29.539165] [INFO] Transaction completed
+[2025-11-07T11:40:29.539178] [ERROR] Disk read failed
+[2025-11-07T11:40:29.539182] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.539153] [INFO] Database query executed
+[2025-11-07T11:40:29.539172] [WARN] Disk space low
+[2025-11-07T11:40:29.539175] [ERROR] Invalid input data
+[2025-11-07T11:40:29.539170] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.539188] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.539184] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.539181] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.539174] [WARN] Disk space low
+[2025-11-07T11:40:29.539158] [INFO] Request processed successfully
+[2025-11-07T11:40:29.539156] [INFO] Database query executed
+[2025-11-07T11:40:29.539163] [INFO] Health check passed
+[2025-11-07T11:40:29.539173] [WARN] Disk space low
+[2025-11-07T11:40:29.539180] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.539186] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.539154] [INFO] Session started
+[2025-11-07T11:40:29.539155] [INFO] Database query executed
+[2025-11-07T11:40:29.539179] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.539189] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539168] [WARN] Disk space low
+[2025-11-07T11:40:29.539176] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.539160] [INFO] Cache hit
+[2025-11-07T11:40:29.539166] [INFO] Cache hit
+[2025-11-07T11:40:29.539161] [INFO] Service initialized
+[2025-11-07T11:40:29.539150] [INFO] Cache hit
+[2025-11-07T11:40:29.539187] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.539190] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.539152] [INFO] User logged in
+[2025-11-07T11:40:29.539183] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.539157] [INFO] Database query executed
+[2025-11-07T11:40:29.539167] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.539169] [WARN] High memory usage detected
+[2025-11-07T11:40:29.539171] [WARN] Connection retry attempt

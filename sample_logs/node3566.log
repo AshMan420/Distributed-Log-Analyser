@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.675408] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675425] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.675424] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.675416] [WARN] Cache miss
+[2025-11-07T11:40:29.675427] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.675404] [INFO] Database query executed
+[2025-11-07T11:40:29.675419] [WARN] Timeout warning
+[2025-11-07T11:40:29.675413] [INFO] Transaction completed
+[2025-11-07T11:40:29.675410] [INFO] Database query executed
+[2025-11-07T11:40:29.675426] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.675415] [INFO] Session started
+[2025-11-07T11:40:29.675414] [INFO] Connection established
+[2025-11-07T11:40:29.675407] [INFO] Health check passed
+[2025-11-07T11:40:29.675411] [INFO] Service initialized
+[2025-11-07T11:40:29.675400] [INFO] Connection established
+[2025-11-07T11:40:29.675417] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.675420] [ERROR] Request failed
+[2025-11-07T11:40:29.675418] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.675422] [ERROR] Database connection lost
+[2025-11-07T11:40:29.675412] [INFO] Database query executed
+[2025-11-07T11:40:29.675429] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.675403] [INFO] Cache hit
+[2025-11-07T11:40:29.675428] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.675409] [INFO] Session started
+[2025-11-07T11:40:29.675423] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.675430] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.675405] [INFO] Connection established
+[2025-11-07T11:40:29.675406] [INFO] Cache hit
+[2025-11-07T11:40:29.675402] [INFO] User logged in

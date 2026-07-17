@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.059431] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.059422] [INFO] Database query executed
+[2025-11-07T11:40:30.059427] [WARN] Queue size growing
+[2025-11-07T11:40:30.059417] [INFO] Configuration loaded
+[2025-11-07T11:40:30.059423] [WARN] Queue size growing
+[2025-11-07T11:40:30.059439] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.059418] [INFO] Database query executed
+[2025-11-07T11:40:30.059421] [INFO] Service initialized
+[2025-11-07T11:40:30.059433] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.059408] [INFO] Database query executed
+[2025-11-07T11:40:30.059410] [INFO] Request processed successfully
+[2025-11-07T11:40:30.059409] [INFO] Health check passed
+[2025-11-07T11:40:30.059435] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.059419] [INFO] Configuration loaded
+[2025-11-07T11:40:30.059432] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.059420] [INFO] Cache hit
+[2025-11-07T11:40:30.059438] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.059412] [INFO] Database query executed
+[2025-11-07T11:40:30.059425] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.059424] [WARN] Cache miss
+[2025-11-07T11:40:30.059426] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.059411] [INFO] Service initialized
+[2025-11-07T11:40:30.059413] [INFO] Database query executed
+[2025-11-07T11:40:30.059434] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.059430] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.059415] [INFO] Database query executed
+[2025-11-07T11:40:30.059414] [INFO] Configuration loaded
+[2025-11-07T11:40:30.059429] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.059437] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.059428] [ERROR] Database connection lost
+[2025-11-07T11:40:30.059416] [INFO] Cache hit
+[2025-11-07T11:40:30.059436] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.059407] [INFO] Connection established

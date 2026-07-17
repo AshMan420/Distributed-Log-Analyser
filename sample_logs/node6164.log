@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.947748] [INFO] Database query executed
+[2025-11-07T11:40:29.947752] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.947741] [INFO] Configuration loaded
+[2025-11-07T11:40:29.947746] [INFO] Database query executed
+[2025-11-07T11:40:29.947744] [INFO] User logged in
+[2025-11-07T11:40:29.947745] [INFO] User logged in
+[2025-11-07T11:40:29.947766] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.947735] [INFO] Connection established
+[2025-11-07T11:40:29.947769] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.947757] [ERROR] Disk read failed
+[2025-11-07T11:40:29.947738] [INFO] Health check passed
+[2025-11-07T11:40:29.947764] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.947763] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.947767] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.947760] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.947756] [WARN] Cache miss
+[2025-11-07T11:40:29.947762] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.947747] [INFO] Database query executed
+[2025-11-07T11:40:29.947736] [INFO] Database query executed
+[2025-11-07T11:40:29.947751] [INFO] User logged in
+[2025-11-07T11:40:29.947742] [INFO] Request processed successfully
+[2025-11-07T11:40:29.947753] [WARN] High memory usage detected
+[2025-11-07T11:40:29.947758] [ERROR] Invalid input data
+[2025-11-07T11:40:29.947743] [INFO] Database query executed
+[2025-11-07T11:40:29.947741] [INFO] Transaction completed
+[2025-11-07T11:40:29.947755] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.947749] [INFO] Configuration loaded
+[2025-11-07T11:40:29.947739] [INFO] Cache hit
+[2025-11-07T11:40:29.947761] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.947765] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.947750] [INFO] User logged in
+[2025-11-07T11:40:29.947759] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.947754] [WARN] Slow query performance
+[2025-11-07T11:40:29.947768] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.947739] [INFO] Database query executed

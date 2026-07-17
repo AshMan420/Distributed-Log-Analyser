@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.925167] [INFO] Cache hit
+[2025-11-07T11:40:29.925175] [ERROR] Invalid input data
+[2025-11-07T11:40:29.925182] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.925162] [INFO] Session started
+[2025-11-07T11:40:29.925173] [WARN] Cache miss
+[2025-11-07T11:40:29.925185] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.925165] [INFO] Session started
+[2025-11-07T11:40:29.925183] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.925164] [INFO] Session started
+[2025-11-07T11:40:29.925166] [INFO] Session started
+[2025-11-07T11:40:29.925163] [INFO] Configuration loaded
+[2025-11-07T11:40:29.925159] [INFO] Health check passed
+[2025-11-07T11:40:29.925184] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.925168] [INFO] Connection established
+[2025-11-07T11:40:29.925179] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.925170] [INFO] Session started
+[2025-11-07T11:40:29.925181] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.925176] [ERROR] Network timeout
+[2025-11-07T11:40:29.925180] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.925174] [WARN] Queue size growing
+[2025-11-07T11:40:29.925177] [ERROR] Database connection lost
+[2025-11-07T11:40:29.925158] [INFO] Cache hit
+[2025-11-07T11:40:29.925169] [INFO] Database query executed
+[2025-11-07T11:40:29.925172] [WARN] Queue size growing
+[2025-11-07T11:40:29.925161] [INFO] Configuration loaded
+[2025-11-07T11:40:29.925178] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.925171] [WARN] Rate limit approaching

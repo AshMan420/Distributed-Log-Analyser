@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.412347] [INFO] Cache hit
+[2025-11-07T11:40:29.412362] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.412344] [INFO] Cache hit
+[2025-11-07T11:40:29.412346] [INFO] Service initialized
+[2025-11-07T11:40:29.412361] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.412370] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.412352] [INFO] Configuration loaded
+[2025-11-07T11:40:29.412367] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.412345] [INFO] Session started
+[2025-11-07T11:40:29.412357] [WARN] Timeout warning
+[2025-11-07T11:40:29.412358] [WARN] Queue size growing
+[2025-11-07T11:40:29.412359] [ERROR] Authentication failed
+[2025-11-07T11:40:29.412339] [INFO] User logged in
+[2025-11-07T11:40:29.412356] [WARN] Timeout warning
+[2025-11-07T11:40:29.412349] [INFO] Configuration loaded
+[2025-11-07T11:40:29.412343] [INFO] User logged in
+[2025-11-07T11:40:29.412366] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.412341] [INFO] Transaction completed
+[2025-11-07T11:40:29.412366] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412338] [INFO] Connection established
+[2025-11-07T11:40:29.412368] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412350] [INFO] Configuration loaded
+[2025-11-07T11:40:29.412353] [INFO] Health check passed
+[2025-11-07T11:40:29.412342] [INFO] User logged in
+[2025-11-07T11:40:29.412364] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.412348] [INFO] Session started
+[2025-11-07T11:40:29.412351] [INFO] Request processed successfully
+[2025-11-07T11:40:29.412371] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.412354] [INFO] Transaction completed
+[2025-11-07T11:40:29.412355] [INFO] Session started
+[2025-11-07T11:40:29.412369] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.412360] [ERROR] Service unavailable
+[2025-11-07T11:40:29.412340] [INFO] Configuration loaded
+[2025-11-07T11:40:29.412363] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.591113] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.591091] [INFO] Configuration loaded
+[2025-11-07T11:40:29.591115] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.591100] [WARN] Disk space low
+[2025-11-07T11:40:29.591086] [INFO] User logged in
+[2025-11-07T11:40:29.591085] [INFO] Cache hit
+[2025-11-07T11:40:29.591112] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.591108] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.591104] [WARN] Cache miss
+[2025-11-07T11:40:29.591089] [INFO] Connection established
+[2025-11-07T11:40:29.591117] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.591102] [WARN] Cache miss
+[2025-11-07T11:40:29.591111] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.591098] [INFO] Transaction completed
+[2025-11-07T11:40:29.591106] [ERROR] Request failed
+[2025-11-07T11:40:29.591093] [INFO] Session started
+[2025-11-07T11:40:29.591092] [INFO] Session started
+[2025-11-07T11:40:29.591114] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.591088] [INFO] Database query executed
+[2025-11-07T11:40:29.591110] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.591095] [INFO] Configuration loaded
+[2025-11-07T11:40:29.591090] [INFO] Transaction completed
+[2025-11-07T11:40:29.591103] [WARN] Queue size growing
+[2025-11-07T11:40:29.591081] [INFO] Health check passed
+[2025-11-07T11:40:29.591083] [INFO] Database query executed
+[2025-11-07T11:40:29.591116] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.591118] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.591087] [INFO] Cache hit
+[2025-11-07T11:40:29.591099] [INFO] Request processed successfully
+[2025-11-07T11:40:29.591097] [INFO] Health check passed
+[2025-11-07T11:40:29.591109] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.591105] [ERROR] Database connection lost
+[2025-11-07T11:40:29.591107] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.591094] [INFO] Database query executed
+[2025-11-07T11:40:29.591084] [INFO] Session started

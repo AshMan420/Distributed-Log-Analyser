@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.388406] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.388401] [INFO] Cache hit
+[2025-11-07T11:40:29.388391] [INFO] Configuration loaded
+[2025-11-07T11:40:29.388400] [INFO] Session started
+[2025-11-07T11:40:29.388394] [INFO] Cache hit
+[2025-11-07T11:40:29.388402] [WARN] Timeout warning
+[2025-11-07T11:40:29.388407] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.388412] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.388399] [INFO] Request processed successfully
+[2025-11-07T11:40:29.388392] [INFO] Request processed successfully
+[2025-11-07T11:40:29.388409] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.388413] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.388410] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.388393] [INFO] Configuration loaded
+[2025-11-07T11:40:29.388398] [INFO] Session started
+[2025-11-07T11:40:29.388405] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.388403] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.388408] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.388387] [INFO] Database query executed
+[2025-11-07T11:40:29.388395] [INFO] Configuration loaded
+[2025-11-07T11:40:29.388414] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.388396] [INFO] User logged in
+[2025-11-07T11:40:29.388389] [INFO] Database query executed
+[2025-11-07T11:40:29.388390] [INFO] Cache hit
+[2025-11-07T11:40:29.388404] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.388397] [INFO] Cache hit

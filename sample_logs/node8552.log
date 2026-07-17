@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.199424] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.199404] [INFO] Health check passed
+[2025-11-07T11:40:30.199401] [INFO] Transaction completed
+[2025-11-07T11:40:30.199427] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.199407] [INFO] Service initialized
+[2025-11-07T11:40:30.199422] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.199399] [INFO] Health check passed
+[2025-11-07T11:40:30.199405] [INFO] Request processed successfully
+[2025-11-07T11:40:30.199426] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.199418] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.199419] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.199402] [INFO] Connection established
+[2025-11-07T11:40:30.199411] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.199398] [INFO] Connection established
+[2025-11-07T11:40:30.199409] [INFO] Database query executed
+[2025-11-07T11:40:30.199396] [INFO] Health check passed
+[2025-11-07T11:40:30.199425] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.199406] [INFO] Transaction completed
+[2025-11-07T11:40:30.199421] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.199412] [WARN] Timeout warning
+[2025-11-07T11:40:30.199414] [WARN] High memory usage detected
+[2025-11-07T11:40:30.199400] [INFO] Cache hit
+[2025-11-07T11:40:30.199429] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.199417] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.199408] [INFO] Cache hit
+[2025-11-07T11:40:30.199413] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.199420] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.199423] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.199428] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.199416] [ERROR] Network timeout
+[2025-11-07T11:40:30.199410] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.199403] [INFO] Cache hit
+[2025-11-07T11:40:30.199415] [ERROR] Permission denied

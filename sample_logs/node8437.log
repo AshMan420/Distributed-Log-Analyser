@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.188237] [INFO] Database query executed
+[2025-11-07T11:40:30.188244] [WARN] High memory usage detected
+[2025-11-07T11:40:30.188239] [INFO] Request processed successfully
+[2025-11-07T11:40:30.188252] [ERROR] Network timeout
+[2025-11-07T11:40:30.188254] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.188246] [WARN] High memory usage detected
+[2025-11-07T11:40:30.188263] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.188243] [INFO] Database query executed
+[2025-11-07T11:40:30.188257] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.188247] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.188258] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.188250] [WARN] Cache miss
+[2025-11-07T11:40:30.188256] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.188249] [WARN] Timeout warning
+[2025-11-07T11:40:30.188262] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.188259] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.188235] [INFO] Health check passed
+[2025-11-07T11:40:30.188232] [INFO] Transaction completed
+[2025-11-07T11:40:30.188242] [INFO] User logged in
+[2025-11-07T11:40:30.188234] [INFO] Connection established
+[2025-11-07T11:40:30.188253] [ERROR] Disk read failed
+[2025-11-07T11:40:30.188263] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.188238] [INFO] Service initialized
+[2025-11-07T11:40:30.188261] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.188233] [INFO] Configuration loaded
+[2025-11-07T11:40:30.188236] [INFO] Health check passed
+[2025-11-07T11:40:30.188240] [INFO] Service initialized

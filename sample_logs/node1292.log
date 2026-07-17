@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.426769] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.426753] [INFO] Cache hit
+[2025-11-07T11:40:29.426759] [INFO] Database query executed
+[2025-11-07T11:40:29.426768] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.426770] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.426762] [WARN] Slow query performance
+[2025-11-07T11:40:29.426750] [INFO] Configuration loaded
+[2025-11-07T11:40:29.426744] [INFO] Health check passed
+[2025-11-07T11:40:29.426772] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.426748] [INFO] Connection established
+[2025-11-07T11:40:29.426760] [WARN] Timeout warning
+[2025-11-07T11:40:29.426763] [WARN] Slow query performance
+[2025-11-07T11:40:29.426767] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.426743] [INFO] Configuration loaded
+[2025-11-07T11:40:29.426771] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.426755] [INFO] Database query executed
+[2025-11-07T11:40:29.426758] [INFO] Database query executed
+[2025-11-07T11:40:29.426745] [INFO] Session started
+[2025-11-07T11:40:29.426752] [INFO] Session started
+[2025-11-07T11:40:29.426749] [INFO] Session started
+[2025-11-07T11:40:29.426766] [ERROR] Request failed
+[2025-11-07T11:40:29.426757] [INFO] Request processed successfully
+[2025-11-07T11:40:29.426764] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.426746] [INFO] Database query executed
+[2025-11-07T11:40:29.426751] [INFO] User logged in
+[2025-11-07T11:40:29.426756] [INFO] Health check passed
+[2025-11-07T11:40:29.426761] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.426747] [INFO] Connection established
+[2025-11-07T11:40:29.426754] [INFO] Configuration loaded
+[2025-11-07T11:40:29.426765] [ERROR] Database connection lost

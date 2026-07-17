@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.859119] [INFO] Session started
+[2025-11-07T11:40:29.859127] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.859130] [ERROR] Disk read failed
+[2025-11-07T11:40:29.859123] [WARN] Slow query performance
+[2025-11-07T11:40:29.859129] [WARN] Queue size growing
+[2025-11-07T11:40:29.859117] [INFO] Service initialized
+[2025-11-07T11:40:29.859137] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.859134] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.859124] [WARN] Slow query performance
+[2025-11-07T11:40:29.859112] [INFO] Service initialized
+[2025-11-07T11:40:29.859111] [INFO] Session started
+[2025-11-07T11:40:29.859143] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.859145] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.859128] [WARN] Cache miss
+[2025-11-07T11:40:29.859120] [INFO] Cache hit
+[2025-11-07T11:40:29.859138] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.859115] [INFO] Request processed successfully
+[2025-11-07T11:40:29.859118] [INFO] Connection established
+[2025-11-07T11:40:29.859144] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.859126] [WARN] Cache miss
+[2025-11-07T11:40:29.859138] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.859142] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.859125] [WARN] Timeout warning
+[2025-11-07T11:40:29.859109] [INFO] Health check passed
+[2025-11-07T11:40:29.859133] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.859116] [INFO] Configuration loaded
+[2025-11-07T11:40:29.859140] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.859131] [ERROR] Service unavailable
+[2025-11-07T11:40:29.859135] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.859121] [INFO] Service initialized
+[2025-11-07T11:40:29.859107] [INFO] Transaction completed
+[2025-11-07T11:40:29.859122] [INFO] Connection established
+[2025-11-07T11:40:29.859113] [INFO] Health check passed
+[2025-11-07T11:40:29.859139] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.859136] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.859141] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.859110] [INFO] Database query executed
+[2025-11-07T11:40:29.859114] [INFO] Cache hit

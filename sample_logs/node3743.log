@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.694801] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.694800] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.694798] [ERROR] File not found
+[2025-11-07T11:40:29.694806] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.694779] [INFO] Service initialized
+[2025-11-07T11:40:29.694782] [INFO] Database query executed
+[2025-11-07T11:40:29.694780] [INFO] Configuration loaded
+[2025-11-07T11:40:29.694786] [INFO] Connection established
+[2025-11-07T11:40:29.694792] [INFO] Connection established
+[2025-11-07T11:40:29.694790] [INFO] Cache hit
+[2025-11-07T11:40:29.694789] [INFO] Transaction completed
+[2025-11-07T11:40:29.694804] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.694803] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.694807] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.694795] [WARN] High memory usage detected
+[2025-11-07T11:40:29.694781] [INFO] Connection established
+[2025-11-07T11:40:29.694802] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.694783] [INFO] Request processed successfully
+[2025-11-07T11:40:29.694799] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.694777] [INFO] User logged in
+[2025-11-07T11:40:29.694784] [INFO] Service initialized
+[2025-11-07T11:40:29.694793] [WARN] High memory usage detected
+[2025-11-07T11:40:29.694788] [INFO] Session started
+[2025-11-07T11:40:29.694785] [INFO] Health check passed
+[2025-11-07T11:40:29.694796] [WARN] High memory usage detected
+[2025-11-07T11:40:29.694797] [ERROR] Invalid input data
+[2025-11-07T11:40:29.694805] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.694794] [WARN] Disk space low
+[2025-11-07T11:40:29.694791] [INFO] Configuration loaded
+[2025-11-07T11:40:29.694787] [INFO] Session started

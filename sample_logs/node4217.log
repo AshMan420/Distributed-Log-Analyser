@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.743559] [INFO] Session started
+[2025-11-07T11:40:29.743547] [INFO] Request processed successfully
+[2025-11-07T11:40:29.743568] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.743556] [INFO] Health check passed
+[2025-11-07T11:40:29.743549] [INFO] Service initialized
+[2025-11-07T11:40:29.743570] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.743575] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.743566] [WARN] High memory usage detected
+[2025-11-07T11:40:29.743552] [INFO] Request processed successfully
+[2025-11-07T11:40:29.743544] [INFO] Health check passed
+[2025-11-07T11:40:29.743551] [INFO] Request processed successfully
+[2025-11-07T11:40:29.743561] [INFO] Service initialized
+[2025-11-07T11:40:29.743574] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.743579] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.743569] [ERROR] Request failed
+[2025-11-07T11:40:29.743577] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.743546] [INFO] Transaction completed
+[2025-11-07T11:40:29.743567] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.743581] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.743560] [INFO] Health check passed
+[2025-11-07T11:40:29.743572] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.743571] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.743576] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.743564] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.743557] [INFO] Session started
+[2025-11-07T11:40:29.743554] [INFO] Database query executed
+[2025-11-07T11:40:29.743558] [INFO] Transaction completed
+[2025-11-07T11:40:29.743550] [INFO] Transaction completed
+[2025-11-07T11:40:29.743573] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.743562] [INFO] Request processed successfully
+[2025-11-07T11:40:29.743545] [INFO] User logged in
+[2025-11-07T11:40:29.743548] [INFO] Request processed successfully
+[2025-11-07T11:40:29.743578] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.743555] [INFO] Service initialized
+[2025-11-07T11:40:29.743563] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.743580] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.743565] [WARN] Resource threshold approaching

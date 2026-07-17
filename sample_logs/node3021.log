@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.616327] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.616303] [INFO] Session started
+[2025-11-07T11:40:29.616318] [ERROR] Disk read failed
+[2025-11-07T11:40:29.616325] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.616310] [INFO] Session started
+[2025-11-07T11:40:29.616307] [INFO] Health check passed
+[2025-11-07T11:40:29.616315] [WARN] Timeout warning
+[2025-11-07T11:40:29.616316] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.616330] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.616319] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.616329] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.616322] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.616311] [INFO] Health check passed
+[2025-11-07T11:40:29.616314] [INFO] Database query executed
+[2025-11-07T11:40:29.616312] [INFO] Database query executed
+[2025-11-07T11:40:29.616326] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.616300] [INFO] Session started
+[2025-11-07T11:40:29.616309] [INFO] Connection established
+[2025-11-07T11:40:29.616299] [INFO] Cache hit
+[2025-11-07T11:40:29.616328] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.616301] [INFO] Cache hit
+[2025-11-07T11:40:29.616324] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.616324] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.616323] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.616320] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.616306] [INFO] User logged in
+[2025-11-07T11:40:29.616317] [WARN] High memory usage detected
+[2025-11-07T11:40:29.616305] [INFO] Request processed successfully
+[2025-11-07T11:40:29.616302] [INFO] Health check passed
+[2025-11-07T11:40:29.616308] [INFO] Health check passed
+[2025-11-07T11:40:29.616304] [INFO] Database query executed
+[2025-11-07T11:40:29.616313] [INFO] Database query executed

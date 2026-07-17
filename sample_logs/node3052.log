@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.619558] [INFO] User logged in
+[2025-11-07T11:40:29.619569] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.619556] [INFO] Transaction completed
+[2025-11-07T11:40:29.619565] [ERROR] Permission denied
+[2025-11-07T11:40:29.619561] [INFO] Configuration loaded
+[2025-11-07T11:40:29.619570] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.619568] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.619546] [INFO] Cache hit
+[2025-11-07T11:40:29.619564] [WARN] Queue size growing
+[2025-11-07T11:40:29.619563] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.619550] [INFO] Service initialized
+[2025-11-07T11:40:29.619562] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.619549] [INFO] Session started
+[2025-11-07T11:40:29.619553] [INFO] Service initialized
+[2025-11-07T11:40:29.619560] [INFO] Session started
+[2025-11-07T11:40:29.619566] [ERROR] Database connection lost
+[2025-11-07T11:40:29.619555] [INFO] Connection established
+[2025-11-07T11:40:29.619548] [INFO] Request processed successfully
+[2025-11-07T11:40:29.619574] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.619552] [INFO] Connection established
+[2025-11-07T11:40:29.619559] [INFO] Service initialized
+[2025-11-07T11:40:29.619572] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.619547] [INFO] Connection established
+[2025-11-07T11:40:29.619551] [INFO] Cache hit
+[2025-11-07T11:40:29.619575] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.619573] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.619557] [INFO] Session started
+[2025-11-07T11:40:29.619567] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.619571] [DEBUG] Thread pool size: 8

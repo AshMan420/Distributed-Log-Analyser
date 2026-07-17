@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.169801] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.169784] [INFO] Configuration loaded
+[2025-11-07T11:40:30.169810] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.169813] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.169792] [INFO] Service initialized
+[2025-11-07T11:40:30.169811] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.169794] [INFO] Health check passed
+[2025-11-07T11:40:30.169806] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.169809] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.169805] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.169790] [INFO] Database query executed
+[2025-11-07T11:40:30.169786] [INFO] Database query executed
+[2025-11-07T11:40:30.169807] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.169787] [INFO] Connection established
+[2025-11-07T11:40:30.169783] [INFO] Health check passed
+[2025-11-07T11:40:30.169785] [INFO] Service initialized
+[2025-11-07T11:40:30.169789] [INFO] Request processed successfully
+[2025-11-07T11:40:30.169782] [INFO] Transaction completed
+[2025-11-07T11:40:30.169808] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.169798] [INFO] Database query executed
+[2025-11-07T11:40:30.169791] [INFO] Service initialized
+[2025-11-07T11:40:30.169793] [INFO] Health check passed
+[2025-11-07T11:40:30.169799] [INFO] Connection established
+[2025-11-07T11:40:30.169802] [WARN] Cache miss
+[2025-11-07T11:40:30.169800] [WARN] Queue size growing
+[2025-11-07T11:40:30.169803] [WARN] Timeout warning
+[2025-11-07T11:40:30.169796] [INFO] Cache hit
+[2025-11-07T11:40:30.169788] [INFO] Session started
+[2025-11-07T11:40:30.169795] [INFO] Connection established
+[2025-11-07T11:40:30.169804] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.169812] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.169797] [INFO] Request processed successfully

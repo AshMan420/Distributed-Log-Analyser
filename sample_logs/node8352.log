@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.179870] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.179872] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.179839] [INFO] User logged in
+[2025-11-07T11:40:30.179847] [INFO] User logged in
+[2025-11-07T11:40:30.179855] [INFO] Request processed successfully
+[2025-11-07T11:40:30.179867] [ERROR] Disk read failed
+[2025-11-07T11:40:30.179865] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.179866] [ERROR] Network timeout
+[2025-11-07T11:40:30.179854] [INFO] Connection established
+[2025-11-07T11:40:30.179871] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.179862] [WARN] High memory usage detected
+[2025-11-07T11:40:30.179851] [INFO] Request processed successfully
+[2025-11-07T11:40:30.179874] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.179850] [INFO] Database query executed
+[2025-11-07T11:40:30.179859] [INFO] Database query executed
+[2025-11-07T11:40:30.179852] [INFO] Service initialized
+[2025-11-07T11:40:30.179848] [INFO] Service initialized
+[2025-11-07T11:40:30.179838] [INFO] Database query executed
+[2025-11-07T11:40:30.179837] [INFO] Service initialized
+[2025-11-07T11:40:30.179857] [INFO] Connection established
+[2025-11-07T11:40:30.179856] [INFO] Health check passed
+[2025-11-07T11:40:30.179877] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.179875] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.179863] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.179873] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.179860] [INFO] User logged in
+[2025-11-07T11:40:30.179861] [WARN] High memory usage detected
+[2025-11-07T11:40:30.179876] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.179868] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.179858] [INFO] Request processed successfully
+[2025-11-07T11:40:30.179869] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.179864] [WARN] Timeout warning
+[2025-11-07T11:40:30.179849] [INFO] Request processed successfully

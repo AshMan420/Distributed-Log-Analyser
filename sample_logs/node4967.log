@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.819847] [WARN] Timeout warning
+[2025-11-07T11:40:29.819833] [INFO] Cache hit
+[2025-11-07T11:40:29.819846] [WARN] Cache miss
+[2025-11-07T11:40:29.819856] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.819858] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.819835] [INFO] Service initialized
+[2025-11-07T11:40:29.819851] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.819855] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.819842] [INFO] Request processed successfully
+[2025-11-07T11:40:29.819850] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.819845] [WARN] High memory usage detected
+[2025-11-07T11:40:29.819849] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.819857] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.819852] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.819832] [INFO] Service initialized
+[2025-11-07T11:40:29.819836] [INFO] Cache hit
+[2025-11-07T11:40:29.819853] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.819848] [WARN] High memory usage detected
+[2025-11-07T11:40:29.819854] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.819839] [INFO] Connection established
+[2025-11-07T11:40:29.819834] [INFO] Health check passed
+[2025-11-07T11:40:29.819838] [INFO] Transaction completed
+[2025-11-07T11:40:29.819841] [INFO] Connection established
+[2025-11-07T11:40:29.819843] [INFO] Health check passed
+[2025-11-07T11:40:29.819840] [INFO] Transaction completed
+[2025-11-07T11:40:29.819843] [INFO] Health check passed
+[2025-11-07T11:40:29.819831] [INFO] Request processed successfully

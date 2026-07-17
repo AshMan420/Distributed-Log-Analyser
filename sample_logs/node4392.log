@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.761509] [ERROR] Authentication failed
+[2025-11-07T11:40:29.761495] [INFO] User logged in
+[2025-11-07T11:40:29.761518] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.761498] [INFO] Service initialized
+[2025-11-07T11:40:29.761511] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.761493] [INFO] Cache hit
+[2025-11-07T11:40:29.761503] [INFO] Connection established
+[2025-11-07T11:40:29.761500] [INFO] Transaction completed
+[2025-11-07T11:40:29.761510] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.761505] [INFO] Session started
+[2025-11-07T11:40:29.761514] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.761506] [WARN] Timeout warning
+[2025-11-07T11:40:29.761504] [INFO] Transaction completed
+[2025-11-07T11:40:29.761507] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.761496] [INFO] Request processed successfully
+[2025-11-07T11:40:29.761516] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.761497] [INFO] User logged in
+[2025-11-07T11:40:29.761515] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.761513] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.761517] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.761502] [INFO] Configuration loaded
+[2025-11-07T11:40:29.761490] [INFO] User logged in
+[2025-11-07T11:40:29.761512] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.761508] [ERROR] Permission denied
+[2025-11-07T11:40:29.761494] [INFO] Health check passed
+[2025-11-07T11:40:29.761492] [INFO] Service initialized
+[2025-11-07T11:40:29.761501] [INFO] Configuration loaded
+[2025-11-07T11:40:29.761499] [INFO] Configuration loaded

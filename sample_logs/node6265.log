@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.959853] [INFO] Connection established
+[2025-11-07T11:40:29.959846] [INFO] Session started
+[2025-11-07T11:40:29.959862] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.959852] [INFO] Configuration loaded
+[2025-11-07T11:40:29.959866] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.959859] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.959864] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.959865] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.959868] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.959867] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.959856] [WARN] Slow query performance
+[2025-11-07T11:40:29.959850] [INFO] Session started
+[2025-11-07T11:40:29.959855] [INFO] Service initialized
+[2025-11-07T11:40:29.959869] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.959857] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.959863] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.959854] [INFO] Configuration loaded
+[2025-11-07T11:40:29.959861] [ERROR] Invalid input data
+[2025-11-07T11:40:29.959842] [INFO] Service initialized
+[2025-11-07T11:40:29.959843] [INFO] Service initialized
+[2025-11-07T11:40:29.959848] [INFO] Request processed successfully
+[2025-11-07T11:40:29.959847] [INFO] Transaction completed
+[2025-11-07T11:40:29.959849] [INFO] Request processed successfully
+[2025-11-07T11:40:29.959858] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.959845] [INFO] User logged in
+[2025-11-07T11:40:29.959860] [ERROR] Request failed
+[2025-11-07T11:40:29.959851] [INFO] Transaction completed

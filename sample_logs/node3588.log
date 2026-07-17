@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.677985] [WARN] Cache miss
+[2025-11-07T11:40:29.677974] [INFO] Health check passed
+[2025-11-07T11:40:29.677983] [INFO] Connection established
+[2025-11-07T11:40:29.677997] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.677994] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.677982] [INFO] User logged in
+[2025-11-07T11:40:29.677973] [INFO] Database query executed
+[2025-11-07T11:40:29.677992] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.677978] [INFO] Database query executed
+[2025-11-07T11:40:29.677987] [WARN] Timeout warning
+[2025-11-07T11:40:29.677975] [INFO] Session started
+[2025-11-07T11:40:29.677972] [INFO] Connection established
+[2025-11-07T11:40:29.677981] [INFO] Database query executed
+[2025-11-07T11:40:29.677993] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.678000] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.677979] [INFO] Health check passed
+[2025-11-07T11:40:29.677988] [ERROR] Request failed
+[2025-11-07T11:40:29.677991] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.677989] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.677998] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.677999] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.677996] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.677980] [INFO] Session started
+[2025-11-07T11:40:29.677977] [INFO] Transaction completed
+[2025-11-07T11:40:29.677986] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.677976] [INFO] Request processed successfully
+[2025-11-07T11:40:29.677990] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.677970] [INFO] Session started
+[2025-11-07T11:40:29.677984] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.677995] [DEBUG] HTTP request headers parsed

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.913832] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.913835] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.913823] [INFO] Connection established
+[2025-11-07T11:40:29.913825] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.913837] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.913816] [INFO] Database query executed
+[2025-11-07T11:40:29.913817] [INFO] Health check passed
+[2025-11-07T11:40:29.913810] [INFO] Transaction completed
+[2025-11-07T11:40:29.913834] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.913814] [INFO] Database query executed
+[2025-11-07T11:40:29.913836] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.913818] [INFO] Database query executed
+[2025-11-07T11:40:29.913820] [INFO] Configuration loaded
+[2025-11-07T11:40:29.913822] [INFO] Health check passed
+[2025-11-07T11:40:29.913812] [INFO] Database query executed
+[2025-11-07T11:40:29.913831] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.913819] [INFO] Service initialized
+[2025-11-07T11:40:29.913829] [ERROR] Network timeout
+[2025-11-07T11:40:29.913824] [WARN] Slow query performance
+[2025-11-07T11:40:29.913835] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.913826] [WARN] High memory usage detected
+[2025-11-07T11:40:29.913828] [WARN] Disk space low
+[2025-11-07T11:40:29.913815] [INFO] Health check passed
+[2025-11-07T11:40:29.913839] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.913813] [INFO] Configuration loaded
+[2025-11-07T11:40:29.913809] [INFO] Service initialized
+[2025-11-07T11:40:29.913833] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.913821] [INFO] Request processed successfully
+[2025-11-07T11:40:29.913811] [INFO] Request processed successfully
+[2025-11-07T11:40:29.913827] [WARN] Resource threshold approaching

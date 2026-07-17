@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.782364] [INFO] Session started
+[2025-11-07T11:40:29.782381] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.782372] [INFO] Configuration loaded
+[2025-11-07T11:40:29.782389] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.782367] [INFO] Transaction completed
+[2025-11-07T11:40:29.782384] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.782382] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.782359] [INFO] Cache hit
+[2025-11-07T11:40:29.782378] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.782388] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.782376] [WARN] Disk space low
+[2025-11-07T11:40:29.782365] [INFO] Connection established
+[2025-11-07T11:40:29.782373] [INFO] Health check passed
+[2025-11-07T11:40:29.782375] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.782386] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.782385] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.782366] [INFO] Cache hit
+[2025-11-07T11:40:29.782371] [INFO] Health check passed
+[2025-11-07T11:40:29.782368] [INFO] Session started
+[2025-11-07T11:40:29.782387] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.782380] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.782362] [INFO] Cache hit
+[2025-11-07T11:40:29.782360] [INFO] Health check passed
+[2025-11-07T11:40:29.782374] [WARN] Queue size growing
+[2025-11-07T11:40:29.782370] [INFO] Session started
+[2025-11-07T11:40:29.782361] [INFO] Connection established
+[2025-11-07T11:40:29.782369] [INFO] Cache hit
+[2025-11-07T11:40:29.782363] [INFO] Session started
+[2025-11-07T11:40:29.782379] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.782390] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.782383] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.782377] [WARN] Timeout warning

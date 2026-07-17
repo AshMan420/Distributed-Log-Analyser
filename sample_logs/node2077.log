@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.512628] [INFO] Health check passed
+[2025-11-07T11:40:29.512625] [INFO] User logged in
+[2025-11-07T11:40:29.512657] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.512660] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.512649] [ERROR] Permission denied
+[2025-11-07T11:40:29.512627] [INFO] Session started
+[2025-11-07T11:40:29.512647] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.512640] [INFO] Configuration loaded
+[2025-11-07T11:40:29.512636] [INFO] Session started
+[2025-11-07T11:40:29.512626] [INFO] Request processed successfully
+[2025-11-07T11:40:29.512646] [WARN] Slow query performance
+[2025-11-07T11:40:29.512637] [INFO] Service initialized
+[2025-11-07T11:40:29.512630] [INFO] Connection established
+[2025-11-07T11:40:29.512651] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.512632] [INFO] Transaction completed
+[2025-11-07T11:40:29.512654] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.512623] [INFO] Database query executed
+[2025-11-07T11:40:29.512642] [WARN] Slow query performance
+[2025-11-07T11:40:29.512629] [INFO] Transaction completed
+[2025-11-07T11:40:29.512638] [INFO] Connection established
+[2025-11-07T11:40:29.512659] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.512653] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.512635] [INFO] Request processed successfully
+[2025-11-07T11:40:29.512631] [INFO] Request processed successfully
+[2025-11-07T11:40:29.512650] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.512658] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.512643] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.512633] [INFO] Request processed successfully
+[2025-11-07T11:40:29.512639] [INFO] Cache hit
+[2025-11-07T11:40:29.512645] [WARN] Cache miss
+[2025-11-07T11:40:29.512655] [DEBUG] Thread pool size: 8

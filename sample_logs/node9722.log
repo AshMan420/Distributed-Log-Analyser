@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.342968] [INFO] Session started
+[2025-11-07T11:40:30.342964] [INFO] Transaction completed
+[2025-11-07T11:40:30.342971] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.342961] [INFO] Request processed successfully
+[2025-11-07T11:40:30.342966] [INFO] Request processed successfully
+[2025-11-07T11:40:30.342982] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.342980] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.342984] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.342956] [INFO] Transaction completed
+[2025-11-07T11:40:30.342967] [INFO] Configuration loaded
+[2025-11-07T11:40:30.342963] [INFO] Connection established
+[2025-11-07T11:40:30.342965] [INFO] Health check passed
+[2025-11-07T11:40:30.342970] [INFO] Configuration loaded
+[2025-11-07T11:40:30.342978] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.342955] [INFO] Cache hit
+[2025-11-07T11:40:30.342983] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.342974] [WARN] Cache miss
+[2025-11-07T11:40:30.342960] [INFO] Service initialized
+[2025-11-07T11:40:30.342962] [INFO] Service initialized
+[2025-11-07T11:40:30.342976] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.342958] [INFO] Connection established
+[2025-11-07T11:40:30.342979] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.342969] [INFO] Configuration loaded
+[2025-11-07T11:40:30.342973] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.342957] [INFO] Transaction completed
+[2025-11-07T11:40:30.342981] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.342975] [ERROR] Request failed
+[2025-11-07T11:40:30.342972] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.342977] [DEBUG] Thread pool size: 8

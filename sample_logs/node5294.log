@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.852384] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.852378] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.852357] [INFO] Transaction completed
+[2025-11-07T11:40:29.852392] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.852386] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.852373] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.852356] [INFO] Configuration loaded
+[2025-11-07T11:40:29.852393] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.852360] [INFO] Connection established
+[2025-11-07T11:40:29.852361] [INFO] Service initialized
+[2025-11-07T11:40:29.852366] [INFO] User logged in
+[2025-11-07T11:40:29.852374] [ERROR] Network timeout
+[2025-11-07T11:40:29.852388] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.852363] [INFO] Database query executed
+[2025-11-07T11:40:29.852354] [INFO] Database query executed
+[2025-11-07T11:40:29.852375] [ERROR] Request failed
+[2025-11-07T11:40:29.852358] [INFO] Transaction completed
+[2025-11-07T11:40:29.852364] [INFO] Cache hit
+[2025-11-07T11:40:29.852367] [INFO] Health check passed
+[2025-11-07T11:40:29.852362] [INFO] Configuration loaded
+[2025-11-07T11:40:29.852369] [INFO] Configuration loaded
+[2025-11-07T11:40:29.852382] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.852365] [INFO] Transaction completed
+[2025-11-07T11:40:29.852385] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.852370] [INFO] Service initialized
+[2025-11-07T11:40:29.852372] [WARN] High memory usage detected
+[2025-11-07T11:40:29.852390] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.852371] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.852383] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.852380] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.852359] [INFO] Cache hit
+[2025-11-07T11:40:29.852379] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.852388] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.852377] [ERROR] Invalid input data
+[2025-11-07T11:40:29.852394] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.852381] [DEBUG] Loop iteration: 15

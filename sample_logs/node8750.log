@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.232881] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.232863] [INFO] User logged in
+[2025-11-07T11:40:30.232865] [INFO] Database query executed
+[2025-11-07T11:40:30.232882] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.232872] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.232875] [WARN] High memory usage detected
+[2025-11-07T11:40:30.232857] [INFO] Database query executed
+[2025-11-07T11:40:30.232860] [INFO] Transaction completed
+[2025-11-07T11:40:30.232871] [INFO] Database query executed
+[2025-11-07T11:40:30.232885] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.232886] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.232880] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.232877] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.232884] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.232887] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.232867] [INFO] Transaction completed
+[2025-11-07T11:40:30.232873] [WARN] Slow query performance
+[2025-11-07T11:40:30.232869] [INFO] User logged in
+[2025-11-07T11:40:30.232862] [INFO] Session started
+[2025-11-07T11:40:30.232861] [INFO] Connection established
+[2025-11-07T11:40:30.232883] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.232876] [WARN] Timeout warning
+[2025-11-07T11:40:30.232870] [INFO] Health check passed
+[2025-11-07T11:40:30.232864] [INFO] Database query executed
+[2025-11-07T11:40:30.232878] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.232879] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.232859] [INFO] Service initialized
+[2025-11-07T11:40:30.232866] [INFO] Service initialized
+[2025-11-07T11:40:30.232874] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.232867] [INFO] Transaction completed
+[2025-11-07T11:40:30.232868] [INFO] Session started

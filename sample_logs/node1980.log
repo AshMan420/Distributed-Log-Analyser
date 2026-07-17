@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.502773] [INFO] Configuration loaded
+[2025-11-07T11:40:29.502803] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.502794] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.502781] [INFO] Request processed successfully
+[2025-11-07T11:40:29.502784] [INFO] Session started
+[2025-11-07T11:40:29.502786] [INFO] Connection established
+[2025-11-07T11:40:29.502787] [INFO] Health check passed
+[2025-11-07T11:40:29.502796] [ERROR] Request failed
+[2025-11-07T11:40:29.502779] [INFO] Session started
+[2025-11-07T11:40:29.502777] [INFO] Database query executed
+[2025-11-07T11:40:29.502797] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.502802] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.502793] [WARN] Cache miss
+[2025-11-07T11:40:29.502801] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.502776] [INFO] Transaction completed
+[2025-11-07T11:40:29.502782] [INFO] Connection established
+[2025-11-07T11:40:29.502780] [INFO] Database query executed
+[2025-11-07T11:40:29.502799] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.502786] [INFO] Transaction completed
+[2025-11-07T11:40:29.502791] [WARN] High memory usage detected
+[2025-11-07T11:40:29.502804] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.502774] [INFO] Session started
+[2025-11-07T11:40:29.502785] [INFO] Configuration loaded
+[2025-11-07T11:40:29.502795] [ERROR] Invalid input data
+[2025-11-07T11:40:29.502788] [INFO] Configuration loaded
+[2025-11-07T11:40:29.502790] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.502798] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.502778] [INFO] Health check passed
+[2025-11-07T11:40:29.502783] [INFO] Configuration loaded
+[2025-11-07T11:40:29.502800] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.502803] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.502792] [WARN] Cache miss

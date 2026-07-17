@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.367662] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.367646] [INFO] User logged in
+[2025-11-07T11:40:30.367643] [INFO] Cache hit
+[2025-11-07T11:40:30.367650] [INFO] User logged in
+[2025-11-07T11:40:30.367652] [INFO] Database query executed
+[2025-11-07T11:40:30.367656] [WARN] Timeout warning
+[2025-11-07T11:40:30.367663] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.367669] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.367654] [INFO] Request processed successfully
+[2025-11-07T11:40:30.367667] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.367657] [WARN] Queue size growing
+[2025-11-07T11:40:30.367670] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.367666] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.367651] [INFO] User logged in
+[2025-11-07T11:40:30.367668] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.367661] [ERROR] Request failed
+[2025-11-07T11:40:30.367655] [INFO] User logged in
+[2025-11-07T11:40:30.367658] [WARN] Disk space low
+[2025-11-07T11:40:30.367641] [INFO] Connection established
+[2025-11-07T11:40:30.367647] [INFO] Service initialized
+[2025-11-07T11:40:30.367659] [WARN] Cache miss
+[2025-11-07T11:40:30.367660] [WARN] Disk space low
+[2025-11-07T11:40:30.367664] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.367649] [INFO] User logged in
+[2025-11-07T11:40:30.367665] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.367645] [INFO] Connection established
+[2025-11-07T11:40:30.367648] [INFO] Configuration loaded
+[2025-11-07T11:40:30.367653] [INFO] Session started
+[2025-11-07T11:40:30.367644] [INFO] Transaction completed

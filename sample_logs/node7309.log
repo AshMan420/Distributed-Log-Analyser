@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.069309] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.069311] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.069289] [INFO] Health check passed
+[2025-11-07T11:40:30.069297] [WARN] Slow query performance
+[2025-11-07T11:40:30.069301] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.069302] [ERROR] Disk read failed
+[2025-11-07T11:40:30.069295] [INFO] Service initialized
+[2025-11-07T11:40:30.069280] [INFO] Service initialized
+[2025-11-07T11:40:30.069293] [INFO] Database query executed
+[2025-11-07T11:40:30.069308] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.069285] [INFO] Transaction completed
+[2025-11-07T11:40:30.069292] [INFO] Session started
+[2025-11-07T11:40:30.069304] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.069299] [WARN] Timeout warning
+[2025-11-07T11:40:30.069310] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.069287] [INFO] Connection established
+[2025-11-07T11:40:30.069290] [INFO] Service initialized
+[2025-11-07T11:40:30.069294] [INFO] Database query executed
+[2025-11-07T11:40:30.069291] [INFO] User logged in
+[2025-11-07T11:40:30.069279] [INFO] Session started
+[2025-11-07T11:40:30.069305] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.069296] [INFO] Database query executed
+[2025-11-07T11:40:30.069284] [INFO] Database query executed
+[2025-11-07T11:40:30.069300] [WARN] Timeout warning
+[2025-11-07T11:40:30.069282] [INFO] Connection established
+[2025-11-07T11:40:30.069303] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.069278] [INFO] User logged in
+[2025-11-07T11:40:30.069298] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.069306] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.069286] [INFO] Database query executed
+[2025-11-07T11:40:30.069307] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.069288] [INFO] Database query executed
+[2025-11-07T11:40:30.069283] [INFO] Connection established

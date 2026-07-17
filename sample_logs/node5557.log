@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.878438] [INFO] Service initialized
+[2025-11-07T11:40:29.878436] [INFO] Configuration loaded
+[2025-11-07T11:40:29.878445] [INFO] Health check passed
+[2025-11-07T11:40:29.878461] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.878453] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.878444] [INFO] Configuration loaded
+[2025-11-07T11:40:29.878465] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.878437] [INFO] Transaction completed
+[2025-11-07T11:40:29.878459] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.878440] [INFO] Transaction completed
+[2025-11-07T11:40:29.878460] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.878441] [INFO] Connection established
+[2025-11-07T11:40:29.878458] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.878452] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.878448] [INFO] Session started
+[2025-11-07T11:40:29.878443] [INFO] Request processed successfully
+[2025-11-07T11:40:29.878439] [INFO] Database query executed
+[2025-11-07T11:40:29.878464] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.878447] [INFO] Transaction completed
+[2025-11-07T11:40:29.878451] [WARN] Queue size growing
+[2025-11-07T11:40:29.878435] [INFO] Cache hit
+[2025-11-07T11:40:29.878449] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.878463] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.878462] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.878433] [INFO] Service initialized
+[2025-11-07T11:40:29.878446] [INFO] Cache hit
+[2025-11-07T11:40:29.878455] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.878457] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.878442] [INFO] Request processed successfully
+[2025-11-07T11:40:29.878454] [ERROR] Request failed
+[2025-11-07T11:40:29.878450] [WARN] Connection retry attempt

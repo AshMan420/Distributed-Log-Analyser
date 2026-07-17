@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.098355] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.098333] [INFO] Configuration loaded
+[2025-11-07T11:40:30.098353] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.098352] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.098354] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.098337] [INFO] Health check passed
+[2025-11-07T11:40:30.098335] [INFO] Service initialized
+[2025-11-07T11:40:30.098324] [INFO] User logged in
+[2025-11-07T11:40:30.098350] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.098347] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.098330] [INFO] Health check passed
+[2025-11-07T11:40:30.098340] [WARN] Disk space low
+[2025-11-07T11:40:30.098344] [ERROR] Invalid input data
+[2025-11-07T11:40:30.098341] [WARN] Timeout warning
+[2025-11-07T11:40:30.098339] [INFO] Connection established
+[2025-11-07T11:40:30.098326] [INFO] Transaction completed
+[2025-11-07T11:40:30.098351] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.098356] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.098342] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.098329] [INFO] Service initialized
+[2025-11-07T11:40:30.098348] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.098343] [WARN] Queue size growing
+[2025-11-07T11:40:30.098349] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.098327] [INFO] Health check passed
+[2025-11-07T11:40:30.098331] [INFO] Configuration loaded
+[2025-11-07T11:40:30.098346] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.098328] [INFO] Configuration loaded
+[2025-11-07T11:40:30.098338] [INFO] Session started
+[2025-11-07T11:40:30.098345] [ERROR] File not found
+[2025-11-07T11:40:30.098357] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.098334] [INFO] Configuration loaded
+[2025-11-07T11:40:30.098332] [INFO] Transaction completed
+[2025-11-07T11:40:30.098336] [INFO] Service initialized
+[2025-11-07T11:40:30.098337] [INFO] Request processed successfully

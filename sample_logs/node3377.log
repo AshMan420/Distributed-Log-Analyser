@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.655810] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.655787] [INFO] Transaction completed
+[2025-11-07T11:40:29.655789] [INFO] Configuration loaded
+[2025-11-07T11:40:29.655811] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.655784] [INFO] Database query executed
+[2025-11-07T11:40:29.655795] [WARN] High memory usage detected
+[2025-11-07T11:40:29.655809] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.655793] [INFO] Configuration loaded
+[2025-11-07T11:40:29.655797] [WARN] High memory usage detected
+[2025-11-07T11:40:29.655786] [INFO] Service initialized
+[2025-11-07T11:40:29.655788] [INFO] Configuration loaded
+[2025-11-07T11:40:29.655785] [INFO] Connection established
+[2025-11-07T11:40:29.655791] [INFO] Database query executed
+[2025-11-07T11:40:29.655805] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.655798] [WARN] Cache miss
+[2025-11-07T11:40:29.655800] [WARN] Queue size growing
+[2025-11-07T11:40:29.655806] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.655781] [INFO] Service initialized
+[2025-11-07T11:40:29.655792] [INFO] Cache hit
+[2025-11-07T11:40:29.655783] [INFO] Database query executed
+[2025-11-07T11:40:29.655796] [WARN] High memory usage detected
+[2025-11-07T11:40:29.655802] [ERROR] Disk read failed
+[2025-11-07T11:40:29.655799] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.655782] [INFO] Service initialized
+[2025-11-07T11:40:29.655808] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.655801] [WARN] Slow query performance
+[2025-11-07T11:40:29.655780] [INFO] Health check passed
+[2025-11-07T11:40:29.655812] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.655794] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.655808] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.655803] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.655804] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.655790] [INFO] Health check passed
+[2025-11-07T11:40:29.655778] [INFO] Service initialized

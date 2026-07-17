@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.171298] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.171296] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.171290] [WARN] Slow query performance
+[2025-11-07T11:40:30.171273] [INFO] Transaction completed
+[2025-11-07T11:40:30.171299] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.171285] [INFO] Database query executed
+[2025-11-07T11:40:30.171297] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.171300] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.171283] [INFO] Request processed successfully
+[2025-11-07T11:40:30.171276] [INFO] User logged in
+[2025-11-07T11:40:30.171289] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.171292] [ERROR] Request failed
+[2025-11-07T11:40:30.171281] [INFO] Database query executed
+[2025-11-07T11:40:30.171301] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.171258] [INFO] Configuration loaded
+[2025-11-07T11:40:30.171278] [INFO] Session started
+[2025-11-07T11:40:30.171275] [INFO] Configuration loaded
+[2025-11-07T11:40:30.171293] [ERROR] Database connection lost
+[2025-11-07T11:40:30.171272] [INFO] Cache hit
+[2025-11-07T11:40:30.171291] [WARN] Queue size growing
+[2025-11-07T11:40:30.171294] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.171302] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.171295] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.171279] [INFO] Transaction completed
+[2025-11-07T11:40:30.171259] [INFO] Transaction completed
+[2025-11-07T11:40:30.171288] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.171287] [WARN] High memory usage detected
+[2025-11-07T11:40:30.171280] [INFO] Configuration loaded
+[2025-11-07T11:40:30.171257] [INFO] Transaction completed
+[2025-11-07T11:40:30.171284] [INFO] Cache hit

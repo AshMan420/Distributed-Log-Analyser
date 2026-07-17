@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.615303] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.615302] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.615298] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.615295] [ERROR] Invalid input data
+[2025-11-07T11:40:29.615304] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.615296] [ERROR] File not found
+[2025-11-07T11:40:29.615288] [INFO] Health check passed
+[2025-11-07T11:40:29.615290] [INFO] Cache hit
+[2025-11-07T11:40:29.615305] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.615279] [INFO] Request processed successfully
+[2025-11-07T11:40:29.615286] [INFO] Database query executed
+[2025-11-07T11:40:29.615285] [INFO] Request processed successfully
+[2025-11-07T11:40:29.615300] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.615293] [WARN] Slow query performance
+[2025-11-07T11:40:29.615301] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.615287] [INFO] Health check passed
+[2025-11-07T11:40:29.615284] [INFO] Database query executed
+[2025-11-07T11:40:29.615308] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.615307] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.615297] [ERROR] Authentication failed
+[2025-11-07T11:40:29.615281] [INFO] Service initialized
+[2025-11-07T11:40:29.615277] [INFO] Database query executed
+[2025-11-07T11:40:29.615282] [INFO] Health check passed
+[2025-11-07T11:40:29.615294] [WARN] Queue size growing
+[2025-11-07T11:40:29.615309] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.615280] [INFO] Health check passed
+[2025-11-07T11:40:29.615291] [INFO] Cache hit
+[2025-11-07T11:40:29.615292] [INFO] Connection established
+[2025-11-07T11:40:29.615289] [INFO] Transaction completed
+[2025-11-07T11:40:29.615306] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.615299] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.615283] [INFO] User logged in

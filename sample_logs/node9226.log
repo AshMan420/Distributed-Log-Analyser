@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.280965] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.280961] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.280942] [INFO] Database query executed
+[2025-11-07T11:40:30.280963] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.280953] [WARN] Cache miss
+[2025-11-07T11:40:30.280941] [INFO] Health check passed
+[2025-11-07T11:40:30.280950] [INFO] Transaction completed
+[2025-11-07T11:40:30.280964] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.280952] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.280960] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.280962] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.280959] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.280948] [INFO] Request processed successfully
+[2025-11-07T11:40:30.280949] [INFO] Database query executed
+[2025-11-07T11:40:30.280939] [INFO] Cache hit
+[2025-11-07T11:40:30.280966] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.280944] [INFO] Transaction completed
+[2025-11-07T11:40:30.280937] [INFO] Request processed successfully
+[2025-11-07T11:40:30.280954] [WARN] Cache miss
+[2025-11-07T11:40:30.280945] [INFO] Service initialized
+[2025-11-07T11:40:30.280955] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.280951] [WARN] Cache miss
+[2025-11-07T11:40:30.280947] [INFO] Cache hit
+[2025-11-07T11:40:30.280956] [ERROR] Service unavailable
+[2025-11-07T11:40:30.280938] [INFO] Cache hit
+[2025-11-07T11:40:30.280943] [INFO] Database query executed
+[2025-11-07T11:40:30.280936] [INFO] Cache hit
+[2025-11-07T11:40:30.280957] [ERROR] Invalid input data
+[2025-11-07T11:40:30.280946] [INFO] Connection established
+[2025-11-07T11:40:30.280940] [INFO] User logged in
+[2025-11-07T11:40:30.280958] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.280967] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.280935] [INFO] Configuration loaded

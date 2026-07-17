@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.057911] [ERROR] File not found
+[2025-11-07T11:40:30.057920] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.057902] [INFO] Transaction completed
+[2025-11-07T11:40:30.057916] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.057898] [INFO] Session started
+[2025-11-07T11:40:30.057908] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.057903] [INFO] Session started
+[2025-11-07T11:40:30.057901] [INFO] Service initialized
+[2025-11-07T11:40:30.057900] [INFO] Database query executed
+[2025-11-07T11:40:30.057905] [INFO] Cache hit
+[2025-11-07T11:40:30.057895] [INFO] Request processed successfully
+[2025-11-07T11:40:30.057907] [WARN] Slow query performance
+[2025-11-07T11:40:30.057918] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.057909] [WARN] Cache miss
+[2025-11-07T11:40:30.057906] [INFO] Health check passed
+[2025-11-07T11:40:30.057921] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.057914] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.057904] [INFO] Database query executed
+[2025-11-07T11:40:30.057910] [WARN] Cache miss
+[2025-11-07T11:40:30.057915] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.057899] [INFO] Request processed successfully
+[2025-11-07T11:40:30.057922] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.057896] [INFO] Cache hit
+[2025-11-07T11:40:30.057917] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.057893] [INFO] Connection established
+[2025-11-07T11:40:30.057919] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.057892] [INFO] Cache hit
+[2025-11-07T11:40:30.057898] [INFO] Session started
+[2025-11-07T11:40:30.057891] [INFO] Transaction completed
+[2025-11-07T11:40:30.057912] [ERROR] Network timeout
+[2025-11-07T11:40:30.057894] [INFO] Cache hit

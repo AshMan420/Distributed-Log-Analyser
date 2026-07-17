@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.608376] [WARN] Cache miss
+[2025-11-07T11:40:29.608381] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.608369] [INFO] Connection established
+[2025-11-07T11:40:29.608371] [INFO] Service initialized
+[2025-11-07T11:40:29.608359] [INFO] Session started
+[2025-11-07T11:40:29.608360] [INFO] Configuration loaded
+[2025-11-07T11:40:29.608368] [INFO] User logged in
+[2025-11-07T11:40:29.608387] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.608363] [INFO] Service initialized
+[2025-11-07T11:40:29.608366] [INFO] Request processed successfully
+[2025-11-07T11:40:29.608383] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.608370] [INFO] Transaction completed
+[2025-11-07T11:40:29.608367] [INFO] User logged in
+[2025-11-07T11:40:29.608361] [INFO] Cache hit
+[2025-11-07T11:40:29.608380] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.608374] [WARN] Timeout warning
+[2025-11-07T11:40:29.608373] [INFO] Service initialized
+[2025-11-07T11:40:29.608375] [WARN] Queue size growing
+[2025-11-07T11:40:29.608377] [ERROR] Permission denied
+[2025-11-07T11:40:29.608378] [ERROR] File not found
+[2025-11-07T11:40:29.608381] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.608372] [INFO] Session started
+[2025-11-07T11:40:29.608362] [INFO] Transaction completed
+[2025-11-07T11:40:29.608387] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.608364] [INFO] Database query executed
+[2025-11-07T11:40:29.608365] [INFO] Session started
+[2025-11-07T11:40:29.608385] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.608383] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.608386] [DEBUG] Buffer size: 4096 bytes

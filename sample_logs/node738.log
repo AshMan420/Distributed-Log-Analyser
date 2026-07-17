@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.368721] [INFO] Database query executed
+[2025-11-07T11:40:29.368745] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.368749] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.368742] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.368734] [INFO] Transaction completed
+[2025-11-07T11:40:29.368736] [INFO] Health check passed
+[2025-11-07T11:40:29.368733] [INFO] Cache hit
+[2025-11-07T11:40:29.368728] [INFO] Service initialized
+[2025-11-07T11:40:29.368724] [INFO] Cache hit
+[2025-11-07T11:40:29.368727] [INFO] User logged in
+[2025-11-07T11:40:29.368731] [INFO] Cache hit
+[2025-11-07T11:40:29.368735] [INFO] Database query executed
+[2025-11-07T11:40:29.368744] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.368732] [INFO] Session started
+[2025-11-07T11:40:29.368732] [INFO] Cache hit
+[2025-11-07T11:40:29.368739] [ERROR] Service unavailable
+[2025-11-07T11:40:29.368743] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.368747] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.368723] [INFO] Service initialized
+[2025-11-07T11:40:29.368746] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.368738] [WARN] Cache miss
+[2025-11-07T11:40:29.368730] [INFO] Database query executed
+[2025-11-07T11:40:29.368725] [INFO] Cache hit
+[2025-11-07T11:40:29.368740] [ERROR] Service unavailable
+[2025-11-07T11:40:29.368741] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.368726] [INFO] Configuration loaded
+[2025-11-07T11:40:29.368729] [INFO] Database query executed
+[2025-11-07T11:40:29.368748] [DEBUG] Memory allocation: 2048 bytes

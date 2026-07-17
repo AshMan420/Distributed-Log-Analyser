@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.477954] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.477959] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.477944] [INFO] Health check passed
+[2025-11-07T11:40:29.477940] [INFO] Cache hit
+[2025-11-07T11:40:29.477952] [WARN] Cache miss
+[2025-11-07T11:40:29.477960] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.477946] [INFO] Health check passed
+[2025-11-07T11:40:29.477927] [INFO] Session started
+[2025-11-07T11:40:29.477956] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.477961] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.477953] [ERROR] File not found
+[2025-11-07T11:40:29.477945] [INFO] Connection established
+[2025-11-07T11:40:29.477943] [INFO] Database query executed
+[2025-11-07T11:40:29.477955] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.477926] [INFO] User logged in
+[2025-11-07T11:40:29.477948] [INFO] Service initialized
+[2025-11-07T11:40:29.477951] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.477958] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.477924] [INFO] Database query executed
+[2025-11-07T11:40:29.477941] [INFO] Transaction completed
+[2025-11-07T11:40:29.477942] [INFO] Cache hit
+[2025-11-07T11:40:29.477957] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.477928] [INFO] Request processed successfully
+[2025-11-07T11:40:29.477950] [WARN] Timeout warning
+[2025-11-07T11:40:29.477949] [WARN] Cache miss
+[2025-11-07T11:40:29.477962] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.477947] [INFO] Configuration loaded
+[2025-11-07T11:40:29.477923] [INFO] User logged in

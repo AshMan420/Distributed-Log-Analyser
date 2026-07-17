@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.723781] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.723786] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.723778] [ERROR] Database connection lost
+[2025-11-07T11:40:29.723773] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.723789] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.723761] [INFO] Database query executed
+[2025-11-07T11:40:29.723768] [INFO] Database query executed
+[2025-11-07T11:40:29.723772] [WARN] Slow query performance
+[2025-11-07T11:40:29.723769] [WARN] Disk space low
+[2025-11-07T11:40:29.723770] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.723753] [INFO] Configuration loaded
+[2025-11-07T11:40:29.723780] [ERROR] Permission denied
+[2025-11-07T11:40:29.723755] [INFO] Health check passed
+[2025-11-07T11:40:29.723788] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.723754] [INFO] Database query executed
+[2025-11-07T11:40:29.723756] [INFO] Connection established
+[2025-11-07T11:40:29.723782] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.723777] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.723775] [WARN] High memory usage detected
+[2025-11-07T11:40:29.723762] [INFO] Request processed successfully
+[2025-11-07T11:40:29.723766] [INFO] User logged in
+[2025-11-07T11:40:29.723763] [INFO] Database query executed
+[2025-11-07T11:40:29.723764] [INFO] Session started
+[2025-11-07T11:40:29.723758] [INFO] Service initialized
+[2025-11-07T11:40:29.723767] [INFO] Service initialized
+[2025-11-07T11:40:29.723760] [INFO] Health check passed
+[2025-11-07T11:40:29.723784] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.723784] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.723771] [WARN] Slow query performance
+[2025-11-07T11:40:29.723785] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.723779] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.723774] [WARN] High memory usage detected
+[2025-11-07T11:40:29.723787] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.723759] [INFO] Service initialized
+[2025-11-07T11:40:29.723765] [INFO] Cache hit
+[2025-11-07T11:40:29.723776] [WARN] Disk space low
+[2025-11-07T11:40:29.723757] [INFO] Transaction completed

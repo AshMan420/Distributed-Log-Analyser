@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.164226] [INFO] Session started
+[2025-11-07T11:40:30.164259] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.164252] [WARN] High memory usage detected
+[2025-11-07T11:40:30.164257] [ERROR] Invalid input data
+[2025-11-07T11:40:30.164244] [INFO] Service initialized
+[2025-11-07T11:40:30.164231] [INFO] Configuration loaded
+[2025-11-07T11:40:30.164246] [INFO] Service initialized
+[2025-11-07T11:40:30.164227] [INFO] Cache hit
+[2025-11-07T11:40:30.164225] [INFO] Cache hit
+[2025-11-07T11:40:30.164245] [INFO] Transaction completed
+[2025-11-07T11:40:30.164249] [WARN] Cache miss
+[2025-11-07T11:40:30.164256] [ERROR] Disk read failed
+[2025-11-07T11:40:30.164247] [INFO] Request processed successfully
+[2025-11-07T11:40:30.164243] [INFO] Transaction completed
+[2025-11-07T11:40:30.164260] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.164232] [INFO] Transaction completed
+[2025-11-07T11:40:30.164240] [INFO] Database query executed
+[2025-11-07T11:40:30.164261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.164258] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.164250] [WARN] Cache miss
+[2025-11-07T11:40:30.164251] [WARN] Timeout warning
+[2025-11-07T11:40:30.164248] [WARN] Slow query performance
+[2025-11-07T11:40:30.164266] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.164263] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.164229] [INFO] Database query executed
+[2025-11-07T11:40:30.164242] [INFO] Request processed successfully
+[2025-11-07T11:40:30.164228] [INFO] Cache hit
+[2025-11-07T11:40:30.164252] [WARN] High memory usage detected
+[2025-11-07T11:40:30.164253] [WARN] High memory usage detected
+[2025-11-07T11:40:30.164264] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.164254] [WARN] Disk space low
+[2025-11-07T11:40:30.164231] [INFO] User logged in
+[2025-11-07T11:40:30.164262] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.164265] [DEBUG] Variable value: x=42

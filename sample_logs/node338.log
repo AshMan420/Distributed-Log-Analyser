@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.327080] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.327060] [INFO] Cache hit
+[2025-11-07T11:40:29.327058] [INFO] Transaction completed
+[2025-11-07T11:40:29.327081] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.327068] [INFO] Database query executed
+[2025-11-07T11:40:29.327076] [ERROR] Database connection lost
+[2025-11-07T11:40:29.327072] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.327073] [WARN] Slow query performance
+[2025-11-07T11:40:29.327077] [ERROR] Disk read failed
+[2025-11-07T11:40:29.327057] [INFO] Transaction completed
+[2025-11-07T11:40:29.327084] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.327067] [INFO] Health check passed
+[2025-11-07T11:40:29.327078] [ERROR] Request failed
+[2025-11-07T11:40:29.327070] [INFO] Transaction completed
+[2025-11-07T11:40:29.327074] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.327056] [INFO] Health check passed
+[2025-11-07T11:40:29.327082] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.327061] [INFO] Database query executed
+[2025-11-07T11:40:29.327065] [INFO] Connection established
+[2025-11-07T11:40:29.327083] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.327067] [INFO] Service initialized
+[2025-11-07T11:40:29.327064] [INFO] Connection established
+[2025-11-07T11:40:29.327062] [INFO] Health check passed
+[2025-11-07T11:40:29.327063] [INFO] User logged in
+[2025-11-07T11:40:29.327069] [INFO] Configuration loaded
+[2025-11-07T11:40:29.327059] [INFO] Transaction completed
+[2025-11-07T11:40:29.327079] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.327075] [WARN] Cache miss

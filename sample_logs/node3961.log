@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.717465] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.717458] [WARN] Slow query performance
+[2025-11-07T11:40:29.717464] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.717438] [INFO] Database query executed
+[2025-11-07T11:40:29.717455] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.717453] [INFO] Service initialized
+[2025-11-07T11:40:29.717466] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.717463] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.717472] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.717459] [ERROR] Authentication failed
+[2025-11-07T11:40:29.717470] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.717448] [INFO] Cache hit
+[2025-11-07T11:40:29.717444] [INFO] Session started
+[2025-11-07T11:40:29.717457] [WARN] High memory usage detected
+[2025-11-07T11:40:29.717435] [INFO] Cache hit
+[2025-11-07T11:40:29.717462] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.717439] [INFO] User logged in
+[2025-11-07T11:40:29.717446] [INFO] Cache hit
+[2025-11-07T11:40:29.717460] [ERROR] Network timeout
+[2025-11-07T11:40:29.717443] [INFO] Database query executed
+[2025-11-07T11:40:29.717451] [INFO] Cache hit
+[2025-11-07T11:40:29.717471] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.717447] [INFO] Configuration loaded
+[2025-11-07T11:40:29.717449] [INFO] Health check passed
+[2025-11-07T11:40:29.717468] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.717437] [INFO] Health check passed
+[2025-11-07T11:40:29.717456] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.717467] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.717452] [INFO] Session started
+[2025-11-07T11:40:29.717454] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.717442] [INFO] Request processed successfully
+[2025-11-07T11:40:29.717445] [INFO] Health check passed
+[2025-11-07T11:40:29.717469] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.717472] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.717440] [INFO] Connection established
+[2025-11-07T11:40:29.717450] [INFO] Session started
+[2025-11-07T11:40:29.717441] [INFO] Service initialized

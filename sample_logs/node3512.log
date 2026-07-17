@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.669732] [INFO] Service initialized
+[2025-11-07T11:40:29.669742] [INFO] User logged in
+[2025-11-07T11:40:29.669756] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.669735] [INFO] Cache hit
+[2025-11-07T11:40:29.669752] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.669738] [INFO] Configuration loaded
+[2025-11-07T11:40:29.669744] [WARN] Timeout warning
+[2025-11-07T11:40:29.669736] [INFO] User logged in
+[2025-11-07T11:40:29.669753] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.669737] [INFO] Configuration loaded
+[2025-11-07T11:40:29.669743] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.669733] [INFO] Request processed successfully
+[2025-11-07T11:40:29.669734] [INFO] Transaction completed
+[2025-11-07T11:40:29.669750] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.669731] [INFO] Configuration loaded
+[2025-11-07T11:40:29.669729] [INFO] User logged in
+[2025-11-07T11:40:29.669728] [INFO] Transaction completed
+[2025-11-07T11:40:29.669754] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.669751] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.669741] [INFO] Transaction completed
+[2025-11-07T11:40:29.669747] [WARN] Cache miss
+[2025-11-07T11:40:29.669755] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.669746] [WARN] Timeout warning
+[2025-11-07T11:40:29.669739] [INFO] Request processed successfully
+[2025-11-07T11:40:29.669757] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.669740] [INFO] Connection established
+[2025-11-07T11:40:29.669745] [WARN] Cache miss
+[2025-11-07T11:40:29.669749] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.669748] [ERROR] Memory allocation error

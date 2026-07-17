@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.796317] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.796298] [INFO] Connection established
+[2025-11-07T11:40:29.796319] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.796294] [INFO] Configuration loaded
+[2025-11-07T11:40:29.796293] [INFO] Session started
+[2025-11-07T11:40:29.796326] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.796300] [INFO] Database query executed
+[2025-11-07T11:40:29.796306] [INFO] Session started
+[2025-11-07T11:40:29.796321] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.796311] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.796315] [ERROR] Network timeout
+[2025-11-07T11:40:29.796303] [INFO] Configuration loaded
+[2025-11-07T11:40:29.796313] [WARN] Disk space low
+[2025-11-07T11:40:29.796320] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.796296] [INFO] Request processed successfully
+[2025-11-07T11:40:29.796297] [INFO] User logged in
+[2025-11-07T11:40:29.796295] [INFO] Health check passed
+[2025-11-07T11:40:29.796308] [WARN] Slow query performance
+[2025-11-07T11:40:29.796307] [INFO] Configuration loaded
+[2025-11-07T11:40:29.796301] [INFO] User logged in
+[2025-11-07T11:40:29.796323] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.796292] [INFO] Health check passed
+[2025-11-07T11:40:29.796305] [INFO] Connection established
+[2025-11-07T11:40:29.796299] [INFO] Session started
+[2025-11-07T11:40:29.796312] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.796310] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.796304] [INFO] Configuration loaded
+[2025-11-07T11:40:29.796302] [INFO] Transaction completed
+[2025-11-07T11:40:29.796322] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.796318] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.796309] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.796325] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.796316] [ERROR] Disk read failed

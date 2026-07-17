@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.554032] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.554015] [INFO] Request processed successfully
+[2025-11-07T11:40:29.554008] [INFO] Connection established
+[2025-11-07T11:40:29.554014] [INFO] Configuration loaded
+[2025-11-07T11:40:29.554024] [INFO] Configuration loaded
+[2025-11-07T11:40:29.554022] [INFO] Configuration loaded
+[2025-11-07T11:40:29.554023] [INFO] User logged in
+[2025-11-07T11:40:29.554011] [INFO] Transaction completed
+[2025-11-07T11:40:29.554027] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.554041] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.554038] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.554035] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.554039] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.554010] [INFO] Transaction completed
+[2025-11-07T11:40:29.554013] [INFO] Cache hit
+[2025-11-07T11:40:29.554021] [INFO] Cache hit
+[2025-11-07T11:40:29.554018] [INFO] Request processed successfully
+[2025-11-07T11:40:29.554017] [INFO] Database query executed
+[2025-11-07T11:40:29.554016] [INFO] Connection established
+[2025-11-07T11:40:29.554037] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.554033] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.554036] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.554031] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.554040] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.554012] [INFO] Connection established
+[2025-11-07T11:40:29.554019] [INFO] Configuration loaded
+[2025-11-07T11:40:29.554034] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.554030] [ERROR] Invalid input data
+[2025-11-07T11:40:29.554028] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.554020] [INFO] Configuration loaded
+[2025-11-07T11:40:29.554029] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.554009] [INFO] User logged in
+[2025-11-07T11:40:29.554025] [WARN] High memory usage detected
+[2025-11-07T11:40:29.554026] [WARN] Timeout warning

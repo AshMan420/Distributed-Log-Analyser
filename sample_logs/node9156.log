@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.274081] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.274062] [INFO] Session started
+[2025-11-07T11:40:30.274068] [WARN] Disk space low
+[2025-11-07T11:40:30.274058] [INFO] Connection established
+[2025-11-07T11:40:30.274053] [INFO] User logged in
+[2025-11-07T11:40:30.274055] [INFO] Transaction completed
+[2025-11-07T11:40:30.274079] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.274067] [INFO] Connection established
+[2025-11-07T11:40:30.274064] [INFO] Service initialized
+[2025-11-07T11:40:30.274078] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.274073] [ERROR] Permission denied
+[2025-11-07T11:40:30.274077] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.274065] [INFO] Cache hit
+[2025-11-07T11:40:30.274054] [INFO] Transaction completed
+[2025-11-07T11:40:30.274060] [INFO] Health check passed
+[2025-11-07T11:40:30.274059] [INFO] Session started
+[2025-11-07T11:40:30.274070] [WARN] High memory usage detected
+[2025-11-07T11:40:30.274071] [WARN] Timeout warning
+[2025-11-07T11:40:30.274066] [INFO] Request processed successfully
+[2025-11-07T11:40:30.274074] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.274061] [INFO] Transaction completed
+[2025-11-07T11:40:30.274069] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.274063] [INFO] Cache hit
+[2025-11-07T11:40:30.274072] [ERROR] Database connection lost
+[2025-11-07T11:40:30.274080] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.274075] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.274057] [INFO] Configuration loaded
+[2025-11-07T11:40:30.274056] [INFO] User logged in

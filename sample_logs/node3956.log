@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.716975] [WARN] Cache miss
+[2025-11-07T11:40:29.716970] [INFO] Session started
+[2025-11-07T11:40:29.716959] [INFO] Connection established
+[2025-11-07T11:40:29.716978] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.716977] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.716980] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.716961] [INFO] Service initialized
+[2025-11-07T11:40:29.716971] [INFO] Database query executed
+[2025-11-07T11:40:29.716962] [INFO] Health check passed
+[2025-11-07T11:40:29.716965] [INFO] Session started
+[2025-11-07T11:40:29.716967] [INFO] Health check passed
+[2025-11-07T11:40:29.716976] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.716983] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.716986] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.716982] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.716969] [INFO] User logged in
+[2025-11-07T11:40:29.716984] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.716973] [INFO] Database query executed
+[2025-11-07T11:40:29.716979] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.716981] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.716964] [INFO] Database query executed
+[2025-11-07T11:40:29.716972] [INFO] Database query executed
+[2025-11-07T11:40:29.716985] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.716966] [INFO] Database query executed
+[2025-11-07T11:40:29.716963] [INFO] Service initialized
+[2025-11-07T11:40:29.716967] [INFO] Cache hit
+[2025-11-07T11:40:29.716974] [WARN] Slow query performance

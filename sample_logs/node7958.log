@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.135562] [ERROR] Network timeout
+[2025-11-07T11:40:30.135556] [INFO] Database query executed
+[2025-11-07T11:40:30.135549] [INFO] Health check passed
+[2025-11-07T11:40:30.135552] [INFO] Session started
+[2025-11-07T11:40:30.135553] [INFO] Request processed successfully
+[2025-11-07T11:40:30.135568] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.135549] [INFO] Session started
+[2025-11-07T11:40:30.135569] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.135571] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.135570] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.135545] [INFO] Request processed successfully
+[2025-11-07T11:40:30.135566] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.135547] [INFO] Cache hit
+[2025-11-07T11:40:30.135557] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.135536] [INFO] Health check passed
+[2025-11-07T11:40:30.135567] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.135548] [INFO] Database query executed
+[2025-11-07T11:40:30.135554] [INFO] Configuration loaded
+[2025-11-07T11:40:30.135555] [INFO] Cache hit
+[2025-11-07T11:40:30.135559] [WARN] Timeout warning
+[2025-11-07T11:40:30.135565] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.135572] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.135560] [WARN] Timeout warning
+[2025-11-07T11:40:30.135551] [INFO] Request processed successfully
+[2025-11-07T11:40:30.135564] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.135537] [INFO] Health check passed
+[2025-11-07T11:40:30.135535] [INFO] Cache hit
+[2025-11-07T11:40:30.135534] [INFO] Configuration loaded
+[2025-11-07T11:40:30.135546] [INFO] Session started
+[2025-11-07T11:40:30.135561] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.135563] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.135558] [WARN] Timeout warning

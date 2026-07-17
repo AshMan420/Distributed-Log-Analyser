@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.557603] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.557605] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.557588] [INFO] Request processed successfully
+[2025-11-07T11:40:29.557610] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.557612] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.557609] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.557607] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.557590] [INFO] Configuration loaded
+[2025-11-07T11:40:29.557591] [INFO] Health check passed
+[2025-11-07T11:40:29.557601] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.557605] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.557599] [INFO] Request processed successfully
+[2025-11-07T11:40:29.557594] [INFO] Request processed successfully
+[2025-11-07T11:40:29.557595] [INFO] Connection established
+[2025-11-07T11:40:29.557608] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.557587] [INFO] Service initialized
+[2025-11-07T11:40:29.557589] [INFO] Cache hit
+[2025-11-07T11:40:29.557596] [INFO] Request processed successfully
+[2025-11-07T11:40:29.557600] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.557592] [INFO] User logged in
+[2025-11-07T11:40:29.557593] [INFO] Cache hit
+[2025-11-07T11:40:29.557602] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.557611] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.557606] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.557598] [INFO] Database query executed
+[2025-11-07T11:40:29.557597] [INFO] Database query executed

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.092158] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.092142] [INFO] Cache hit
+[2025-11-07T11:40:30.092135] [INFO] Transaction completed
+[2025-11-07T11:40:30.092140] [INFO] Transaction completed
+[2025-11-07T11:40:30.092143] [WARN] Slow query performance
+[2025-11-07T11:40:30.092156] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.092131] [INFO] Request processed successfully
+[2025-11-07T11:40:30.092144] [WARN] High memory usage detected
+[2025-11-07T11:40:30.092148] [ERROR] File not found
+[2025-11-07T11:40:30.092138] [INFO] Database query executed
+[2025-11-07T11:40:30.092146] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.092157] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.092155] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.092139] [INFO] Configuration loaded
+[2025-11-07T11:40:30.092136] [INFO] Service initialized
+[2025-11-07T11:40:30.092154] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.092145] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.092152] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.092149] [ERROR] Database connection lost
+[2025-11-07T11:40:30.092150] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.092133] [INFO] User logged in
+[2025-11-07T11:40:30.092153] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.092151] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.092137] [INFO] User logged in
+[2025-11-07T11:40:30.092130] [INFO] Database query executed
+[2025-11-07T11:40:30.092134] [INFO] User logged in
+[2025-11-07T11:40:30.092132] [INFO] Configuration loaded
+[2025-11-07T11:40:30.092128] [INFO] Configuration loaded
+[2025-11-07T11:40:30.092141] [INFO] Session started

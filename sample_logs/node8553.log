@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.199512] [INFO] Health check passed
+[2025-11-07T11:40:30.199521] [ERROR] Request failed
+[2025-11-07T11:40:30.199491] [INFO] Cache hit
+[2025-11-07T11:40:30.199519] [WARN] Cache miss
+[2025-11-07T11:40:30.199505] [INFO] Health check passed
+[2025-11-07T11:40:30.199509] [INFO] Cache hit
+[2025-11-07T11:40:30.199516] [WARN] Slow query performance
+[2025-11-07T11:40:30.199506] [INFO] Transaction completed
+[2025-11-07T11:40:30.199493] [INFO] Connection established
+[2025-11-07T11:40:30.199530] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.199526] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.199511] [INFO] Service initialized
+[2025-11-07T11:40:30.199492] [INFO] Request processed successfully
+[2025-11-07T11:40:30.199529] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.199530] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.199513] [INFO] Connection established
+[2025-11-07T11:40:30.199523] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.199508] [INFO] Health check passed
+[2025-11-07T11:40:30.199514] [INFO] Database query executed
+[2025-11-07T11:40:30.199515] [INFO] Connection established
+[2025-11-07T11:40:30.199517] [WARN] Queue size growing
+[2025-11-07T11:40:30.199525] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.199522] [ERROR] Service unavailable
+[2025-11-07T11:40:30.199528] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.199524] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.199505] [INFO] Service initialized
+[2025-11-07T11:40:30.199494] [INFO] Connection established
+[2025-11-07T11:40:30.199507] [INFO] Connection established
+[2025-11-07T11:40:30.199510] [INFO] Health check passed
+[2025-11-07T11:40:30.199527] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.199518] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.199489] [INFO] Database query executed

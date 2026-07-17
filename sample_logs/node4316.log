@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.753574] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.753560] [INFO] Cache hit
+[2025-11-07T11:40:29.753575] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.753567] [INFO] Connection established
+[2025-11-07T11:40:29.753563] [INFO] Request processed successfully
+[2025-11-07T11:40:29.753558] [INFO] Session started
+[2025-11-07T11:40:29.753559] [INFO] Session started
+[2025-11-07T11:40:29.753580] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.753571] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.753569] [INFO] Database query executed
+[2025-11-07T11:40:29.753564] [INFO] Cache hit
+[2025-11-07T11:40:29.753581] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.753568] [INFO] Session started
+[2025-11-07T11:40:29.753577] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.753570] [INFO] User logged in
+[2025-11-07T11:40:29.753573] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.753578] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.753572] [WARN] Queue size growing
+[2025-11-07T11:40:29.753579] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.753565] [INFO] Configuration loaded
+[2025-11-07T11:40:29.753582] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.753562] [INFO] Cache hit
+[2025-11-07T11:40:29.753566] [INFO] Transaction completed
+[2025-11-07T11:40:29.753576] [DEBUG] Cache key generated

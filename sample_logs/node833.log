@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.378943] [INFO] Service initialized
+[2025-11-07T11:40:29.378966] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.378962] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.378973] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.378956] [WARN] Cache miss
+[2025-11-07T11:40:29.378971] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.378967] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.378960] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.378951] [INFO] Health check passed
+[2025-11-07T11:40:29.378952] [INFO] Service initialized
+[2025-11-07T11:40:29.378939] [INFO] Health check passed
+[2025-11-07T11:40:29.378964] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.378959] [ERROR] Invalid input data
+[2025-11-07T11:40:29.378948] [INFO] Health check passed
+[2025-11-07T11:40:29.378957] [ERROR] Database connection lost
+[2025-11-07T11:40:29.378972] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.378969] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.378968] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.378974] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.378945] [INFO] User logged in
+[2025-11-07T11:40:29.378953] [INFO] Service initialized
+[2025-11-07T11:40:29.378965] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.378950] [INFO] Database query executed
+[2025-11-07T11:40:29.378961] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.378944] [INFO] Service initialized
+[2025-11-07T11:40:29.378940] [INFO] User logged in
+[2025-11-07T11:40:29.378958] [ERROR] Service unavailable
+[2025-11-07T11:40:29.378949] [INFO] User logged in
+[2025-11-07T11:40:29.378946] [INFO] Request processed successfully
+[2025-11-07T11:40:29.378954] [INFO] Cache hit
+[2025-11-07T11:40:29.378955] [INFO] Health check passed
+[2025-11-07T11:40:29.378941] [INFO] Request processed successfully
+[2025-11-07T11:40:29.378963] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.378947] [INFO] Request processed successfully
+[2025-11-07T11:40:29.378970] [DEBUG] Timer set: 30 seconds

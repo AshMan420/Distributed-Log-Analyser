@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.639268] [ERROR] Permission denied
+[2025-11-07T11:40:29.639262] [INFO] Configuration loaded
+[2025-11-07T11:40:29.639253] [INFO] Request processed successfully
+[2025-11-07T11:40:29.639274] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.639260] [INFO] Database query executed
+[2025-11-07T11:40:29.639272] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.639246] [INFO] Connection established
+[2025-11-07T11:40:29.639274] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.639256] [INFO] Service initialized
+[2025-11-07T11:40:29.639282] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.639280] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.639248] [INFO] Request processed successfully
+[2025-11-07T11:40:29.639250] [INFO] Connection established
+[2025-11-07T11:40:29.639263] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.639271] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.639277] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.639265] [WARN] Cache miss
+[2025-11-07T11:40:29.639276] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.639279] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.639251] [INFO] Service initialized
+[2025-11-07T11:40:29.639269] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.639259] [INFO] Health check passed
+[2025-11-07T11:40:29.639258] [INFO] Session started
+[2025-11-07T11:40:29.639255] [INFO] Configuration loaded
+[2025-11-07T11:40:29.639252] [INFO] User logged in
+[2025-11-07T11:40:29.639267] [ERROR] Permission denied
+[2025-11-07T11:40:29.639257] [INFO] Cache hit
+[2025-11-07T11:40:29.639273] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.639275] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.639266] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.639261] [INFO] Cache hit
+[2025-11-07T11:40:29.639278] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.639264] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.639254] [INFO] Connection established
+[2025-11-07T11:40:29.639281] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.639249] [INFO] Database query executed

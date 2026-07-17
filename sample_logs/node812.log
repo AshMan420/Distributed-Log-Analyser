@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.376660] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.376653] [INFO] Service initialized
+[2025-11-07T11:40:29.376638] [INFO] Connection established
+[2025-11-07T11:40:29.376647] [INFO] Database query executed
+[2025-11-07T11:40:29.376652] [INFO] Health check passed
+[2025-11-07T11:40:29.376641] [INFO] Health check passed
+[2025-11-07T11:40:29.376642] [INFO] User logged in
+[2025-11-07T11:40:29.376644] [INFO] Health check passed
+[2025-11-07T11:40:29.376648] [INFO] Health check passed
+[2025-11-07T11:40:29.376661] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.376650] [INFO] Request processed successfully
+[2025-11-07T11:40:29.376643] [INFO] Request processed successfully
+[2025-11-07T11:40:29.376666] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.376658] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.376654] [WARN] Cache miss
+[2025-11-07T11:40:29.376664] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.376646] [INFO] User logged in
+[2025-11-07T11:40:29.376659] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.376649] [INFO] Request processed successfully
+[2025-11-07T11:40:29.376657] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.376651] [INFO] Health check passed
+[2025-11-07T11:40:29.376645] [INFO] Session started
+[2025-11-07T11:40:29.376656] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.376662] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.376655] [WARN] Timeout warning
+[2025-11-07T11:40:29.376663] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.376665] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.376640] [INFO] Database query executed

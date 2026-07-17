@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.467343] [INFO] Configuration loaded
+[2025-11-07T11:40:29.467355] [ERROR] File not found
+[2025-11-07T11:40:29.467351] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.467365] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.467364] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.467357] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.467335] [INFO] Request processed successfully
+[2025-11-07T11:40:29.467345] [INFO] Service initialized
+[2025-11-07T11:40:29.467341] [INFO] Connection established
+[2025-11-07T11:40:29.467353] [WARN] Slow query performance
+[2025-11-07T11:40:29.467348] [WARN] Disk space low
+[2025-11-07T11:40:29.467358] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.467339] [INFO] Request processed successfully
+[2025-11-07T11:40:29.467360] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.467347] [WARN] Disk space low
+[2025-11-07T11:40:29.467337] [INFO] Cache hit
+[2025-11-07T11:40:29.467362] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.467352] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.467349] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.467336] [INFO] Session started
+[2025-11-07T11:40:29.467359] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.467342] [INFO] Service initialized
+[2025-11-07T11:40:29.467344] [INFO] User logged in
+[2025-11-07T11:40:29.467350] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.467338] [INFO] Service initialized
+[2025-11-07T11:40:29.467356] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.467334] [INFO] User logged in
+[2025-11-07T11:40:29.467332] [INFO] Connection established
+[2025-11-07T11:40:29.467361] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.467354] [ERROR] Invalid input data
+[2025-11-07T11:40:29.467331] [INFO] Health check passed
+[2025-11-07T11:40:29.467363] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.467333] [INFO] User logged in
+[2025-11-07T11:40:29.467329] [INFO] Database query executed
+[2025-11-07T11:40:29.467340] [INFO] Connection established
+[2025-11-07T11:40:29.467346] [INFO] Session started

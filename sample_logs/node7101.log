@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.048451] [ERROR] Permission denied
+[2025-11-07T11:40:30.048434] [INFO] Transaction completed
+[2025-11-07T11:40:30.048438] [INFO] Service initialized
+[2025-11-07T11:40:30.048455] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.048454] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.048449] [WARN] High memory usage detected
+[2025-11-07T11:40:30.048445] [INFO] Session started
+[2025-11-07T11:40:30.048440] [INFO] Session started
+[2025-11-07T11:40:30.048439] [INFO] Configuration loaded
+[2025-11-07T11:40:30.048443] [INFO] Connection established
+[2025-11-07T11:40:30.048452] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.048457] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.048435] [INFO] Transaction completed
+[2025-11-07T11:40:30.048453] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.048437] [INFO] Transaction completed
+[2025-11-07T11:40:30.048443] [INFO] Transaction completed
+[2025-11-07T11:40:30.048441] [INFO] Request processed successfully
+[2025-11-07T11:40:30.048446] [INFO] Configuration loaded
+[2025-11-07T11:40:30.048448] [WARN] Queue size growing
+[2025-11-07T11:40:30.048450] [WARN] Timeout warning
+[2025-11-07T11:40:30.048433] [INFO] Connection established
+[2025-11-07T11:40:30.048456] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.048447] [WARN] Queue size growing
+[2025-11-07T11:40:30.048436] [INFO] Database query executed

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.166798] [INFO] User logged in
+[2025-11-07T11:40:30.166820] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.166812] [WARN] High memory usage detected
+[2025-11-07T11:40:30.166824] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.166803] [INFO] Request processed successfully
+[2025-11-07T11:40:30.166808] [INFO] Database query executed
+[2025-11-07T11:40:30.166817] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.166821] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.166796] [INFO] User logged in
+[2025-11-07T11:40:30.166805] [INFO] Health check passed
+[2025-11-07T11:40:30.166800] [INFO] User logged in
+[2025-11-07T11:40:30.166809] [INFO] User logged in
+[2025-11-07T11:40:30.166813] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.166806] [INFO] Service initialized
+[2025-11-07T11:40:30.166811] [WARN] Disk space low
+[2025-11-07T11:40:30.166803] [INFO] Transaction completed
+[2025-11-07T11:40:30.166819] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.166816] [ERROR] Service unavailable
+[2025-11-07T11:40:30.166823] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.166797] [INFO] Transaction completed
+[2025-11-07T11:40:30.166818] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.166799] [INFO] Database query executed
+[2025-11-07T11:40:30.166807] [INFO] Session started
+[2025-11-07T11:40:30.166795] [INFO] User logged in
+[2025-11-07T11:40:30.166814] [WARN] Disk space low
+[2025-11-07T11:40:30.166801] [INFO] Request processed successfully
+[2025-11-07T11:40:30.166822] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.166815] [ERROR] Service unavailable
+[2025-11-07T11:40:30.166805] [INFO] Configuration loaded
+[2025-11-07T11:40:30.166825] [DEBUG] Loop iteration: 15

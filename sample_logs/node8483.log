@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.192667] [INFO] Cache hit
+[2025-11-07T11:40:30.192677] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.192681] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.192693] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192669] [INFO] Cache hit
+[2025-11-07T11:40:30.192686] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.192665] [INFO] Connection established
+[2025-11-07T11:40:30.192690] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.192690] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.192692] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192673] [INFO] Request processed successfully
+[2025-11-07T11:40:30.192674] [INFO] Transaction completed
+[2025-11-07T11:40:30.192668] [INFO] Transaction completed
+[2025-11-07T11:40:30.192679] [ERROR] Permission denied
+[2025-11-07T11:40:30.192670] [INFO] Session started
+[2025-11-07T11:40:30.192675] [INFO] Transaction completed
+[2025-11-07T11:40:30.192678] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.192671] [INFO] Service initialized
+[2025-11-07T11:40:30.192684] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.192675] [INFO] Health check passed
+[2025-11-07T11:40:30.192682] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.192689] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.192672] [INFO] Service initialized
+[2025-11-07T11:40:30.192676] [INFO] Database query executed
+[2025-11-07T11:40:30.192685] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.192688] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.192683] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.192687] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.192691] [DEBUG] Timer set: 30 seconds

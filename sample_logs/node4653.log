@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.787861] [INFO] User logged in
+[2025-11-07T11:40:29.787868] [INFO] Request processed successfully
+[2025-11-07T11:40:29.787884] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.787878] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.787867] [INFO] Health check passed
+[2025-11-07T11:40:29.787885] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.787871] [INFO] Service initialized
+[2025-11-07T11:40:29.787879] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.787864] [INFO] Request processed successfully
+[2025-11-07T11:40:29.787880] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.787877] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.787863] [INFO] Database query executed
+[2025-11-07T11:40:29.787881] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.787872] [WARN] Queue size growing
+[2025-11-07T11:40:29.787870] [INFO] Session started
+[2025-11-07T11:40:29.787856] [INFO] Configuration loaded
+[2025-11-07T11:40:29.787860] [INFO] Cache hit
+[2025-11-07T11:40:29.787877] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.787859] [INFO] Request processed successfully
+[2025-11-07T11:40:29.787869] [INFO] Cache hit
+[2025-11-07T11:40:29.787858] [INFO] Database query executed
+[2025-11-07T11:40:29.787862] [INFO] Health check passed
+[2025-11-07T11:40:29.787882] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.787866] [INFO] Configuration loaded
+[2025-11-07T11:40:29.787871] [INFO] Database query executed
+[2025-11-07T11:40:29.787875] [ERROR] Disk read failed
+[2025-11-07T11:40:29.787875] [ERROR] Authentication failed
+[2025-11-07T11:40:29.787874] [ERROR] Disk read failed
+[2025-11-07T11:40:29.787883] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.787865] [INFO] Request processed successfully

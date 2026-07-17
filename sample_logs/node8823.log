@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.239753] [INFO] Database query executed
+[2025-11-07T11:40:30.239778] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.239750] [INFO] Session started
+[2025-11-07T11:40:30.239756] [INFO] Connection established
+[2025-11-07T11:40:30.239776] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.239772] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.239761] [INFO] Session started
+[2025-11-07T11:40:30.239765] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.239755] [INFO] Service initialized
+[2025-11-07T11:40:30.239751] [INFO] Transaction completed
+[2025-11-07T11:40:30.239760] [INFO] Service initialized
+[2025-11-07T11:40:30.239758] [INFO] Request processed successfully
+[2025-11-07T11:40:30.239768] [ERROR] File not found
+[2025-11-07T11:40:30.239778] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.239762] [INFO] Session started
+[2025-11-07T11:40:30.239773] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.239776] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.239752] [INFO] Cache hit
+[2025-11-07T11:40:30.239767] [WARN] High memory usage detected
+[2025-11-07T11:40:30.239759] [INFO] Cache hit
+[2025-11-07T11:40:30.239773] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.239766] [WARN] Disk space low
+[2025-11-07T11:40:30.239748] [INFO] Session started
+[2025-11-07T11:40:30.239769] [ERROR] Network timeout
+[2025-11-07T11:40:30.239771] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.239764] [WARN] Slow query performance
+[2025-11-07T11:40:30.239754] [INFO] Database query executed
+[2025-11-07T11:40:30.239763] [INFO] Cache hit
+[2025-11-07T11:40:30.239757] [INFO] Session started
+[2025-11-07T11:40:30.239774] [DEBUG] HTTP request headers parsed

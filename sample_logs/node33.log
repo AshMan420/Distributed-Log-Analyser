@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.294519] [WARN] Slow query performance
+[2025-11-07T11:40:29.294533] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.294509] [INFO] Request processed successfully
+[2025-11-07T11:40:29.294507] [INFO] Database query executed
+[2025-11-07T11:40:29.294513] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.294504] [INFO] Transaction completed
+[2025-11-07T11:40:29.294499] [INFO] Database query executed
+[2025-11-07T11:40:29.294521] [ERROR] File not found
+[2025-11-07T11:40:29.294511] [INFO] Database query executed
+[2025-11-07T11:40:29.294518] [WARN] Slow query performance
+[2025-11-07T11:40:29.294508] [INFO] User logged in
+[2025-11-07T11:40:29.294497] [INFO] Transaction completed
+[2025-11-07T11:40:29.294505] [INFO] Configuration loaded
+[2025-11-07T11:40:29.294510] [INFO] Service initialized
+[2025-11-07T11:40:29.294502] [INFO] Configuration loaded
+[2025-11-07T11:40:29.294508] [INFO] Health check passed
+[2025-11-07T11:40:29.294506] [INFO] Health check passed
+[2025-11-07T11:40:29.294526] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.294516] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.294525] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.294514] [WARN] Queue size growing
+[2025-11-07T11:40:29.294530] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.294528] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.294515] [WARN] Slow query performance
+[2025-11-07T11:40:29.294522] [ERROR] Service unavailable
+[2025-11-07T11:40:29.294531] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.294503] [INFO] Cache hit
+[2025-11-07T11:40:29.294501] [INFO] Connection established
+[2025-11-07T11:40:29.294524] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.294529] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.294500] [INFO] Health check passed

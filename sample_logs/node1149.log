@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.411937] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.411923] [INFO] Transaction completed
+[2025-11-07T11:40:29.411921] [INFO] Cache hit
+[2025-11-07T11:40:29.411926] [INFO] User logged in
+[2025-11-07T11:40:29.411941] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.411940] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.411942] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.411922] [INFO] Connection established
+[2025-11-07T11:40:29.411920] [INFO] Transaction completed
+[2025-11-07T11:40:29.411929] [INFO] User logged in
+[2025-11-07T11:40:29.411918] [INFO] Configuration loaded
+[2025-11-07T11:40:29.411939] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.411944] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.411943] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.411917] [INFO] Connection established
+[2025-11-07T11:40:29.411946] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.411924] [INFO] Request processed successfully
+[2025-11-07T11:40:29.411925] [INFO] Health check passed
+[2025-11-07T11:40:29.411931] [INFO] Transaction completed
+[2025-11-07T11:40:29.411932] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.411933] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.411945] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.411938] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.411935] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.411919] [INFO] Session started
+[2025-11-07T11:40:29.411936] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.411927] [INFO] Cache hit
+[2025-11-07T11:40:29.411928] [INFO] User logged in
+[2025-11-07T11:40:29.411930] [INFO] Database query executed

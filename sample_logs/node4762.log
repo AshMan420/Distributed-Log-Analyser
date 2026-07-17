@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.799034] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.799028] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.799005] [INFO] Request processed successfully
+[2025-11-07T11:40:29.799019] [WARN] Slow query performance
+[2025-11-07T11:40:29.799018] [INFO] User logged in
+[2025-11-07T11:40:29.799017] [INFO] User logged in
+[2025-11-07T11:40:29.799035] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.799023] [WARN] Cache miss
+[2025-11-07T11:40:29.799010] [INFO] Connection established
+[2025-11-07T11:40:29.799030] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.799007] [INFO] Configuration loaded
+[2025-11-07T11:40:29.799027] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.799039] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.799011] [INFO] Transaction completed
+[2025-11-07T11:40:29.799038] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.799014] [INFO] Service initialized
+[2025-11-07T11:40:29.799008] [INFO] Health check passed
+[2025-11-07T11:40:29.799031] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.799009] [INFO] Service initialized
+[2025-11-07T11:40:29.799026] [ERROR] Network timeout
+[2025-11-07T11:40:29.799029] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.799037] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.799033] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.799015] [INFO] Service initialized
+[2025-11-07T11:40:29.799036] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.799016] [INFO] Cache hit
+[2025-11-07T11:40:29.799006] [INFO] Database query executed
+[2025-11-07T11:40:29.799022] [WARN] Cache miss
+[2025-11-07T11:40:29.799012] [INFO] Service initialized
+[2025-11-07T11:40:29.799013] [INFO] Transaction completed
+[2025-11-07T11:40:29.799024] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.799020] [WARN] Queue size growing
+[2025-11-07T11:40:29.799025] [WARN] High memory usage detected
+[2025-11-07T11:40:29.799032] [DEBUG] HTTP request headers parsed

@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.706965] [INFO] Configuration loaded
+[2025-11-07T11:40:29.706999] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706986] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.706989] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706967] [INFO] Transaction completed
+[2025-11-07T11:40:29.706973] [INFO] Connection established
+[2025-11-07T11:40:29.706985] [WARN] High memory usage detected
+[2025-11-07T11:40:29.706976] [INFO] Service initialized
+[2025-11-07T11:40:29.706996] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.706980] [INFO] Configuration loaded
+[2025-11-07T11:40:29.706983] [WARN] Timeout warning
+[2025-11-07T11:40:29.706993] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.706994] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706990] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.706981] [INFO] Session started
+[2025-11-07T11:40:29.706969] [INFO] Transaction completed
+[2025-11-07T11:40:29.706973] [INFO] Health check passed
+[2025-11-07T11:40:29.706991] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.706997] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.706978] [INFO] Service initialized
+[2025-11-07T11:40:29.706971] [INFO] Database query executed
+[2025-11-07T11:40:29.706998] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706977] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706972] [INFO] Transaction completed
+[2025-11-07T11:40:29.706970] [INFO] Cache hit
+[2025-11-07T11:40:29.706975] [INFO] Connection established
+[2025-11-07T11:40:29.706992] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.707001] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.706984] [WARN] Disk space low
+[2025-11-07T11:40:29.707000] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.706976] [INFO] Service initialized
+[2025-11-07T11:40:29.706988] [ERROR] Permission denied
+[2025-11-07T11:40:29.706966] [INFO] User logged in
+[2025-11-07T11:40:29.706987] [ERROR] Database connection lost
+[2025-11-07T11:40:29.706982] [INFO] User logged in
+[2025-11-07T11:40:29.706979] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706995] [DEBUG] Memory allocation: 2048 bytes

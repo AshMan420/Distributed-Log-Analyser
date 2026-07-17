@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.340730] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.340702] [INFO] Connection established
+[2025-11-07T11:40:30.340732] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.340708] [INFO] Service initialized
+[2025-11-07T11:40:30.340716] [INFO] User logged in
+[2025-11-07T11:40:30.340729] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.340704] [INFO] Health check passed
+[2025-11-07T11:40:30.340711] [INFO] Database query executed
+[2025-11-07T11:40:30.340728] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.340725] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.340705] [INFO] Transaction completed
+[2025-11-07T11:40:30.340724] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.340722] [ERROR] Service unavailable
+[2025-11-07T11:40:30.340717] [INFO] User logged in
+[2025-11-07T11:40:30.340720] [WARN] High memory usage detected
+[2025-11-07T11:40:30.340723] [ERROR] Authentication failed
+[2025-11-07T11:40:30.340715] [INFO] Database query executed
+[2025-11-07T11:40:30.340709] [INFO] User logged in
+[2025-11-07T11:40:30.340727] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.340714] [INFO] Transaction completed
+[2025-11-07T11:40:30.340721] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.340707] [INFO] Database query executed
+[2025-11-07T11:40:30.340706] [INFO] Database query executed
+[2025-11-07T11:40:30.340713] [INFO] Connection established
+[2025-11-07T11:40:30.340731] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.340710] [INFO] Cache hit
+[2025-11-07T11:40:30.340726] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.340719] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.340712] [INFO] Database query executed
+[2025-11-07T11:40:30.340718] [WARN] Slow query performance

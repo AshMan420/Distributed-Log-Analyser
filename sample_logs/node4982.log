@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.821277] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.821275] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.821273] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.821280] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.821272] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.821261] [INFO] User logged in
+[2025-11-07T11:40:29.821276] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.821264] [INFO] Health check passed
+[2025-11-07T11:40:29.821263] [INFO] Request processed successfully
+[2025-11-07T11:40:29.821259] [INFO] User logged in
+[2025-11-07T11:40:29.821260] [INFO] User logged in
+[2025-11-07T11:40:29.821279] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.821278] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.821266] [WARN] Timeout warning
+[2025-11-07T11:40:29.821274] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.821253] [INFO] Health check passed
+[2025-11-07T11:40:29.821257] [INFO] Request processed successfully
+[2025-11-07T11:40:29.821269] [WARN] Slow query performance
+[2025-11-07T11:40:29.821251] [INFO] Service initialized
+[2025-11-07T11:40:29.821252] [INFO] Health check passed
+[2025-11-07T11:40:29.821268] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.821256] [INFO] Database query executed
+[2025-11-07T11:40:29.821270] [ERROR] Permission denied
+[2025-11-07T11:40:29.821267] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.821262] [INFO] Request processed successfully
+[2025-11-07T11:40:29.821258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.821254] [INFO] Request processed successfully
+[2025-11-07T11:40:29.821265] [WARN] High memory usage detected

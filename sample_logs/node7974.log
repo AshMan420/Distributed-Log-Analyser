@@ -1,0 +1,39 @@
+[2025-11-07T11:40:30.137191] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.137170] [INFO] User logged in
+[2025-11-07T11:40:30.137178] [WARN] Slow query performance
+[2025-11-07T11:40:30.137165] [INFO] Transaction completed
+[2025-11-07T11:40:30.137192] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.137162] [INFO] Configuration loaded
+[2025-11-07T11:40:30.137183] [WARN] High memory usage detected
+[2025-11-07T11:40:30.137174] [INFO] Cache hit
+[2025-11-07T11:40:30.137185] [ERROR] File not found
+[2025-11-07T11:40:30.137184] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.137167] [INFO] Service initialized
+[2025-11-07T11:40:30.137188] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.137176] [INFO] Service initialized
+[2025-11-07T11:40:30.137177] [INFO] Configuration loaded
+[2025-11-07T11:40:30.137187] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.137173] [INFO] User logged in
+[2025-11-07T11:40:30.137163] [INFO] Session started
+[2025-11-07T11:40:30.137195] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.137196] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.137189] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.137164] [INFO] Cache hit
+[2025-11-07T11:40:30.137194] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.137190] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.137175] [INFO] Database query executed
+[2025-11-07T11:40:30.137197] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.137186] [ERROR] File not found
+[2025-11-07T11:40:30.137160] [INFO] Cache hit
+[2025-11-07T11:40:30.137181] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.137180] [WARN] Queue size growing
+[2025-11-07T11:40:30.137179] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.137171] [INFO] Session started
+[2025-11-07T11:40:30.137193] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.137182] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.137166] [INFO] Cache hit
+[2025-11-07T11:40:30.137161] [INFO] Health check passed
+[2025-11-07T11:40:30.137172] [INFO] Session started
+[2025-11-07T11:40:30.137168] [INFO] Configuration loaded
+[2025-11-07T11:40:30.137169] [INFO] Service initialized
+[2025-11-07T11:40:30.137158] [INFO] Transaction completed

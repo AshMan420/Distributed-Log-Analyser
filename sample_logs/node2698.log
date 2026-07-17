@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.583197] [INFO] Session started
+[2025-11-07T11:40:29.583194] [INFO] Health check passed
+[2025-11-07T11:40:29.583203] [INFO] Database query executed
+[2025-11-07T11:40:29.583204] [INFO] Session started
+[2025-11-07T11:40:29.583206] [INFO] Health check passed
+[2025-11-07T11:40:29.583193] [INFO] Transaction completed
+[2025-11-07T11:40:29.583200] [INFO] Database query executed
+[2025-11-07T11:40:29.583216] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.583208] [WARN] Slow query performance
+[2025-11-07T11:40:29.583201] [INFO] Service initialized
+[2025-11-07T11:40:29.583192] [INFO] Session started
+[2025-11-07T11:40:29.583198] [INFO] Database query executed
+[2025-11-07T11:40:29.583207] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.583210] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.583213] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.583195] [INFO] Transaction completed
+[2025-11-07T11:40:29.583196] [INFO] Session started
+[2025-11-07T11:40:29.583199] [INFO] Request processed successfully
+[2025-11-07T11:40:29.583211] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.583191] [INFO] Health check passed
+[2025-11-07T11:40:29.583214] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.583202] [INFO] Configuration loaded
+[2025-11-07T11:40:29.583205] [INFO] Transaction completed
+[2025-11-07T11:40:29.583188] [INFO] Transaction completed
+[2025-11-07T11:40:29.583215] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.583190] [INFO] Database query executed
+[2025-11-07T11:40:29.583212] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.583209] [ERROR] Authentication failed

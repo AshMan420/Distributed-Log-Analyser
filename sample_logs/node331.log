@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.326322] [INFO] User logged in
+[2025-11-07T11:40:29.326320] [INFO] Database query executed
+[2025-11-07T11:40:29.326342] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.326324] [INFO] Transaction completed
+[2025-11-07T11:40:29.326332] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326337] [ERROR] Network timeout
+[2025-11-07T11:40:29.326336] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.326333] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326340] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.326323] [INFO] Transaction completed
+[2025-11-07T11:40:29.326327] [INFO] Transaction completed
+[2025-11-07T11:40:29.326347] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.326335] [WARN] Cache miss
+[2025-11-07T11:40:29.326330] [INFO] Database query executed
+[2025-11-07T11:40:29.326344] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.326334] [INFO] Session started
+[2025-11-07T11:40:29.326339] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.326330] [INFO] Request processed successfully
+[2025-11-07T11:40:29.326348] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.326328] [INFO] User logged in
+[2025-11-07T11:40:29.326325] [INFO] Health check passed
+[2025-11-07T11:40:29.326328] [INFO] Cache hit
+[2025-11-07T11:40:29.326346] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.326326] [INFO] Health check passed
+[2025-11-07T11:40:29.326338] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.326345] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.326331] [INFO] Service initialized
+[2025-11-07T11:40:29.326341] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.326343] [DEBUG] Thread pool size: 8

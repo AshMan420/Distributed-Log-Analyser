@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.758791] [ERROR] Database connection lost
+[2025-11-07T11:40:29.758794] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.758789] [WARN] High memory usage detected
+[2025-11-07T11:40:29.758772] [INFO] User logged in
+[2025-11-07T11:40:29.758799] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.758797] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.758800] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.758777] [INFO] Health check passed
+[2025-11-07T11:40:29.758778] [INFO] Session started
+[2025-11-07T11:40:29.758788] [WARN] Queue size growing
+[2025-11-07T11:40:29.758783] [INFO] Configuration loaded
+[2025-11-07T11:40:29.758801] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.758779] [INFO] Service initialized
+[2025-11-07T11:40:29.758793] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.758786] [WARN] Timeout warning
+[2025-11-07T11:40:29.758798] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.758792] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.758790] [WARN] Queue size growing
+[2025-11-07T11:40:29.758787] [WARN] Slow query performance
+[2025-11-07T11:40:29.758780] [INFO] Session started
+[2025-11-07T11:40:29.758781] [INFO] Health check passed
+[2025-11-07T11:40:29.758795] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.758773] [INFO] Transaction completed
+[2025-11-07T11:40:29.758775] [INFO] Request processed successfully
+[2025-11-07T11:40:29.758782] [INFO] Session started
+[2025-11-07T11:40:29.758776] [INFO] Health check passed
+[2025-11-07T11:40:29.758774] [INFO] Database query executed
+[2025-11-07T11:40:29.758784] [INFO] Service initialized
+[2025-11-07T11:40:29.758770] [INFO] Database query executed
+[2025-11-07T11:40:29.758785] [INFO] Request processed successfully

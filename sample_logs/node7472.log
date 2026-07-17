@@ -1,0 +1,38 @@
+[2025-11-07T11:40:30.086115] [INFO] Connection established
+[2025-11-07T11:40:30.086104] [INFO] Transaction completed
+[2025-11-07T11:40:30.086118] [INFO] Session started
+[2025-11-07T11:40:30.086109] [INFO] User logged in
+[2025-11-07T11:40:30.086132] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.086135] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.086127] [WARN] Timeout warning
+[2025-11-07T11:40:30.086137] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.086119] [INFO] Database query executed
+[2025-11-07T11:40:30.086107] [INFO] Session started
+[2025-11-07T11:40:30.086099] [INFO] Health check passed
+[2025-11-07T11:40:30.086126] [WARN] Slow query performance
+[2025-11-07T11:40:30.086131] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.086113] [INFO] Cache hit
+[2025-11-07T11:40:30.086105] [INFO] Transaction completed
+[2025-11-07T11:40:30.086116] [INFO] Health check passed
+[2025-11-07T11:40:30.086120] [INFO] Request processed successfully
+[2025-11-07T11:40:30.086133] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.086130] [ERROR] Network timeout
+[2025-11-07T11:40:30.086111] [INFO] Connection established
+[2025-11-07T11:40:30.086106] [INFO] Cache hit
+[2025-11-07T11:40:30.086117] [INFO] Database query executed
+[2025-11-07T11:40:30.086123] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.086137] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.086111] [INFO] Connection established
+[2025-11-07T11:40:30.086125] [WARN] Queue size growing
+[2025-11-07T11:40:30.086134] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.086101] [INFO] Connection established
+[2025-11-07T11:40:30.086102] [INFO] Cache hit
+[2025-11-07T11:40:30.086129] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.086114] [INFO] Health check passed
+[2025-11-07T11:40:30.086112] [INFO] Service initialized
+[2025-11-07T11:40:30.086103] [INFO] Service initialized
+[2025-11-07T11:40:30.086122] [INFO] Health check passed
+[2025-11-07T11:40:30.086108] [INFO] Connection established
+[2025-11-07T11:40:30.086121] [INFO] User logged in
+[2025-11-07T11:40:30.086136] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.086128] [WARN] Connection retry attempt

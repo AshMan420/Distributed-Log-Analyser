@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.302064] [WARN] Slow query performance
+[2025-11-07T11:40:30.302069] [ERROR] Permission denied
+[2025-11-07T11:40:30.302074] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.302075] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.302048] [INFO] Service initialized
+[2025-11-07T11:40:30.302073] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.302060] [INFO] Session started
+[2025-11-07T11:40:30.302050] [INFO] Session started
+[2025-11-07T11:40:30.302051] [INFO] Connection established
+[2025-11-07T11:40:30.302076] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.302059] [INFO] Configuration loaded
+[2025-11-07T11:40:30.302063] [INFO] Transaction completed
+[2025-11-07T11:40:30.302061] [INFO] Transaction completed
+[2025-11-07T11:40:30.302058] [INFO] Cache hit
+[2025-11-07T11:40:30.302072] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.302077] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.302077] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.302052] [INFO] Connection established
+[2025-11-07T11:40:30.302065] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.302068] [WARN] Slow query performance
+[2025-11-07T11:40:30.302057] [INFO] Configuration loaded
+[2025-11-07T11:40:30.302055] [INFO] Connection established
+[2025-11-07T11:40:30.302070] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.302079] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.302054] [INFO] Configuration loaded
+[2025-11-07T11:40:30.302066] [WARN] Cache miss
+[2025-11-07T11:40:30.302053] [INFO] Session started
+[2025-11-07T11:40:30.302062] [INFO] Connection established
+[2025-11-07T11:40:30.302071] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.302056] [INFO] Database query executed

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.196072] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.196065] [WARN] Queue size growing
+[2025-11-07T11:40:30.196055] [INFO] Cache hit
+[2025-11-07T11:40:30.196032] [INFO] Transaction completed
+[2025-11-07T11:40:30.196059] [INFO] Health check passed
+[2025-11-07T11:40:30.196047] [INFO] Service initialized
+[2025-11-07T11:40:30.196069] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.196071] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.196064] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.196056] [INFO] Request processed successfully
+[2025-11-07T11:40:30.196054] [INFO] Connection established
+[2025-11-07T11:40:30.196046] [INFO] User logged in
+[2025-11-07T11:40:30.196060] [INFO] Health check passed
+[2025-11-07T11:40:30.196058] [INFO] Database query executed
+[2025-11-07T11:40:30.196053] [INFO] Service initialized
+[2025-11-07T11:40:30.196062] [WARN] Disk space low
+[2025-11-07T11:40:30.196074] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.196070] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.196049] [INFO] Session started
+[2025-11-07T11:40:30.196051] [INFO] Session started
+[2025-11-07T11:40:30.196050] [INFO] Cache hit
+[2025-11-07T11:40:30.196067] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.196066] [WARN] Queue size growing
+[2025-11-07T11:40:30.196061] [INFO] Configuration loaded
+[2025-11-07T11:40:30.196076] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.196063] [WARN] High memory usage detected
+[2025-11-07T11:40:30.196034] [INFO] Health check passed
+[2025-11-07T11:40:30.196075] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.196068] [ERROR] Database connection lost

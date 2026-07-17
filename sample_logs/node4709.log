@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.793438] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.793416] [INFO] Cache hit
+[2025-11-07T11:40:29.793439] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.793428] [INFO] Request processed successfully
+[2025-11-07T11:40:29.793413] [INFO] Configuration loaded
+[2025-11-07T11:40:29.793420] [INFO] Health check passed
+[2025-11-07T11:40:29.793422] [INFO] Connection established
+[2025-11-07T11:40:29.793442] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.793423] [INFO] Transaction completed
+[2025-11-07T11:40:29.793430] [WARN] Disk space low
+[2025-11-07T11:40:29.793431] [WARN] Cache miss
+[2025-11-07T11:40:29.793427] [INFO] Cache hit
+[2025-11-07T11:40:29.793436] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793424] [INFO] Connection established
+[2025-11-07T11:40:29.793415] [INFO] Cache hit
+[2025-11-07T11:40:29.793421] [INFO] Configuration loaded
+[2025-11-07T11:40:29.793417] [INFO] Session started
+[2025-11-07T11:40:29.793432] [WARN] High memory usage detected
+[2025-11-07T11:40:29.793425] [INFO] Service initialized
+[2025-11-07T11:40:29.793419] [INFO] Session started
+[2025-11-07T11:40:29.793437] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.793426] [INFO] User logged in
+[2025-11-07T11:40:29.793422] [INFO] Connection established
+[2025-11-07T11:40:29.793418] [INFO] Configuration loaded
+[2025-11-07T11:40:29.793433] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.793441] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.793429] [WARN] Queue size growing
+[2025-11-07T11:40:29.793440] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.793434] [ERROR] Invalid input data
+[2025-11-07T11:40:29.793443] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.793435] [DEBUG] Loop iteration: 15

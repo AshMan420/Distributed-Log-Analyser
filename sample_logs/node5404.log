@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.863400] [WARN] Cache miss
+[2025-11-07T11:40:29.863395] [INFO] Session started
+[2025-11-07T11:40:29.863384] [INFO] Cache hit
+[2025-11-07T11:40:29.863383] [INFO] User logged in
+[2025-11-07T11:40:29.863399] [WARN] Cache miss
+[2025-11-07T11:40:29.863402] [ERROR] Database connection lost
+[2025-11-07T11:40:29.863389] [INFO] User logged in
+[2025-11-07T11:40:29.863386] [INFO] Configuration loaded
+[2025-11-07T11:40:29.863398] [WARN] Slow query performance
+[2025-11-07T11:40:29.863382] [INFO] Connection established
+[2025-11-07T11:40:29.863390] [INFO] Session started
+[2025-11-07T11:40:29.863397] [WARN] Timeout warning
+[2025-11-07T11:40:29.863405] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.863408] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.863409] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.863406] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.863403] [ERROR] Invalid input data
+[2025-11-07T11:40:29.863404] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.863396] [INFO] Service initialized
+[2025-11-07T11:40:29.863401] [WARN] High memory usage detected
+[2025-11-07T11:40:29.863392] [INFO] Configuration loaded
+[2025-11-07T11:40:29.863407] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.863388] [INFO] Request processed successfully
+[2025-11-07T11:40:29.863393] [INFO] Session started
+[2025-11-07T11:40:29.863387] [INFO] Request processed successfully
+[2025-11-07T11:40:29.863394] [INFO] Connection established
+[2025-11-07T11:40:29.863380] [INFO] Transaction completed
+[2025-11-07T11:40:29.863385] [INFO] Service initialized
+[2025-11-07T11:40:29.863391] [INFO] Service initialized

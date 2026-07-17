@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.315793] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.315770] [INFO] User logged in
+[2025-11-07T11:40:30.315776] [INFO] Health check passed
+[2025-11-07T11:40:30.315765] [INFO] Database query executed
+[2025-11-07T11:40:30.315785] [ERROR] Database connection lost
+[2025-11-07T11:40:30.315772] [INFO] Connection established
+[2025-11-07T11:40:30.315795] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.315771] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315769] [INFO] Database query executed
+[2025-11-07T11:40:30.315788] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.315766] [INFO] Configuration loaded
+[2025-11-07T11:40:30.315789] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.315781] [WARN] Disk space low
+[2025-11-07T11:40:30.315787] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.315777] [INFO] Session started
+[2025-11-07T11:40:30.315786] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.315775] [INFO] Connection established
+[2025-11-07T11:40:30.315780] [WARN] Slow query performance
+[2025-11-07T11:40:30.315790] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.315768] [INFO] Configuration loaded
+[2025-11-07T11:40:30.315794] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.315764] [INFO] Configuration loaded
+[2025-11-07T11:40:30.315791] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.315774] [INFO] Configuration loaded
+[2025-11-07T11:40:30.315779] [WARN] Cache miss
+[2025-11-07T11:40:30.315773] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315778] [INFO] Request processed successfully
+[2025-11-07T11:40:30.315767] [INFO] Health check passed
+[2025-11-07T11:40:30.315782] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.315792] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.315784] [ERROR] Service unavailable

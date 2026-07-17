@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.777781] [INFO] Connection established
+[2025-11-07T11:40:29.777790] [WARN] Queue size growing
+[2025-11-07T11:40:29.777798] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.777782] [INFO] Service initialized
+[2025-11-07T11:40:29.777795] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.777770] [INFO] Database query executed
+[2025-11-07T11:40:29.777776] [INFO] Session started
+[2025-11-07T11:40:29.777779] [INFO] Database query executed
+[2025-11-07T11:40:29.777778] [INFO] Service initialized
+[2025-11-07T11:40:29.777786] [WARN] High memory usage detected
+[2025-11-07T11:40:29.777771] [INFO] Request processed successfully
+[2025-11-07T11:40:29.777774] [INFO] Session started
+[2025-11-07T11:40:29.777801] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.777792] [ERROR] Disk read failed
+[2025-11-07T11:40:29.777783] [INFO] Database query executed
+[2025-11-07T11:40:29.777782] [INFO] User logged in
+[2025-11-07T11:40:29.777789] [WARN] Slow query performance
+[2025-11-07T11:40:29.777800] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.777793] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.777784] [INFO] Session started
+[2025-11-07T11:40:29.777775] [INFO] Session started
+[2025-11-07T11:40:29.777797] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.777773] [INFO] Request processed successfully
+[2025-11-07T11:40:29.777788] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.777787] [WARN] High memory usage detected
+[2025-11-07T11:40:29.777772] [INFO] Configuration loaded
+[2025-11-07T11:40:29.777794] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.777791] [ERROR] Request failed
+[2025-11-07T11:40:29.777799] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.777796] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.777799] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.777777] [INFO] Database query executed

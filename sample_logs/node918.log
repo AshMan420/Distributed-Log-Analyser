@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.387876] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.387878] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.387864] [INFO] Cache hit
+[2025-11-07T11:40:29.387870] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.387865] [INFO] Database query executed
+[2025-11-07T11:40:29.387879] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.387860] [INFO] Configuration loaded
+[2025-11-07T11:40:29.387871] [WARN] Timeout warning
+[2025-11-07T11:40:29.387880] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.387883] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.387868] [INFO] User logged in
+[2025-11-07T11:40:29.387877] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.387882] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.387874] [ERROR] Authentication failed
+[2025-11-07T11:40:29.387869] [INFO] Cache hit
+[2025-11-07T11:40:29.387881] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.387884] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.387858] [INFO] Transaction completed
+[2025-11-07T11:40:29.387885] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.387873] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.387867] [INFO] Session started
+[2025-11-07T11:40:29.387875] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.387866] [INFO] Configuration loaded
+[2025-11-07T11:40:29.387863] [INFO] User logged in
+[2025-11-07T11:40:29.387862] [INFO] Database query executed
+[2025-11-07T11:40:29.387861] [INFO] Session started
+[2025-11-07T11:40:29.387872] [WARN] Queue size growing

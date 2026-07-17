@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.859235] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.859233] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.859215] [INFO] Cache hit
+[2025-11-07T11:40:29.859220] [INFO] Request processed successfully
+[2025-11-07T11:40:29.859234] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.859221] [INFO] Transaction completed
+[2025-11-07T11:40:29.859224] [ERROR] Database connection lost
+[2025-11-07T11:40:29.859210] [INFO] Health check passed
+[2025-11-07T11:40:29.859228] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.859216] [INFO] Transaction completed
+[2025-11-07T11:40:29.859229] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.859236] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.859225] [ERROR] Service unavailable
+[2025-11-07T11:40:29.859230] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.859232] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.859219] [INFO] Service initialized
+[2025-11-07T11:40:29.859237] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.859218] [INFO] Transaction completed
+[2025-11-07T11:40:29.859213] [INFO] Health check passed
+[2025-11-07T11:40:29.859231] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.859217] [INFO] Cache hit
+[2025-11-07T11:40:29.859214] [INFO] Service initialized
+[2025-11-07T11:40:29.859227] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.859226] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.859211] [INFO] User logged in
+[2025-11-07T11:40:29.859223] [WARN] Timeout warning
+[2025-11-07T11:40:29.859222] [WARN] Cache miss
+[2025-11-07T11:40:29.859212] [INFO] Configuration loaded

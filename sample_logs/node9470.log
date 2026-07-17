@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.305571] [INFO] Service initialized
+[2025-11-07T11:40:30.305586] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.305558] [INFO] User logged in
+[2025-11-07T11:40:30.305592] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.305561] [INFO] Transaction completed
+[2025-11-07T11:40:30.305591] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.305578] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.305566] [INFO] Health check passed
+[2025-11-07T11:40:30.305584] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.305580] [WARN] Queue size growing
+[2025-11-07T11:40:30.305577] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.305557] [INFO] User logged in
+[2025-11-07T11:40:30.305572] [INFO] Cache hit
+[2025-11-07T11:40:30.305573] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.305582] [ERROR] Service unavailable
+[2025-11-07T11:40:30.305594] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.305590] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.305589] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.305565] [INFO] User logged in
+[2025-11-07T11:40:30.305567] [INFO] Connection established
+[2025-11-07T11:40:30.305574] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.305583] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.305588] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.305559] [INFO] Configuration loaded
+[2025-11-07T11:40:30.305581] [ERROR] Authentication failed
+[2025-11-07T11:40:30.305593] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.305585] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.305570] [INFO] Session started
+[2025-11-07T11:40:30.305564] [INFO] Connection established
+[2025-11-07T11:40:30.305563] [INFO] Cache hit
+[2025-11-07T11:40:30.305570] [INFO] Database query executed
+[2025-11-07T11:40:30.305587] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.305568] [INFO] Transaction completed
+[2025-11-07T11:40:30.305560] [INFO] User logged in
+[2025-11-07T11:40:30.305579] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.305576] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.305568] [INFO] Cache hit

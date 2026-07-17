@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.940986] [INFO] Database query executed
+[2025-11-07T11:40:29.940987] [INFO] Database query executed
+[2025-11-07T11:40:29.940988] [INFO] Health check passed
+[2025-11-07T11:40:29.940999] [ERROR] Disk read failed
+[2025-11-07T11:40:29.940992] [INFO] User logged in
+[2025-11-07T11:40:29.941001] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.940985] [INFO] User logged in
+[2025-11-07T11:40:29.941000] [ERROR] Disk read failed
+[2025-11-07T11:40:29.941003] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.940989] [INFO] Session started
+[2025-11-07T11:40:29.940990] [INFO] Request processed successfully
+[2025-11-07T11:40:29.941007] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.941008] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.940997] [WARN] Slow query performance
+[2025-11-07T11:40:29.941002] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.940995] [INFO] User logged in
+[2025-11-07T11:40:29.941005] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.940994] [INFO] Cache hit
+[2025-11-07T11:40:29.940998] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.941009] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.941006] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.941004] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.940983] [INFO] Request processed successfully
+[2025-11-07T11:40:29.940993] [INFO] Session started
+[2025-11-07T11:40:29.940991] [INFO] Session started
+[2025-11-07T11:40:29.940996] [WARN] Timeout warning

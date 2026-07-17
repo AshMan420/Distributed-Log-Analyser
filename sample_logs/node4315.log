@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.753489] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.753470] [INFO] Service initialized
+[2025-11-07T11:40:29.753474] [INFO] User logged in
+[2025-11-07T11:40:29.753481] [WARN] High memory usage detected
+[2025-11-07T11:40:29.753480] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.753482] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.753488] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.753471] [INFO] Service initialized
+[2025-11-07T11:40:29.753490] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.753468] [INFO] Database query executed
+[2025-11-07T11:40:29.753485] [ERROR] Invalid input data
+[2025-11-07T11:40:29.753493] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.753487] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.753466] [INFO] Configuration loaded
+[2025-11-07T11:40:29.753484] [ERROR] Service unavailable
+[2025-11-07T11:40:29.753469] [INFO] Configuration loaded
+[2025-11-07T11:40:29.753479] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.753476] [INFO] Health check passed
+[2025-11-07T11:40:29.753477] [INFO] Request processed successfully
+[2025-11-07T11:40:29.753475] [INFO] Session started
+[2025-11-07T11:40:29.753465] [INFO] Connection established
+[2025-11-07T11:40:29.753473] [INFO] Request processed successfully
+[2025-11-07T11:40:29.753491] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.753477] [INFO] Database query executed
+[2025-11-07T11:40:29.753492] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.753486] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.753472] [INFO] Cache hit
+[2025-11-07T11:40:29.753483] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.753494] [DEBUG] Buffer size: 4096 bytes

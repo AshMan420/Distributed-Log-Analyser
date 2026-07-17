@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.984057] [INFO] Cache hit
+[2025-11-07T11:40:29.984068] [WARN] High memory usage detected
+[2025-11-07T11:40:29.984066] [WARN] Cache miss
+[2025-11-07T11:40:29.984050] [INFO] Configuration loaded
+[2025-11-07T11:40:29.984075] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.984069] [ERROR] Disk read failed
+[2025-11-07T11:40:29.984061] [INFO] Configuration loaded
+[2025-11-07T11:40:29.984070] [ERROR] File not found
+[2025-11-07T11:40:29.984060] [INFO] Cache hit
+[2025-11-07T11:40:29.984079] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.984062] [INFO] Request processed successfully
+[2025-11-07T11:40:29.984078] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.984048] [INFO] Database query executed
+[2025-11-07T11:40:29.984073] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.984054] [INFO] Database query executed
+[2025-11-07T11:40:29.984067] [WARN] Timeout warning
+[2025-11-07T11:40:29.984056] [INFO] Health check passed
+[2025-11-07T11:40:29.984053] [INFO] Database query executed
+[2025-11-07T11:40:29.984076] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.984074] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.984071] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.984055] [INFO] Connection established
+[2025-11-07T11:40:29.984072] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.984052] [INFO] Database query executed
+[2025-11-07T11:40:29.984064] [INFO] Transaction completed
+[2025-11-07T11:40:29.984051] [INFO] User logged in
+[2025-11-07T11:40:29.984059] [INFO] Database query executed
+[2025-11-07T11:40:29.984077] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.984063] [INFO] Request processed successfully
+[2025-11-07T11:40:29.984065] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.984058] [INFO] User logged in

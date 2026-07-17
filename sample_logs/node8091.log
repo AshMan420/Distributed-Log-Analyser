@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.149869] [INFO] Session started
+[2025-11-07T11:40:30.149861] [INFO] Configuration loaded
+[2025-11-07T11:40:30.149863] [INFO] Connection established
+[2025-11-07T11:40:30.149866] [INFO] Service initialized
+[2025-11-07T11:40:30.149875] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.149862] [INFO] Session started
+[2025-11-07T11:40:30.149878] [ERROR] Network timeout
+[2025-11-07T11:40:30.149884] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.149865] [INFO] Cache hit
+[2025-11-07T11:40:30.149870] [INFO] Database query executed
+[2025-11-07T11:40:30.149881] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.149883] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.149884] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.149882] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.149864] [INFO] Session started
+[2025-11-07T11:40:30.149872] [INFO] Configuration loaded
+[2025-11-07T11:40:30.149868] [INFO] Health check passed
+[2025-11-07T11:40:30.149859] [INFO] Session started
+[2025-11-07T11:40:30.149860] [INFO] Session started
+[2025-11-07T11:40:30.149885] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.149857] [INFO] Request processed successfully
+[2025-11-07T11:40:30.149873] [INFO] Database query executed
+[2025-11-07T11:40:30.149876] [WARN] Queue size growing
+[2025-11-07T11:40:30.149871] [INFO] Request processed successfully
+[2025-11-07T11:40:30.149880] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.149867] [INFO] Service initialized
+[2025-11-07T11:40:30.149877] [ERROR] Database connection lost
+[2025-11-07T11:40:30.149874] [WARN] Cache miss

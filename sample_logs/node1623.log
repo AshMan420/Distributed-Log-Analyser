@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.462183] [INFO] Service initialized
+[2025-11-07T11:40:29.462196] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.462189] [INFO] Connection established
+[2025-11-07T11:40:29.462193] [ERROR] Permission denied
+[2025-11-07T11:40:29.462202] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.462180] [INFO] Connection established
+[2025-11-07T11:40:29.462179] [INFO] Cache hit
+[2025-11-07T11:40:29.462191] [WARN] Queue size growing
+[2025-11-07T11:40:29.462201] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.462199] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.462184] [INFO] User logged in
+[2025-11-07T11:40:29.462185] [INFO] Session started
+[2025-11-07T11:40:29.462177] [INFO] Configuration loaded
+[2025-11-07T11:40:29.462197] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.462200] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.462195] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.462198] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.462188] [INFO] Connection established
+[2025-11-07T11:40:29.462182] [INFO] Connection established
+[2025-11-07T11:40:29.462190] [INFO] Cache hit
+[2025-11-07T11:40:29.462186] [INFO] Transaction completed
+[2025-11-07T11:40:29.462187] [INFO] Service initialized
+[2025-11-07T11:40:29.462178] [INFO] Connection established
+[2025-11-07T11:40:29.462187] [INFO] Health check passed
+[2025-11-07T11:40:29.462192] [WARN] Queue size growing
+[2025-11-07T11:40:29.462181] [INFO] Cache hit
+[2025-11-07T11:40:29.462194] [DEBUG] Cache key generated

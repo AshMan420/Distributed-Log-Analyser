@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.458194] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.458189] [WARN] Disk space low
+[2025-11-07T11:40:29.458197] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.458188] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.458178] [INFO] Session started
+[2025-11-07T11:40:29.458175] [INFO] Configuration loaded
+[2025-11-07T11:40:29.458196] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.458176] [INFO] Service initialized
+[2025-11-07T11:40:29.458181] [INFO] Transaction completed
+[2025-11-07T11:40:29.458199] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.458187] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.458198] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.458179] [INFO] Service initialized
+[2025-11-07T11:40:29.458177] [INFO] Service initialized
+[2025-11-07T11:40:29.458185] [INFO] Cache hit
+[2025-11-07T11:40:29.458186] [INFO] Cache hit
+[2025-11-07T11:40:29.458182] [INFO] Transaction completed
+[2025-11-07T11:40:29.458173] [INFO] Health check passed
+[2025-11-07T11:40:29.458192] [ERROR] Database connection lost
+[2025-11-07T11:40:29.458176] [INFO] Cache hit
+[2025-11-07T11:40:29.458184] [INFO] Request processed successfully
+[2025-11-07T11:40:29.458174] [INFO] Database query executed
+[2025-11-07T11:40:29.458195] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.458190] [WARN] Cache miss
+[2025-11-07T11:40:29.458191] [WARN] Cache miss
+[2025-11-07T11:40:29.458172] [INFO] Request processed successfully
+[2025-11-07T11:40:29.458193] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.458170] [INFO] Database query executed
+[2025-11-07T11:40:29.458183] [INFO] Request processed successfully
+[2025-11-07T11:40:29.458180] [INFO] Cache hit

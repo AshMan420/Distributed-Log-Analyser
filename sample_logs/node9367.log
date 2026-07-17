@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.294670] [INFO] Session started
+[2025-11-07T11:40:30.294672] [INFO] Request processed successfully
+[2025-11-07T11:40:30.294671] [INFO] Health check passed
+[2025-11-07T11:40:30.294674] [INFO] Cache hit
+[2025-11-07T11:40:30.294675] [WARN] Timeout warning
+[2025-11-07T11:40:30.294680] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.294669] [INFO] Connection established
+[2025-11-07T11:40:30.294665] [INFO] Cache hit
+[2025-11-07T11:40:30.294660] [INFO] Health check passed
+[2025-11-07T11:40:30.294677] [ERROR] Database connection lost
+[2025-11-07T11:40:30.294662] [INFO] Service initialized
+[2025-11-07T11:40:30.294682] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.294687] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.294689] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.294667] [INFO] Request processed successfully
+[2025-11-07T11:40:30.294681] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.294663] [INFO] Transaction completed
+[2025-11-07T11:40:30.294661] [INFO] Database query executed
+[2025-11-07T11:40:30.294684] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.294666] [INFO] Service initialized
+[2025-11-07T11:40:30.294686] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.294664] [INFO] Cache hit
+[2025-11-07T11:40:30.294685] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.294678] [DEBUG] Variable value: x=42

@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.558463] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.558457] [INFO] User logged in
+[2025-11-07T11:40:29.558475] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.558462] [INFO] Session started
+[2025-11-07T11:40:29.558451] [INFO] User logged in
+[2025-11-07T11:40:29.558474] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.558454] [INFO] Service initialized
+[2025-11-07T11:40:29.558471] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.558452] [INFO] Health check passed
+[2025-11-07T11:40:29.558460] [INFO] Service initialized
+[2025-11-07T11:40:29.558453] [INFO] Request processed successfully
+[2025-11-07T11:40:29.558473] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.558465] [WARN] Slow query performance
+[2025-11-07T11:40:29.558455] [INFO] Service initialized
+[2025-11-07T11:40:29.558470] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.558448] [INFO] Health check passed
+[2025-11-07T11:40:29.558472] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.558467] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.558459] [INFO] Configuration loaded
+[2025-11-07T11:40:29.558464] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.558468] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.558456] [INFO] Cache hit
+[2025-11-07T11:40:29.558461] [INFO] Health check passed
+[2025-11-07T11:40:29.558450] [INFO] User logged in
+[2025-11-07T11:40:29.558469] [ERROR] Service unavailable
+[2025-11-07T11:40:29.558458] [INFO] User logged in
+[2025-11-07T11:40:29.558466] [WARN] Connection retry attempt

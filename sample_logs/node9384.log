@@ -1,0 +1,20 @@
+[2025-11-07T11:40:30.296493] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.296486] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.296490] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.296487] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.296476] [INFO] Connection established
+[2025-11-07T11:40:30.296480] [WARN] Timeout warning
+[2025-11-07T11:40:30.296485] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.296488] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.296481] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.296482] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.296491] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.296495] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.296494] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.296492] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.296479] [INFO] Request processed successfully
+[2025-11-07T11:40:30.296489] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.296477] [INFO] Service initialized
+[2025-11-07T11:40:30.296483] [ERROR] Invalid input data
+[2025-11-07T11:40:30.296484] [ERROR] Request failed
+[2025-11-07T11:40:30.296496] [DEBUG] Variable value: x=42

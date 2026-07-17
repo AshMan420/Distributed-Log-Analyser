@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.361076] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.361056] [INFO] User logged in
+[2025-11-07T11:40:30.361066] [INFO] Request processed successfully
+[2025-11-07T11:40:30.361072] [INFO] Session started
+[2025-11-07T11:40:30.361074] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.361067] [INFO] User logged in
+[2025-11-07T11:40:30.361065] [INFO] Configuration loaded
+[2025-11-07T11:40:30.361071] [INFO] Health check passed
+[2025-11-07T11:40:30.361073] [WARN] Disk space low
+[2025-11-07T11:40:30.361083] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.361085] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.361057] [INFO] Session started
+[2025-11-07T11:40:30.361080] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.361078] [ERROR] Database connection lost
+[2025-11-07T11:40:30.361062] [INFO] Database query executed
+[2025-11-07T11:40:30.361061] [INFO] Service initialized
+[2025-11-07T11:40:30.361060] [INFO] Cache hit
+[2025-11-07T11:40:30.361079] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.361069] [INFO] Database query executed
+[2025-11-07T11:40:30.361064] [INFO] User logged in
+[2025-11-07T11:40:30.361087] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.361068] [INFO] Request processed successfully
+[2025-11-07T11:40:30.361075] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.361084] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.361088] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.361086] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.361070] [INFO] User logged in
+[2025-11-07T11:40:30.361063] [INFO] Configuration loaded
+[2025-11-07T11:40:30.361081] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.361082] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.361059] [INFO] Request processed successfully
+[2025-11-07T11:40:30.361077] [ERROR] Disk read failed

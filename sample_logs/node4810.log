@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.803732] [INFO] Configuration loaded
+[2025-11-07T11:40:29.803745] [WARN] High memory usage detected
+[2025-11-07T11:40:29.803743] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.803749] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.803757] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.803737] [INFO] Session started
+[2025-11-07T11:40:29.803735] [INFO] Connection established
+[2025-11-07T11:40:29.803734] [INFO] Transaction completed
+[2025-11-07T11:40:29.803733] [INFO] Health check passed
+[2025-11-07T11:40:29.803731] [INFO] Transaction completed
+[2025-11-07T11:40:29.803751] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.803729] [INFO] Configuration loaded
+[2025-11-07T11:40:29.803736] [INFO] Connection established
+[2025-11-07T11:40:29.803738] [INFO] User logged in
+[2025-11-07T11:40:29.803753] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.803750] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.803746] [ERROR] File not found
+[2025-11-07T11:40:29.803740] [INFO] Session started
+[2025-11-07T11:40:29.803744] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.803755] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.803739] [INFO] Service initialized
+[2025-11-07T11:40:29.803754] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.803748] [ERROR] Database connection lost
+[2025-11-07T11:40:29.803752] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.803730] [INFO] Database query executed
+[2025-11-07T11:40:29.803756] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.803742] [WARN] Queue size growing
+[2025-11-07T11:40:29.803726] [INFO] User logged in
+[2025-11-07T11:40:29.803728] [INFO] Health check passed
+[2025-11-07T11:40:29.803738] [INFO] Database query executed
+[2025-11-07T11:40:29.803747] [ERROR] Request failed

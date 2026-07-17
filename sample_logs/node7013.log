@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.038857] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.038849] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.038845] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.038842] [INFO] Session started
+[2025-11-07T11:40:30.038856] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.038851] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.038830] [INFO] Database query executed
+[2025-11-07T11:40:30.038840] [INFO] Connection established
+[2025-11-07T11:40:30.038844] [INFO] Health check passed
+[2025-11-07T11:40:30.038836] [INFO] Session started
+[2025-11-07T11:40:30.038839] [INFO] User logged in
+[2025-11-07T11:40:30.038853] [ERROR] Invalid input data
+[2025-11-07T11:40:30.038854] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.038846] [WARN] Queue size growing
+[2025-11-07T11:40:30.038841] [INFO] Session started
+[2025-11-07T11:40:30.038852] [ERROR] Request failed
+[2025-11-07T11:40:30.038831] [INFO] Configuration loaded
+[2025-11-07T11:40:30.038847] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.038835] [INFO] Health check passed
+[2025-11-07T11:40:30.038855] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.038833] [INFO] Cache hit
+[2025-11-07T11:40:30.038848] [WARN] Slow query performance
+[2025-11-07T11:40:30.038837] [INFO] Session started
+[2025-11-07T11:40:30.038834] [INFO] Health check passed
+[2025-11-07T11:40:30.038843] [INFO] Service initialized
+[2025-11-07T11:40:30.038832] [INFO] Configuration loaded
+[2025-11-07T11:40:30.038858] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.038838] [INFO] Transaction completed

@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.585754] [INFO] Request processed successfully
+[2025-11-07T11:40:29.585770] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585748] [INFO] Service initialized
+[2025-11-07T11:40:29.585749] [INFO] Health check passed
+[2025-11-07T11:40:29.585756] [INFO] Cache hit
+[2025-11-07T11:40:29.585758] [WARN] Cache miss
+[2025-11-07T11:40:29.585746] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585769] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.585760] [WARN] Slow query performance
+[2025-11-07T11:40:29.585757] [INFO] User logged in
+[2025-11-07T11:40:29.585765] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.585750] [INFO] Health check passed
+[2025-11-07T11:40:29.585755] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585759] [WARN] Timeout warning
+[2025-11-07T11:40:29.585747] [INFO] Health check passed
+[2025-11-07T11:40:29.585751] [INFO] User logged in
+[2025-11-07T11:40:29.585763] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.585761] [WARN] Disk space low
+[2025-11-07T11:40:29.585744] [INFO] Service initialized
+[2025-11-07T11:40:29.585745] [INFO] Session started
+[2025-11-07T11:40:29.585742] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585762] [ERROR] Database connection lost
+[2025-11-07T11:40:29.585764] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.585767] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.585766] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.585753] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585752] [INFO] Transaction completed
+[2025-11-07T11:40:29.585768] [DEBUG] HTTP request headers parsed

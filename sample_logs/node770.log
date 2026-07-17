@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.372101] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.372077] [INFO] Transaction completed
+[2025-11-07T11:40:29.372074] [INFO] Configuration loaded
+[2025-11-07T11:40:29.372098] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.372090] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.372076] [INFO] Request processed successfully
+[2025-11-07T11:40:29.372078] [INFO] Service initialized
+[2025-11-07T11:40:29.372083] [INFO] Configuration loaded
+[2025-11-07T11:40:29.372098] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.372085] [WARN] High memory usage detected
+[2025-11-07T11:40:29.372084] [INFO] Transaction completed
+[2025-11-07T11:40:29.372075] [INFO] Cache hit
+[2025-11-07T11:40:29.372094] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.372097] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.372093] [ERROR] Authentication failed
+[2025-11-07T11:40:29.372100] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.372099] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.372087] [WARN] High memory usage detected
+[2025-11-07T11:40:29.372081] [INFO] Cache hit
+[2025-11-07T11:40:29.372073] [INFO] Service initialized
+[2025-11-07T11:40:29.372072] [INFO] Request processed successfully
+[2025-11-07T11:40:29.372103] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.372086] [WARN] Timeout warning
+[2025-11-07T11:40:29.372091] [WARN] Cache miss
+[2025-11-07T11:40:29.372088] [WARN] Slow query performance
+[2025-11-07T11:40:29.372070] [INFO] Connection established
+[2025-11-07T11:40:29.372089] [WARN] Queue size growing
+[2025-11-07T11:40:29.372080] [INFO] Request processed successfully
+[2025-11-07T11:40:29.372092] [ERROR] Request failed
+[2025-11-07T11:40:29.372102] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.372082] [INFO] Health check passed
+[2025-11-07T11:40:29.372079] [INFO] Configuration loaded
+[2025-11-07T11:40:29.372096] [DEBUG] Loop iteration: 15

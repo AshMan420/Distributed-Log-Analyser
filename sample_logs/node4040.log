@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.725391] [INFO] Session started
+[2025-11-07T11:40:29.725407] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.725403] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.725401] [ERROR] Network timeout
+[2025-11-07T11:40:29.725394] [INFO] Transaction completed
+[2025-11-07T11:40:29.725396] [INFO] Service initialized
+[2025-11-07T11:40:29.725402] [ERROR] Disk read failed
+[2025-11-07T11:40:29.725390] [INFO] Request processed successfully
+[2025-11-07T11:40:29.725386] [INFO] Health check passed
+[2025-11-07T11:40:29.725385] [INFO] Database query executed
+[2025-11-07T11:40:29.725384] [INFO] Connection established
+[2025-11-07T11:40:29.725387] [INFO] Health check passed
+[2025-11-07T11:40:29.725404] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.725400] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.725398] [WARN] Queue size growing
+[2025-11-07T11:40:29.725405] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.725397] [WARN] Timeout warning
+[2025-11-07T11:40:29.725406] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.725408] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.725392] [INFO] Connection established
+[2025-11-07T11:40:29.725399] [WARN] Timeout warning
+[2025-11-07T11:40:29.725393] [INFO] User logged in
+[2025-11-07T11:40:29.725389] [INFO] Session started
+[2025-11-07T11:40:29.725382] [INFO] Health check passed
+[2025-11-07T11:40:29.725388] [INFO] Request processed successfully
+[2025-11-07T11:40:29.725395] [INFO] Transaction completed
+[2025-11-07T11:40:29.725383] [INFO] User logged in

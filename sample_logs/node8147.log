@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.155645] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.155630] [INFO] Connection established
+[2025-11-07T11:40:30.155636] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.155629] [INFO] Health check passed
+[2025-11-07T11:40:30.155653] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.155649] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.155641] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.155640] [WARN] Cache miss
+[2025-11-07T11:40:30.155632] [INFO] Database query executed
+[2025-11-07T11:40:30.155647] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.155628] [INFO] Health check passed
+[2025-11-07T11:40:30.155643] [ERROR] Database connection lost
+[2025-11-07T11:40:30.155651] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.155652] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.155626] [INFO] User logged in
+[2025-11-07T11:40:30.155646] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.155634] [INFO] User logged in
+[2025-11-07T11:40:30.155623] [INFO] Service initialized
+[2025-11-07T11:40:30.155638] [WARN] Timeout warning
+[2025-11-07T11:40:30.155650] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.155648] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.155637] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.155625] [INFO] Connection established
+[2025-11-07T11:40:30.155635] [INFO] Cache hit
+[2025-11-07T11:40:30.155639] [WARN] Cache miss
+[2025-11-07T11:40:30.155633] [INFO] Health check passed
+[2025-11-07T11:40:30.155627] [INFO] Transaction completed
+[2025-11-07T11:40:30.155644] [ERROR] Network timeout
+[2025-11-07T11:40:30.155631] [INFO] Cache hit

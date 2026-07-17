@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.701512] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.701496] [INFO] Service initialized
+[2025-11-07T11:40:29.701500] [INFO] Service initialized
+[2025-11-07T11:40:29.701508] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.701499] [INFO] Request processed successfully
+[2025-11-07T11:40:29.701509] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.701489] [INFO] Cache hit
+[2025-11-07T11:40:29.701507] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.701514] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.701506] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.701494] [INFO] Cache hit
+[2025-11-07T11:40:29.701497] [INFO] Connection established
+[2025-11-07T11:40:29.701511] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.701510] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.701487] [INFO] Database query executed
+[2025-11-07T11:40:29.701504] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.701513] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.701505] [ERROR] Disk read failed
+[2025-11-07T11:40:29.701500] [INFO] Session started
+[2025-11-07T11:40:29.701492] [INFO] Service initialized
+[2025-11-07T11:40:29.701490] [INFO] Request processed successfully
+[2025-11-07T11:40:29.701488] [INFO] Session started
+[2025-11-07T11:40:29.701501] [INFO] Database query executed
+[2025-11-07T11:40:29.701498] [INFO] Transaction completed
+[2025-11-07T11:40:29.701502] [WARN] Slow query performance
+[2025-11-07T11:40:29.701491] [INFO] User logged in
+[2025-11-07T11:40:29.701493] [INFO] User logged in

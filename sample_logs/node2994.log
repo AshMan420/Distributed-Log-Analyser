@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.613450] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.613445] [ERROR] Disk read failed
+[2025-11-07T11:40:29.613443] [WARN] Slow query performance
+[2025-11-07T11:40:29.613448] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.613431] [INFO] Request processed successfully
+[2025-11-07T11:40:29.613453] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.613439] [INFO] Health check passed
+[2025-11-07T11:40:29.613426] [INFO] Request processed successfully
+[2025-11-07T11:40:29.613429] [INFO] Request processed successfully
+[2025-11-07T11:40:29.613434] [INFO] Database query executed
+[2025-11-07T11:40:29.613427] [INFO] Transaction completed
+[2025-11-07T11:40:29.613449] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.613432] [INFO] Cache hit
+[2025-11-07T11:40:29.613451] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.613436] [INFO] Health check passed
+[2025-11-07T11:40:29.613441] [WARN] Timeout warning
+[2025-11-07T11:40:29.613442] [WARN] High memory usage detected
+[2025-11-07T11:40:29.613430] [INFO] Health check passed
+[2025-11-07T11:40:29.613435] [INFO] Request processed successfully
+[2025-11-07T11:40:29.613424] [INFO] Session started
+[2025-11-07T11:40:29.613440] [WARN] Slow query performance
+[2025-11-07T11:40:29.613444] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.613438] [INFO] Request processed successfully
+[2025-11-07T11:40:29.613428] [INFO] Transaction completed
+[2025-11-07T11:40:29.613437] [INFO] Configuration loaded
+[2025-11-07T11:40:29.613452] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.613446] [ERROR] Disk read failed
+[2025-11-07T11:40:29.613433] [INFO] Transaction completed

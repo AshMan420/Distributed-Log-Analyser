@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.870309] [INFO] Request processed successfully
+[2025-11-07T11:40:29.870316] [INFO] Connection established
+[2025-11-07T11:40:29.870324] [WARN] Slow query performance
+[2025-11-07T11:40:29.870334] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.870329] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.870328] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.870333] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.870321] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.870317] [INFO] Session started
+[2025-11-07T11:40:29.870314] [INFO] Health check passed
+[2025-11-07T11:40:29.870325] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.870322] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.870308] [INFO] Cache hit
+[2025-11-07T11:40:29.870315] [INFO] Database query executed
+[2025-11-07T11:40:29.870319] [WARN] Cache miss
+[2025-11-07T11:40:29.870335] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.870312] [INFO] Cache hit
+[2025-11-07T11:40:29.870330] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.870305] [INFO] Session started
+[2025-11-07T11:40:29.870327] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.870306] [INFO] Database query executed
+[2025-11-07T11:40:29.870313] [INFO] Session started
+[2025-11-07T11:40:29.870332] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.870311] [INFO] Configuration loaded
+[2025-11-07T11:40:29.870304] [INFO] Cache hit
+[2025-11-07T11:40:29.870310] [INFO] Service initialized
+[2025-11-07T11:40:29.870307] [INFO] Service initialized
+[2025-11-07T11:40:29.870303] [INFO] Service initialized
+[2025-11-07T11:40:29.870301] [INFO] Health check passed

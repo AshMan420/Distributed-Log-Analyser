@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.721032] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.721009] [INFO] Database query executed
+[2025-11-07T11:40:29.721007] [INFO] Service initialized
+[2025-11-07T11:40:29.721030] [ERROR] File not found
+[2025-11-07T11:40:29.721017] [INFO] Database query executed
+[2025-11-07T11:40:29.721013] [INFO] Service initialized
+[2025-11-07T11:40:29.721034] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.721006] [INFO] Session started
+[2025-11-07T11:40:29.721018] [INFO] User logged in
+[2025-11-07T11:40:29.721025] [WARN] Cache miss
+[2025-11-07T11:40:29.721021] [INFO] Connection established
+[2025-11-07T11:40:29.721026] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.721010] [INFO] Request processed successfully
+[2025-11-07T11:40:29.721016] [INFO] User logged in
+[2025-11-07T11:40:29.721033] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.721011] [INFO] Connection established
+[2025-11-07T11:40:29.721028] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.721027] [WARN] High memory usage detected
+[2025-11-07T11:40:29.721015] [INFO] User logged in
+[2025-11-07T11:40:29.721019] [INFO] Transaction completed
+[2025-11-07T11:40:29.721023] [WARN] Disk space low
+[2025-11-07T11:40:29.721014] [INFO] Health check passed
+[2025-11-07T11:40:29.721024] [WARN] Cache miss
+[2025-11-07T11:40:29.721020] [INFO] Cache hit
+[2025-11-07T11:40:29.721028] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.721012] [INFO] Request processed successfully
+[2025-11-07T11:40:29.721019] [INFO] User logged in
+[2025-11-07T11:40:29.721031] [DEBUG] Variable value: x=42

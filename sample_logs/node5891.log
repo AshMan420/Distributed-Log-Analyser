@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.916090] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.916072] [INFO] Health check passed
+[2025-11-07T11:40:29.916097] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.916084] [WARN] Queue size growing
+[2025-11-07T11:40:29.916068] [INFO] Session started
+[2025-11-07T11:40:29.916074] [INFO] Configuration loaded
+[2025-11-07T11:40:29.916066] [INFO] Cache hit
+[2025-11-07T11:40:29.916064] [INFO] Session started
+[2025-11-07T11:40:29.916089] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.916092] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.916075] [INFO] Session started
+[2025-11-07T11:40:29.916096] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.916079] [INFO] Request processed successfully
+[2025-11-07T11:40:29.916091] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.916080] [INFO] Service initialized
+[2025-11-07T11:40:29.916078] [INFO] Request processed successfully
+[2025-11-07T11:40:29.916095] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.916077] [INFO] Service initialized
+[2025-11-07T11:40:29.916071] [INFO] Service initialized
+[2025-11-07T11:40:29.916070] [INFO] Configuration loaded
+[2025-11-07T11:40:29.916073] [INFO] User logged in
+[2025-11-07T11:40:29.916088] [ERROR] Request failed
+[2025-11-07T11:40:29.916067] [INFO] Session started
+[2025-11-07T11:40:29.916081] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.916093] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.916086] [ERROR] Permission denied
+[2025-11-07T11:40:29.916097] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.916069] [INFO] Health check passed
+[2025-11-07T11:40:29.916085] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.916083] [WARN] Timeout warning
+[2025-11-07T11:40:29.916076] [INFO] Configuration loaded
+[2025-11-07T11:40:29.916082] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.916087] [ERROR] Network timeout

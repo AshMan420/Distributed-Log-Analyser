@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.467871] [INFO] Database query executed
+[2025-11-07T11:40:29.467876] [INFO] Connection established
+[2025-11-07T11:40:29.467903] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.467887] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.467889] [WARN] Queue size growing
+[2025-11-07T11:40:29.467884] [INFO] Connection established
+[2025-11-07T11:40:29.467878] [INFO] Transaction completed
+[2025-11-07T11:40:29.467888] [WARN] Timeout warning
+[2025-11-07T11:40:29.467892] [ERROR] Network timeout
+[2025-11-07T11:40:29.467893] [ERROR] Network timeout
+[2025-11-07T11:40:29.467890] [WARN] Slow query performance
+[2025-11-07T11:40:29.467901] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.467870] [INFO] Configuration loaded
+[2025-11-07T11:40:29.467882] [INFO] Cache hit
+[2025-11-07T11:40:29.467883] [INFO] Request processed successfully
+[2025-11-07T11:40:29.467896] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.467899] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.467873] [INFO] Service initialized
+[2025-11-07T11:40:29.467895] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.467886] [INFO] Session started
+[2025-11-07T11:40:29.467879] [INFO] Health check passed
+[2025-11-07T11:40:29.467872] [INFO] Service initialized
+[2025-11-07T11:40:29.467869] [INFO] Health check passed
+[2025-11-07T11:40:29.467885] [INFO] Request processed successfully
+[2025-11-07T11:40:29.467898] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.467894] [ERROR] Disk read failed
+[2025-11-07T11:40:29.467874] [INFO] Cache hit
+[2025-11-07T11:40:29.467877] [INFO] Configuration loaded
+[2025-11-07T11:40:29.467880] [INFO] Session started
+[2025-11-07T11:40:29.467902] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.467900] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.467875] [INFO] User logged in
+[2025-11-07T11:40:29.467868] [INFO] Request processed successfully
+[2025-11-07T11:40:29.467881] [INFO] Cache hit
+[2025-11-07T11:40:29.467897] [DEBUG] Variable value: x=42

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.072495] [INFO] User logged in
+[2025-11-07T11:40:30.072512] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.072500] [INFO] Session started
+[2025-11-07T11:40:30.072496] [INFO] Database query executed
+[2025-11-07T11:40:30.072510] [ERROR] File not found
+[2025-11-07T11:40:30.072491] [INFO] Cache hit
+[2025-11-07T11:40:30.072511] [ERROR] File not found
+[2025-11-07T11:40:30.072505] [WARN] Timeout warning
+[2025-11-07T11:40:30.072492] [INFO] Connection established
+[2025-11-07T11:40:30.072508] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.072503] [INFO] Cache hit
+[2025-11-07T11:40:30.072501] [INFO] Health check passed
+[2025-11-07T11:40:30.072514] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.072490] [INFO] Session started
+[2025-11-07T11:40:30.072513] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.072493] [INFO] Request processed successfully
+[2025-11-07T11:40:30.072520] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.072499] [INFO] Connection established
+[2025-11-07T11:40:30.072518] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.072506] [WARN] Slow query performance
+[2025-11-07T11:40:30.072504] [WARN] Slow query performance
+[2025-11-07T11:40:30.072517] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.072507] [WARN] High memory usage detected
+[2025-11-07T11:40:30.072519] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.072502] [INFO] Cache hit
+[2025-11-07T11:40:30.072494] [INFO] Transaction completed
+[2025-11-07T11:40:30.072497] [INFO] Connection established
+[2025-11-07T11:40:30.072498] [INFO] Health check passed
+[2025-11-07T11:40:30.072516] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.072515] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.072489] [INFO] Transaction completed

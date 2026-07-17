@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.003142] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.003152] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.003122] [INFO] Connection established
+[2025-11-07T11:40:30.003136] [INFO] Health check passed
+[2025-11-07T11:40:30.003137] [WARN] Timeout warning
+[2025-11-07T11:40:30.003148] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.003150] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.003133] [INFO] Connection established
+[2025-11-07T11:40:30.003145] [ERROR] Authentication failed
+[2025-11-07T11:40:30.003139] [WARN] Cache miss
+[2025-11-07T11:40:30.003154] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.003129] [INFO] Session started
+[2025-11-07T11:40:30.003132] [INFO] Connection established
+[2025-11-07T11:40:30.003123] [INFO] Session started
+[2025-11-07T11:40:30.003124] [INFO] Health check passed
+[2025-11-07T11:40:30.003141] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.003147] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.003153] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.003125] [INFO] Service initialized
+[2025-11-07T11:40:30.003130] [INFO] Transaction completed
+[2025-11-07T11:40:30.003121] [INFO] Cache hit
+[2025-11-07T11:40:30.003131] [INFO] Transaction completed
+[2025-11-07T11:40:30.003138] [WARN] Timeout warning
+[2025-11-07T11:40:30.003128] [INFO] Database query executed
+[2025-11-07T11:40:30.003127] [INFO] Session started
+[2025-11-07T11:40:30.003146] [ERROR] Service unavailable
+[2025-11-07T11:40:30.003155] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.003151] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.003134] [INFO] Transaction completed
+[2025-11-07T11:40:30.003149] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.003135] [INFO] Service initialized
+[2025-11-07T11:40:30.003143] [WARN] Queue size growing
+[2025-11-07T11:40:30.003126] [INFO] Database query executed
+[2025-11-07T11:40:30.003144] [WARN] Resource threshold approaching

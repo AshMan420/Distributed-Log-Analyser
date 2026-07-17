@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.292260] [WARN] Cache miss
+[2025-11-07T11:40:30.292258] [WARN] Cache miss
+[2025-11-07T11:40:30.292270] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.292253] [INFO] User logged in
+[2025-11-07T11:40:30.292245] [INFO] Service initialized
+[2025-11-07T11:40:30.292269] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.292271] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.292272] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.292256] [INFO] Cache hit
+[2025-11-07T11:40:30.292263] [WARN] High memory usage detected
+[2025-11-07T11:40:30.292246] [INFO] User logged in
+[2025-11-07T11:40:30.292267] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.292255] [INFO] User logged in
+[2025-11-07T11:40:30.292248] [INFO] Session started
+[2025-11-07T11:40:30.292251] [INFO] Request processed successfully
+[2025-11-07T11:40:30.292273] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.292259] [WARN] Slow query performance
+[2025-11-07T11:40:30.292257] [WARN] Timeout warning
+[2025-11-07T11:40:30.292249] [INFO] User logged in
+[2025-11-07T11:40:30.292265] [ERROR] Disk read failed
+[2025-11-07T11:40:30.292268] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.292261] [WARN] Slow query performance
+[2025-11-07T11:40:30.292262] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.292243] [INFO] Connection established
+[2025-11-07T11:40:30.292247] [INFO] User logged in
+[2025-11-07T11:40:30.292253] [INFO] Database query executed
+[2025-11-07T11:40:30.292274] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.292252] [INFO] Transaction completed
+[2025-11-07T11:40:30.292270] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.292254] [INFO] Session started
+[2025-11-07T11:40:30.292250] [INFO] Configuration loaded
+[2025-11-07T11:40:30.292264] [WARN] Disk space low
+[2025-11-07T11:40:30.292266] [ERROR] File not found

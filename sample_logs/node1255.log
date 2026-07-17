@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.422959] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.422948] [INFO] Configuration loaded
+[2025-11-07T11:40:29.422952] [INFO] Health check passed
+[2025-11-07T11:40:29.422965] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.422945] [INFO] Configuration loaded
+[2025-11-07T11:40:29.422968] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.422940] [INFO] Database query executed
+[2025-11-07T11:40:29.422944] [INFO] Service initialized
+[2025-11-07T11:40:29.422973] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.422943] [INFO] Configuration loaded
+[2025-11-07T11:40:29.422953] [INFO] Configuration loaded
+[2025-11-07T11:40:29.422951] [INFO] Service initialized
+[2025-11-07T11:40:29.422974] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.422971] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.422963] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.422960] [WARN] Cache miss
+[2025-11-07T11:40:29.422947] [INFO] Database query executed
+[2025-11-07T11:40:29.422961] [WARN] Slow query performance
+[2025-11-07T11:40:29.422967] [ERROR] Request failed
+[2025-11-07T11:40:29.422964] [ERROR] Network timeout
+[2025-11-07T11:40:29.422957] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.422955] [INFO] Configuration loaded
+[2025-11-07T11:40:29.422950] [INFO] Transaction completed
+[2025-11-07T11:40:29.422941] [INFO] Cache hit
+[2025-11-07T11:40:29.422972] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.422975] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.422956] [INFO] Cache hit
+[2025-11-07T11:40:29.422962] [WARN] Cache miss
+[2025-11-07T11:40:29.422969] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.422958] [WARN] Queue size growing
+[2025-11-07T11:40:29.422946] [INFO] Request processed successfully
+[2025-11-07T11:40:29.422950] [INFO] Request processed successfully
+[2025-11-07T11:40:29.422966] [ERROR] Database connection lost
+[2025-11-07T11:40:29.422942] [INFO] Request processed successfully
+[2025-11-07T11:40:29.422970] [DEBUG] HTTP request headers parsed

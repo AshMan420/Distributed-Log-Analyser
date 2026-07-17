@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.419476] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.419462] [INFO] Connection established
+[2025-11-07T11:40:29.419481] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.419478] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.419459] [INFO] Session started
+[2025-11-07T11:40:29.419453] [INFO] Health check passed
+[2025-11-07T11:40:29.419452] [INFO] Service initialized
+[2025-11-07T11:40:29.419457] [INFO] Service initialized
+[2025-11-07T11:40:29.419480] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.419456] [INFO] Request processed successfully
+[2025-11-07T11:40:29.419474] [WARN] Cache miss
+[2025-11-07T11:40:29.419484] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.419460] [INFO] Configuration loaded
+[2025-11-07T11:40:29.419482] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.419479] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.419483] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.419466] [INFO] Session started
+[2025-11-07T11:40:29.419468] [INFO] Configuration loaded
+[2025-11-07T11:40:29.419471] [WARN] Cache miss
+[2025-11-07T11:40:29.419470] [WARN] Slow query performance
+[2025-11-07T11:40:29.419465] [INFO] Transaction completed
+[2025-11-07T11:40:29.419454] [INFO] Connection established
+[2025-11-07T11:40:29.419477] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.419463] [INFO] Session started
+[2025-11-07T11:40:29.419475] [ERROR] Request failed
+[2025-11-07T11:40:29.419455] [INFO] Session started
+[2025-11-07T11:40:29.419469] [INFO] Request processed successfully
+[2025-11-07T11:40:29.419472] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.419459] [INFO] Database query executed
+[2025-11-07T11:40:29.419464] [INFO] Request processed successfully
+[2025-11-07T11:40:29.419473] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.419467] [INFO] Service initialized

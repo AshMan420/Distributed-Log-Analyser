@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.321064] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.321055] [WARN] Slow query performance
+[2025-11-07T11:40:29.321065] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.321050] [INFO] Health check passed
+[2025-11-07T11:40:29.321049] [INFO] Cache hit
+[2025-11-07T11:40:29.321051] [INFO] Transaction completed
+[2025-11-07T11:40:29.321048] [INFO] Connection established
+[2025-11-07T11:40:29.321058] [ERROR] Service unavailable
+[2025-11-07T11:40:29.321067] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.321059] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.321051] [INFO] Connection established
+[2025-11-07T11:40:29.321038] [INFO] Request processed successfully
+[2025-11-07T11:40:29.321045] [INFO] User logged in
+[2025-11-07T11:40:29.321044] [INFO] Cache hit
+[2025-11-07T11:40:29.321066] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.321041] [INFO] Request processed successfully
+[2025-11-07T11:40:29.321061] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.321062] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.321053] [WARN] Slow query performance
+[2025-11-07T11:40:29.321054] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.321063] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.321046] [INFO] Configuration loaded
+[2025-11-07T11:40:29.321040] [INFO] Request processed successfully
+[2025-11-07T11:40:29.321056] [WARN] Queue size growing
+[2025-11-07T11:40:29.321042] [INFO] Service initialized
+[2025-11-07T11:40:29.321043] [INFO] Database query executed
+[2025-11-07T11:40:29.321057] [ERROR] Disk read failed
+[2025-11-07T11:40:29.321052] [INFO] Connection established
+[2025-11-07T11:40:29.321047] [INFO] Configuration loaded
+[2025-11-07T11:40:29.321060] [DEBUG] Entering function process_data()

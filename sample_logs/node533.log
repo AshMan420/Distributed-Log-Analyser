@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.347519] [INFO] Cache hit
+[2025-11-07T11:40:29.347528] [ERROR] Network timeout
+[2025-11-07T11:40:29.347530] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.347536] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.347531] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.347537] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.347535] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.347523] [WARN] High memory usage detected
+[2025-11-07T11:40:29.347513] [INFO] Database query executed
+[2025-11-07T11:40:29.347525] [WARN] Cache miss
+[2025-11-07T11:40:29.347514] [INFO] Service initialized
+[2025-11-07T11:40:29.347515] [INFO] Cache hit
+[2025-11-07T11:40:29.347516] [INFO] Session started
+[2025-11-07T11:40:29.347532] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.347508] [INFO] Service initialized
+[2025-11-07T11:40:29.347534] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.347511] [INFO] Session started
+[2025-11-07T11:40:29.347510] [INFO] Service initialized
+[2025-11-07T11:40:29.347521] [INFO] Configuration loaded
+[2025-11-07T11:40:29.347509] [INFO] Health check passed
+[2025-11-07T11:40:29.347518] [INFO] Database query executed
+[2025-11-07T11:40:29.347522] [INFO] Request processed successfully
+[2025-11-07T11:40:29.347524] [WARN] High memory usage detected
+[2025-11-07T11:40:29.347529] [ERROR] Disk read failed
+[2025-11-07T11:40:29.347527] [WARN] High memory usage detected
+[2025-11-07T11:40:29.347507] [INFO] Health check passed
+[2025-11-07T11:40:29.347520] [INFO] Database query executed
+[2025-11-07T11:40:29.347526] [WARN] Queue size growing
+[2025-11-07T11:40:29.347512] [INFO] Health check passed
+[2025-11-07T11:40:29.347517] [INFO] Configuration loaded
+[2025-11-07T11:40:29.347533] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.347538] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.347506] [INFO] Transaction completed

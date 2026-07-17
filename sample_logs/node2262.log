@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.533362] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.533360] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.533351] [WARN] Disk space low
+[2025-11-07T11:40:29.533345] [INFO] Connection established
+[2025-11-07T11:40:29.533368] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.533342] [INFO] Session started
+[2025-11-07T11:40:29.533331] [INFO] User logged in
+[2025-11-07T11:40:29.533335] [INFO] Cache hit
+[2025-11-07T11:40:29.533337] [INFO] Configuration loaded
+[2025-11-07T11:40:29.533343] [INFO] Session started
+[2025-11-07T11:40:29.533366] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.533359] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.533364] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.533338] [INFO] Service initialized
+[2025-11-07T11:40:29.533344] [INFO] Cache hit
+[2025-11-07T11:40:29.533333] [INFO] Configuration loaded
+[2025-11-07T11:40:29.533334] [INFO] Cache hit
+[2025-11-07T11:40:29.533358] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.533347] [WARN] Disk space low
+[2025-11-07T11:40:29.533348] [WARN] Queue size growing
+[2025-11-07T11:40:29.533361] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.533367] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.533355] [ERROR] Invalid input data
+[2025-11-07T11:40:29.533329] [INFO] Cache hit
+[2025-11-07T11:40:29.533340] [INFO] Health check passed
+[2025-11-07T11:40:29.533356] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.533341] [INFO] Transaction completed
+[2025-11-07T11:40:29.533352] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.533336] [INFO] Database query executed
+[2025-11-07T11:40:29.533365] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.533350] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.533349] [WARN] Timeout warning
+[2025-11-07T11:40:29.533346] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.533354] [WARN] Queue size growing
+[2025-11-07T11:40:29.533363] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.533357] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.533339] [INFO] Connection established
+[2025-11-07T11:40:29.533353] [WARN] Connection retry attempt

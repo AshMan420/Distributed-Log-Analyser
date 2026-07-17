@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.297896] [ERROR] Service unavailable
+[2025-11-07T11:40:30.297898] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297905] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.297882] [INFO] Connection established
+[2025-11-07T11:40:30.297902] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297888] [INFO] Transaction completed
+[2025-11-07T11:40:30.297887] [INFO] Cache hit
+[2025-11-07T11:40:30.297885] [INFO] Health check passed
+[2025-11-07T11:40:30.297897] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.297903] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297874] [INFO] Configuration loaded
+[2025-11-07T11:40:30.297886] [INFO] User logged in
+[2025-11-07T11:40:30.297883] [INFO] User logged in
+[2025-11-07T11:40:30.297904] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.297900] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297882] [INFO] Database query executed
+[2025-11-07T11:40:30.297890] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.297899] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297877] [INFO] Connection established
+[2025-11-07T11:40:30.297895] [ERROR] File not found
+[2025-11-07T11:40:30.297879] [INFO] User logged in
+[2025-11-07T11:40:30.297906] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297889] [INFO] Configuration loaded
+[2025-11-07T11:40:30.297876] [INFO] Configuration loaded
+[2025-11-07T11:40:30.297884] [INFO] Cache hit
+[2025-11-07T11:40:30.297875] [INFO] Configuration loaded
+[2025-11-07T11:40:30.297891] [WARN] Cache miss
+[2025-11-07T11:40:30.297892] [WARN] Slow query performance
+[2025-11-07T11:40:30.297901] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.297881] [INFO] Connection established
+[2025-11-07T11:40:30.297878] [INFO] Database query executed
+[2025-11-07T11:40:30.297893] [WARN] Timeout warning

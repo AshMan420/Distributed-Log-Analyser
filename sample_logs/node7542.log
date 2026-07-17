@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.093255] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.093260] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.093236] [INFO] Database query executed
+[2025-11-07T11:40:30.093259] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.093253] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.093242] [INFO] Cache hit
+[2025-11-07T11:40:30.093250] [WARN] High memory usage detected
+[2025-11-07T11:40:30.093234] [INFO] User logged in
+[2025-11-07T11:40:30.093257] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.093251] [ERROR] Request failed
+[2025-11-07T11:40:30.093243] [INFO] Service initialized
+[2025-11-07T11:40:30.093248] [WARN] High memory usage detected
+[2025-11-07T11:40:30.093240] [INFO] Database query executed
+[2025-11-07T11:40:30.093252] [ERROR] Network timeout
+[2025-11-07T11:40:30.093237] [INFO] User logged in
+[2025-11-07T11:40:30.093258] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.093239] [INFO] Configuration loaded
+[2025-11-07T11:40:30.093256] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.093241] [INFO] Session started
+[2025-11-07T11:40:30.093238] [INFO] Health check passed
+[2025-11-07T11:40:30.093244] [INFO] Connection established
+[2025-11-07T11:40:30.093245] [INFO] Service initialized
+[2025-11-07T11:40:30.093249] [WARN] Disk space low
+[2025-11-07T11:40:30.093246] [INFO] Health check passed
+[2025-11-07T11:40:30.093247] [WARN] High memory usage detected
+[2025-11-07T11:40:30.093246] [INFO] Request processed successfully
+[2025-11-07T11:40:30.093261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.093254] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.093235] [INFO] Health check passed

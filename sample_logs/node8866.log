@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.243891] [INFO] Configuration loaded
+[2025-11-07T11:40:30.243890] [INFO] User logged in
+[2025-11-07T11:40:30.243897] [ERROR] Authentication failed
+[2025-11-07T11:40:30.243884] [INFO] Session started
+[2025-11-07T11:40:30.243900] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.243885] [INFO] Cache hit
+[2025-11-07T11:40:30.243883] [INFO] Transaction completed
+[2025-11-07T11:40:30.243904] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.243894] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.243892] [INFO] Connection established
+[2025-11-07T11:40:30.243879] [INFO] Session started
+[2025-11-07T11:40:30.243896] [WARN] High memory usage detected
+[2025-11-07T11:40:30.243905] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.243906] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.243899] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.243880] [INFO] Session started
+[2025-11-07T11:40:30.243881] [INFO] User logged in
+[2025-11-07T11:40:30.243877] [INFO] Request processed successfully
+[2025-11-07T11:40:30.243903] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.243898] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.243888] [INFO] Connection established
+[2025-11-07T11:40:30.243887] [INFO] Connection established
+[2025-11-07T11:40:30.243902] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.243889] [INFO] Service initialized
+[2025-11-07T11:40:30.243882] [INFO] Configuration loaded
+[2025-11-07T11:40:30.243895] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.243893] [WARN] Slow query performance
+[2025-11-07T11:40:30.243901] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.243886] [INFO] Transaction completed

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.281446] [INFO] Connection established
+[2025-11-07T11:40:30.281472] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.281450] [INFO] Connection established
+[2025-11-07T11:40:30.281443] [INFO] User logged in
+[2025-11-07T11:40:30.281442] [INFO] Cache hit
+[2025-11-07T11:40:30.281456] [INFO] Configuration loaded
+[2025-11-07T11:40:30.281473] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.281460] [WARN] High memory usage detected
+[2025-11-07T11:40:30.281449] [INFO] Service initialized
+[2025-11-07T11:40:30.281465] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.281444] [INFO] Transaction completed
+[2025-11-07T11:40:30.281467] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.281471] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.281461] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.281447] [INFO] Transaction completed
+[2025-11-07T11:40:30.281458] [WARN] High memory usage detected
+[2025-11-07T11:40:30.281459] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.281453] [INFO] Request processed successfully
+[2025-11-07T11:40:30.281463] [WARN] Queue size growing
+[2025-11-07T11:40:30.281468] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.281452] [INFO] User logged in
+[2025-11-07T11:40:30.281439] [INFO] Session started
+[2025-11-07T11:40:30.281441] [INFO] User logged in
+[2025-11-07T11:40:30.281445] [INFO] Configuration loaded
+[2025-11-07T11:40:30.281464] [ERROR] Network timeout
+[2025-11-07T11:40:30.281448] [INFO] Health check passed
+[2025-11-07T11:40:30.281454] [INFO] Cache hit
+[2025-11-07T11:40:30.281474] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.281475] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.281455] [INFO] User logged in
+[2025-11-07T11:40:30.281469] [DEBUG] HTTP request headers parsed

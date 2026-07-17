@@ -1,0 +1,40 @@
+[2025-11-07T11:40:30.339976] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.339941] [INFO] Transaction completed
+[2025-11-07T11:40:30.339967] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.339940] [INFO] Database query executed
+[2025-11-07T11:40:30.339978] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.339955] [INFO] Transaction completed
+[2025-11-07T11:40:30.339946] [INFO] Database query executed
+[2025-11-07T11:40:30.339948] [INFO] Database query executed
+[2025-11-07T11:40:30.339953] [INFO] User logged in
+[2025-11-07T11:40:30.339971] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.339949] [INFO] Session started
+[2025-11-07T11:40:30.339956] [INFO] Session started
+[2025-11-07T11:40:30.339954] [INFO] Transaction completed
+[2025-11-07T11:40:30.339947] [INFO] User logged in
+[2025-11-07T11:40:30.339973] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.339957] [INFO] Connection established
+[2025-11-07T11:40:30.339942] [INFO] Cache hit
+[2025-11-07T11:40:30.339945] [INFO] Health check passed
+[2025-11-07T11:40:30.339965] [WARN] Cache miss
+[2025-11-07T11:40:30.339951] [INFO] Session started
+[2025-11-07T11:40:30.339943] [INFO] Health check passed
+[2025-11-07T11:40:30.339960] [WARN] High memory usage detected
+[2025-11-07T11:40:30.339958] [INFO] Connection established
+[2025-11-07T11:40:30.339952] [INFO] Connection established
+[2025-11-07T11:40:30.339944] [INFO] Database query executed
+[2025-11-07T11:40:30.339969] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.339975] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.339970] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.339980] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.339962] [WARN] High memory usage detected
+[2025-11-07T11:40:30.339963] [WARN] High memory usage detected
+[2025-11-07T11:40:30.339974] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.339950] [INFO] Transaction completed
+[2025-11-07T11:40:30.339964] [WARN] Slow query performance
+[2025-11-07T11:40:30.339972] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.339968] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.339959] [WARN] Cache miss
+[2025-11-07T11:40:30.339961] [WARN] Disk space low
+[2025-11-07T11:40:30.339977] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.339979] [DEBUG] Variable value: x=42

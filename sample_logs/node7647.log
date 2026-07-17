@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.104078] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.104068] [INFO] Database query executed
+[2025-11-07T11:40:30.104071] [INFO] Transaction completed
+[2025-11-07T11:40:30.104073] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.104065] [INFO] Request processed successfully
+[2025-11-07T11:40:30.104057] [INFO] Transaction completed
+[2025-11-07T11:40:30.104065] [INFO] Configuration loaded
+[2025-11-07T11:40:30.104070] [INFO] Connection established
+[2025-11-07T11:40:30.104062] [INFO] Service initialized
+[2025-11-07T11:40:30.104075] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.104086] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.104059] [INFO] Service initialized
+[2025-11-07T11:40:30.104085] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.104080] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.104061] [INFO] Request processed successfully
+[2025-11-07T11:40:30.104082] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.104076] [WARN] Timeout warning
+[2025-11-07T11:40:30.104064] [INFO] Connection established
+[2025-11-07T11:40:30.104083] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.104074] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.104079] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.104067] [INFO] Transaction completed
+[2025-11-07T11:40:30.104081] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.104077] [ERROR] Network timeout
+[2025-11-07T11:40:30.104066] [INFO] Transaction completed
+[2025-11-07T11:40:30.104069] [INFO] Database query executed
+[2025-11-07T11:40:30.104063] [INFO] Health check passed
+[2025-11-07T11:40:30.104060] [INFO] Configuration loaded
+[2025-11-07T11:40:30.104058] [INFO] User logged in
+[2025-11-07T11:40:30.104084] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.104055] [INFO] Database query executed

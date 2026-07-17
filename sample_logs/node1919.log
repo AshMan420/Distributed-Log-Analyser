@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.496606] [WARN] High memory usage detected
+[2025-11-07T11:40:29.496609] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.496610] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.496589] [INFO] Cache hit
+[2025-11-07T11:40:29.496596] [INFO] Request processed successfully
+[2025-11-07T11:40:29.496587] [INFO] Request processed successfully
+[2025-11-07T11:40:29.496595] [INFO] Configuration loaded
+[2025-11-07T11:40:29.496600] [INFO] Database query executed
+[2025-11-07T11:40:29.496608] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.496607] [ERROR] Disk read failed
+[2025-11-07T11:40:29.496604] [WARN] High memory usage detected
+[2025-11-07T11:40:29.496598] [INFO] Database query executed
+[2025-11-07T11:40:29.496602] [INFO] Session started
+[2025-11-07T11:40:29.496599] [INFO] Database query executed
+[2025-11-07T11:40:29.496594] [INFO] Transaction completed
+[2025-11-07T11:40:29.496588] [INFO] Database query executed
+[2025-11-07T11:40:29.496603] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.496613] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.496597] [INFO] Database query executed
+[2025-11-07T11:40:29.496612] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.496590] [INFO] Health check passed
+[2025-11-07T11:40:29.496601] [INFO] Request processed successfully
+[2025-11-07T11:40:29.496605] [WARN] Queue size growing
+[2025-11-07T11:40:29.496593] [INFO] Connection established
+[2025-11-07T11:40:29.496591] [INFO] Health check passed
+[2025-11-07T11:40:29.496611] [DEBUG] Entering function process_data()

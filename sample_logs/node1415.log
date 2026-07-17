@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.439860] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.439835] [INFO] User logged in
+[2025-11-07T11:40:29.439864] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.439836] [INFO] Transaction completed
+[2025-11-07T11:40:29.439857] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.439846] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.439862] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.439840] [INFO] User logged in
+[2025-11-07T11:40:29.439847] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.439851] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.439863] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.439834] [INFO] Transaction completed
+[2025-11-07T11:40:29.439845] [INFO] Transaction completed
+[2025-11-07T11:40:29.439832] [INFO] Session started
+[2025-11-07T11:40:29.439838] [INFO] Transaction completed
+[2025-11-07T11:40:29.439833] [INFO] Connection established
+[2025-11-07T11:40:29.439859] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.439844] [INFO] Service initialized
+[2025-11-07T11:40:29.439856] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.439842] [INFO] Transaction completed
+[2025-11-07T11:40:29.439837] [INFO] Cache hit
+[2025-11-07T11:40:29.439830] [INFO] Health check passed
+[2025-11-07T11:40:29.439841] [INFO] Connection established
+[2025-11-07T11:40:29.439866] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.439843] [INFO] Configuration loaded
+[2025-11-07T11:40:29.439839] [INFO] Transaction completed
+[2025-11-07T11:40:29.439849] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.439861] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.439848] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.439858] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.439854] [ERROR] Service unavailable
+[2025-11-07T11:40:29.439865] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.439855] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.439850] [WARN] Queue size growing
+[2025-11-07T11:40:29.439853] [ERROR] File not found

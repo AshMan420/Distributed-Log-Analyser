@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.095573] [INFO] Configuration loaded
+[2025-11-07T11:40:30.095585] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.095579] [ERROR] Request failed
+[2025-11-07T11:40:30.095576] [WARN] Timeout warning
+[2025-11-07T11:40:30.095569] [INFO] Transaction completed
+[2025-11-07T11:40:30.095591] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.095580] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.095574] [INFO] Transaction completed
+[2025-11-07T11:40:30.095568] [INFO] Cache hit
+[2025-11-07T11:40:30.095577] [WARN] Disk space low
+[2025-11-07T11:40:30.095590] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.095581] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.095583] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.095566] [INFO] Transaction completed
+[2025-11-07T11:40:30.095570] [INFO] Connection established
+[2025-11-07T11:40:30.095563] [INFO] Request processed successfully
+[2025-11-07T11:40:30.095561] [INFO] Transaction completed
+[2025-11-07T11:40:30.095584] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.095572] [INFO] Configuration loaded
+[2025-11-07T11:40:30.095565] [INFO] User logged in
+[2025-11-07T11:40:30.095564] [INFO] Session started
+[2025-11-07T11:40:30.095587] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.095586] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.095582] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.095567] [INFO] Request processed successfully
+[2025-11-07T11:40:30.095588] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.095578] [WARN] Queue size growing
+[2025-11-07T11:40:30.095571] [INFO] Service initialized
+[2025-11-07T11:40:30.095589] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.095575] [WARN] Timeout warning

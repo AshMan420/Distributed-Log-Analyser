@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.834518] [INFO] Health check passed
+[2025-11-07T11:40:29.834538] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.834522] [WARN] Queue size growing
+[2025-11-07T11:40:29.834526] [WARN] Disk space low
+[2025-11-07T11:40:29.834514] [INFO] Service initialized
+[2025-11-07T11:40:29.834537] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.834507] [INFO] Health check passed
+[2025-11-07T11:40:29.834509] [INFO] Service initialized
+[2025-11-07T11:40:29.834530] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.834527] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.834519] [INFO] Configuration loaded
+[2025-11-07T11:40:29.834532] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.834515] [INFO] Configuration loaded
+[2025-11-07T11:40:29.834516] [INFO] Service initialized
+[2025-11-07T11:40:29.834517] [INFO] Request processed successfully
+[2025-11-07T11:40:29.834539] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.834531] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.834511] [INFO] Connection established
+[2025-11-07T11:40:29.834525] [WARN] Cache miss
+[2025-11-07T11:40:29.834515] [INFO] Connection established
+[2025-11-07T11:40:29.834508] [INFO] Service initialized
+[2025-11-07T11:40:29.834510] [INFO] Session started
+[2025-11-07T11:40:29.834540] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.834520] [INFO] Session started
+[2025-11-07T11:40:29.834536] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.834535] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.834528] [ERROR] Disk read failed
+[2025-11-07T11:40:29.834534] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.834513] [INFO] User logged in
+[2025-11-07T11:40:29.834529] [ERROR] Database connection lost
+[2025-11-07T11:40:29.834523] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.834521] [INFO] Transaction completed
+[2025-11-07T11:40:29.834533] [DEBUG] Loop iteration: 15

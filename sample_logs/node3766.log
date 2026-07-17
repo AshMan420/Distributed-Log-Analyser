@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.697214] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.697215] [WARN] Slow query performance
+[2025-11-07T11:40:29.697203] [INFO] Request processed successfully
+[2025-11-07T11:40:29.697209] [WARN] Disk space low
+[2025-11-07T11:40:29.697217] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.697208] [WARN] Cache miss
+[2025-11-07T11:40:29.697202] [INFO] Transaction completed
+[2025-11-07T11:40:29.697211] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.697221] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.697198] [INFO] Cache hit
+[2025-11-07T11:40:29.697200] [INFO] Connection established
+[2025-11-07T11:40:29.697222] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.697202] [INFO] Transaction completed
+[2025-11-07T11:40:29.697223] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.697206] [INFO] Health check passed
+[2025-11-07T11:40:29.697219] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.697216] [ERROR] Authentication failed
+[2025-11-07T11:40:29.697199] [INFO] Cache hit
+[2025-11-07T11:40:29.697197] [INFO] Request processed successfully
+[2025-11-07T11:40:29.697220] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.697225] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.697207] [INFO] Cache hit
+[2025-11-07T11:40:29.697210] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.697213] [WARN] Slow query performance
+[2025-11-07T11:40:29.697218] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.697212] [WARN] Disk space low
+[2025-11-07T11:40:29.697206] [INFO] Connection established
+[2025-11-07T11:40:29.697205] [INFO] Health check passed
+[2025-11-07T11:40:29.697224] [DEBUG] HTTP request headers parsed

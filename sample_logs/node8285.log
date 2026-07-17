@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.173103] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.173092] [INFO] Configuration loaded
+[2025-11-07T11:40:30.173108] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.173090] [INFO] Health check passed
+[2025-11-07T11:40:30.173084] [INFO] Cache hit
+[2025-11-07T11:40:30.173094] [INFO] Connection established
+[2025-11-07T11:40:30.173093] [INFO] Transaction completed
+[2025-11-07T11:40:30.173087] [INFO] Service initialized
+[2025-11-07T11:40:30.173115] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.173102] [ERROR] Disk read failed
+[2025-11-07T11:40:30.173099] [WARN] Disk space low
+[2025-11-07T11:40:30.173109] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.173089] [INFO] Connection established
+[2025-11-07T11:40:30.173111] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.173097] [INFO] Cache hit
+[2025-11-07T11:40:30.173110] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.173094] [INFO] Transaction completed
+[2025-11-07T11:40:30.173114] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.173107] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.173100] [ERROR] Authentication failed
+[2025-11-07T11:40:30.173096] [INFO] User logged in
+[2025-11-07T11:40:30.173105] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.173098] [INFO] Health check passed
+[2025-11-07T11:40:30.173091] [INFO] Service initialized
+[2025-11-07T11:40:30.173106] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.173113] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.173116] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.173113] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.173095] [INFO] Health check passed
+[2025-11-07T11:40:30.173086] [INFO] Cache hit
+[2025-11-07T11:40:30.173104] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.173088] [INFO] Request processed successfully
+[2025-11-07T11:40:30.173101] [ERROR] Memory allocation error

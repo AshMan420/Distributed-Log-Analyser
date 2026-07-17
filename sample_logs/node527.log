@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.346936] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.346915] [INFO] Connection established
+[2025-11-07T11:40:29.346920] [INFO] Configuration loaded
+[2025-11-07T11:40:29.346919] [INFO] Service initialized
+[2025-11-07T11:40:29.346916] [INFO] Service initialized
+[2025-11-07T11:40:29.346931] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.346935] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.346924] [WARN] High memory usage detected
+[2025-11-07T11:40:29.346934] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.346913] [INFO] Transaction completed
+[2025-11-07T11:40:29.346917] [INFO] Service initialized
+[2025-11-07T11:40:29.346921] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.346937] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.346922] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.346909] [INFO] Connection established
+[2025-11-07T11:40:29.346932] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.346911] [INFO] Database query executed
+[2025-11-07T11:40:29.346907] [INFO] Service initialized
+[2025-11-07T11:40:29.346930] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.346910] [INFO] Connection established
+[2025-11-07T11:40:29.346928] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.346925] [ERROR] Database connection lost
+[2025-11-07T11:40:29.346926] [ERROR] Database connection lost
+[2025-11-07T11:40:29.346912] [INFO] Database query executed
+[2025-11-07T11:40:29.346927] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.346908] [INFO] Cache hit
+[2025-11-07T11:40:29.346923] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.346933] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.346914] [INFO] Connection established
+[2025-11-07T11:40:29.346918] [INFO] Cache hit
+[2025-11-07T11:40:29.346929] [DEBUG] Loop iteration: 15

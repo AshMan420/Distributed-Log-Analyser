@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.206373] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.206369] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.206374] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.206370] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.206358] [INFO] Connection established
+[2025-11-07T11:40:30.206353] [INFO] Request processed successfully
+[2025-11-07T11:40:30.206350] [INFO] Connection established
+[2025-11-07T11:40:30.206346] [INFO] Session started
+[2025-11-07T11:40:30.206355] [INFO] Database query executed
+[2025-11-07T11:40:30.206361] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.206357] [INFO] Database query executed
+[2025-11-07T11:40:30.206356] [INFO] Database query executed
+[2025-11-07T11:40:30.206364] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.206351] [INFO] Request processed successfully
+[2025-11-07T11:40:30.206376] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.206359] [INFO] Service initialized
+[2025-11-07T11:40:30.206354] [INFO] Cache hit
+[2025-11-07T11:40:30.206348] [INFO] Service initialized
+[2025-11-07T11:40:30.206360] [INFO] Health check passed
+[2025-11-07T11:40:30.206366] [WARN] Timeout warning
+[2025-11-07T11:40:30.206367] [ERROR] Network timeout
+[2025-11-07T11:40:30.206363] [WARN] Cache miss
+[2025-11-07T11:40:30.206362] [WARN] Slow query performance
+[2025-11-07T11:40:30.206368] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.206349] [INFO] Request processed successfully
+[2025-11-07T11:40:30.206371] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.206372] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.206352] [INFO] User logged in
+[2025-11-07T11:40:30.206347] [INFO] Transaction completed
+[2025-11-07T11:40:30.206375] [DEBUG] Timer set: 30 seconds

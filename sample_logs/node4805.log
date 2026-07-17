@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.803244] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.803230] [INFO] Cache hit
+[2025-11-07T11:40:29.803243] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.803223] [INFO] Health check passed
+[2025-11-07T11:40:29.803232] [INFO] Connection established
+[2025-11-07T11:40:29.803220] [INFO] Service initialized
+[2025-11-07T11:40:29.803221] [INFO] Session started
+[2025-11-07T11:40:29.803249] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.803218] [INFO] Service initialized
+[2025-11-07T11:40:29.803242] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.803235] [INFO] Connection established
+[2025-11-07T11:40:29.803227] [INFO] Configuration loaded
+[2025-11-07T11:40:29.803231] [INFO] Connection established
+[2025-11-07T11:40:29.803236] [WARN] Slow query performance
+[2025-11-07T11:40:29.803234] [INFO] Health check passed
+[2025-11-07T11:40:29.803237] [WARN] High memory usage detected
+[2025-11-07T11:40:29.803246] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.803222] [INFO] User logged in
+[2025-11-07T11:40:29.803241] [ERROR] Invalid input data
+[2025-11-07T11:40:29.803245] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.803238] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.803226] [INFO] Service initialized
+[2025-11-07T11:40:29.803224] [INFO] Session started
+[2025-11-07T11:40:29.803247] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.803240] [ERROR] Permission denied
+[2025-11-07T11:40:29.803229] [INFO] Service initialized
+[2025-11-07T11:40:29.803228] [INFO] Database query executed
+[2025-11-07T11:40:29.803248] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.803233] [INFO] User logged in
+[2025-11-07T11:40:29.803238] [WARN] High memory usage detected
+[2025-11-07T11:40:29.803225] [INFO] Database query executed

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.742643] [WARN] Queue size growing
+[2025-11-07T11:40:29.742642] [INFO] Health check passed
+[2025-11-07T11:40:29.742634] [INFO] Cache hit
+[2025-11-07T11:40:29.742654] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.742647] [ERROR] Service unavailable
+[2025-11-07T11:40:29.742649] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.742629] [INFO] Request processed successfully
+[2025-11-07T11:40:29.742656] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.742628] [INFO] Transaction completed
+[2025-11-07T11:40:29.742640] [INFO] Request processed successfully
+[2025-11-07T11:40:29.742638] [INFO] Cache hit
+[2025-11-07T11:40:29.742652] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.742630] [INFO] Health check passed
+[2025-11-07T11:40:29.742639] [INFO] Request processed successfully
+[2025-11-07T11:40:29.742644] [WARN] Queue size growing
+[2025-11-07T11:40:29.742645] [WARN] Cache miss
+[2025-11-07T11:40:29.742648] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.742637] [INFO] User logged in
+[2025-11-07T11:40:29.742631] [INFO] Service initialized
+[2025-11-07T11:40:29.742632] [INFO] Cache hit
+[2025-11-07T11:40:29.742657] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.742636] [INFO] Database query executed
+[2025-11-07T11:40:29.742646] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.742650] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.742655] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.742635] [INFO] Cache hit
+[2025-11-07T11:40:29.742651] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.742641] [INFO] Transaction completed
+[2025-11-07T11:40:29.742633] [INFO] Connection established
+[2025-11-07T11:40:29.742653] [DEBUG] Connection pool status checked

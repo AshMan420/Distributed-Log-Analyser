@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.013081] [INFO] Configuration loaded
+[2025-11-07T11:40:30.013074] [INFO] Health check passed
+[2025-11-07T11:40:30.013075] [INFO] Session started
+[2025-11-07T11:40:30.013099] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.013095] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.013088] [WARN] Cache miss
+[2025-11-07T11:40:30.013083] [INFO] Request processed successfully
+[2025-11-07T11:40:30.013097] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.013098] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.013085] [INFO] User logged in
+[2025-11-07T11:40:30.013084] [INFO] Request processed successfully
+[2025-11-07T11:40:30.013076] [INFO] Session started
+[2025-11-07T11:40:30.013079] [INFO] Service initialized
+[2025-11-07T11:40:30.013101] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.013092] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.013090] [WARN] Queue size growing
+[2025-11-07T11:40:30.013086] [INFO] Service initialized
+[2025-11-07T11:40:30.013093] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.013091] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.013103] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.013102] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.013100] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.013080] [INFO] Cache hit
+[2025-11-07T11:40:30.013096] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.013094] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.013081] [INFO] User logged in
+[2025-11-07T11:40:30.013082] [INFO] Health check passed
+[2025-11-07T11:40:30.013088] [WARN] Disk space low
+[2025-11-07T11:40:30.013078] [INFO] Cache hit

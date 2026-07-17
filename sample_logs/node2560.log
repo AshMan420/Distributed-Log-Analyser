@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.565444] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.565428] [INFO] Connection established
+[2025-11-07T11:40:29.565443] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.565442] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.565440] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.565434] [INFO] Transaction completed
+[2025-11-07T11:40:29.565427] [INFO] Request processed successfully
+[2025-11-07T11:40:29.565423] [INFO] Cache hit
+[2025-11-07T11:40:29.565425] [INFO] Session started
+[2025-11-07T11:40:29.565424] [INFO] Request processed successfully
+[2025-11-07T11:40:29.565431] [INFO] Request processed successfully
+[2025-11-07T11:40:29.565445] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.565449] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.565421] [INFO] Configuration loaded
+[2025-11-07T11:40:29.565429] [INFO] Health check passed
+[2025-11-07T11:40:29.565439] [ERROR] Request failed
+[2025-11-07T11:40:29.565448] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.565438] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.565441] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.565447] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.565433] [INFO] Transaction completed
+[2025-11-07T11:40:29.565436] [INFO] Cache hit
+[2025-11-07T11:40:29.565446] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.565432] [INFO] Request processed successfully
+[2025-11-07T11:40:29.565430] [INFO] User logged in
+[2025-11-07T11:40:29.565435] [INFO] Connection established
+[2025-11-07T11:40:29.565426] [INFO] Connection established

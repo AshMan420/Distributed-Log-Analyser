@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.721347] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.721334] [INFO] Cache hit
+[2025-11-07T11:40:29.721351] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.721333] [INFO] Health check passed
+[2025-11-07T11:40:29.721332] [INFO] Database query executed
+[2025-11-07T11:40:29.721346] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.721353] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.721325] [INFO] User logged in
+[2025-11-07T11:40:29.721336] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.721344] [ERROR] Disk read failed
+[2025-11-07T11:40:29.721352] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.721331] [INFO] Service initialized
+[2025-11-07T11:40:29.721324] [INFO] Session started
+[2025-11-07T11:40:29.721329] [INFO] Session started
+[2025-11-07T11:40:29.721341] [WARN] Timeout warning
+[2025-11-07T11:40:29.721348] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.721321] [INFO] Database query executed
+[2025-11-07T11:40:29.721342] [WARN] Cache miss
+[2025-11-07T11:40:29.721349] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.721349] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.721334] [INFO] Request processed successfully
+[2025-11-07T11:40:29.721340] [WARN] Cache miss
+[2025-11-07T11:40:29.721323] [INFO] Database query executed
+[2025-11-07T11:40:29.721328] [INFO] Service initialized
+[2025-11-07T11:40:29.721330] [INFO] Health check passed
+[2025-11-07T11:40:29.721327] [INFO] Connection established
+[2025-11-07T11:40:29.721339] [WARN] High memory usage detected
+[2025-11-07T11:40:29.721326] [INFO] User logged in
+[2025-11-07T11:40:29.721338] [WARN] High memory usage detected
+[2025-11-07T11:40:29.721341] [WARN] Disk space low
+[2025-11-07T11:40:29.721335] [INFO] Request processed successfully
+[2025-11-07T11:40:29.721351] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.721343] [ERROR] Permission denied

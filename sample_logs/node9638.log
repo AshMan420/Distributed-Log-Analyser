@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.333705] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.333713] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.333701] [ERROR] Request failed
+[2025-11-07T11:40:30.333711] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.333684] [INFO] Session started
+[2025-11-07T11:40:30.333702] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.333695] [INFO] Configuration loaded
+[2025-11-07T11:40:30.333692] [INFO] Health check passed
+[2025-11-07T11:40:30.333693] [INFO] Session started
+[2025-11-07T11:40:30.333700] [WARN] Queue size growing
+[2025-11-07T11:40:30.333698] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.333686] [INFO] Service initialized
+[2025-11-07T11:40:30.333712] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.333683] [INFO] Connection established
+[2025-11-07T11:40:30.333708] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.333696] [INFO] Cache hit
+[2025-11-07T11:40:30.333709] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.333680] [INFO] User logged in
+[2025-11-07T11:40:30.333706] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.333703] [ERROR] Database connection lost
+[2025-11-07T11:40:30.333691] [INFO] User logged in
+[2025-11-07T11:40:30.333687] [INFO] Session started
+[2025-11-07T11:40:30.333685] [INFO] Connection established
+[2025-11-07T11:40:30.333710] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.333704] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.333688] [INFO] Request processed successfully
+[2025-11-07T11:40:30.333697] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.333690] [INFO] Connection established
+[2025-11-07T11:40:30.333699] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.333689] [INFO] Session started
+[2025-11-07T11:40:30.333681] [INFO] Service initialized
+[2025-11-07T11:40:30.333694] [INFO] Transaction completed

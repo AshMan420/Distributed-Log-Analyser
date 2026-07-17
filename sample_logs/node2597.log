@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.571963] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.571958] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.571946] [INFO] User logged in
+[2025-11-07T11:40:29.571956] [ERROR] Disk read failed
+[2025-11-07T11:40:29.571947] [INFO] Request processed successfully
+[2025-11-07T11:40:29.571964] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.571962] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.571957] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.571959] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.571942] [INFO] Cache hit
+[2025-11-07T11:40:29.571949] [INFO] Cache hit
+[2025-11-07T11:40:29.571953] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.571960] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.571954] [WARN] Cache miss
+[2025-11-07T11:40:29.571955] [WARN] Timeout warning
+[2025-11-07T11:40:29.571965] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.571938] [INFO] Request processed successfully
+[2025-11-07T11:40:29.571940] [INFO] Connection established
+[2025-11-07T11:40:29.571936] [INFO] Transaction completed
+[2025-11-07T11:40:29.571948] [INFO] Health check passed
+[2025-11-07T11:40:29.571967] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.571963] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.571966] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.571939] [INFO] Session started
+[2025-11-07T11:40:29.571951] [INFO] User logged in
+[2025-11-07T11:40:29.571941] [INFO] Session started
+[2025-11-07T11:40:29.571945] [INFO] Cache hit
+[2025-11-07T11:40:29.571943] [INFO] Transaction completed
+[2025-11-07T11:40:29.571950] [INFO] Transaction completed
+[2025-11-07T11:40:29.571952] [WARN] Timeout warning
+[2025-11-07T11:40:29.571944] [INFO] Session started

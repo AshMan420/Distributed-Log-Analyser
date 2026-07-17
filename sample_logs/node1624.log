@@ -1,0 +1,41 @@
+[2025-11-07T11:40:29.462304] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.462276] [INFO] Cache hit
+[2025-11-07T11:40:29.462278] [INFO] Cache hit
+[2025-11-07T11:40:29.462280] [INFO] User logged in
+[2025-11-07T11:40:29.462297] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.462288] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.462272] [INFO] Health check passed
+[2025-11-07T11:40:29.462287] [WARN] Disk space low
+[2025-11-07T11:40:29.462303] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.462278] [INFO] Database query executed
+[2025-11-07T11:40:29.462279] [INFO] Configuration loaded
+[2025-11-07T11:40:29.462301] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.462299] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.462299] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.462283] [INFO] User logged in
+[2025-11-07T11:40:29.462296] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.462289] [ERROR] Network timeout
+[2025-11-07T11:40:29.462274] [INFO] Request processed successfully
+[2025-11-07T11:40:29.462295] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.462284] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.462302] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.462300] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.462282] [INFO] Session started
+[2025-11-07T11:40:29.462292] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.462291] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.462281] [INFO] User logged in
+[2025-11-07T11:40:29.462286] [WARN] Queue size growing
+[2025-11-07T11:40:29.462305] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.462268] [INFO] Configuration loaded
+[2025-11-07T11:40:29.462275] [INFO] Database query executed
+[2025-11-07T11:40:29.462306] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.462293] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.462271] [INFO] Session started
+[2025-11-07T11:40:29.462273] [INFO] Request processed successfully
+[2025-11-07T11:40:29.462285] [WARN] Queue size growing
+[2025-11-07T11:40:29.462294] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.462270] [INFO] Request processed successfully
+[2025-11-07T11:40:29.462290] [ERROR] Authentication failed
+[2025-11-07T11:40:29.462298] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.462277] [INFO] Database query executed
+[2025-11-07T11:40:29.462307] [DEBUG] Buffer size: 4096 bytes

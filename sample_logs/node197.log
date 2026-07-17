@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.311615] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.311592] [INFO] Transaction completed
+[2025-11-07T11:40:29.311591] [INFO] Transaction completed
+[2025-11-07T11:40:29.311596] [INFO] Cache hit
+[2025-11-07T11:40:29.311604] [WARN] Slow query performance
+[2025-11-07T11:40:29.311601] [INFO] Service initialized
+[2025-11-07T11:40:29.311602] [INFO] Health check passed
+[2025-11-07T11:40:29.311616] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.311594] [INFO] Service initialized
+[2025-11-07T11:40:29.311617] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.311612] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.311598] [INFO] User logged in
+[2025-11-07T11:40:29.311610] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.311595] [INFO] Database query executed
+[2025-11-07T11:40:29.311616] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.311603] [INFO] Transaction completed
+[2025-11-07T11:40:29.311607] [ERROR] Disk read failed
+[2025-11-07T11:40:29.311597] [INFO] Cache hit
+[2025-11-07T11:40:29.311614] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.311593] [INFO] Configuration loaded
+[2025-11-07T11:40:29.311606] [WARN] Queue size growing
+[2025-11-07T11:40:29.311599] [INFO] Configuration loaded
+[2025-11-07T11:40:29.311605] [WARN] Queue size growing
+[2025-11-07T11:40:29.311600] [INFO] Request processed successfully
+[2025-11-07T11:40:29.311613] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.311611] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.311609] [ERROR] Authentication failed

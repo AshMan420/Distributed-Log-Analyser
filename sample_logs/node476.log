@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.341327] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.341320] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.341312] [INFO] Session started
+[2025-11-07T11:40:29.341301] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341305] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341322] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.341315] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.341308] [INFO] Cache hit
+[2025-11-07T11:40:29.341319] [ERROR] Service unavailable
+[2025-11-07T11:40:29.341326] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.341317] [WARN] Timeout warning
+[2025-11-07T11:40:29.341306] [INFO] Request processed successfully
+[2025-11-07T11:40:29.341321] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.341318] [WARN] Cache miss
+[2025-11-07T11:40:29.341309] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341325] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.341313] [INFO] Configuration loaded
+[2025-11-07T11:40:29.341304] [INFO] Connection established
+[2025-11-07T11:40:29.341311] [INFO] Cache hit
+[2025-11-07T11:40:29.341314] [INFO] Request processed successfully
+[2025-11-07T11:40:29.341327] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.341302] [INFO] Health check passed
+[2025-11-07T11:40:29.341308] [INFO] Service initialized
+[2025-11-07T11:40:29.341303] [INFO] User logged in
+[2025-11-07T11:40:29.341307] [INFO] Session started
+[2025-11-07T11:40:29.341323] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.341299] [INFO] Request processed successfully
+[2025-11-07T11:40:29.341324] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.341316] [WARN] High memory usage detected

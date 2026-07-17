@@ -1,0 +1,22 @@
+[2025-11-07T11:40:30.135970] [INFO] Cache hit
+[2025-11-07T11:40:30.135977] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.135963] [INFO] User logged in
+[2025-11-07T11:40:30.135966] [INFO] Health check passed
+[2025-11-07T11:40:30.135981] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.135972] [INFO] Health check passed
+[2025-11-07T11:40:30.135984] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.135974] [ERROR] Request failed
+[2025-11-07T11:40:30.135968] [INFO] Request processed successfully
+[2025-11-07T11:40:30.135973] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.135986] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.135982] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.135975] [ERROR] Disk read failed
+[2025-11-07T11:40:30.135979] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.135965] [INFO] User logged in
+[2025-11-07T11:40:30.135985] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.135980] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.135967] [INFO] Cache hit
+[2025-11-07T11:40:30.135969] [INFO] Cache hit
+[2025-11-07T11:40:30.135983] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.135971] [INFO] Session started
+[2025-11-07T11:40:30.135976] [DEBUG] Memory allocation: 2048 bytes

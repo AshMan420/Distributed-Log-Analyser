@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.285171] [INFO] Configuration loaded
+[2025-11-07T11:40:30.285180] [WARN] Timeout warning
+[2025-11-07T11:40:30.285192] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.285169] [INFO] User logged in
+[2025-11-07T11:40:30.285172] [INFO] Cache hit
+[2025-11-07T11:40:30.285165] [INFO] Cache hit
+[2025-11-07T11:40:30.285177] [INFO] Database query executed
+[2025-11-07T11:40:30.285188] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.285178] [INFO] Connection established
+[2025-11-07T11:40:30.285167] [INFO] Session started
+[2025-11-07T11:40:30.285179] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.285175] [INFO] Transaction completed
+[2025-11-07T11:40:30.285190] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.285186] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.285174] [INFO] Cache hit
+[2025-11-07T11:40:30.285168] [INFO] Session started
+[2025-11-07T11:40:30.285182] [WARN] Disk space low
+[2025-11-07T11:40:30.285173] [INFO] Configuration loaded
+[2025-11-07T11:40:30.285193] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.285166] [INFO] Cache hit
+[2025-11-07T11:40:30.285189] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.285187] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.285183] [ERROR] Request failed
+[2025-11-07T11:40:30.285191] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.285185] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.285184] [ERROR] Disk read failed
+[2025-11-07T11:40:30.285181] [WARN] Queue size growing
+[2025-11-07T11:40:30.285176] [INFO] Connection established

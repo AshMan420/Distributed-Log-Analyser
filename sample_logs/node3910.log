@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.711986] [INFO] Cache hit
+[2025-11-07T11:40:29.711992] [INFO] Connection established
+[2025-11-07T11:40:29.712020] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.712016] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.712002] [WARN] Timeout warning
+[2025-11-07T11:40:29.711996] [INFO] Database query executed
+[2025-11-07T11:40:29.712005] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.712012] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.712013] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.712001] [WARN] Cache miss
+[2025-11-07T11:40:29.711998] [INFO] Session started
+[2025-11-07T11:40:29.712006] [WARN] Queue size growing
+[2025-11-07T11:40:29.712007] [WARN] Timeout warning
+[2025-11-07T11:40:29.711989] [INFO] Transaction completed
+[2025-11-07T11:40:29.712014] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.711995] [INFO] Health check passed
+[2025-11-07T11:40:29.712018] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.711990] [INFO] Service initialized
+[2025-11-07T11:40:29.712019] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.711993] [INFO] Connection established
+[2025-11-07T11:40:29.712010] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.712004] [WARN] Timeout warning
+[2025-11-07T11:40:29.712017] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.711999] [INFO] User logged in
+[2025-11-07T11:40:29.711988] [INFO] Connection established
+[2025-11-07T11:40:29.712008] [ERROR] Invalid input data
+[2025-11-07T11:40:29.711987] [INFO] Session started
+[2025-11-07T11:40:29.712011] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.712000] [INFO] Request processed successfully
+[2025-11-07T11:40:29.712015] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.711994] [INFO] Database query executed
+[2025-11-07T11:40:29.711997] [INFO] Connection established
+[2025-11-07T11:40:29.711993] [INFO] Service initialized
+[2025-11-07T11:40:29.712009] [ERROR] Authentication failed

@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.836141] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.836128] [INFO] User logged in
+[2025-11-07T11:40:29.836140] [ERROR] Request failed
+[2025-11-07T11:40:29.836145] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.836139] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.836127] [INFO] Database query executed
+[2025-11-07T11:40:29.836133] [INFO] Health check passed
+[2025-11-07T11:40:29.836147] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.836142] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.836129] [INFO] Request processed successfully
+[2025-11-07T11:40:29.836144] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.836146] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.836135] [INFO] User logged in
+[2025-11-07T11:40:29.836149] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.836125] [INFO] Transaction completed
+[2025-11-07T11:40:29.836134] [INFO] Health check passed
+[2025-11-07T11:40:29.836136] [WARN] Cache miss
+[2025-11-07T11:40:29.836131] [INFO] Database query executed
+[2025-11-07T11:40:29.836137] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.836130] [INFO] Service initialized
+[2025-11-07T11:40:29.836148] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.836132] [INFO] Session started
+[2025-11-07T11:40:29.836138] [WARN] Queue size growing
+[2025-11-07T11:40:29.836150] [DEBUG] Buffer size: 4096 bytes

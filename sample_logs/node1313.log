@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.428949] [INFO] Cache hit
+[2025-11-07T11:40:29.428943] [INFO] Transaction completed
+[2025-11-07T11:40:29.428945] [INFO] Database query executed
+[2025-11-07T11:40:29.428966] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.428970] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.428955] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.428951] [INFO] Service initialized
+[2025-11-07T11:40:29.428939] [INFO] User logged in
+[2025-11-07T11:40:29.428964] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.428968] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.428947] [INFO] Session started
+[2025-11-07T11:40:29.428963] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.428967] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.428957] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.428951] [INFO] Database query executed
+[2025-11-07T11:40:29.428950] [INFO] User logged in
+[2025-11-07T11:40:29.428958] [WARN] High memory usage detected
+[2025-11-07T11:40:29.428948] [INFO] Session started
+[2025-11-07T11:40:29.428956] [WARN] Disk space low
+[2025-11-07T11:40:29.428965] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.428945] [INFO] Service initialized
+[2025-11-07T11:40:29.428953] [INFO] Database query executed
+[2025-11-07T11:40:29.428969] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.428940] [INFO] Transaction completed
+[2025-11-07T11:40:29.428959] [WARN] High memory usage detected
+[2025-11-07T11:40:29.428961] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.428960] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.428941] [INFO] Transaction completed
+[2025-11-07T11:40:29.428952] [INFO] Database query executed
+[2025-11-07T11:40:29.428942] [INFO] User logged in
+[2025-11-07T11:40:29.428962] [DEBUG] Entering function process_data()

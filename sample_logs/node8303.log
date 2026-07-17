@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.174860] [INFO] Health check passed
+[2025-11-07T11:40:30.174892] [ERROR] Authentication failed
+[2025-11-07T11:40:30.174879] [INFO] Health check passed
+[2025-11-07T11:40:30.174887] [WARN] Timeout warning
+[2025-11-07T11:40:30.174900] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.174871] [INFO] Cache hit
+[2025-11-07T11:40:30.174876] [INFO] Service initialized
+[2025-11-07T11:40:30.174890] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.174886] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.174881] [INFO] Configuration loaded
+[2025-11-07T11:40:30.174888] [WARN] High memory usage detected
+[2025-11-07T11:40:30.174873] [INFO] Health check passed
+[2025-11-07T11:40:30.174889] [WARN] Slow query performance
+[2025-11-07T11:40:30.174901] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.174898] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.174896] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.174872] [INFO] Transaction completed
+[2025-11-07T11:40:30.174858] [INFO] Request processed successfully
+[2025-11-07T11:40:30.174875] [INFO] Session started
+[2025-11-07T11:40:30.174899] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.174882] [INFO] Health check passed
+[2025-11-07T11:40:30.174869] [INFO] Connection established
+[2025-11-07T11:40:30.174859] [INFO] Database query executed
+[2025-11-07T11:40:30.174861] [INFO] Connection established
+[2025-11-07T11:40:30.174870] [INFO] Connection established
+[2025-11-07T11:40:30.174893] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.174884] [INFO] Connection established
+[2025-11-07T11:40:30.174885] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.174877] [INFO] Service initialized
+[2025-11-07T11:40:30.174880] [INFO] Transaction completed
+[2025-11-07T11:40:30.174874] [INFO] Health check passed
+[2025-11-07T11:40:30.174883] [INFO] Request processed successfully
+[2025-11-07T11:40:30.174894] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.174897] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.174895] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.174891] [ERROR] Disk read failed

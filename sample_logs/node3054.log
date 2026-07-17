@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.619759] [WARN] Timeout warning
+[2025-11-07T11:40:29.619767] [ERROR] Database connection lost
+[2025-11-07T11:40:29.619777] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.619751] [INFO] Cache hit
+[2025-11-07T11:40:29.619771] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.619742] [INFO] Request processed successfully
+[2025-11-07T11:40:29.619768] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.619747] [INFO] Health check passed
+[2025-11-07T11:40:29.619772] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.619749] [INFO] Configuration loaded
+[2025-11-07T11:40:29.619743] [INFO] Health check passed
+[2025-11-07T11:40:29.619779] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.619773] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.619774] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.619752] [INFO] Service initialized
+[2025-11-07T11:40:29.619760] [WARN] Queue size growing
+[2025-11-07T11:40:29.619740] [INFO] Connection established
+[2025-11-07T11:40:29.619755] [INFO] User logged in
+[2025-11-07T11:40:29.619748] [INFO] Cache hit
+[2025-11-07T11:40:29.619770] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.619780] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.619776] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.619758] [INFO] Transaction completed
+[2025-11-07T11:40:29.619756] [INFO] Database query executed
+[2025-11-07T11:40:29.619778] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.619764] [ERROR] Request failed
+[2025-11-07T11:40:29.619746] [INFO] Database query executed
+[2025-11-07T11:40:29.619753] [INFO] Transaction completed
+[2025-11-07T11:40:29.619746] [INFO] Database query executed
+[2025-11-07T11:40:29.619744] [INFO] Configuration loaded
+[2025-11-07T11:40:29.619766] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.619762] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.619763] [WARN] Slow query performance
+[2025-11-07T11:40:29.619745] [INFO] Request processed successfully
+[2025-11-07T11:40:29.619775] [DEBUG] Connection pool status checked

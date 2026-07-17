@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.802125] [ERROR] Permission denied
+[2025-11-07T11:40:29.802120] [INFO] Cache hit
+[2025-11-07T11:40:29.802108] [INFO] Session started
+[2025-11-07T11:40:29.802109] [INFO] Configuration loaded
+[2025-11-07T11:40:29.802127] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.802129] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.802118] [INFO] Session started
+[2025-11-07T11:40:29.802112] [INFO] Connection established
+[2025-11-07T11:40:29.802126] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.802128] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.802114] [INFO] Health check passed
+[2025-11-07T11:40:29.802130] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.802134] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.802131] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.802123] [WARN] Disk space low
+[2025-11-07T11:40:29.802110] [INFO] Request processed successfully
+[2025-11-07T11:40:29.802132] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.802107] [INFO] Session started
+[2025-11-07T11:40:29.802124] [WARN] Queue size growing
+[2025-11-07T11:40:29.802117] [INFO] Health check passed
+[2025-11-07T11:40:29.802111] [INFO] Database query executed
+[2025-11-07T11:40:29.802122] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.802113] [INFO] Configuration loaded
+[2025-11-07T11:40:29.802121] [WARN] High memory usage detected
+[2025-11-07T11:40:29.802116] [INFO] Request processed successfully
+[2025-11-07T11:40:29.802105] [INFO] User logged in
+[2025-11-07T11:40:29.802119] [INFO] Configuration loaded
+[2025-11-07T11:40:29.802133] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.802115] [INFO] Session started

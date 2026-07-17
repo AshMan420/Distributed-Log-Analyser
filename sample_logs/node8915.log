@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.249496] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.249488] [ERROR] Disk read failed
+[2025-11-07T11:40:30.249474] [INFO] Cache hit
+[2025-11-07T11:40:30.249498] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.249492] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.249484] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.249465] [INFO] Transaction completed
+[2025-11-07T11:40:30.249467] [INFO] Health check passed
+[2025-11-07T11:40:30.249481] [INFO] Session started
+[2025-11-07T11:40:30.249477] [INFO] Request processed successfully
+[2025-11-07T11:40:30.249464] [INFO] Request processed successfully
+[2025-11-07T11:40:30.249493] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.249487] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.249476] [INFO] Service initialized
+[2025-11-07T11:40:30.249499] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.249470] [INFO] Service initialized
+[2025-11-07T11:40:30.249485] [WARN] Cache miss
+[2025-11-07T11:40:30.249497] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.249468] [INFO] User logged in
+[2025-11-07T11:40:30.249480] [INFO] Connection established
+[2025-11-07T11:40:30.249469] [INFO] Cache hit
+[2025-11-07T11:40:30.249483] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.249462] [INFO] Database query executed
+[2025-11-07T11:40:30.249490] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.249473] [INFO] Session started
+[2025-11-07T11:40:30.249463] [INFO] Session started
+[2025-11-07T11:40:30.249478] [INFO] Health check passed
+[2025-11-07T11:40:30.249472] [INFO] Database query executed
+[2025-11-07T11:40:30.249494] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.245710] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.245685] [INFO] Service initialized
+[2025-11-07T11:40:30.245699] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.245690] [INFO] Connection established
+[2025-11-07T11:40:30.245693] [INFO] Transaction completed
+[2025-11-07T11:40:30.245710] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.245683] [INFO] Configuration loaded
+[2025-11-07T11:40:30.245686] [INFO] User logged in
+[2025-11-07T11:40:30.245694] [INFO] Health check passed
+[2025-11-07T11:40:30.245707] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.245709] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.245702] [ERROR] Disk read failed
+[2025-11-07T11:40:30.245697] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.245700] [WARN] Cache miss
+[2025-11-07T11:40:30.245701] [ERROR] Service unavailable
+[2025-11-07T11:40:30.245704] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.245706] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.245698] [WARN] Queue size growing
+[2025-11-07T11:40:30.245692] [INFO] Cache hit
+[2025-11-07T11:40:30.245688] [INFO] Cache hit
+[2025-11-07T11:40:30.245703] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.245691] [INFO] Request processed successfully
+[2025-11-07T11:40:30.245705] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.245682] [INFO] Transaction completed
+[2025-11-07T11:40:30.245696] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.245708] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.245695] [INFO] Session started
+[2025-11-07T11:40:30.245689] [INFO] Session started
+[2025-11-07T11:40:30.245687] [INFO] Configuration loaded

@@ -1,0 +1,21 @@
+[2025-11-07T11:40:30.148246] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.148243] [WARN] Disk space low
+[2025-11-07T11:40:30.148250] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.148247] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.148238] [INFO] Request processed successfully
+[2025-11-07T11:40:30.148248] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.148249] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.148245] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.148230] [INFO] Request processed successfully
+[2025-11-07T11:40:30.148234] [INFO] User logged in
+[2025-11-07T11:40:30.148232] [INFO] Health check passed
+[2025-11-07T11:40:30.148236] [INFO] Database query executed
+[2025-11-07T11:40:30.148235] [INFO] User logged in
+[2025-11-07T11:40:30.148241] [INFO] Cache hit
+[2025-11-07T11:40:30.148251] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.148244] [ERROR] Service unavailable
+[2025-11-07T11:40:30.148239] [INFO] Request processed successfully
+[2025-11-07T11:40:30.148240] [INFO] Request processed successfully
+[2025-11-07T11:40:30.148242] [INFO] Service initialized
+[2025-11-07T11:40:30.148231] [INFO] Service initialized
+[2025-11-07T11:40:30.148237] [INFO] User logged in

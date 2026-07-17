@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.310280] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.310286] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.310273] [INFO] Session started
+[2025-11-07T11:40:30.310288] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.310281] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.310283] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.310285] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.310268] [INFO] Database query executed
+[2025-11-07T11:40:30.310262] [INFO] Session started
+[2025-11-07T11:40:30.310272] [INFO] Health check passed
+[2025-11-07T11:40:30.310263] [INFO] Cache hit
+[2025-11-07T11:40:30.310267] [INFO] Session started
+[2025-11-07T11:40:30.310261] [INFO] Service initialized
+[2025-11-07T11:40:30.310284] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.310270] [INFO] Database query executed
+[2025-11-07T11:40:30.310274] [INFO] User logged in
+[2025-11-07T11:40:30.310277] [WARN] Cache miss
+[2025-11-07T11:40:30.310260] [INFO] Cache hit
+[2025-11-07T11:40:30.310277] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.310275] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.310265] [INFO] Cache hit
+[2025-11-07T11:40:30.310287] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.310264] [INFO] User logged in
+[2025-11-07T11:40:30.310269] [INFO] Cache hit
+[2025-11-07T11:40:30.310282] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.310279] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.310271] [INFO] Request processed successfully
+[2025-11-07T11:40:30.310275] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.310266] [INFO] Cache hit

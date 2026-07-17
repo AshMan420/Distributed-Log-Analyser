@@ -1,0 +1,39 @@
+[2025-11-07T11:40:29.612062] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.612050] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.612035] [INFO] User logged in
+[2025-11-07T11:40:29.612058] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.612024] [INFO] Connection established
+[2025-11-07T11:40:29.612029] [INFO] Service initialized
+[2025-11-07T11:40:29.612055] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.612044] [WARN] Disk space low
+[2025-11-07T11:40:29.612052] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.612039] [INFO] Configuration loaded
+[2025-11-07T11:40:29.612045] [WARN] Disk space low
+[2025-11-07T11:40:29.612033] [INFO] Request processed successfully
+[2025-11-07T11:40:29.612025] [INFO] User logged in
+[2025-11-07T11:40:29.612049] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.612026] [INFO] Service initialized
+[2025-11-07T11:40:29.612059] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.612063] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.612032] [INFO] User logged in
+[2025-11-07T11:40:29.612047] [ERROR] Service unavailable
+[2025-11-07T11:40:29.612040] [INFO] Service initialized
+[2025-11-07T11:40:29.612034] [INFO] Health check passed
+[2025-11-07T11:40:29.612032] [INFO] User logged in
+[2025-11-07T11:40:29.612030] [INFO] Transaction completed
+[2025-11-07T11:40:29.612038] [INFO] Cache hit
+[2025-11-07T11:40:29.612043] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.612048] [ERROR] Authentication failed
+[2025-11-07T11:40:29.612028] [INFO] Transaction completed
+[2025-11-07T11:40:29.612041] [INFO] Health check passed
+[2025-11-07T11:40:29.612057] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.612054] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.612031] [INFO] Configuration loaded
+[2025-11-07T11:40:29.612056] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.612037] [INFO] Connection established
+[2025-11-07T11:40:29.612051] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.612046] [WARN] Timeout warning
+[2025-11-07T11:40:29.612036] [INFO] Service initialized
+[2025-11-07T11:40:29.612053] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.612061] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.612060] [DEBUG] Thread pool size: 8

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.986491] [INFO] Session started
+[2025-11-07T11:40:29.986490] [INFO] Transaction completed
+[2025-11-07T11:40:29.986492] [INFO] Connection established
+[2025-11-07T11:40:29.986485] [INFO] Transaction completed
+[2025-11-07T11:40:29.986499] [WARN] Timeout warning
+[2025-11-07T11:40:29.986495] [INFO] Transaction completed
+[2025-11-07T11:40:29.986496] [INFO] Database query executed
+[2025-11-07T11:40:29.986500] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.986497] [INFO] Cache hit
+[2025-11-07T11:40:29.986486] [INFO] Database query executed
+[2025-11-07T11:40:29.986503] [ERROR] Network timeout
+[2025-11-07T11:40:29.986488] [INFO] Database query executed
+[2025-11-07T11:40:29.986507] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.986506] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.986510] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.986511] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.986513] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.986494] [INFO] Transaction completed
+[2025-11-07T11:40:29.986501] [WARN] Slow query performance
+[2025-11-07T11:40:29.986505] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.986512] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.986484] [INFO] Health check passed
+[2025-11-07T11:40:29.986483] [INFO] Request processed successfully
+[2025-11-07T11:40:29.986509] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.986481] [INFO] Database query executed
+[2025-11-07T11:40:29.986508] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.986480] [INFO] Service initialized
+[2025-11-07T11:40:29.986487] [INFO] Transaction completed
+[2025-11-07T11:40:29.986498] [INFO] Cache hit
+[2025-11-07T11:40:29.986504] [ERROR] Service unavailable
+[2025-11-07T11:40:29.986489] [INFO] Health check passed
+[2025-11-07T11:40:29.986493] [INFO] Health check passed
+[2025-11-07T11:40:29.986482] [INFO] Connection established

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.966149] [INFO] User logged in
+[2025-11-07T11:40:29.966167] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.966157] [WARN] Timeout warning
+[2025-11-07T11:40:29.966141] [INFO] Session started
+[2025-11-07T11:40:29.966159] [WARN] Disk space low
+[2025-11-07T11:40:29.966167] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.966158] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.966155] [WARN] Disk space low
+[2025-11-07T11:40:29.966165] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.966143] [INFO] Request processed successfully
+[2025-11-07T11:40:29.966140] [INFO] Database query executed
+[2025-11-07T11:40:29.966161] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.966156] [WARN] Cache miss
+[2025-11-07T11:40:29.966162] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.966150] [INFO] Connection established
+[2025-11-07T11:40:29.966166] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.966148] [INFO] Connection established
+[2025-11-07T11:40:29.966152] [INFO] Configuration loaded
+[2025-11-07T11:40:29.966151] [INFO] Session started
+[2025-11-07T11:40:29.966160] [ERROR] Permission denied
+[2025-11-07T11:40:29.966145] [INFO] Connection established
+[2025-11-07T11:40:29.966153] [INFO] Transaction completed
+[2025-11-07T11:40:29.966146] [INFO] Request processed successfully
+[2025-11-07T11:40:29.966142] [INFO] Request processed successfully
+[2025-11-07T11:40:29.966147] [INFO] Request processed successfully
+[2025-11-07T11:40:29.966144] [INFO] Health check passed
+[2025-11-07T11:40:29.966164] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.966163] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.966154] [INFO] Transaction completed

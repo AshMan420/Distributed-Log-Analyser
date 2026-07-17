@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.964200] [WARN] High memory usage detected
+[2025-11-07T11:40:29.964184] [INFO] Cache hit
+[2025-11-07T11:40:29.964205] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.964203] [ERROR] Disk read failed
+[2025-11-07T11:40:29.964191] [INFO] Database query executed
+[2025-11-07T11:40:29.964207] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.964199] [WARN] Slow query performance
+[2025-11-07T11:40:29.964193] [INFO] Connection established
+[2025-11-07T11:40:29.964210] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.964195] [INFO] User logged in
+[2025-11-07T11:40:29.964209] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.964196] [WARN] Cache miss
+[2025-11-07T11:40:29.964192] [INFO] Connection established
+[2025-11-07T11:40:29.964208] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.964198] [WARN] Cache miss
+[2025-11-07T11:40:29.964183] [INFO] Health check passed
+[2025-11-07T11:40:29.964206] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.964185] [INFO] Request processed successfully
+[2025-11-07T11:40:29.964190] [INFO] Transaction completed
+[2025-11-07T11:40:29.964181] [INFO] Session started
+[2025-11-07T11:40:29.964201] [WARN] Queue size growing
+[2025-11-07T11:40:29.964187] [INFO] Configuration loaded
+[2025-11-07T11:40:29.964194] [INFO] Configuration loaded
+[2025-11-07T11:40:29.964197] [WARN] High memory usage detected
+[2025-11-07T11:40:29.964189] [INFO] Transaction completed
+[2025-11-07T11:40:29.964186] [INFO] Session started
+[2025-11-07T11:40:29.964179] [INFO] Connection established
+[2025-11-07T11:40:29.964202] [WARN] High memory usage detected
+[2025-11-07T11:40:29.964204] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.964182] [INFO] Transaction completed
+[2025-11-07T11:40:29.964188] [INFO] Health check passed

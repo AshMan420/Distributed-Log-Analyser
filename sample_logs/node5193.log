@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.842368] [INFO] Connection established
+[2025-11-07T11:40:29.842384] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.842385] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.842367] [INFO] Transaction completed
+[2025-11-07T11:40:29.842370] [INFO] Service initialized
+[2025-11-07T11:40:29.842364] [INFO] User logged in
+[2025-11-07T11:40:29.842365] [INFO] Transaction completed
+[2025-11-07T11:40:29.842379] [WARN] Cache miss
+[2025-11-07T11:40:29.842382] [ERROR] Disk read failed
+[2025-11-07T11:40:29.842378] [WARN] Slow query performance
+[2025-11-07T11:40:29.842372] [INFO] Transaction completed
+[2025-11-07T11:40:29.842392] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.842390] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.842387] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.842389] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.842393] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.842381] [ERROR] Request failed
+[2025-11-07T11:40:29.842380] [WARN] Cache miss
+[2025-11-07T11:40:29.842377] [WARN] Disk space low
+[2025-11-07T11:40:29.842375] [INFO] Health check passed
+[2025-11-07T11:40:29.842391] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.842388] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.842369] [INFO] Session started
+[2025-11-07T11:40:29.842374] [INFO] Session started
+[2025-11-07T11:40:29.842366] [INFO] Connection established
+[2025-11-07T11:40:29.842363] [INFO] User logged in
+[2025-11-07T11:40:29.842373] [INFO] Session started
+[2025-11-07T11:40:29.842376] [WARN] Cache miss
+[2025-11-07T11:40:29.842371] [INFO] Transaction completed
+[2025-11-07T11:40:29.842386] [DEBUG] Variable value: x=42

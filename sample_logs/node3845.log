@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.705112] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.705100] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.705106] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.705090] [INFO] Session started
+[2025-11-07T11:40:29.705102] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.705086] [INFO] Database query executed
+[2025-11-07T11:40:29.705087] [INFO] Database query executed
+[2025-11-07T11:40:29.705098] [WARN] Cache miss
+[2025-11-07T11:40:29.705096] [WARN] Disk space low
+[2025-11-07T11:40:29.705085] [INFO] Session started
+[2025-11-07T11:40:29.705104] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.705111] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.705080] [INFO] Cache hit
+[2025-11-07T11:40:29.705101] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.705107] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.705088] [INFO] Cache hit
+[2025-11-07T11:40:29.705089] [INFO] Session started
+[2025-11-07T11:40:29.705109] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.705079] [INFO] Service initialized
+[2025-11-07T11:40:29.705093] [INFO] Connection established
+[2025-11-07T11:40:29.705082] [INFO] Cache hit
+[2025-11-07T11:40:29.705110] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.705108] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.705103] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.705078] [INFO] Session started
+[2025-11-07T11:40:29.705095] [INFO] Database query executed
+[2025-11-07T11:40:29.705084] [INFO] Cache hit
+[2025-11-07T11:40:29.705105] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.705091] [INFO] Configuration loaded
+[2025-11-07T11:40:29.705094] [INFO] Connection established
+[2025-11-07T11:40:29.705092] [INFO] Request processed successfully
+[2025-11-07T11:40:29.705097] [WARN] Disk space low
+[2025-11-07T11:40:29.705099] [WARN] Cache miss
+[2025-11-07T11:40:29.705083] [INFO] Cache hit

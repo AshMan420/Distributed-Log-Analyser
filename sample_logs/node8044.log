@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.144536] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.144535] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.144534] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.144530] [ERROR] Permission denied
+[2025-11-07T11:40:30.144527] [WARN] High memory usage detected
+[2025-11-07T11:40:30.144525] [WARN] Queue size growing
+[2025-11-07T11:40:30.144512] [INFO] Cache hit
+[2025-11-07T11:40:30.144540] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.144531] [ERROR] Database connection lost
+[2025-11-07T11:40:30.144533] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.144510] [INFO] Connection established
+[2025-11-07T11:40:30.144528] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.144519] [INFO] Session started
+[2025-11-07T11:40:30.144516] [INFO] Configuration loaded
+[2025-11-07T11:40:30.144532] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.144515] [INFO] Configuration loaded
+[2025-11-07T11:40:30.144521] [INFO] Connection established
+[2025-11-07T11:40:30.144518] [INFO] Health check passed
+[2025-11-07T11:40:30.144538] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.144514] [INFO] Service initialized
+[2025-11-07T11:40:30.144537] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.144522] [INFO] Transaction completed
+[2025-11-07T11:40:30.144529] [WARN] Timeout warning
+[2025-11-07T11:40:30.144517] [INFO] Session started
+[2025-11-07T11:40:30.144526] [WARN] Timeout warning
+[2025-11-07T11:40:30.144513] [INFO] Connection established
+[2025-11-07T11:40:30.144524] [INFO] Request processed successfully
+[2025-11-07T11:40:30.144523] [INFO] User logged in
+[2025-11-07T11:40:30.144520] [INFO] Transaction completed
+[2025-11-07T11:40:30.144539] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.144511] [INFO] Database query executed

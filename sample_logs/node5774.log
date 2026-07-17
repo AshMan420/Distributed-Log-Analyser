@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.901899] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.901881] [INFO] Transaction completed
+[2025-11-07T11:40:29.901887] [WARN] Slow query performance
+[2025-11-07T11:40:29.901882] [INFO] Connection established
+[2025-11-07T11:40:29.901896] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.901897] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.901870] [INFO] Service initialized
+[2025-11-07T11:40:29.901869] [INFO] Database query executed
+[2025-11-07T11:40:29.901885] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.901880] [INFO] Cache hit
+[2025-11-07T11:40:29.901903] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.901879] [INFO] Configuration loaded
+[2025-11-07T11:40:29.901892] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.901889] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.901886] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.901901] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.901888] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.901877] [INFO] Session started
+[2025-11-07T11:40:29.901875] [INFO] User logged in
+[2025-11-07T11:40:29.901878] [INFO] User logged in
+[2025-11-07T11:40:29.901883] [INFO] User logged in
+[2025-11-07T11:40:29.901867] [INFO] Transaction completed
+[2025-11-07T11:40:29.901900] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.901871] [INFO] Transaction completed
+[2025-11-07T11:40:29.901884] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.901876] [INFO] Connection established
+[2025-11-07T11:40:29.901874] [INFO] Connection established
+[2025-11-07T11:40:29.901893] [WARN] Queue size growing
+[2025-11-07T11:40:29.901872] [INFO] Transaction completed
+[2025-11-07T11:40:29.901891] [WARN] Timeout warning
+[2025-11-07T11:40:29.901894] [ERROR] Authentication failed
+[2025-11-07T11:40:29.901895] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.901902] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.901873] [INFO] Session started
+[2025-11-07T11:40:29.901898] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.901904] [DEBUG] Connection pool status checked

@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.954102] [INFO] Session started
+[2025-11-07T11:40:29.954109] [ERROR] Disk read failed
+[2025-11-07T11:40:29.954096] [INFO] Request processed successfully
+[2025-11-07T11:40:29.954115] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.954119] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.954108] [WARN] Queue size growing
+[2025-11-07T11:40:29.954106] [INFO] Request processed successfully
+[2025-11-07T11:40:29.954104] [INFO] Transaction completed
+[2025-11-07T11:40:29.954097] [INFO] Transaction completed
+[2025-11-07T11:40:29.954100] [INFO] Service initialized
+[2025-11-07T11:40:29.954118] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.954094] [INFO] Transaction completed
+[2025-11-07T11:40:29.954116] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.954113] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.954101] [INFO] User logged in
+[2025-11-07T11:40:29.954105] [INFO] Database query executed
+[2025-11-07T11:40:29.954117] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.954103] [INFO] Session started
+[2025-11-07T11:40:29.954114] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.954112] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.954111] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.954095] [INFO] Cache hit
+[2025-11-07T11:40:29.954099] [INFO] Health check passed
+[2025-11-07T11:40:29.954107] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.954093] [INFO] Cache hit
+[2025-11-07T11:40:29.954110] [DEBUG] Thread pool size: 8

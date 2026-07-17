@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.974800] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.974789] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.974780] [INFO] Cache hit
+[2025-11-07T11:40:29.974774] [INFO] Service initialized
+[2025-11-07T11:40:29.974777] [INFO] Database query executed
+[2025-11-07T11:40:29.974792] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.974776] [INFO] Session started
+[2025-11-07T11:40:29.974797] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.974781] [INFO] Service initialized
+[2025-11-07T11:40:29.974783] [INFO] Cache hit
+[2025-11-07T11:40:29.974787] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.974784] [INFO] Cache hit
+[2025-11-07T11:40:29.974772] [INFO] User logged in
+[2025-11-07T11:40:29.974773] [INFO] Service initialized
+[2025-11-07T11:40:29.974788] [WARN] Slow query performance
+[2025-11-07T11:40:29.974775] [INFO] Database query executed
+[2025-11-07T11:40:29.974791] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.974793] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.974779] [INFO] Request processed successfully
+[2025-11-07T11:40:29.974794] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.974785] [INFO] Cache hit
+[2025-11-07T11:40:29.974799] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.974790] [ERROR] Service unavailable
+[2025-11-07T11:40:29.974782] [INFO] Configuration loaded
+[2025-11-07T11:40:29.974771] [INFO] Configuration loaded
+[2025-11-07T11:40:29.974798] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.974795] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.974786] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.974778] [INFO] Request processed successfully

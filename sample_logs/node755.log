@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.370564] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.370552] [WARN] Queue size growing
+[2025-11-07T11:40:29.370558] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370560] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.370544] [INFO] Transaction completed
+[2025-11-07T11:40:29.370536] [INFO] Cache hit
+[2025-11-07T11:40:29.370535] [INFO] User logged in
+[2025-11-07T11:40:29.370563] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370562] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.370541] [INFO] Configuration loaded
+[2025-11-07T11:40:29.370547] [INFO] Connection established
+[2025-11-07T11:40:29.370555] [ERROR] Request failed
+[2025-11-07T11:40:29.370539] [INFO] Database query executed
+[2025-11-07T11:40:29.370551] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.370548] [INFO] Database query executed
+[2025-11-07T11:40:29.370557] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.370540] [INFO] Health check passed
+[2025-11-07T11:40:29.370537] [INFO] User logged in
+[2025-11-07T11:40:29.370533] [INFO] Session started
+[2025-11-07T11:40:29.370540] [INFO] Configuration loaded
+[2025-11-07T11:40:29.370543] [INFO] Request processed successfully
+[2025-11-07T11:40:29.370534] [INFO] Request processed successfully
+[2025-11-07T11:40:29.370549] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.370544] [INFO] Database query executed
+[2025-11-07T11:40:29.370550] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.370556] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.370553] [WARN] Cache miss
+[2025-11-07T11:40:29.370559] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.370561] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.370554] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.370545] [INFO] Request processed successfully

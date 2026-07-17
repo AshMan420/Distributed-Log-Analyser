@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.517952] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.517958] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.517936] [INFO] Service initialized
+[2025-11-07T11:40:29.517929] [INFO] User logged in
+[2025-11-07T11:40:29.517932] [INFO] User logged in
+[2025-11-07T11:40:29.517937] [INFO] Transaction completed
+[2025-11-07T11:40:29.517957] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.517935] [INFO] Health check passed
+[2025-11-07T11:40:29.517926] [INFO] Configuration loaded
+[2025-11-07T11:40:29.517945] [WARN] Cache miss
+[2025-11-07T11:40:29.517959] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.517953] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.517942] [INFO] Service initialized
+[2025-11-07T11:40:29.517939] [INFO] Service initialized
+[2025-11-07T11:40:29.517938] [INFO] Database query executed
+[2025-11-07T11:40:29.517950] [ERROR] Disk read failed
+[2025-11-07T11:40:29.517933] [INFO] User logged in
+[2025-11-07T11:40:29.517928] [INFO] Transaction completed
+[2025-11-07T11:40:29.517956] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.517940] [INFO] User logged in
+[2025-11-07T11:40:29.517948] [WARN] Queue size growing
+[2025-11-07T11:40:29.517954] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.517946] [WARN] Slow query performance
+[2025-11-07T11:40:29.517941] [INFO] Service initialized
+[2025-11-07T11:40:29.517947] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.517934] [INFO] Configuration loaded
+[2025-11-07T11:40:29.517931] [INFO] Connection established
+[2025-11-07T11:40:29.517951] [ERROR] Permission denied
+[2025-11-07T11:40:29.517944] [WARN] Cache miss
+[2025-11-07T11:40:29.517943] [INFO] Session started
+[2025-11-07T11:40:29.517930] [INFO] Transaction completed
+[2025-11-07T11:40:29.517955] [DEBUG] Thread pool size: 8

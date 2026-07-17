@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.379521] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.379506] [WARN] Slow query performance
+[2025-11-07T11:40:29.379515] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.379514] [ERROR] Permission denied
+[2025-11-07T11:40:29.379500] [INFO] Database query executed
+[2025-11-07T11:40:29.379517] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.379494] [INFO] Connection established
+[2025-11-07T11:40:29.379490] [INFO] User logged in
+[2025-11-07T11:40:29.379508] [WARN] Timeout warning
+[2025-11-07T11:40:29.379516] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.379495] [INFO] Database query executed
+[2025-11-07T11:40:29.379504] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.379503] [INFO] Session started
+[2025-11-07T11:40:29.379518] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.379493] [INFO] Service initialized
+[2025-11-07T11:40:29.379523] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.379510] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.379509] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.379511] [WARN] Disk space low
+[2025-11-07T11:40:29.379501] [INFO] Database query executed
+[2025-11-07T11:40:29.379491] [INFO] Health check passed
+[2025-11-07T11:40:29.379496] [INFO] Transaction completed
+[2025-11-07T11:40:29.379519] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.379492] [INFO] Cache hit
+[2025-11-07T11:40:29.379512] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.379499] [INFO] Request processed successfully
+[2025-11-07T11:40:29.379505] [WARN] Cache miss
+[2025-11-07T11:40:29.379513] [ERROR] Permission denied
+[2025-11-07T11:40:29.379507] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.379488] [INFO] Transaction completed
+[2025-11-07T11:40:29.379520] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.379522] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.379502] [INFO] Request processed successfully
+[2025-11-07T11:40:29.379497] [INFO] Session started
+[2025-11-07T11:40:29.379498] [INFO] Database query executed

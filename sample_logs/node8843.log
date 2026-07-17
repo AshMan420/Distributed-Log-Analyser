@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.241642] [INFO] User logged in
+[2025-11-07T11:40:30.241639] [INFO] Health check passed
+[2025-11-07T11:40:30.241638] [INFO] Service initialized
+[2025-11-07T11:40:30.241653] [INFO] Cache hit
+[2025-11-07T11:40:30.241660] [WARN] Queue size growing
+[2025-11-07T11:40:30.241667] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.241669] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.241641] [INFO] Request processed successfully
+[2025-11-07T11:40:30.241640] [INFO] Connection established
+[2025-11-07T11:40:30.241652] [INFO] Request processed successfully
+[2025-11-07T11:40:30.241645] [INFO] Transaction completed
+[2025-11-07T11:40:30.241644] [INFO] Request processed successfully
+[2025-11-07T11:40:30.241672] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.241658] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.241636] [INFO] Connection established
+[2025-11-07T11:40:30.241656] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.241668] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.241649] [INFO] Connection established
+[2025-11-07T11:40:30.241666] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.241664] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.241670] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.241657] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.241646] [INFO] User logged in
+[2025-11-07T11:40:30.241650] [INFO] Health check passed
+[2025-11-07T11:40:30.241671] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.241637] [INFO] Request processed successfully
+[2025-11-07T11:40:30.241648] [INFO] User logged in
+[2025-11-07T11:40:30.241654] [WARN] Slow query performance
+[2025-11-07T11:40:30.241665] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.241635] [INFO] User logged in
+[2025-11-07T11:40:30.241662] [ERROR] Network timeout
+[2025-11-07T11:40:30.241661] [ERROR] Database connection lost

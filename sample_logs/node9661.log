@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.336541] [INFO] Cache hit
+[2025-11-07T11:40:30.336544] [WARN] Slow query performance
+[2025-11-07T11:40:30.336530] [INFO] Connection established
+[2025-11-07T11:40:30.336557] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.336545] [ERROR] Network timeout
+[2025-11-07T11:40:30.336535] [INFO] Connection established
+[2025-11-07T11:40:30.336540] [INFO] Transaction completed
+[2025-11-07T11:40:30.336537] [INFO] Health check passed
+[2025-11-07T11:40:30.336538] [INFO] Service initialized
+[2025-11-07T11:40:30.336525] [INFO] Session started
+[2025-11-07T11:40:30.336555] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.336527] [INFO] Connection established
+[2025-11-07T11:40:30.336534] [INFO] Health check passed
+[2025-11-07T11:40:30.336532] [INFO] Request processed successfully
+[2025-11-07T11:40:30.336526] [INFO] Cache hit
+[2025-11-07T11:40:30.336523] [INFO] Service initialized
+[2025-11-07T11:40:30.336553] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.336556] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.336543] [WARN] Disk space low
+[2025-11-07T11:40:30.336542] [WARN] Cache miss
+[2025-11-07T11:40:30.336549] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.336539] [INFO] Database query executed
+[2025-11-07T11:40:30.336546] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.336531] [INFO] User logged in
+[2025-11-07T11:40:30.336528] [INFO] Connection established
+[2025-11-07T11:40:30.336536] [INFO] Health check passed
+[2025-11-07T11:40:30.336547] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.336529] [INFO] Connection established
+[2025-11-07T11:40:30.336552] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.336550] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.336554] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.336551] [DEBUG] Timer set: 30 seconds

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.805892] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.805899] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.805894] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.805882] [INFO] Configuration loaded
+[2025-11-07T11:40:29.805870] [INFO] Health check passed
+[2025-11-07T11:40:29.805876] [INFO] Cache hit
+[2025-11-07T11:40:29.805869] [INFO] User logged in
+[2025-11-07T11:40:29.805893] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.805895] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.805879] [INFO] Database query executed
+[2025-11-07T11:40:29.805888] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.805874] [INFO] Session started
+[2025-11-07T11:40:29.805878] [INFO] Cache hit
+[2025-11-07T11:40:29.805880] [INFO] Request processed successfully
+[2025-11-07T11:40:29.805889] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.805881] [INFO] Session started
+[2025-11-07T11:40:29.805898] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.805901] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.805877] [INFO] Configuration loaded
+[2025-11-07T11:40:29.805897] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.805885] [ERROR] Database connection lost
+[2025-11-07T11:40:29.805884] [WARN] Timeout warning
+[2025-11-07T11:40:29.805875] [INFO] Cache hit
+[2025-11-07T11:40:29.805886] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.805872] [INFO] Configuration loaded
+[2025-11-07T11:40:29.805871] [INFO] Database query executed
+[2025-11-07T11:40:29.805873] [INFO] Request processed successfully
+[2025-11-07T11:40:29.805868] [INFO] User logged in
+[2025-11-07T11:40:29.805867] [INFO] Cache hit
+[2025-11-07T11:40:29.805891] [DEBUG] Loop iteration: 15

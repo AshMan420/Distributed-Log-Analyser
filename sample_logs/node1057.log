@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.402269] [INFO] Connection established
+[2025-11-07T11:40:29.402266] [INFO] Connection established
+[2025-11-07T11:40:29.402265] [INFO] Request processed successfully
+[2025-11-07T11:40:29.402283] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.402275] [WARN] Cache miss
+[2025-11-07T11:40:29.402274] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.402271] [INFO] Request processed successfully
+[2025-11-07T11:40:29.402284] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.402272] [INFO] User logged in
+[2025-11-07T11:40:29.402281] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.402262] [INFO] Request processed successfully
+[2025-11-07T11:40:29.402263] [INFO] Service initialized
+[2025-11-07T11:40:29.402276] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.402279] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.402261] [INFO] Connection established
+[2025-11-07T11:40:29.402270] [INFO] User logged in
+[2025-11-07T11:40:29.402287] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.402281] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.402267] [INFO] Service initialized
+[2025-11-07T11:40:29.402280] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.402259] [INFO] User logged in
+[2025-11-07T11:40:29.402285] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.402273] [WARN] Timeout warning
+[2025-11-07T11:40:29.402278] [ERROR] Request failed
+[2025-11-07T11:40:29.402283] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402268] [INFO] Cache hit
+[2025-11-07T11:40:29.402286] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.402264] [INFO] Cache hit

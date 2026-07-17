@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.537954] [INFO] Health check passed
+[2025-11-07T11:40:29.537970] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.537968] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.537950] [INFO] Configuration loaded
+[2025-11-07T11:40:29.537948] [INFO] Connection established
+[2025-11-07T11:40:29.537953] [INFO] Connection established
+[2025-11-07T11:40:29.537946] [INFO] Session started
+[2025-11-07T11:40:29.537947] [INFO] Cache hit
+[2025-11-07T11:40:29.537976] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.537957] [INFO] Service initialized
+[2025-11-07T11:40:29.537966] [ERROR] Authentication failed
+[2025-11-07T11:40:29.537952] [INFO] Session started
+[2025-11-07T11:40:29.537964] [WARN] Cache miss
+[2025-11-07T11:40:29.537943] [INFO] Health check passed
+[2025-11-07T11:40:29.537967] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.537977] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.537958] [INFO] Request processed successfully
+[2025-11-07T11:40:29.537969] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.537975] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.537959] [INFO] Session started
+[2025-11-07T11:40:29.537951] [INFO] Cache hit
+[2025-11-07T11:40:29.537956] [INFO] Transaction completed
+[2025-11-07T11:40:29.537962] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.537973] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.537960] [WARN] Slow query performance
+[2025-11-07T11:40:29.537945] [INFO] User logged in
+[2025-11-07T11:40:29.537949] [INFO] Cache hit
+[2025-11-07T11:40:29.537963] [WARN] Timeout warning
+[2025-11-07T11:40:29.537961] [WARN] High memory usage detected
+[2025-11-07T11:40:29.537971] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.537972] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.537974] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.537978] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.537955] [INFO] Connection established

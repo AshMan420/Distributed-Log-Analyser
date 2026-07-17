@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.409924] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.409912] [INFO] Connection established
+[2025-11-07T11:40:29.409910] [INFO] Configuration loaded
+[2025-11-07T11:40:29.409926] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.409914] [INFO] Service initialized
+[2025-11-07T11:40:29.409915] [INFO] User logged in
+[2025-11-07T11:40:29.409919] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.409920] [WARN] Cache miss
+[2025-11-07T11:40:29.409932] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.409931] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.409908] [INFO] Connection established
+[2025-11-07T11:40:29.409913] [INFO] Transaction completed
+[2025-11-07T11:40:29.409929] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.409916] [INFO] Database query executed
+[2025-11-07T11:40:29.409911] [INFO] Request processed successfully
+[2025-11-07T11:40:29.409928] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.409907] [INFO] Configuration loaded
+[2025-11-07T11:40:29.409933] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.409921] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.409909] [INFO] Session started
+[2025-11-07T11:40:29.409934] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.409903] [INFO] Database query executed
+[2025-11-07T11:40:29.409905] [INFO] Transaction completed
+[2025-11-07T11:40:29.409927] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.409918] [WARN] Slow query performance
+[2025-11-07T11:40:29.409906] [INFO] Database query executed
+[2025-11-07T11:40:29.409923] [ERROR] Database connection lost
+[2025-11-07T11:40:29.409922] [ERROR] Permission denied
+[2025-11-07T11:40:29.409925] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.409930] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.409917] [INFO] Transaction completed

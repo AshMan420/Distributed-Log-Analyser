@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.808155] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.808141] [INFO] Health check passed
+[2025-11-07T11:40:29.808159] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.808142] [INFO] Service initialized
+[2025-11-07T11:40:29.808148] [ERROR] Disk read failed
+[2025-11-07T11:40:29.808134] [INFO] Service initialized
+[2025-11-07T11:40:29.808135] [INFO] Configuration loaded
+[2025-11-07T11:40:29.808142] [INFO] Database query executed
+[2025-11-07T11:40:29.808129] [INFO] Cache hit
+[2025-11-07T11:40:29.808131] [INFO] Database query executed
+[2025-11-07T11:40:29.808152] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.808145] [WARN] Slow query performance
+[2025-11-07T11:40:29.808146] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.808157] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.808149] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.808158] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.808132] [INFO] Database query executed
+[2025-11-07T11:40:29.808154] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.808139] [INFO] Cache hit
+[2025-11-07T11:40:29.808137] [INFO] Session started
+[2025-11-07T11:40:29.808153] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.808150] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.808136] [INFO] Connection established
+[2025-11-07T11:40:29.808133] [INFO] Connection established
+[2025-11-07T11:40:29.808144] [WARN] Timeout warning
+[2025-11-07T11:40:29.808138] [INFO] Health check passed
+[2025-11-07T11:40:29.808156] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.808147] [ERROR] Invalid input data
+[2025-11-07T11:40:29.808160] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.808151] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.808128] [INFO] Configuration loaded
+[2025-11-07T11:40:29.808140] [INFO] Configuration loaded

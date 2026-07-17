@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.310187] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.310178] [INFO] Transaction completed
+[2025-11-07T11:40:30.310170] [INFO] Transaction completed
+[2025-11-07T11:40:30.310191] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.310181] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.310174] [INFO] Service initialized
+[2025-11-07T11:40:30.310171] [INFO] User logged in
+[2025-11-07T11:40:30.310188] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.310190] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.310195] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.310175] [INFO] Request processed successfully
+[2025-11-07T11:40:30.310183] [ERROR] Request failed
+[2025-11-07T11:40:30.310188] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.310167] [INFO] Configuration loaded
+[2025-11-07T11:40:30.310173] [INFO] Service initialized
+[2025-11-07T11:40:30.310185] [ERROR] Disk read failed
+[2025-11-07T11:40:30.310168] [INFO] Health check passed
+[2025-11-07T11:40:30.310182] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.310184] [ERROR] Permission denied
+[2025-11-07T11:40:30.310177] [INFO] Transaction completed
+[2025-11-07T11:40:30.310175] [INFO] Connection established
+[2025-11-07T11:40:30.310172] [INFO] User logged in
+[2025-11-07T11:40:30.310196] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.310190] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.310164] [INFO] Cache hit
+[2025-11-07T11:40:30.310179] [WARN] Disk space low
+[2025-11-07T11:40:30.310169] [INFO] Health check passed
+[2025-11-07T11:40:30.310176] [INFO] Database query executed
+[2025-11-07T11:40:30.310180] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.310194] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.310166] [INFO] Connection established

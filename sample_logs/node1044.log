@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.400959] [INFO] Transaction completed
+[2025-11-07T11:40:29.400981] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.400978] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.400968] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.400956] [INFO] Service initialized
+[2025-11-07T11:40:29.400979] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.400960] [INFO] Session started
+[2025-11-07T11:40:29.400976] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.400982] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.400977] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.400958] [INFO] Connection established
+[2025-11-07T11:40:29.400963] [INFO] Connection established
+[2025-11-07T11:40:29.400965] [INFO] Configuration loaded
+[2025-11-07T11:40:29.400964] [INFO] Connection established
+[2025-11-07T11:40:29.400962] [INFO] Transaction completed
+[2025-11-07T11:40:29.400980] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.400970] [WARN] Cache miss
+[2025-11-07T11:40:29.400971] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.400966] [INFO] Session started
+[2025-11-07T11:40:29.400974] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.400957] [INFO] Configuration loaded
+[2025-11-07T11:40:29.400973] [ERROR] File not found
+[2025-11-07T11:40:29.400967] [WARN] Queue size growing
+[2025-11-07T11:40:29.400961] [INFO] User logged in
+[2025-11-07T11:40:29.400969] [WARN] Slow query performance
+[2025-11-07T11:40:29.400975] [DEBUG] Cache key generated

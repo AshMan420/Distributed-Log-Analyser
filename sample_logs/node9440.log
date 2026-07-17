@@ -1,0 +1,25 @@
+[2025-11-07T11:40:30.302583] [ERROR] Authentication failed
+[2025-11-07T11:40:30.302576] [INFO] Session started
+[2025-11-07T11:40:30.302582] [ERROR] Disk read failed
+[2025-11-07T11:40:30.302571] [INFO] Cache hit
+[2025-11-07T11:40:30.302567] [INFO] Session started
+[2025-11-07T11:40:30.302572] [INFO] Request processed successfully
+[2025-11-07T11:40:30.302584] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.302568] [INFO] Service initialized
+[2025-11-07T11:40:30.302573] [INFO] Database query executed
+[2025-11-07T11:40:30.302586] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.302579] [INFO] Connection established
+[2025-11-07T11:40:30.302580] [INFO] Transaction completed
+[2025-11-07T11:40:30.302587] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.302570] [INFO] User logged in
+[2025-11-07T11:40:30.302578] [INFO] User logged in
+[2025-11-07T11:40:30.302574] [INFO] User logged in
+[2025-11-07T11:40:30.302588] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.302575] [INFO] Cache hit
+[2025-11-07T11:40:30.302577] [INFO] Request processed successfully
+[2025-11-07T11:40:30.302565] [INFO] Database query executed
+[2025-11-07T11:40:30.302581] [WARN] Slow query performance
+[2025-11-07T11:40:30.302569] [INFO] Transaction completed
+[2025-11-07T11:40:30.302589] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.302590] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.302585] [DEBUG] Memory allocation: 2048 bytes

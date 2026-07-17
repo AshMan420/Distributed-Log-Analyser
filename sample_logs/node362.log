@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.329561] [INFO] Request processed successfully
+[2025-11-07T11:40:29.329571] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.329574] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.329565] [INFO] Health check passed
+[2025-11-07T11:40:29.329551] [INFO] Transaction completed
+[2025-11-07T11:40:29.329557] [INFO] User logged in
+[2025-11-07T11:40:29.329553] [INFO] Health check passed
+[2025-11-07T11:40:29.329555] [INFO] Connection established
+[2025-11-07T11:40:29.329566] [INFO] Connection established
+[2025-11-07T11:40:29.329572] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.329570] [ERROR] Request failed
+[2025-11-07T11:40:29.329562] [INFO] Database query executed
+[2025-11-07T11:40:29.329576] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.329559] [INFO] Request processed successfully
+[2025-11-07T11:40:29.329558] [INFO] Configuration loaded
+[2025-11-07T11:40:29.329563] [INFO] Database query executed
+[2025-11-07T11:40:29.329573] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.329554] [INFO] Connection established
+[2025-11-07T11:40:29.329560] [INFO] User logged in
+[2025-11-07T11:40:29.329569] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.329576] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.329568] [WARN] Disk space low
+[2025-11-07T11:40:29.329556] [INFO] Database query executed
+[2025-11-07T11:40:29.329575] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.329567] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.329564] [INFO] Session started

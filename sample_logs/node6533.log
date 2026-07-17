@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.988445] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.988438] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.988414] [INFO] User logged in
+[2025-11-07T11:40:29.988436] [ERROR] Request failed
+[2025-11-07T11:40:29.988439] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.988446] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.988427] [INFO] Cache hit
+[2025-11-07T11:40:29.988416] [INFO] Configuration loaded
+[2025-11-07T11:40:29.988421] [INFO] User logged in
+[2025-11-07T11:40:29.988444] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.988422] [INFO] Session started
+[2025-11-07T11:40:29.988440] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.988443] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.988425] [INFO] Service initialized
+[2025-11-07T11:40:29.988434] [WARN] Cache miss
+[2025-11-07T11:40:29.988428] [INFO] Cache hit
+[2025-11-07T11:40:29.988423] [INFO] Session started
+[2025-11-07T11:40:29.988424] [INFO] Connection established
+[2025-11-07T11:40:29.988429] [INFO] Session started
+[2025-11-07T11:40:29.988432] [WARN] Cache miss
+[2025-11-07T11:40:29.988441] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.988442] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.988431] [WARN] Slow query performance
+[2025-11-07T11:40:29.988420] [INFO] Transaction completed
+[2025-11-07T11:40:29.988433] [WARN] Queue size growing
+[2025-11-07T11:40:29.988419] [INFO] Configuration loaded
+[2025-11-07T11:40:29.988415] [INFO] Database query executed
+[2025-11-07T11:40:29.988417] [INFO] Connection established
+[2025-11-07T11:40:29.988435] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.988430] [WARN] Queue size growing
+[2025-11-07T11:40:29.988426] [INFO] Transaction completed
+[2025-11-07T11:40:29.988418] [INFO] Database query executed

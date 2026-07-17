@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.651594] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651589] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.651581] [INFO] Cache hit
+[2025-11-07T11:40:29.651586] [INFO] User logged in
+[2025-11-07T11:40:29.651574] [INFO] Database query executed
+[2025-11-07T11:40:29.651570] [INFO] Transaction completed
+[2025-11-07T11:40:29.651587] [WARN] Slow query performance
+[2025-11-07T11:40:29.651590] [WARN] High memory usage detected
+[2025-11-07T11:40:29.651583] [INFO] User logged in
+[2025-11-07T11:40:29.651577] [INFO] Cache hit
+[2025-11-07T11:40:29.651585] [INFO] Cache hit
+[2025-11-07T11:40:29.651572] [INFO] Service initialized
+[2025-11-07T11:40:29.651599] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.651588] [WARN] Cache miss
+[2025-11-07T11:40:29.651592] [ERROR] Request failed
+[2025-11-07T11:40:29.651597] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.651575] [INFO] Configuration loaded
+[2025-11-07T11:40:29.651573] [INFO] Service initialized
+[2025-11-07T11:40:29.651595] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.651591] [ERROR] Network timeout
+[2025-11-07T11:40:29.651582] [INFO] Database query executed
+[2025-11-07T11:40:29.651579] [INFO] Cache hit
+[2025-11-07T11:40:29.651580] [INFO] Database query executed
+[2025-11-07T11:40:29.651598] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.651584] [INFO] Connection established
+[2025-11-07T11:40:29.651593] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651578] [INFO] Configuration loaded
+[2025-11-07T11:40:29.651576] [INFO] Service initialized
+[2025-11-07T11:40:29.651596] [DEBUG] Timer set: 30 seconds

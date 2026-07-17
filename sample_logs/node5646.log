@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.888637] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.888623] [INFO] Session started
+[2025-11-07T11:40:29.888611] [INFO] Configuration loaded
+[2025-11-07T11:40:29.888629] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.888634] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.888610] [INFO] User logged in
+[2025-11-07T11:40:29.888630] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.888614] [INFO] Health check passed
+[2025-11-07T11:40:29.888625] [INFO] Transaction completed
+[2025-11-07T11:40:29.888616] [INFO] Configuration loaded
+[2025-11-07T11:40:29.888615] [INFO] Service initialized
+[2025-11-07T11:40:29.888621] [INFO] Transaction completed
+[2025-11-07T11:40:29.888620] [INFO] Request processed successfully
+[2025-11-07T11:40:29.888632] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.888613] [INFO] Cache hit
+[2025-11-07T11:40:29.888627] [ERROR] Disk read failed
+[2025-11-07T11:40:29.888636] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.888617] [INFO] User logged in
+[2025-11-07T11:40:29.888618] [INFO] Database query executed
+[2025-11-07T11:40:29.888631] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.888622] [INFO] Database query executed
+[2025-11-07T11:40:29.888624] [INFO] Database query executed
+[2025-11-07T11:40:29.888635] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.888633] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.888619] [INFO] Health check passed
+[2025-11-07T11:40:29.888628] [ERROR] Request failed
+[2025-11-07T11:40:29.888626] [WARN] Cache miss

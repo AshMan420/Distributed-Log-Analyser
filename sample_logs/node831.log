@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.378766] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.378758] [ERROR] Invalid input data
+[2025-11-07T11:40:29.378748] [INFO] Configuration loaded
+[2025-11-07T11:40:29.378752] [INFO] Session started
+[2025-11-07T11:40:29.378762] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.378751] [INFO] Connection established
+[2025-11-07T11:40:29.378750] [INFO] Transaction completed
+[2025-11-07T11:40:29.378764] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.378744] [INFO] Transaction completed
+[2025-11-07T11:40:29.378759] [ERROR] Request failed
+[2025-11-07T11:40:29.378755] [WARN] Slow query performance
+[2025-11-07T11:40:29.378763] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.378747] [INFO] Request processed successfully
+[2025-11-07T11:40:29.378744] [INFO] Transaction completed
+[2025-11-07T11:40:29.378749] [INFO] Request processed successfully
+[2025-11-07T11:40:29.378753] [WARN] Disk space low
+[2025-11-07T11:40:29.378765] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.378756] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.378738] [INFO] Session started
+[2025-11-07T11:40:29.378739] [INFO] User logged in
+[2025-11-07T11:40:29.378743] [INFO] Transaction completed
+[2025-11-07T11:40:29.378740] [INFO] Configuration loaded
+[2025-11-07T11:40:29.378757] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.378761] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.378754] [WARN] Slow query performance
+[2025-11-07T11:40:29.378742] [INFO] Cache hit
+[2025-11-07T11:40:29.378745] [INFO] Health check passed
+[2025-11-07T11:40:29.378746] [INFO] Transaction completed

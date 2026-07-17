@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.641144] [WARN] Slow query performance
+[2025-11-07T11:40:29.641127] [INFO] Cache hit
+[2025-11-07T11:40:29.641151] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641145] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.641137] [INFO] Connection established
+[2025-11-07T11:40:29.641138] [INFO] Connection established
+[2025-11-07T11:40:29.641157] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.641135] [INFO] Session started
+[2025-11-07T11:40:29.641153] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641128] [INFO] Cache hit
+[2025-11-07T11:40:29.641160] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641132] [INFO] Cache hit
+[2025-11-07T11:40:29.641124] [INFO] User logged in
+[2025-11-07T11:40:29.641161] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641150] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.641155] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.641140] [INFO] Request processed successfully
+[2025-11-07T11:40:29.641148] [WARN] Cache miss
+[2025-11-07T11:40:29.641159] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.641142] [WARN] Queue size growing
+[2025-11-07T11:40:29.641159] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.641129] [INFO] Configuration loaded
+[2025-11-07T11:40:29.641143] [WARN] High memory usage detected
+[2025-11-07T11:40:29.641149] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.641126] [INFO] Transaction completed
+[2025-11-07T11:40:29.641156] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641134] [INFO] Database query executed
+[2025-11-07T11:40:29.641136] [INFO] Health check passed
+[2025-11-07T11:40:29.641147] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.641154] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.641130] [INFO] Cache hit
+[2025-11-07T11:40:29.641139] [INFO] Connection established
+[2025-11-07T11:40:29.641146] [WARN] Slow query performance
+[2025-11-07T11:40:29.641133] [INFO] Session started
+[2025-11-07T11:40:29.641158] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.641131] [INFO] Connection established
+[2025-11-07T11:40:29.641141] [WARN] Queue size growing
+[2025-11-07T11:40:29.641152] [DEBUG] Connection pool status checked

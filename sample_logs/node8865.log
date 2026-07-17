@@ -1,0 +1,26 @@
+[2025-11-07T11:40:30.243802] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.243790] [INFO] Request processed successfully
+[2025-11-07T11:40:30.243784] [INFO] Request processed successfully
+[2025-11-07T11:40:30.243793] [INFO] Configuration loaded
+[2025-11-07T11:40:30.243800] [ERROR] Request failed
+[2025-11-07T11:40:30.243794] [INFO] Session started
+[2025-11-07T11:40:30.243785] [INFO] Health check passed
+[2025-11-07T11:40:30.243795] [INFO] User logged in
+[2025-11-07T11:40:30.243792] [INFO] Cache hit
+[2025-11-07T11:40:30.243808] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.243789] [INFO] Configuration loaded
+[2025-11-07T11:40:30.243783] [INFO] Request processed successfully
+[2025-11-07T11:40:30.243788] [INFO] Session started
+[2025-11-07T11:40:30.243781] [INFO] Configuration loaded
+[2025-11-07T11:40:30.243796] [INFO] Cache hit
+[2025-11-07T11:40:30.243810] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.243782] [INFO] Connection established
+[2025-11-07T11:40:30.243799] [WARN] Slow query performance
+[2025-11-07T11:40:30.243807] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.243779] [INFO] User logged in
+[2025-11-07T11:40:30.243798] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.243786] [INFO] Session started
+[2025-11-07T11:40:30.243787] [INFO] Health check passed
+[2025-11-07T11:40:30.243803] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.243806] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.243805] [DEBUG] Buffer size: 4096 bytes

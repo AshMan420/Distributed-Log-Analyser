@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.190635] [WARN] Cache miss
+[2025-11-07T11:40:30.190637] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.190645] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.190638] [WARN] Queue size growing
+[2025-11-07T11:40:30.190647] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.190630] [INFO] Session started
+[2025-11-07T11:40:30.190627] [INFO] Service initialized
+[2025-11-07T11:40:30.190648] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.190624] [INFO] Session started
+[2025-11-07T11:40:30.190643] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.190632] [INFO] Connection established
+[2025-11-07T11:40:30.190625] [INFO] Request processed successfully
+[2025-11-07T11:40:30.190641] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.190628] [INFO] Database query executed
+[2025-11-07T11:40:30.190642] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.190650] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.190633] [INFO] Service initialized
+[2025-11-07T11:40:30.190636] [WARN] Cache miss
+[2025-11-07T11:40:30.190626] [INFO] Connection established
+[2025-11-07T11:40:30.190631] [INFO] Database query executed
+[2025-11-07T11:40:30.190639] [ERROR] File not found
+[2025-11-07T11:40:30.190646] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.190634] [INFO] Connection established
+[2025-11-07T11:40:30.190622] [INFO] User logged in
+[2025-11-07T11:40:30.190640] [ERROR] Permission denied
+[2025-11-07T11:40:30.190644] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.190629] [INFO] Connection established

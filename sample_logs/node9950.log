@@ -1,0 +1,34 @@
+[2025-11-07T11:40:30.366444] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.366437] [WARN] Slow query performance
+[2025-11-07T11:40:30.366438] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.366420] [INFO] Connection established
+[2025-11-07T11:40:30.366416] [INFO] Configuration loaded
+[2025-11-07T11:40:30.366447] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.366427] [INFO] Database query executed
+[2025-11-07T11:40:30.366446] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.366425] [INFO] Transaction completed
+[2025-11-07T11:40:30.366424] [INFO] Cache hit
+[2025-11-07T11:40:30.366424] [INFO] Configuration loaded
+[2025-11-07T11:40:30.366433] [INFO] Health check passed
+[2025-11-07T11:40:30.366442] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.366422] [INFO] Health check passed
+[2025-11-07T11:40:30.366449] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.366430] [INFO] Request processed successfully
+[2025-11-07T11:40:30.366419] [INFO] Connection established
+[2025-11-07T11:40:30.366432] [INFO] Session started
+[2025-11-07T11:40:30.366441] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.366443] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.366423] [INFO] Cache hit
+[2025-11-07T11:40:30.366421] [INFO] Transaction completed
+[2025-11-07T11:40:30.366440] [ERROR] Database connection lost
+[2025-11-07T11:40:30.366431] [INFO] Cache hit
+[2025-11-07T11:40:30.366439] [ERROR] Invalid input data
+[2025-11-07T11:40:30.366428] [INFO] Configuration loaded
+[2025-11-07T11:40:30.366448] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.366426] [INFO] User logged in
+[2025-11-07T11:40:30.366435] [WARN] Queue size growing
+[2025-11-07T11:40:30.366418] [INFO] Request processed successfully
+[2025-11-07T11:40:30.366445] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.366434] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.366429] [INFO] Transaction completed
+[2025-11-07T11:40:30.366436] [WARN] Slow query performance

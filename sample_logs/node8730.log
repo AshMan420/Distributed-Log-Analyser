@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.229214] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.229196] [INFO] Database query executed
+[2025-11-07T11:40:30.229202] [INFO] Cache hit
+[2025-11-07T11:40:30.229192] [INFO] User logged in
+[2025-11-07T11:40:30.229218] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.229209] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.229207] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.229201] [INFO] Connection established
+[2025-11-07T11:40:30.229190] [INFO] Cache hit
+[2025-11-07T11:40:30.229198] [INFO] Cache hit
+[2025-11-07T11:40:30.229210] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.229204] [ERROR] Network timeout
+[2025-11-07T11:40:30.229203] [WARN] Cache miss
+[2025-11-07T11:40:30.229206] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.229208] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.229199] [INFO] Service initialized
+[2025-11-07T11:40:30.229215] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.229217] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.229194] [INFO] Request processed successfully
+[2025-11-07T11:40:30.229217] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.229195] [INFO] Configuration loaded
+[2025-11-07T11:40:30.229213] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.229193] [INFO] Transaction completed
+[2025-11-07T11:40:30.229212] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.229205] [ERROR] Network timeout
+[2025-11-07T11:40:30.229197] [INFO] Health check passed
+[2025-11-07T11:40:30.229200] [INFO] Connection established
+[2025-11-07T11:40:30.229216] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.229211] [DEBUG] Variable value: x=42

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.567570] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.567566] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.567545] [INFO] Service initialized
+[2025-11-07T11:40:29.567561] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.567569] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.567571] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.567546] [INFO] Session started
+[2025-11-07T11:40:29.567544] [INFO] User logged in
+[2025-11-07T11:40:29.567564] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.567547] [INFO] Service initialized
+[2025-11-07T11:40:29.567554] [INFO] Cache hit
+[2025-11-07T11:40:29.567548] [INFO] Configuration loaded
+[2025-11-07T11:40:29.567549] [INFO] Database query executed
+[2025-11-07T11:40:29.567572] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.567541] [INFO] Cache hit
+[2025-11-07T11:40:29.567558] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.567560] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.567562] [ERROR] Disk read failed
+[2025-11-07T11:40:29.567563] [ERROR] Database connection lost
+[2025-11-07T11:40:29.567543] [INFO] Cache hit
+[2025-11-07T11:40:29.567567] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.567568] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.567559] [WARN] Cache miss
+[2025-11-07T11:40:29.567573] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.567551] [INFO] User logged in
+[2025-11-07T11:40:29.567573] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.567540] [INFO] User logged in
+[2025-11-07T11:40:29.567552] [INFO] Connection established
+[2025-11-07T11:40:29.567556] [WARN] Cache miss
+[2025-11-07T11:40:29.567555] [INFO] Transaction completed
+[2025-11-07T11:40:29.567553] [INFO] Transaction completed
+[2025-11-07T11:40:29.567550] [INFO] Session started

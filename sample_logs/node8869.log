@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.244164] [INFO] Session started
+[2025-11-07T11:40:30.244183] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.244188] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.244174] [INFO] Configuration loaded
+[2025-11-07T11:40:30.244185] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.244178] [WARN] Disk space low
+[2025-11-07T11:40:30.244162] [INFO] Connection established
+[2025-11-07T11:40:30.244173] [INFO] Transaction completed
+[2025-11-07T11:40:30.244165] [INFO] Database query executed
+[2025-11-07T11:40:30.244176] [INFO] Service initialized
+[2025-11-07T11:40:30.244189] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.244169] [INFO] Health check passed
+[2025-11-07T11:40:30.244181] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.244184] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.244170] [INFO] Session started
+[2025-11-07T11:40:30.244168] [INFO] Database query executed
+[2025-11-07T11:40:30.244180] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.244175] [INFO] User logged in
+[2025-11-07T11:40:30.244186] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.244187] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.244177] [WARN] High memory usage detected
+[2025-11-07T11:40:30.244179] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.244167] [INFO] Health check passed
+[2025-11-07T11:40:30.244182] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.244171] [INFO] Transaction completed
+[2025-11-07T11:40:30.244166] [INFO] Service initialized
+[2025-11-07T11:40:30.244172] [INFO] User logged in

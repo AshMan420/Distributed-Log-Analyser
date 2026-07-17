@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.361615] [ERROR] Permission denied
+[2025-11-07T11:40:30.361625] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.361606] [INFO] Service initialized
+[2025-11-07T11:40:30.361589] [INFO] User logged in
+[2025-11-07T11:40:30.361623] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.361604] [INFO] Connection established
+[2025-11-07T11:40:30.361621] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.361596] [INFO] Database query executed
+[2025-11-07T11:40:30.361613] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.361592] [INFO] Session started
+[2025-11-07T11:40:30.361627] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.361597] [INFO] Request processed successfully
+[2025-11-07T11:40:30.361594] [INFO] Transaction completed
+[2025-11-07T11:40:30.361624] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.361620] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.361618] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.361598] [INFO] Database query executed
+[2025-11-07T11:40:30.361611] [WARN] Disk space low
+[2025-11-07T11:40:30.361602] [INFO] Service initialized
+[2025-11-07T11:40:30.361610] [WARN] Disk space low
+[2025-11-07T11:40:30.361593] [INFO] Transaction completed
+[2025-11-07T11:40:30.361619] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.361601] [INFO] Cache hit
+[2025-11-07T11:40:30.361612] [WARN] Disk space low
+[2025-11-07T11:40:30.361608] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.361595] [INFO] Health check passed
+[2025-11-07T11:40:30.361626] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.361600] [INFO] Service initialized
+[2025-11-07T11:40:30.361603] [INFO] Session started
+[2025-11-07T11:40:30.361591] [INFO] Health check passed
+[2025-11-07T11:40:30.361607] [INFO] Health check passed
+[2025-11-07T11:40:30.361616] [ERROR] Database connection lost

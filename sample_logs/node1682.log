@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.468092] [INFO] Request processed successfully
+[2025-11-07T11:40:29.468079] [INFO] Cache hit
+[2025-11-07T11:40:29.468084] [INFO] Transaction completed
+[2025-11-07T11:40:29.468094] [INFO] User logged in
+[2025-11-07T11:40:29.468099] [WARN] Disk space low
+[2025-11-07T11:40:29.468098] [INFO] Health check passed
+[2025-11-07T11:40:29.468090] [INFO] Request processed successfully
+[2025-11-07T11:40:29.468085] [INFO] Transaction completed
+[2025-11-07T11:40:29.468107] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.468087] [INFO] User logged in
+[2025-11-07T11:40:29.468108] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.468088] [INFO] Connection established
+[2025-11-07T11:40:29.468113] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.468078] [INFO] User logged in
+[2025-11-07T11:40:29.468093] [INFO] User logged in
+[2025-11-07T11:40:29.468102] [WARN] Slow query performance
+[2025-11-07T11:40:29.468109] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.468111] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.468095] [INFO] Transaction completed
+[2025-11-07T11:40:29.468106] [ERROR] Request failed
+[2025-11-07T11:40:29.468112] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.468101] [WARN] Cache miss
+[2025-11-07T11:40:29.468110] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.468089] [INFO] Database query executed
+[2025-11-07T11:40:29.468114] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.468085] [INFO] Transaction completed
+[2025-11-07T11:40:29.468097] [INFO] Service initialized
+[2025-11-07T11:40:29.468080] [INFO] Database query executed
+[2025-11-07T11:40:29.468096] [INFO] Request processed successfully
+[2025-11-07T11:40:29.468086] [INFO] User logged in
+[2025-11-07T11:40:29.468081] [INFO] Cache hit
+[2025-11-07T11:40:29.468100] [WARN] Slow query performance
+[2025-11-07T11:40:29.468091] [INFO] Health check passed
+[2025-11-07T11:40:29.468103] [WARN] Slow query performance
+[2025-11-07T11:40:29.468083] [INFO] Service initialized
+[2025-11-07T11:40:29.468104] [WARN] Deprecated API usage

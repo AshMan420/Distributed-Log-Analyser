@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.296710] [INFO] Connection established
+[2025-11-07T11:40:29.296700] [INFO] User logged in
+[2025-11-07T11:40:29.296708] [INFO] Database query executed
+[2025-11-07T11:40:29.296727] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.296709] [INFO] Configuration loaded
+[2025-11-07T11:40:29.296721] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.296705] [INFO] Health check passed
+[2025-11-07T11:40:29.296724] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.296723] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.296704] [INFO] Health check passed
+[2025-11-07T11:40:29.296719] [ERROR] Request failed
+[2025-11-07T11:40:29.296730] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.296711] [INFO] Database query executed
+[2025-11-07T11:40:29.296712] [INFO] Transaction completed
+[2025-11-07T11:40:29.296716] [INFO] Connection established
+[2025-11-07T11:40:29.296718] [WARN] Queue size growing
+[2025-11-07T11:40:29.296725] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.296717] [INFO] Session started
+[2025-11-07T11:40:29.296706] [INFO] Connection established
+[2025-11-07T11:40:29.296727] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.296707] [INFO] Cache hit
+[2025-11-07T11:40:29.296714] [INFO] User logged in
+[2025-11-07T11:40:29.296731] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.296720] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.296722] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.296702] [INFO] Database query executed
+[2025-11-07T11:40:29.296729] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.296703] [INFO] Database query executed
+[2025-11-07T11:40:29.296728] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.296713] [INFO] Service initialized
+[2025-11-07T11:40:29.296715] [INFO] Health check passed

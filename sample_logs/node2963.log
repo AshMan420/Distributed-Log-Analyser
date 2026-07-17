@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.610218] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.610207] [INFO] Session started
+[2025-11-07T11:40:29.610200] [INFO] Health check passed
+[2025-11-07T11:40:29.610209] [INFO] User logged in
+[2025-11-07T11:40:29.610206] [INFO] Connection established
+[2025-11-07T11:40:29.610197] [INFO] Request processed successfully
+[2025-11-07T11:40:29.610199] [INFO] Request processed successfully
+[2025-11-07T11:40:29.610201] [INFO] Configuration loaded
+[2025-11-07T11:40:29.610202] [INFO] Service initialized
+[2025-11-07T11:40:29.610214] [ERROR] Request failed
+[2025-11-07T11:40:29.610217] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.610220] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.610195] [INFO] Service initialized
+[2025-11-07T11:40:29.610219] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.610221] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.610213] [ERROR] Request failed
+[2025-11-07T11:40:29.610198] [INFO] Request processed successfully
+[2025-11-07T11:40:29.610208] [INFO] Connection established
+[2025-11-07T11:40:29.610210] [INFO] User logged in
+[2025-11-07T11:40:29.610211] [INFO] Transaction completed
+[2025-11-07T11:40:29.610205] [INFO] User logged in
+[2025-11-07T11:40:29.610203] [INFO] Database query executed
+[2025-11-07T11:40:29.610222] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.610212] [WARN] Slow query performance
+[2025-11-07T11:40:29.610204] [INFO] Health check passed
+[2025-11-07T11:40:29.610223] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.610215] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.610216] [DEBUG] Memory allocation: 2048 bytes

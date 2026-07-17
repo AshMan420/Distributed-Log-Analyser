@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.987920] [INFO] Configuration loaded
+[2025-11-07T11:40:29.987939] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.987928] [INFO] Session started
+[2025-11-07T11:40:29.987940] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.987922] [INFO] Request processed successfully
+[2025-11-07T11:40:29.987935] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.987941] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.987921] [INFO] Service initialized
+[2025-11-07T11:40:29.987918] [INFO] Request processed successfully
+[2025-11-07T11:40:29.987915] [INFO] Service initialized
+[2025-11-07T11:40:29.987932] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.987934] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.987942] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.987927] [INFO] Health check passed
+[2025-11-07T11:40:29.987923] [INFO] Database query executed
+[2025-11-07T11:40:29.987917] [INFO] User logged in
+[2025-11-07T11:40:29.987936] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.987924] [INFO] Database query executed
+[2025-11-07T11:40:29.987930] [INFO] Health check passed
+[2025-11-07T11:40:29.987937] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.987919] [INFO] Service initialized
+[2025-11-07T11:40:29.987938] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.987925] [INFO] Connection established
+[2025-11-07T11:40:29.987943] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.987926] [INFO] Cache hit
+[2025-11-07T11:40:29.987929] [INFO] Session started
+[2025-11-07T11:40:29.987931] [WARN] High memory usage detected

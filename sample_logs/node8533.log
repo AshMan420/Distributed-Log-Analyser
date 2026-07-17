@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.197577] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.197569] [WARN] High memory usage detected
+[2025-11-07T11:40:30.197581] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.197580] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.197554] [INFO] Health check passed
+[2025-11-07T11:40:30.197565] [INFO] Request processed successfully
+[2025-11-07T11:40:30.197570] [WARN] Cache miss
+[2025-11-07T11:40:30.197567] [INFO] Cache hit
+[2025-11-07T11:40:30.197567] [INFO] Request processed successfully
+[2025-11-07T11:40:30.197582] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.197575] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.197563] [INFO] Health check passed
+[2025-11-07T11:40:30.197557] [INFO] Connection established
+[2025-11-07T11:40:30.197579] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.197578] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.197576] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.197556] [INFO] Health check passed
+[2025-11-07T11:40:30.197572] [WARN] Queue size growing
+[2025-11-07T11:40:30.197560] [INFO] Connection established
+[2025-11-07T11:40:30.197566] [INFO] User logged in
+[2025-11-07T11:40:30.197555] [INFO] Database query executed
+[2025-11-07T11:40:30.197553] [INFO] Connection established
+[2025-11-07T11:40:30.197573] [ERROR] Database connection lost
+[2025-11-07T11:40:30.197561] [INFO] Session started
+[2025-11-07T11:40:30.197562] [INFO] Service initialized
+[2025-11-07T11:40:30.197571] [WARN] High memory usage detected
+[2025-11-07T11:40:30.197558] [INFO] Health check passed
+[2025-11-07T11:40:30.197574] [ERROR] Invalid input data
+[2025-11-07T11:40:30.197564] [INFO] Database query executed

@@ -1,0 +1,25 @@
+[2025-11-07T11:40:30.313199] [WARN] Slow query performance
+[2025-11-07T11:40:30.313183] [INFO] Session started
+[2025-11-07T11:40:30.313194] [WARN] Cache miss
+[2025-11-07T11:40:30.313190] [INFO] Connection established
+[2025-11-07T11:40:30.313200] [ERROR] Request failed
+[2025-11-07T11:40:30.313182] [INFO] Transaction completed
+[2025-11-07T11:40:30.313186] [INFO] Cache hit
+[2025-11-07T11:40:30.313181] [INFO] Service initialized
+[2025-11-07T11:40:30.313184] [INFO] Health check passed
+[2025-11-07T11:40:30.313191] [INFO] Database query executed
+[2025-11-07T11:40:30.313188] [INFO] Health check passed
+[2025-11-07T11:40:30.313197] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.313203] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.313192] [INFO] Session started
+[2025-11-07T11:40:30.313189] [INFO] User logged in
+[2025-11-07T11:40:30.313204] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.313198] [WARN] Cache miss
+[2025-11-07T11:40:30.313185] [INFO] User logged in
+[2025-11-07T11:40:30.313202] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.313195] [WARN] Queue size growing
+[2025-11-07T11:40:30.313201] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.313187] [INFO] Request processed successfully
+[2025-11-07T11:40:30.313196] [WARN] Slow query performance
+[2025-11-07T11:40:30.313205] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.313193] [INFO] Cache hit

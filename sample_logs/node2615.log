@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.573824] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.573811] [INFO] Connection established
+[2025-11-07T11:40:29.573814] [INFO] Connection established
+[2025-11-07T11:40:29.573833] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.573813] [INFO] Connection established
+[2025-11-07T11:40:29.573835] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.573817] [INFO] Health check passed
+[2025-11-07T11:40:29.573836] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.573808] [INFO] Session started
+[2025-11-07T11:40:29.573832] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.573820] [INFO] Request processed successfully
+[2025-11-07T11:40:29.573823] [WARN] Cache miss
+[2025-11-07T11:40:29.573830] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.573834] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.573819] [INFO] Session started
+[2025-11-07T11:40:29.573810] [INFO] Session started
+[2025-11-07T11:40:29.573822] [INFO] Request processed successfully
+[2025-11-07T11:40:29.573806] [INFO] Transaction completed
+[2025-11-07T11:40:29.573815] [INFO] Service initialized
+[2025-11-07T11:40:29.573816] [INFO] Service initialized
+[2025-11-07T11:40:29.573809] [INFO] Transaction completed
+[2025-11-07T11:40:29.573829] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.573818] [INFO] Health check passed
+[2025-11-07T11:40:29.573827] [ERROR] File not found
+[2025-11-07T11:40:29.573831] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.573821] [INFO] Database query executed
+[2025-11-07T11:40:29.573826] [ERROR] Database connection lost
+[2025-11-07T11:40:29.573812] [INFO] Service initialized
+[2025-11-07T11:40:29.573828] [DEBUG] Variable value: x=42

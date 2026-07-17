@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.403909] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.403882] [INFO] Session started
+[2025-11-07T11:40:29.403877] [INFO] User logged in
+[2025-11-07T11:40:29.403905] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.403881] [INFO] Connection established
+[2025-11-07T11:40:29.403902] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.403894] [WARN] Slow query performance
+[2025-11-07T11:40:29.403903] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.403885] [INFO] User logged in
+[2025-11-07T11:40:29.403901] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.403898] [WARN] Cache miss
+[2025-11-07T11:40:29.403896] [WARN] Queue size growing
+[2025-11-07T11:40:29.403891] [INFO] Database query executed
+[2025-11-07T11:40:29.403887] [INFO] Service initialized
+[2025-11-07T11:40:29.403893] [INFO] Request processed successfully
+[2025-11-07T11:40:29.403883] [INFO] Transaction completed
+[2025-11-07T11:40:29.403897] [WARN] High memory usage detected
+[2025-11-07T11:40:29.403899] [ERROR] Request failed
+[2025-11-07T11:40:29.403892] [INFO] Connection established
+[2025-11-07T11:40:29.403884] [INFO] Service initialized
+[2025-11-07T11:40:29.403879] [INFO] User logged in
+[2025-11-07T11:40:29.403908] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.403889] [INFO] Database query executed
+[2025-11-07T11:40:29.403890] [INFO] Database query executed
+[2025-11-07T11:40:29.403888] [INFO] Health check passed
+[2025-11-07T11:40:29.403880] [INFO] User logged in
+[2025-11-07T11:40:29.403895] [WARN] Cache miss
+[2025-11-07T11:40:29.403907] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.403900] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.403904] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.403886] [INFO] Service initialized
+[2025-11-07T11:40:29.403906] [DEBUG] Variable value: x=42

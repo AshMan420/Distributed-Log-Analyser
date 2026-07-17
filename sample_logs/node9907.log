@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.362220] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.362229] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.362228] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.362231] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.362225] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.362207] [INFO] Configuration loaded
+[2025-11-07T11:40:30.362223] [ERROR] Permission denied
+[2025-11-07T11:40:30.362212] [INFO] Transaction completed
+[2025-11-07T11:40:30.362232] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.362205] [INFO] Database query executed
+[2025-11-07T11:40:30.362218] [INFO] Health check passed
+[2025-11-07T11:40:30.362224] [ERROR] Network timeout
+[2025-11-07T11:40:30.362206] [INFO] Health check passed
+[2025-11-07T11:40:30.362226] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.362221] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.362204] [INFO] Service initialized
+[2025-11-07T11:40:30.362215] [INFO] Session started
+[2025-11-07T11:40:30.362219] [INFO] Transaction completed
+[2025-11-07T11:40:30.362202] [INFO] Health check passed
+[2025-11-07T11:40:30.362213] [INFO] User logged in
+[2025-11-07T11:40:30.362208] [INFO] Database query executed
+[2025-11-07T11:40:30.362211] [INFO] Session started
+[2025-11-07T11:40:30.362214] [INFO] Session started
+[2025-11-07T11:40:30.362222] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.362209] [INFO] Connection established
+[2025-11-07T11:40:30.362217] [INFO] Configuration loaded
+[2025-11-07T11:40:30.362230] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.362216] [INFO] Health check passed
+[2025-11-07T11:40:30.362227] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.362210] [INFO] Health check passed
+[2025-11-07T11:40:30.362233] [DEBUG] Memory allocation: 2048 bytes

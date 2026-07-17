@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.955886] [INFO] Configuration loaded
+[2025-11-07T11:40:29.955879] [INFO] Connection established
+[2025-11-07T11:40:29.955908] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.955901] [ERROR] Service unavailable
+[2025-11-07T11:40:29.955885] [INFO] Session started
+[2025-11-07T11:40:29.955880] [INFO] Connection established
+[2025-11-07T11:40:29.955906] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.955897] [WARN] Queue size growing
+[2025-11-07T11:40:29.955893] [INFO] Connection established
+[2025-11-07T11:40:29.955882] [INFO] Service initialized
+[2025-11-07T11:40:29.955892] [INFO] Configuration loaded
+[2025-11-07T11:40:29.955888] [INFO] Session started
+[2025-11-07T11:40:29.955889] [INFO] Request processed successfully
+[2025-11-07T11:40:29.955891] [INFO] Request processed successfully
+[2025-11-07T11:40:29.955904] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.955905] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.955903] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.955899] [ERROR] Authentication failed
+[2025-11-07T11:40:29.955883] [INFO] Connection established
+[2025-11-07T11:40:29.955881] [INFO] Transaction completed
+[2025-11-07T11:40:29.955887] [INFO] Transaction completed
+[2025-11-07T11:40:29.955900] [ERROR] Permission denied
+[2025-11-07T11:40:29.955907] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.955898] [WARN] High memory usage detected
+[2025-11-07T11:40:29.955895] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.955884] [INFO] Health check passed
+[2025-11-07T11:40:29.955902] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.955890] [INFO] Session started
+[2025-11-07T11:40:29.955894] [INFO] User logged in

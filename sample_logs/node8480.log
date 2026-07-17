@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.192411] [INFO] Session started
+[2025-11-07T11:40:30.192410] [INFO] Service initialized
+[2025-11-07T11:40:30.192403] [INFO] Transaction completed
+[2025-11-07T11:40:30.192428] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.192427] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.192418] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.192409] [INFO] Cache hit
+[2025-11-07T11:40:30.192424] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.192413] [INFO] Cache hit
+[2025-11-07T11:40:30.192416] [INFO] Health check passed
+[2025-11-07T11:40:30.192422] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.192423] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.192415] [INFO] Transaction completed
+[2025-11-07T11:40:30.192426] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.192421] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.192419] [ERROR] Request failed
+[2025-11-07T11:40:30.192406] [INFO] Health check passed
+[2025-11-07T11:40:30.192420] [ERROR] Disk read failed
+[2025-11-07T11:40:30.192408] [INFO] Health check passed
+[2025-11-07T11:40:30.192402] [INFO] Transaction completed
+[2025-11-07T11:40:30.192404] [INFO] Database query executed
+[2025-11-07T11:40:30.192414] [INFO] User logged in
+[2025-11-07T11:40:30.192412] [INFO] Service initialized
+[2025-11-07T11:40:30.192427] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.192405] [INFO] Transaction completed
+[2025-11-07T11:40:30.192417] [INFO] Connection established
+[2025-11-07T11:40:30.192425] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.192407] [INFO] Request processed successfully

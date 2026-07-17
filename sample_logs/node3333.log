@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.651267] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.651242] [INFO] Request processed successfully
+[2025-11-07T11:40:29.651254] [INFO] Database query executed
+[2025-11-07T11:40:29.651257] [INFO] Database query executed
+[2025-11-07T11:40:29.651245] [INFO] Service initialized
+[2025-11-07T11:40:29.651249] [INFO] User logged in
+[2025-11-07T11:40:29.651266] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.651252] [INFO] Configuration loaded
+[2025-11-07T11:40:29.651271] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651250] [INFO] Cache hit
+[2025-11-07T11:40:29.651255] [INFO] Connection established
+[2025-11-07T11:40:29.651270] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.651258] [WARN] High memory usage detected
+[2025-11-07T11:40:29.651265] [ERROR] File not found
+[2025-11-07T11:40:29.651251] [INFO] User logged in
+[2025-11-07T11:40:29.651260] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.651261] [WARN] Timeout warning
+[2025-11-07T11:40:29.651263] [WARN] Timeout warning
+[2025-11-07T11:40:29.651253] [INFO] Connection established
+[2025-11-07T11:40:29.651247] [INFO] Service initialized
+[2025-11-07T11:40:29.651246] [INFO] Session started
+[2025-11-07T11:40:29.651269] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.651262] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.651264] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.651248] [INFO] Health check passed
+[2025-11-07T11:40:29.651244] [INFO] Cache hit
+[2025-11-07T11:40:29.651259] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.651256] [INFO] Configuration loaded
+[2025-11-07T11:40:29.651268] [DEBUG] Memory allocation: 2048 bytes

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.670260] [INFO] Cache hit
+[2025-11-07T11:40:29.670287] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.670280] [ERROR] Disk read failed
+[2025-11-07T11:40:29.670267] [INFO] Session started
+[2025-11-07T11:40:29.670272] [INFO] Connection established
+[2025-11-07T11:40:29.670290] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.670270] [INFO] Connection established
+[2025-11-07T11:40:29.670279] [WARN] Timeout warning
+[2025-11-07T11:40:29.670276] [WARN] Disk space low
+[2025-11-07T11:40:29.670278] [WARN] Timeout warning
+[2025-11-07T11:40:29.670285] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.670262] [INFO] User logged in
+[2025-11-07T11:40:29.670288] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.670286] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.670284] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.670266] [INFO] Configuration loaded
+[2025-11-07T11:40:29.670265] [INFO] Transaction completed
+[2025-11-07T11:40:29.670271] [INFO] Request processed successfully
+[2025-11-07T11:40:29.670291] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.670261] [INFO] Configuration loaded
+[2025-11-07T11:40:29.670275] [WARN] Cache miss
+[2025-11-07T11:40:29.670292] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.670281] [ERROR] Authentication failed
+[2025-11-07T11:40:29.670264] [INFO] Service initialized
+[2025-11-07T11:40:29.670263] [INFO] Database query executed
+[2025-11-07T11:40:29.670289] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.670268] [INFO] Transaction completed
+[2025-11-07T11:40:29.670273] [INFO] Health check passed
+[2025-11-07T11:40:29.670269] [INFO] Service initialized
+[2025-11-07T11:40:29.670274] [INFO] Transaction completed
+[2025-11-07T11:40:29.670283] [ERROR] Disk read failed
+[2025-11-07T11:40:29.670277] [WARN] Connection retry attempt

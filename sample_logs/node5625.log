@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.885747] [INFO] Health check passed
+[2025-11-07T11:40:29.885740] [INFO] Request processed successfully
+[2025-11-07T11:40:29.885743] [INFO] Health check passed
+[2025-11-07T11:40:29.885736] [INFO] Request processed successfully
+[2025-11-07T11:40:29.885755] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.885734] [INFO] User logged in
+[2025-11-07T11:40:29.885760] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.885756] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.885741] [INFO] Transaction completed
+[2025-11-07T11:40:29.885758] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.885761] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.885759] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.885751] [WARN] Queue size growing
+[2025-11-07T11:40:29.885757] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.885745] [INFO] Health check passed
+[2025-11-07T11:40:29.885737] [INFO] Cache hit
+[2025-11-07T11:40:29.885754] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.885746] [INFO] Health check passed
+[2025-11-07T11:40:29.885752] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.885753] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.885744] [INFO] Cache hit
+[2025-11-07T11:40:29.885748] [INFO] Database query executed
+[2025-11-07T11:40:29.885749] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.885739] [INFO] Transaction completed
+[2025-11-07T11:40:29.885738] [INFO] Database query executed
+[2025-11-07T11:40:29.885742] [INFO] Transaction completed

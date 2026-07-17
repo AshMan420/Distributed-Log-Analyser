@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.351844] [INFO] Service initialized
+[2025-11-07T11:40:30.351849] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.351856] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.351858] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.351842] [INFO] Request processed successfully
+[2025-11-07T11:40:30.351835] [INFO] Request processed successfully
+[2025-11-07T11:40:30.351860] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.351865] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.351850] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.351845] [INFO] Session started
+[2025-11-07T11:40:30.351864] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.351861] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.351838] [INFO] Health check passed
+[2025-11-07T11:40:30.351839] [INFO] Service initialized
+[2025-11-07T11:40:30.351848] [WARN] Timeout warning
+[2025-11-07T11:40:30.351847] [INFO] Request processed successfully
+[2025-11-07T11:40:30.351853] [WARN] Cache miss
+[2025-11-07T11:40:30.351852] [WARN] Queue size growing
+[2025-11-07T11:40:30.351834] [INFO] Session started
+[2025-11-07T11:40:30.351846] [INFO] Service initialized
+[2025-11-07T11:40:30.351843] [INFO] Connection established
+[2025-11-07T11:40:30.351837] [INFO] Request processed successfully
+[2025-11-07T11:40:30.351863] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.351855] [ERROR] Network timeout
+[2025-11-07T11:40:30.351841] [INFO] Transaction completed
+[2025-11-07T11:40:30.351857] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.351859] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.351854] [ERROR] Invalid input data
+[2025-11-07T11:40:30.351840] [INFO] User logged in
+[2025-11-07T11:40:30.351836] [INFO] Health check passed

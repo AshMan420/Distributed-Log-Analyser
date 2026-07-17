@@ -1,0 +1,23 @@
+[2025-11-07T11:40:30.264475] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.264477] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.264472] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.264463] [WARN] High memory usage detected
+[2025-11-07T11:40:30.264470] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.264456] [INFO] Session started
+[2025-11-07T11:40:30.264459] [INFO] Request processed successfully
+[2025-11-07T11:40:30.264460] [INFO] Cache hit
+[2025-11-07T11:40:30.264474] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.264453] [INFO] Configuration loaded
+[2025-11-07T11:40:30.264467] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.264451] [INFO] Request processed successfully
+[2025-11-07T11:40:30.264455] [INFO] Database query executed
+[2025-11-07T11:40:30.264461] [INFO] Configuration loaded
+[2025-11-07T11:40:30.264458] [INFO] Session started
+[2025-11-07T11:40:30.264452] [INFO] Service initialized
+[2025-11-07T11:40:30.264465] [ERROR] Service unavailable
+[2025-11-07T11:40:30.264469] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.264466] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.264471] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.264459] [INFO] User logged in
+[2025-11-07T11:40:30.264464] [ERROR] Database connection lost
+[2025-11-07T11:40:30.264457] [INFO] Session started

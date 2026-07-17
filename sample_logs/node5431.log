@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.866206] [WARN] Cache miss
+[2025-11-07T11:40:29.866214] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.866216] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.866213] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.866219] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.866205] [WARN] Cache miss
+[2025-11-07T11:40:29.866209] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.866199] [INFO] Transaction completed
+[2025-11-07T11:40:29.866193] [INFO] Health check passed
+[2025-11-07T11:40:29.866203] [INFO] Cache hit
+[2025-11-07T11:40:29.866189] [INFO] Request processed successfully
+[2025-11-07T11:40:29.866196] [INFO] Session started
+[2025-11-07T11:40:29.866217] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.866190] [INFO] Configuration loaded
+[2025-11-07T11:40:29.866187] [INFO] Connection established
+[2025-11-07T11:40:29.866202] [INFO] User logged in
+[2025-11-07T11:40:29.866210] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.866215] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.866197] [INFO] Request processed successfully
+[2025-11-07T11:40:29.866200] [INFO] Session started
+[2025-11-07T11:40:29.866191] [INFO] User logged in
+[2025-11-07T11:40:29.866199] [INFO] Cache hit
+[2025-11-07T11:40:29.866212] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.866207] [ERROR] File not found
+[2025-11-07T11:40:29.866198] [INFO] User logged in
+[2025-11-07T11:40:29.866192] [INFO] Service initialized
+[2025-11-07T11:40:29.866218] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.866194] [INFO] Connection established
+[2025-11-07T11:40:29.866204] [INFO] Health check passed
+[2025-11-07T11:40:29.866208] [ERROR] Authentication failed
+[2025-11-07T11:40:29.866211] [DEBUG] Entering function process_data()

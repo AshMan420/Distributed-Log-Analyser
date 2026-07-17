@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.106250] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.106245] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.106252] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.106244] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.106232] [INFO] Database query executed
+[2025-11-07T11:40:30.106233] [INFO] Session started
+[2025-11-07T11:40:30.106254] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.106230] [INFO] Request processed successfully
+[2025-11-07T11:40:30.106251] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.106226] [INFO] Database query executed
+[2025-11-07T11:40:30.106227] [INFO] Health check passed
+[2025-11-07T11:40:30.106246] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.106240] [WARN] Disk space low
+[2025-11-07T11:40:30.106225] [INFO] Cache hit
+[2025-11-07T11:40:30.106255] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.106238] [INFO] Cache hit
+[2025-11-07T11:40:30.106234] [INFO] Health check passed
+[2025-11-07T11:40:30.106235] [INFO] Session started
+[2025-11-07T11:40:30.106253] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.106239] [WARN] Timeout warning
+[2025-11-07T11:40:30.106256] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.106247] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.106229] [INFO] Cache hit
+[2025-11-07T11:40:30.106249] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.106224] [INFO] User logged in
+[2025-11-07T11:40:30.106228] [INFO] Transaction completed
+[2025-11-07T11:40:30.106241] [WARN] Cache miss
+[2025-11-07T11:40:30.106242] [WARN] Slow query performance
+[2025-11-07T11:40:30.106236] [INFO] Transaction completed
+[2025-11-07T11:40:30.106243] [ERROR] Request failed
+[2025-11-07T11:40:30.106237] [INFO] Health check passed

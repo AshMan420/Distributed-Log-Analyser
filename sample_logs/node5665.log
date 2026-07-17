@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.890566] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.890564] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.890560] [WARN] Cache miss
+[2025-11-07T11:40:29.890544] [INFO] Service initialized
+[2025-11-07T11:40:29.890554] [INFO] Health check passed
+[2025-11-07T11:40:29.890568] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.890565] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.890550] [INFO] Request processed successfully
+[2025-11-07T11:40:29.890558] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.890553] [INFO] Database query executed
+[2025-11-07T11:40:29.890556] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.890552] [INFO] Session started
+[2025-11-07T11:40:29.890570] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.890551] [INFO] Service initialized
+[2025-11-07T11:40:29.890563] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.890541] [INFO] Configuration loaded
+[2025-11-07T11:40:29.890559] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.890549] [INFO] Health check passed
+[2025-11-07T11:40:29.890557] [WARN] Timeout warning
+[2025-11-07T11:40:29.890543] [INFO] Transaction completed
+[2025-11-07T11:40:29.890567] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.890561] [ERROR] Database connection lost
+[2025-11-07T11:40:29.890547] [INFO] Configuration loaded
+[2025-11-07T11:40:29.890562] [ERROR] Disk read failed
+[2025-11-07T11:40:29.890545] [INFO] Configuration loaded
+[2025-11-07T11:40:29.890569] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.890555] [INFO] Database query executed
+[2025-11-07T11:40:29.890546] [INFO] Request processed successfully
+[2025-11-07T11:40:29.890548] [INFO] Cache hit

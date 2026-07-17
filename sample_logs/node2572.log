@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.569254] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.568286] [INFO] Transaction completed
+[2025-11-07T11:40:29.569252] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.569238] [INFO] User logged in
+[2025-11-07T11:40:29.569253] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.569240] [WARN] High memory usage detected
+[2025-11-07T11:40:29.568288] [INFO] Health check passed
+[2025-11-07T11:40:29.569237] [INFO] Service initialized
+[2025-11-07T11:40:29.569242] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.569249] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.569241] [WARN] Cache miss
+[2025-11-07T11:40:29.569247] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.569250] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.569245] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.569244] [ERROR] Disk read failed
+[2025-11-07T11:40:29.569246] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.568287] [INFO] Database query executed
+[2025-11-07T11:40:29.568290] [INFO] Connection established
+[2025-11-07T11:40:29.569248] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.568289] [INFO] Database query executed
+[2025-11-07T11:40:29.568285] [INFO] Transaction completed
+[2025-11-07T11:40:29.569251] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.569234] [INFO] Connection established
+[2025-11-07T11:40:29.569235] [INFO] Service initialized
+[2025-11-07T11:40:29.569231] [INFO] Session started
+[2025-11-07T11:40:29.569239] [WARN] Cache miss
+[2025-11-07T11:40:29.568284] [INFO] Configuration loaded

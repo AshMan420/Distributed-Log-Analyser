@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.694308] [INFO] Session started
+[2025-11-07T11:40:29.694309] [INFO] Connection established
+[2025-11-07T11:40:29.694311] [WARN] Queue size growing
+[2025-11-07T11:40:29.694326] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.694304] [INFO] Transaction completed
+[2025-11-07T11:40:29.694314] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.694312] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.694315] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.694322] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.694319] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.694301] [INFO] User logged in
+[2025-11-07T11:40:29.694324] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.694299] [INFO] Service initialized
+[2025-11-07T11:40:29.694302] [INFO] Health check passed
+[2025-11-07T11:40:29.694318] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.694323] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.694316] [ERROR] Permission denied
+[2025-11-07T11:40:29.694304] [INFO] Health check passed
+[2025-11-07T11:40:29.694327] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.694300] [INFO] Database query executed
+[2025-11-07T11:40:29.694320] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.694322] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.694303] [INFO] Connection established
+[2025-11-07T11:40:29.694297] [INFO] Connection established
+[2025-11-07T11:40:29.694305] [INFO] Service initialized
+[2025-11-07T11:40:29.694317] [ERROR] Disk read failed
+[2025-11-07T11:40:29.694326] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.694307] [INFO] Session started
+[2025-11-07T11:40:29.694306] [INFO] Transaction completed
+[2025-11-07T11:40:29.694296] [INFO] User logged in
+[2025-11-07T11:40:29.694310] [WARN] Queue size growing
+[2025-11-07T11:40:29.694313] [WARN] Timeout warning
+[2025-11-07T11:40:29.694328] [DEBUG] Memory allocation: 2048 bytes

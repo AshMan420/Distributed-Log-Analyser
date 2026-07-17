@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.297403] [WARN] Slow query performance
+[2025-11-07T11:40:30.297414] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297408] [ERROR] Service unavailable
+[2025-11-07T11:40:30.297417] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.297404] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.297401] [INFO] Service initialized
+[2025-11-07T11:40:30.297407] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.297405] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.297409] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297389] [INFO] Session started
+[2025-11-07T11:40:30.297395] [INFO] Service initialized
+[2025-11-07T11:40:30.297396] [INFO] Database query executed
+[2025-11-07T11:40:30.297410] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.297415] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.297399] [INFO] Database query executed
+[2025-11-07T11:40:30.297400] [INFO] Transaction completed
+[2025-11-07T11:40:30.297397] [INFO] Session started
+[2025-11-07T11:40:30.297398] [INFO] Session started
+[2025-11-07T11:40:30.297394] [INFO] Transaction completed
+[2025-11-07T11:40:30.297413] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.297402] [INFO] Transaction completed
+[2025-11-07T11:40:30.297411] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.297416] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.297412] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.297387] [INFO] Session started
+[2025-11-07T11:40:30.297393] [INFO] Session started
+[2025-11-07T11:40:30.297390] [INFO] User logged in
+[2025-11-07T11:40:30.297391] [INFO] Session started
+[2025-11-07T11:40:30.297405] [WARN] Timeout warning
+[2025-11-07T11:40:30.297392] [INFO] User logged in

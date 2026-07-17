@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.099243] [WARN] Slow query performance
+[2025-11-07T11:40:30.099250] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.099238] [INFO] Configuration loaded
+[2025-11-07T11:40:30.099242] [WARN] Slow query performance
+[2025-11-07T11:40:30.099224] [INFO] Session started
+[2025-11-07T11:40:30.099250] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.099237] [INFO] Health check passed
+[2025-11-07T11:40:30.099251] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.099253] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.099239] [INFO] Health check passed
+[2025-11-07T11:40:30.099249] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.099229] [INFO] Health check passed
+[2025-11-07T11:40:30.099256] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.099239] [INFO] Service initialized
+[2025-11-07T11:40:30.099241] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.099234] [INFO] User logged in
+[2025-11-07T11:40:30.099244] [WARN] Cache miss
+[2025-11-07T11:40:30.099228] [INFO] Transaction completed
+[2025-11-07T11:40:30.099227] [INFO] Transaction completed
+[2025-11-07T11:40:30.099255] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.099230] [INFO] Request processed successfully
+[2025-11-07T11:40:30.099233] [INFO] Cache hit
+[2025-11-07T11:40:30.099231] [INFO] Connection established
+[2025-11-07T11:40:30.099226] [INFO] Session started
+[2025-11-07T11:40:30.099246] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.099247] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.099248] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.099252] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.099245] [ERROR] File not found
+[2025-11-07T11:40:30.099232] [INFO] Session started
+[2025-11-07T11:40:30.099254] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.099235] [INFO] Transaction completed
+[2025-11-07T11:40:30.099236] [INFO] User logged in

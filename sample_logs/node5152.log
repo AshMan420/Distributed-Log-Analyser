@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.838294] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.838284] [WARN] Cache miss
+[2025-11-07T11:40:29.838293] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.838282] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.838290] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.838270] [INFO] Cache hit
+[2025-11-07T11:40:29.838262] [INFO] User logged in
+[2025-11-07T11:40:29.838280] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.838278] [WARN] Timeout warning
+[2025-11-07T11:40:29.838295] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.838293] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.838292] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.838286] [ERROR] Service unavailable
+[2025-11-07T11:40:29.838281] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.838267] [INFO] Health check passed
+[2025-11-07T11:40:29.838279] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.838266] [INFO] Service initialized
+[2025-11-07T11:40:29.838286] [ERROR] Permission denied
+[2025-11-07T11:40:29.838276] [INFO] Cache hit
+[2025-11-07T11:40:29.838291] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.838271] [INFO] Database query executed
+[2025-11-07T11:40:29.838277] [INFO] Service initialized
+[2025-11-07T11:40:29.838263] [INFO] Request processed successfully
+[2025-11-07T11:40:29.838296] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.838284] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.838283] [WARN] Timeout warning
+[2025-11-07T11:40:29.838268] [INFO] Health check passed
+[2025-11-07T11:40:29.838266] [INFO] Cache hit
+[2025-11-07T11:40:29.838289] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.838272] [INFO] Service initialized
+[2025-11-07T11:40:29.838274] [INFO] Session started
+[2025-11-07T11:40:29.838287] [ERROR] Network timeout
+[2025-11-07T11:40:29.838269] [INFO] Health check passed
+[2025-11-07T11:40:29.838275] [INFO] Connection established
+[2025-11-07T11:40:29.838264] [INFO] Transaction completed

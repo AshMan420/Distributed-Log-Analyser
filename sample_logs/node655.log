@@ -1,0 +1,36 @@
+[2025-11-07T11:40:29.360172] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.360183] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.360150] [INFO] Connection established
+[2025-11-07T11:40:29.360161] [INFO] Health check passed
+[2025-11-07T11:40:29.360165] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.360154] [INFO] Service initialized
+[2025-11-07T11:40:29.360158] [INFO] User logged in
+[2025-11-07T11:40:29.360148] [INFO] Request processed successfully
+[2025-11-07T11:40:29.360152] [INFO] Connection established
+[2025-11-07T11:40:29.360163] [WARN] Queue size growing
+[2025-11-07T11:40:29.360149] [INFO] Cache hit
+[2025-11-07T11:40:29.360152] [INFO] Cache hit
+[2025-11-07T11:40:29.360169] [ERROR] Network timeout
+[2025-11-07T11:40:29.360173] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.360160] [INFO] Session started
+[2025-11-07T11:40:29.360167] [WARN] Timeout warning
+[2025-11-07T11:40:29.360144] [INFO] Database query executed
+[2025-11-07T11:40:29.360146] [INFO] Session started
+[2025-11-07T11:40:29.360164] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.360182] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.360147] [INFO] Transaction completed
+[2025-11-07T11:40:29.360156] [INFO] Transaction completed
+[2025-11-07T11:40:29.360155] [INFO] Database query executed
+[2025-11-07T11:40:29.360170] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.360159] [INFO] Session started
+[2025-11-07T11:40:29.360174] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.360181] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.360155] [INFO] Session started
+[2025-11-07T11:40:29.360175] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.360168] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.360157] [INFO] Transaction completed
+[2025-11-07T11:40:29.360151] [INFO] Connection established
+[2025-11-07T11:40:29.360162] [WARN] Cache miss
+[2025-11-07T11:40:29.360180] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.360166] [WARN] Cache miss
+[2025-11-07T11:40:29.360171] [DEBUG] Entering function process_data()

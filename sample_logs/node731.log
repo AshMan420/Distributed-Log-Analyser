@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.367920] [INFO] Transaction completed
+[2025-11-07T11:40:29.367949] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.367936] [INFO] User logged in
+[2025-11-07T11:40:29.367951] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.367928] [INFO] Cache hit
+[2025-11-07T11:40:29.367948] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.367952] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.367930] [INFO] Session started
+[2025-11-07T11:40:29.367939] [WARN] Slow query performance
+[2025-11-07T11:40:29.367934] [INFO] Request processed successfully
+[2025-11-07T11:40:29.367926] [INFO] Session started
+[2025-11-07T11:40:29.367929] [INFO] Connection established
+[2025-11-07T11:40:29.367946] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.367953] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.367935] [INFO] Connection established
+[2025-11-07T11:40:29.367931] [INFO] Transaction completed
+[2025-11-07T11:40:29.367940] [WARN] Timeout warning
+[2025-11-07T11:40:29.367923] [INFO] Service initialized
+[2025-11-07T11:40:29.367945] [ERROR] Network timeout
+[2025-11-07T11:40:29.367941] [WARN] Queue size growing
+[2025-11-07T11:40:29.367954] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.367932] [INFO] Configuration loaded
+[2025-11-07T11:40:29.367924] [INFO] Service initialized
+[2025-11-07T11:40:29.367950] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.367944] [ERROR] Permission denied
+[2025-11-07T11:40:29.367933] [INFO] Database query executed
+[2025-11-07T11:40:29.367925] [INFO] Service initialized
+[2025-11-07T11:40:29.367937] [INFO] Service initialized
+[2025-11-07T11:40:29.367922] [INFO] Cache hit
+[2025-11-07T11:40:29.367927] [INFO] Service initialized
+[2025-11-07T11:40:29.367938] [WARN] Queue size growing
+[2025-11-07T11:40:29.367947] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.367943] [WARN] Cache miss

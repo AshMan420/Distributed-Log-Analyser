@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.759564] [INFO] Health check passed
+[2025-11-07T11:40:29.759571] [INFO] User logged in
+[2025-11-07T11:40:29.759592] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.759584] [WARN] Slow query performance
+[2025-11-07T11:40:29.759596] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.759581] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.759579] [INFO] User logged in
+[2025-11-07T11:40:29.759595] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.759594] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.759563] [INFO] Session started
+[2025-11-07T11:40:29.759588] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.759569] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759576] [INFO] Cache hit
+[2025-11-07T11:40:29.759585] [ERROR] Disk read failed
+[2025-11-07T11:40:29.759578] [INFO] Database query executed
+[2025-11-07T11:40:29.759570] [INFO] Connection established
+[2025-11-07T11:40:29.759582] [WARN] Queue size growing
+[2025-11-07T11:40:29.759572] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759566] [INFO] Connection established
+[2025-11-07T11:40:29.759575] [INFO] Cache hit
+[2025-11-07T11:40:29.759574] [INFO] Health check passed
+[2025-11-07T11:40:29.759589] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.759574] [INFO] Configuration loaded
+[2025-11-07T11:40:29.759565] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759587] [ERROR] File not found
+[2025-11-07T11:40:29.759580] [WARN] Disk space low
+[2025-11-07T11:40:29.759567] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759573] [INFO] Request processed successfully
+[2025-11-07T11:40:29.759590] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.759591] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.759593] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.759583] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.759586] [ERROR] Memory allocation error

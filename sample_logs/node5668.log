@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.890835] [INFO] Connection established
+[2025-11-07T11:40:29.890829] [INFO] Connection established
+[2025-11-07T11:40:29.890832] [INFO] Database query executed
+[2025-11-07T11:40:29.890844] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.890827] [INFO] Request processed successfully
+[2025-11-07T11:40:29.890848] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.890839] [WARN] Timeout warning
+[2025-11-07T11:40:29.890843] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.890833] [INFO] Transaction completed
+[2025-11-07T11:40:29.890822] [INFO] Service initialized
+[2025-11-07T11:40:29.890830] [INFO] User logged in
+[2025-11-07T11:40:29.890845] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.890836] [INFO] Service initialized
+[2025-11-07T11:40:29.890841] [ERROR] Database connection lost
+[2025-11-07T11:40:29.890826] [INFO] Request processed successfully
+[2025-11-07T11:40:29.890840] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.890849] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.890842] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.890828] [INFO] Session started
+[2025-11-07T11:40:29.890824] [INFO] Database query executed
+[2025-11-07T11:40:29.890825] [INFO] Transaction completed
+[2025-11-07T11:40:29.890853] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.890837] [INFO] Configuration loaded
+[2025-11-07T11:40:29.890846] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.890851] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.890850] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.890852] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.890831] [INFO] Health check passed
+[2025-11-07T11:40:29.890838] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.890834] [INFO] Configuration loaded
+[2025-11-07T11:40:29.890847] [DEBUG] HTTP request headers parsed

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.848302] [ERROR] Database connection lost
+[2025-11-07T11:40:29.848292] [INFO] Connection established
+[2025-11-07T11:40:29.848301] [ERROR] Disk read failed
+[2025-11-07T11:40:29.848299] [WARN] High memory usage detected
+[2025-11-07T11:40:29.848296] [WARN] Cache miss
+[2025-11-07T11:40:29.848290] [INFO] Request processed successfully
+[2025-11-07T11:40:29.848298] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.848303] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.848281] [INFO] Configuration loaded
+[2025-11-07T11:40:29.848284] [INFO] Database query executed
+[2025-11-07T11:40:29.848294] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.848311] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.848295] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.848279] [INFO] Session started
+[2025-11-07T11:40:29.848286] [INFO] User logged in
+[2025-11-07T11:40:29.848288] [INFO] Cache hit
+[2025-11-07T11:40:29.848282] [INFO] User logged in
+[2025-11-07T11:40:29.848287] [INFO] Cache hit
+[2025-11-07T11:40:29.848309] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.848300] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.848291] [INFO] User logged in
+[2025-11-07T11:40:29.848304] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.848306] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.848307] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.848289] [INFO] Service initialized
+[2025-11-07T11:40:29.848297] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.848305] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.848280] [INFO] Transaction completed
+[2025-11-07T11:40:29.848308] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.848293] [INFO] Transaction completed
+[2025-11-07T11:40:29.848285] [INFO] Request processed successfully
+[2025-11-07T11:40:29.848310] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.848283] [INFO] Health check passed

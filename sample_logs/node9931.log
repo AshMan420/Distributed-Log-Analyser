@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.364600] [INFO] Configuration loaded
+[2025-11-07T11:40:30.364612] [INFO] Cache hit
+[2025-11-07T11:40:30.364610] [INFO] Transaction completed
+[2025-11-07T11:40:30.364629] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.364604] [INFO] Request processed successfully
+[2025-11-07T11:40:30.364628] [ERROR] Request failed
+[2025-11-07T11:40:30.364607] [INFO] Connection established
+[2025-11-07T11:40:30.364602] [INFO] Cache hit
+[2025-11-07T11:40:30.364611] [INFO] Connection established
+[2025-11-07T11:40:30.364633] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.364632] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.364603] [INFO] Request processed successfully
+[2025-11-07T11:40:30.364617] [INFO] Transaction completed
+[2025-11-07T11:40:30.364614] [INFO] Health check passed
+[2025-11-07T11:40:30.364626] [ERROR] Request failed
+[2025-11-07T11:40:30.364597] [INFO] Health check passed
+[2025-11-07T11:40:30.364631] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.364601] [INFO] Cache hit
+[2025-11-07T11:40:30.364624] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.364605] [INFO] Cache hit
+[2025-11-07T11:40:30.364630] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.364606] [INFO] Connection established
+[2025-11-07T11:40:30.364618] [INFO] Configuration loaded
+[2025-11-07T11:40:30.364625] [ERROR] Authentication failed
+[2025-11-07T11:40:30.364621] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.364634] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.364608] [INFO] Transaction completed
+[2025-11-07T11:40:30.364622] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.364599] [INFO] Session started
+[2025-11-07T11:40:30.364620] [WARN] Queue size growing
+[2025-11-07T11:40:30.364615] [INFO] Request processed successfully

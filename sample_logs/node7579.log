@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.096992] [INFO] Session started
+[2025-11-07T11:40:30.097005] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.096994] [WARN] Cache miss
+[2025-11-07T11:40:30.096980] [INFO] Request processed successfully
+[2025-11-07T11:40:30.096989] [INFO] Health check passed
+[2025-11-07T11:40:30.096988] [INFO] Service initialized
+[2025-11-07T11:40:30.096991] [INFO] Cache hit
+[2025-11-07T11:40:30.096983] [INFO] Service initialized
+[2025-11-07T11:40:30.096985] [INFO] Session started
+[2025-11-07T11:40:30.097011] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.097008] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.097002] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.096999] [ERROR] Disk read failed
+[2025-11-07T11:40:30.096995] [WARN] Timeout warning
+[2025-11-07T11:40:30.096981] [INFO] User logged in
+[2025-11-07T11:40:30.097006] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.097012] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.096988] [INFO] Database query executed
+[2025-11-07T11:40:30.097007] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.096993] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.096984] [INFO] Database query executed
+[2025-11-07T11:40:30.096998] [ERROR] Authentication failed
+[2025-11-07T11:40:30.096996] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.097010] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.096990] [INFO] Database query executed
+[2025-11-07T11:40:30.096982] [INFO] Transaction completed
+[2025-11-07T11:40:30.097004] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.097003] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.097001] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.096997] [WARN] Queue size growing
+[2025-11-07T11:40:30.097009] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.096987] [INFO] Transaction completed

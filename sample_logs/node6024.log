@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.931904] [INFO] Cache hit
+[2025-11-07T11:40:29.931913] [INFO] Connection established
+[2025-11-07T11:40:29.931924] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.931915] [ERROR] Service unavailable
+[2025-11-07T11:40:29.931925] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.931927] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.931901] [INFO] Service initialized
+[2025-11-07T11:40:29.931920] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.931902] [INFO] Session started
+[2025-11-07T11:40:29.931919] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.931923] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.931926] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.931922] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.931908] [INFO] Transaction completed
+[2025-11-07T11:40:29.931917] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.931910] [INFO] Database query executed
+[2025-11-07T11:40:29.931914] [WARN] High memory usage detected
+[2025-11-07T11:40:29.931903] [INFO] Request processed successfully
+[2025-11-07T11:40:29.931906] [INFO] Request processed successfully
+[2025-11-07T11:40:29.931900] [INFO] Health check passed
+[2025-11-07T11:40:29.931921] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.931907] [INFO] Configuration loaded
+[2025-11-07T11:40:29.931909] [INFO] Configuration loaded
+[2025-11-07T11:40:29.931918] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.931916] [ERROR] File not found
+[2025-11-07T11:40:29.931911] [INFO] Cache hit
+[2025-11-07T11:40:29.931898] [INFO] Cache hit
+[2025-11-07T11:40:29.931912] [INFO] Transaction completed
+[2025-11-07T11:40:29.931905] [INFO] Session started

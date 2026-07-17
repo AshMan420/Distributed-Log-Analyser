@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.732128] [INFO] Cache hit
+[2025-11-07T11:40:29.732142] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.732138] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.732130] [WARN] Cache miss
+[2025-11-07T11:40:29.732135] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.732118] [INFO] Session started
+[2025-11-07T11:40:29.732124] [INFO] Cache hit
+[2025-11-07T11:40:29.732122] [INFO] Cache hit
+[2025-11-07T11:40:29.732133] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.732132] [ERROR] Permission denied
+[2025-11-07T11:40:29.732141] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.732123] [INFO] Service initialized
+[2025-11-07T11:40:29.732127] [INFO] Cache hit
+[2025-11-07T11:40:29.732131] [ERROR] File not found
+[2025-11-07T11:40:29.732117] [INFO] Service initialized
+[2025-11-07T11:40:29.732125] [INFO] Health check passed
+[2025-11-07T11:40:29.732121] [INFO] Cache hit
+[2025-11-07T11:40:29.732140] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.732137] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.732140] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.732134] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.732113] [INFO] Database query executed
+[2025-11-07T11:40:29.732116] [INFO] Health check passed
+[2025-11-07T11:40:29.732136] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.732115] [INFO] Service initialized
+[2025-11-07T11:40:29.732112] [INFO] Database query executed
+[2025-11-07T11:40:29.732139] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.732119] [INFO] Transaction completed
+[2025-11-07T11:40:29.732120] [INFO] Configuration loaded
+[2025-11-07T11:40:29.732129] [WARN] High memory usage detected
+[2025-11-07T11:40:29.732125] [INFO] User logged in

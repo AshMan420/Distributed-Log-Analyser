@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.675310] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.675292] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675293] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675299] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.675313] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.675311] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.675298] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.675284] [INFO] Connection established
+[2025-11-07T11:40:29.675307] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.675290] [INFO] Session started
+[2025-11-07T11:40:29.675291] [INFO] User logged in
+[2025-11-07T11:40:29.675314] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.675309] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.675281] [INFO] Transaction completed
+[2025-11-07T11:40:29.675300] [WARN] Queue size growing
+[2025-11-07T11:40:29.675294] [INFO] Session started
+[2025-11-07T11:40:29.675304] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.675308] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.675302] [ERROR] Permission denied
+[2025-11-07T11:40:29.675314] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.675288] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675286] [INFO] Database query executed
+[2025-11-07T11:40:29.675301] [ERROR] Request failed
+[2025-11-07T11:40:29.675289] [INFO] Service initialized
+[2025-11-07T11:40:29.675283] [INFO] Request processed successfully
+[2025-11-07T11:40:29.675287] [INFO] Configuration loaded
+[2025-11-07T11:40:29.675295] [INFO] User logged in
+[2025-11-07T11:40:29.675285] [INFO] Service initialized
+[2025-11-07T11:40:29.675297] [INFO] Transaction completed
+[2025-11-07T11:40:29.675303] [ERROR] File not found
+[2025-11-07T11:40:29.675306] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.675305] [DEBUG] Thread pool size: 8

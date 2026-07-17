@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.087499] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.087478] [INFO] Database query executed
+[2025-11-07T11:40:30.087498] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.087490] [INFO] User logged in
+[2025-11-07T11:40:30.087482] [INFO] Cache hit
+[2025-11-07T11:40:30.087482] [INFO] Service initialized
+[2025-11-07T11:40:30.087497] [ERROR] Disk read failed
+[2025-11-07T11:40:30.087501] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.087483] [INFO] Transaction completed
+[2025-11-07T11:40:30.087489] [INFO] Health check passed
+[2025-11-07T11:40:30.087501] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.087503] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.087491] [INFO] Cache hit
+[2025-11-07T11:40:30.087481] [INFO] Configuration loaded
+[2025-11-07T11:40:30.087495] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.087505] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.087502] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.087504] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.087500] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.087480] [INFO] Configuration loaded
+[2025-11-07T11:40:30.087484] [INFO] Cache hit
+[2025-11-07T11:40:30.087486] [INFO] Request processed successfully
+[2025-11-07T11:40:30.087496] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.087494] [WARN] Slow query performance
+[2025-11-07T11:40:30.087487] [INFO] Request processed successfully
+[2025-11-07T11:40:30.087493] [INFO] Transaction completed
+[2025-11-07T11:40:30.087485] [INFO] Cache hit
+[2025-11-07T11:40:30.087488] [INFO] Database query executed
+[2025-11-07T11:40:30.087492] [INFO] Request processed successfully

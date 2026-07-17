@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.853629] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.853626] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.853623] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.853618] [INFO] Session started
+[2025-11-07T11:40:29.853622] [ERROR] Permission denied
+[2025-11-07T11:40:29.853615] [INFO] Transaction completed
+[2025-11-07T11:40:29.853612] [INFO] Connection established
+[2025-11-07T11:40:29.853630] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.853614] [INFO] Configuration loaded
+[2025-11-07T11:40:29.853621] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.853628] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.853610] [INFO] Health check passed
+[2025-11-07T11:40:29.853616] [INFO] Cache hit
+[2025-11-07T11:40:29.853608] [INFO] Service initialized
+[2025-11-07T11:40:29.853617] [INFO] Health check passed
+[2025-11-07T11:40:29.853619] [INFO] Cache hit
+[2025-11-07T11:40:29.853613] [INFO] Cache hit
+[2025-11-07T11:40:29.853609] [INFO] Cache hit
+[2025-11-07T11:40:29.853624] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.853625] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.853620] [WARN] Queue size growing
+[2025-11-07T11:40:29.853631] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.853611] [INFO] Request processed successfully
+[2025-11-07T11:40:29.853627] [DEBUG] Variable value: x=42

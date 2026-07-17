@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.966847] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.966836] [INFO] Connection established
+[2025-11-07T11:40:29.966828] [INFO] Configuration loaded
+[2025-11-07T11:40:29.966830] [INFO] Request processed successfully
+[2025-11-07T11:40:29.966840] [ERROR] Disk read failed
+[2025-11-07T11:40:29.966825] [INFO] Configuration loaded
+[2025-11-07T11:40:29.966837] [INFO] User logged in
+[2025-11-07T11:40:29.966832] [INFO] Connection established
+[2025-11-07T11:40:29.966827] [INFO] Database query executed
+[2025-11-07T11:40:29.966826] [INFO] Session started
+[2025-11-07T11:40:29.966831] [INFO] Cache hit
+[2025-11-07T11:40:29.966857] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.966834] [INFO] Cache hit
+[2025-11-07T11:40:29.966829] [INFO] Cache hit
+[2025-11-07T11:40:29.966841] [ERROR] Permission denied
+[2025-11-07T11:40:29.966833] [INFO] User logged in
+[2025-11-07T11:40:29.966846] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.966844] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.966823] [INFO] Connection established
+[2025-11-07T11:40:29.966838] [WARN] Cache miss
+[2025-11-07T11:40:29.966835] [INFO] Database query executed
+[2025-11-07T11:40:29.966845] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.966842] [ERROR] Invalid input data
+[2025-11-07T11:40:29.966839] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.966846] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.966822] [INFO] Service initialized

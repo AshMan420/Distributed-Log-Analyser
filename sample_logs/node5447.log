@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.867754] [INFO] Connection established
+[2025-11-07T11:40:29.867749] [INFO] Session started
+[2025-11-07T11:40:29.867761] [ERROR] Database connection lost
+[2025-11-07T11:40:29.867760] [WARN] High memory usage detected
+[2025-11-07T11:40:29.867766] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.867759] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.867744] [INFO] Session started
+[2025-11-07T11:40:29.867770] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.867743] [INFO] Service initialized
+[2025-11-07T11:40:29.867758] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.867752] [INFO] Cache hit
+[2025-11-07T11:40:29.867750] [INFO] Health check passed
+[2025-11-07T11:40:29.867740] [INFO] Service initialized
+[2025-11-07T11:40:29.867748] [INFO] Configuration loaded
+[2025-11-07T11:40:29.867768] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.867742] [INFO] Cache hit
+[2025-11-07T11:40:29.867753] [INFO] Health check passed
+[2025-11-07T11:40:29.867747] [INFO] Transaction completed
+[2025-11-07T11:40:29.867762] [ERROR] Permission denied
+[2025-11-07T11:40:29.867739] [INFO] Request processed successfully
+[2025-11-07T11:40:29.867745] [INFO] Connection established
+[2025-11-07T11:40:29.867763] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.867746] [INFO] Session started
+[2025-11-07T11:40:29.867765] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.867755] [INFO] Connection established
+[2025-11-07T11:40:29.867751] [INFO] Transaction completed
+[2025-11-07T11:40:29.867771] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.867764] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.867756] [WARN] Timeout warning
+[2025-11-07T11:40:29.867757] [WARN] High memory usage detected
+[2025-11-07T11:40:29.867741] [INFO] Request processed successfully
+[2025-11-07T11:40:29.867767] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.867769] [DEBUG] Loop iteration: 15

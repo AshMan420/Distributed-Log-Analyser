@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.849440] [INFO] Transaction completed
+[2025-11-07T11:40:29.849455] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.849454] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.849450] [WARN] Queue size growing
+[2025-11-07T11:40:29.849439] [INFO] Cache hit
+[2025-11-07T11:40:29.849451] [WARN] Slow query performance
+[2025-11-07T11:40:29.849436] [INFO] Database query executed
+[2025-11-07T11:40:29.849446] [INFO] Database query executed
+[2025-11-07T11:40:29.849442] [INFO] Session started
+[2025-11-07T11:40:29.849437] [INFO] Request processed successfully
+[2025-11-07T11:40:29.849461] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.849457] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.849444] [INFO] Cache hit
+[2025-11-07T11:40:29.849447] [INFO] Request processed successfully
+[2025-11-07T11:40:29.849462] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.849438] [INFO] User logged in
+[2025-11-07T11:40:29.849456] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.849460] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.849449] [WARN] Slow query performance
+[2025-11-07T11:40:29.849445] [INFO] Request processed successfully
+[2025-11-07T11:40:29.849452] [WARN] Cache miss
+[2025-11-07T11:40:29.849453] [ERROR] Authentication failed
+[2025-11-07T11:40:29.849445] [INFO] Request processed successfully
+[2025-11-07T11:40:29.849448] [INFO] User logged in
+[2025-11-07T11:40:29.849434] [INFO] Configuration loaded
+[2025-11-07T11:40:29.849458] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.849459] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.849441] [INFO] Configuration loaded
+[2025-11-07T11:40:29.849443] [INFO] Service initialized

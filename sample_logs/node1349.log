@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.432666] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.432663] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.432656] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.432640] [INFO] Cache hit
+[2025-11-07T11:40:29.432651] [INFO] Database query executed
+[2025-11-07T11:40:29.432661] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.432647] [INFO] Session started
+[2025-11-07T11:40:29.432645] [INFO] Service initialized
+[2025-11-07T11:40:29.432664] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.432646] [INFO] Service initialized
+[2025-11-07T11:40:29.432660] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.432643] [INFO] Session started
+[2025-11-07T11:40:29.432662] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.432657] [ERROR] Disk read failed
+[2025-11-07T11:40:29.432650] [INFO] Cache hit
+[2025-11-07T11:40:29.432648] [INFO] Request processed successfully
+[2025-11-07T11:40:29.432659] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.432641] [INFO] Request processed successfully
+[2025-11-07T11:40:29.432642] [INFO] User logged in
+[2025-11-07T11:40:29.432658] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.432649] [INFO] Connection established
+[2025-11-07T11:40:29.432665] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.432644] [INFO] Configuration loaded
+[2025-11-07T11:40:29.432653] [INFO] Transaction completed
+[2025-11-07T11:40:29.432655] [WARN] Queue size growing
+[2025-11-07T11:40:29.432639] [INFO] Request processed successfully
+[2025-11-07T11:40:29.432652] [INFO] Database query executed

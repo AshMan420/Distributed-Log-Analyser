@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.418533] [WARN] Disk space low
+[2025-11-07T11:40:29.418542] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.418541] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.418524] [INFO] Transaction completed
+[2025-11-07T11:40:29.418514] [INFO] Database query executed
+[2025-11-07T11:40:29.418518] [INFO] Configuration loaded
+[2025-11-07T11:40:29.418528] [WARN] Slow query performance
+[2025-11-07T11:40:29.418526] [WARN] Cache miss
+[2025-11-07T11:40:29.418516] [INFO] Request processed successfully
+[2025-11-07T11:40:29.418531] [WARN] High memory usage detected
+[2025-11-07T11:40:29.418534] [WARN] Disk space low
+[2025-11-07T11:40:29.418527] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.418513] [INFO] Configuration loaded
+[2025-11-07T11:40:29.418521] [INFO] Request processed successfully
+[2025-11-07T11:40:29.418538] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.418520] [INFO] Health check passed
+[2025-11-07T11:40:29.418519] [INFO] Request processed successfully
+[2025-11-07T11:40:29.418532] [WARN] Slow query performance
+[2025-11-07T11:40:29.418529] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.418525] [INFO] Service initialized
+[2025-11-07T11:40:29.418515] [INFO] Transaction completed
+[2025-11-07T11:40:29.418517] [INFO] Configuration loaded
+[2025-11-07T11:40:29.418536] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.418530] [WARN] Timeout warning
+[2025-11-07T11:40:29.418535] [ERROR] Disk read failed
+[2025-11-07T11:40:29.418537] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.418544] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.418543] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.418511] [INFO] Cache hit
+[2025-11-07T11:40:29.418540] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.418539] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.418523] [INFO] Health check passed
+[2025-11-07T11:40:29.418512] [INFO] Transaction completed
+[2025-11-07T11:40:29.418522] [INFO] Cache hit
+[2025-11-07T11:40:29.418509] [INFO] Request processed successfully

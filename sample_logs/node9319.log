@@ -1,0 +1,33 @@
+[2025-11-07T11:40:30.289978] [INFO] Session started
+[2025-11-07T11:40:30.289987] [WARN] High memory usage detected
+[2025-11-07T11:40:30.289997] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.289996] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.289972] [INFO] Health check passed
+[2025-11-07T11:40:30.289998] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.289993] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.289999] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.289969] [INFO] Database query executed
+[2025-11-07T11:40:30.289979] [INFO] User logged in
+[2025-11-07T11:40:30.289980] [INFO] Session started
+[2025-11-07T11:40:30.289990] [WARN] High memory usage detected
+[2025-11-07T11:40:30.289968] [INFO] Cache hit
+[2025-11-07T11:40:30.289981] [INFO] Request processed successfully
+[2025-11-07T11:40:30.289985] [INFO] Connection established
+[2025-11-07T11:40:30.289982] [INFO] Request processed successfully
+[2025-11-07T11:40:30.289997] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.289974] [INFO] Transaction completed
+[2025-11-07T11:40:30.289970] [INFO] Service initialized
+[2025-11-07T11:40:30.289975] [INFO] Connection established
+[2025-11-07T11:40:30.289977] [INFO] Transaction completed
+[2025-11-07T11:40:30.289994] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.289973] [INFO] Database query executed
+[2025-11-07T11:40:30.289984] [INFO] Service initialized
+[2025-11-07T11:40:30.289989] [WARN] Slow query performance
+[2025-11-07T11:40:30.289995] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.289988] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.289991] [ERROR] Authentication failed
+[2025-11-07T11:40:30.289976] [INFO] Transaction completed
+[2025-11-07T11:40:30.289992] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.289986] [WARN] Timeout warning
+[2025-11-07T11:40:30.289971] [INFO] Connection established
+[2025-11-07T11:40:30.289983] [INFO] Service initialized

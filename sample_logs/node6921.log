@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.029299] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.029298] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.029284] [INFO] Session started
+[2025-11-07T11:40:30.029289] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.029291] [ERROR] File not found
+[2025-11-07T11:40:30.029288] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.029277] [INFO] Request processed successfully
+[2025-11-07T11:40:30.029275] [INFO] Connection established
+[2025-11-07T11:40:30.029295] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.029278] [INFO] Request processed successfully
+[2025-11-07T11:40:30.029285] [INFO] Health check passed
+[2025-11-07T11:40:30.029293] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.029296] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.029273] [INFO] Database query executed
+[2025-11-07T11:40:30.029281] [INFO] Connection established
+[2025-11-07T11:40:30.029294] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.029280] [INFO] Cache hit
+[2025-11-07T11:40:30.029297] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.029282] [INFO] Connection established
+[2025-11-07T11:40:30.029295] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.029287] [INFO] Session started
+[2025-11-07T11:40:30.029279] [INFO] Session started
+[2025-11-07T11:40:30.029283] [INFO] Transaction completed
+[2025-11-07T11:40:30.029285] [INFO] Service initialized
+[2025-11-07T11:40:30.029274] [INFO] Health check passed
+[2025-11-07T11:40:30.029286] [INFO] Session started
+[2025-11-07T11:40:30.029292] [DEBUG] Entering function process_data()

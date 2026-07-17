@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.198533] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.198514] [INFO] Database query executed
+[2025-11-07T11:40:30.198518] [WARN] Timeout warning
+[2025-11-07T11:40:30.198511] [INFO] Connection established
+[2025-11-07T11:40:30.198510] [INFO] Session started
+[2025-11-07T11:40:30.198508] [INFO] Configuration loaded
+[2025-11-07T11:40:30.198527] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.198526] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.198529] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.198522] [ERROR] Network timeout
+[2025-11-07T11:40:30.198513] [INFO] Session started
+[2025-11-07T11:40:30.198506] [INFO] Health check passed
+[2025-11-07T11:40:30.198509] [INFO] Health check passed
+[2025-11-07T11:40:30.198520] [WARN] Queue size growing
+[2025-11-07T11:40:30.198530] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.198521] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.198519] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.198517] [INFO] Connection established
+[2025-11-07T11:40:30.198524] [ERROR] Invalid input data
+[2025-11-07T11:40:30.198515] [INFO] Transaction completed
+[2025-11-07T11:40:30.198508] [INFO] Connection established
+[2025-11-07T11:40:30.198523] [ERROR] Authentication failed
+[2025-11-07T11:40:30.198526] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.198528] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.198505] [INFO] Connection established
+[2025-11-07T11:40:30.198516] [INFO] Database query executed
+[2025-11-07T11:40:30.198532] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.198512] [INFO] Cache hit
+[2025-11-07T11:40:30.198531] [DEBUG] HTTP request headers parsed

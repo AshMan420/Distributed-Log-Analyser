@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.297504] [INFO] Health check passed
+[2025-11-07T11:40:30.297499] [INFO] Service initialized
+[2025-11-07T11:40:30.297494] [INFO] Session started
+[2025-11-07T11:40:30.297511] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.297500] [INFO] Database query executed
+[2025-11-07T11:40:30.297525] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.297512] [WARN] Cache miss
+[2025-11-07T11:40:30.297518] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.297516] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.297515] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.297505] [INFO] Session started
+[2025-11-07T11:40:30.297524] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.297514] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297513] [ERROR] Network timeout
+[2025-11-07T11:40:30.297520] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.297519] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.297503] [INFO] Health check passed
+[2025-11-07T11:40:30.297501] [INFO] Transaction completed
+[2025-11-07T11:40:30.297509] [INFO] Health check passed
+[2025-11-07T11:40:30.297495] [INFO] Transaction completed
+[2025-11-07T11:40:30.297508] [INFO] Session started
+[2025-11-07T11:40:30.297497] [INFO] Database query executed
+[2025-11-07T11:40:30.297498] [INFO] Health check passed
+[2025-11-07T11:40:30.297523] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.297502] [INFO] Cache hit
+[2025-11-07T11:40:30.297506] [INFO] Service initialized
+[2025-11-07T11:40:30.297510] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.297521] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.297522] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.297517] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.297507] [INFO] Configuration loaded

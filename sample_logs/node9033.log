@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.261327] [WARN] High memory usage detected
+[2025-11-07T11:40:30.261321] [INFO] Configuration loaded
+[2025-11-07T11:40:30.261340] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.261334] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.261314] [INFO] Database query executed
+[2025-11-07T11:40:30.261317] [INFO] Configuration loaded
+[2025-11-07T11:40:30.261332] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.261330] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.261316] [INFO] Connection established
+[2025-11-07T11:40:30.261335] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.261322] [INFO] Service initialized
+[2025-11-07T11:40:30.261333] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.261324] [INFO] Connection established
+[2025-11-07T11:40:30.261319] [INFO] Request processed successfully
+[2025-11-07T11:40:30.261322] [INFO] User logged in
+[2025-11-07T11:40:30.261323] [INFO] Configuration loaded
+[2025-11-07T11:40:30.261329] [ERROR] Database connection lost
+[2025-11-07T11:40:30.261331] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.261325] [INFO] User logged in
+[2025-11-07T11:40:30.261336] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.261315] [INFO] Configuration loaded
+[2025-11-07T11:40:30.261337] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.261319] [INFO] Request processed successfully
+[2025-11-07T11:40:30.261328] [ERROR] Invalid input data
+[2025-11-07T11:40:30.261312] [INFO] Cache hit
+[2025-11-07T11:40:30.261318] [INFO] Request processed successfully
+[2025-11-07T11:40:30.261338] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.261326] [INFO] User logged in
+[2025-11-07T11:40:30.261339] [DEBUG] Entering function process_data()

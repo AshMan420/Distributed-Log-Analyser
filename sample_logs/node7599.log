@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.098955] [ERROR] Permission denied
+[2025-11-07T11:40:30.098968] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.098950] [INFO] Cache hit
+[2025-11-07T11:40:30.098951] [WARN] Slow query performance
+[2025-11-07T11:40:30.098958] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.098952] [WARN] Timeout warning
+[2025-11-07T11:40:30.098969] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.098949] [INFO] Configuration loaded
+[2025-11-07T11:40:30.098965] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.098942] [INFO] Connection established
+[2025-11-07T11:40:30.098946] [INFO] Session started
+[2025-11-07T11:40:30.098948] [INFO] Health check passed
+[2025-11-07T11:40:30.098947] [INFO] Transaction completed
+[2025-11-07T11:40:30.098945] [INFO] Cache hit
+[2025-11-07T11:40:30.098966] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.098961] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.098959] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.098962] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.098963] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.098956] [ERROR] Request failed
+[2025-11-07T11:40:30.098944] [INFO] User logged in
+[2025-11-07T11:40:30.098938] [INFO] Request processed successfully
+[2025-11-07T11:40:30.098941] [INFO] Connection established
+[2025-11-07T11:40:30.098943] [INFO] Health check passed
+[2025-11-07T11:40:30.098953] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.098967] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.098960] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.098957] [ERROR] File not found
+[2025-11-07T11:40:30.098954] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.098940] [INFO] Health check passed
+[2025-11-07T11:40:30.098964] [DEBUG] Timer set: 30 seconds

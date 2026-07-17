@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.461584] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.461581] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.461582] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.461574] [WARN] Disk space low
+[2025-11-07T11:40:29.461573] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.461571] [INFO] Service initialized
+[2025-11-07T11:40:29.461576] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.461559] [INFO] Session started
+[2025-11-07T11:40:29.461580] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.461561] [INFO] Service initialized
+[2025-11-07T11:40:29.461579] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.461558] [INFO] Session started
+[2025-11-07T11:40:29.461566] [INFO] Request processed successfully
+[2025-11-07T11:40:29.461578] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.461562] [INFO] Request processed successfully
+[2025-11-07T11:40:29.461564] [INFO] Session started
+[2025-11-07T11:40:29.461567] [INFO] Connection established
+[2025-11-07T11:40:29.461565] [INFO] Connection established
+[2025-11-07T11:40:29.461560] [INFO] Connection established
+[2025-11-07T11:40:29.461583] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.461575] [WARN] High memory usage detected
+[2025-11-07T11:40:29.461570] [INFO] Configuration loaded
+[2025-11-07T11:40:29.461563] [INFO] Configuration loaded
+[2025-11-07T11:40:29.461577] [ERROR] Database connection lost
+[2025-11-07T11:40:29.461572] [WARN] High memory usage detected
+[2025-11-07T11:40:29.461585] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.461556] [INFO] Database query executed
+[2025-11-07T11:40:29.461568] [INFO] Session started
+[2025-11-07T11:40:29.461586] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.461569] [INFO] Health check passed

@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.629689] [INFO] Cache hit
+[2025-11-07T11:40:29.629695] [INFO] Cache hit
+[2025-11-07T11:40:29.629706] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.629688] [INFO] Cache hit
+[2025-11-07T11:40:29.629685] [INFO] Configuration loaded
+[2025-11-07T11:40:29.629700] [WARN] Slow query performance
+[2025-11-07T11:40:29.629699] [WARN] Timeout warning
+[2025-11-07T11:40:29.629704] [ERROR] Request failed
+[2025-11-07T11:40:29.629712] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.629709] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.629707] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.629686] [INFO] Database query executed
+[2025-11-07T11:40:29.629711] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.629708] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.629698] [INFO] Session started
+[2025-11-07T11:40:29.629717] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.629715] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.629714] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.629705] [ERROR] Database connection lost
+[2025-11-07T11:40:29.629710] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.629684] [INFO] User logged in
+[2025-11-07T11:40:29.629703] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.629713] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.629696] [INFO] Session started
+[2025-11-07T11:40:29.629716] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.629682] [INFO] Health check passed
+[2025-11-07T11:40:29.629690] [INFO] Transaction completed
+[2025-11-07T11:40:29.629701] [WARN] Cache miss
+[2025-11-07T11:40:29.629692] [INFO] Service initialized
+[2025-11-07T11:40:29.629687] [INFO] Connection established
+[2025-11-07T11:40:29.629702] [WARN] Cache miss
+[2025-11-07T11:40:29.629691] [INFO] Configuration loaded
+[2025-11-07T11:40:29.629694] [INFO] Session started
+[2025-11-07T11:40:29.629697] [INFO] Transaction completed
+[2025-11-07T11:40:29.629693] [INFO] Request processed successfully

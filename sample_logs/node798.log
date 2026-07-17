@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.375228] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.375229] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.375217] [INFO] Cache hit
+[2025-11-07T11:40:29.375216] [INFO] Health check passed
+[2025-11-07T11:40:29.375211] [INFO] Request processed successfully
+[2025-11-07T11:40:29.375216] [INFO] Request processed successfully
+[2025-11-07T11:40:29.375204] [INFO] Configuration loaded
+[2025-11-07T11:40:29.375233] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.375226] [ERROR] File not found
+[2025-11-07T11:40:29.375205] [INFO] User logged in
+[2025-11-07T11:40:29.375212] [INFO] Transaction completed
+[2025-11-07T11:40:29.375224] [ERROR] Network timeout
+[2025-11-07T11:40:29.375233] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.375214] [INFO] Health check passed
+[2025-11-07T11:40:29.375234] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.375219] [INFO] Request processed successfully
+[2025-11-07T11:40:29.375208] [INFO] Transaction completed
+[2025-11-07T11:40:29.375223] [WARN] Queue size growing
+[2025-11-07T11:40:29.375213] [INFO] Connection established
+[2025-11-07T11:40:29.375207] [INFO] Transaction completed
+[2025-11-07T11:40:29.375210] [INFO] Request processed successfully
+[2025-11-07T11:40:29.375220] [WARN] Timeout warning
+[2025-11-07T11:40:29.375218] [INFO] Service initialized
+[2025-11-07T11:40:29.375230] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.375235] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.375222] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.375215] [INFO] Service initialized
+[2025-11-07T11:40:29.375221] [WARN] High memory usage detected
+[2025-11-07T11:40:29.375232] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.375206] [INFO] Request processed successfully
+[2025-11-07T11:40:29.375225] [ERROR] Authentication failed
+[2025-11-07T11:40:29.375231] [DEBUG] Timer set: 30 seconds

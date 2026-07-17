@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.508130] [INFO] Cache hit
+[2025-11-07T11:40:29.508143] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.508127] [INFO] Service initialized
+[2025-11-07T11:40:29.508142] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.508150] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.508145] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.508129] [INFO] Configuration loaded
+[2025-11-07T11:40:29.508148] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.508131] [INFO] Service initialized
+[2025-11-07T11:40:29.508128] [INFO] Cache hit
+[2025-11-07T11:40:29.508133] [INFO] Configuration loaded
+[2025-11-07T11:40:29.508147] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.508138] [WARN] Cache miss
+[2025-11-07T11:40:29.508125] [INFO] Service initialized
+[2025-11-07T11:40:29.508137] [WARN] Slow query performance
+[2025-11-07T11:40:29.508144] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.508136] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.508134] [INFO] Cache hit
+[2025-11-07T11:40:29.508139] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.508140] [ERROR] Database connection lost
+[2025-11-07T11:40:29.508126] [INFO] User logged in
+[2025-11-07T11:40:29.508135] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.508141] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.508123] [INFO] User logged in
+[2025-11-07T11:40:29.508146] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.508132] [INFO] Service initialized
+[2025-11-07T11:40:29.508149] [DEBUG] HTTP request headers parsed

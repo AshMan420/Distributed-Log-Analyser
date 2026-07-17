@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.133777] [INFO] Connection established
+[2025-11-07T11:40:30.133786] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.133790] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.133784] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.133779] [WARN] Cache miss
+[2025-11-07T11:40:30.133781] [WARN] Cache miss
+[2025-11-07T11:40:30.133776] [INFO] Transaction completed
+[2025-11-07T11:40:30.133789] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.133766] [INFO] Database query executed
+[2025-11-07T11:40:30.133792] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.133772] [INFO] Session started
+[2025-11-07T11:40:30.133773] [INFO] Session started
+[2025-11-07T11:40:30.133780] [WARN] Queue size growing
+[2025-11-07T11:40:30.133763] [INFO] Database query executed
+[2025-11-07T11:40:30.133769] [INFO] Cache hit
+[2025-11-07T11:40:30.133774] [INFO] Service initialized
+[2025-11-07T11:40:30.133767] [INFO] Health check passed
+[2025-11-07T11:40:30.133788] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.133782] [ERROR] Disk read failed
+[2025-11-07T11:40:30.133783] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.133771] [INFO] Health check passed
+[2025-11-07T11:40:30.133775] [INFO] Connection established
+[2025-11-07T11:40:30.133770] [INFO] Configuration loaded
+[2025-11-07T11:40:30.133787] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.133768] [INFO] Cache hit
+[2025-11-07T11:40:30.133778] [WARN] Disk space low
+[2025-11-07T11:40:30.133764] [INFO] Configuration loaded
+[2025-11-07T11:40:30.133791] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.133765] [INFO] User logged in

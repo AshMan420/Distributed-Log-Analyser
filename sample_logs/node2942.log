@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.608073] [INFO] Database query executed
+[2025-11-07T11:40:29.608080] [INFO] Cache hit
+[2025-11-07T11:40:29.608092] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.608090] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.608091] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.608079] [INFO] Transaction completed
+[2025-11-07T11:40:29.608096] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.608076] [INFO] Database query executed
+[2025-11-07T11:40:29.608078] [INFO] Configuration loaded
+[2025-11-07T11:40:29.608077] [INFO] Session started
+[2025-11-07T11:40:29.608088] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.608081] [INFO] Session started
+[2025-11-07T11:40:29.608094] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.608085] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.608093] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.608075] [INFO] Session started
+[2025-11-07T11:40:29.608097] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.608092] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.608087] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.608086] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.608071] [INFO] Health check passed
+[2025-11-07T11:40:29.608082] [INFO] Request processed successfully
+[2025-11-07T11:40:29.608084] [WARN] Cache miss
+[2025-11-07T11:40:29.608072] [INFO] User logged in
+[2025-11-07T11:40:29.608070] [INFO] Transaction completed
+[2025-11-07T11:40:29.608076] [INFO] Database query executed
+[2025-11-07T11:40:29.608083] [WARN] Queue size growing

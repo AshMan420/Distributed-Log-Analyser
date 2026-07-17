@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.995445] [WARN] Slow query performance
+[2025-11-07T11:40:29.995438] [INFO] Request processed successfully
+[2025-11-07T11:40:29.995462] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.995440] [INFO] Session started
+[2025-11-07T11:40:29.995448] [WARN] High memory usage detected
+[2025-11-07T11:40:29.995428] [INFO] Transaction completed
+[2025-11-07T11:40:29.995443] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.995447] [WARN] Timeout warning
+[2025-11-07T11:40:29.995456] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.995431] [INFO] Request processed successfully
+[2025-11-07T11:40:29.995451] [WARN] Cache miss
+[2025-11-07T11:40:29.995442] [WARN] Slow query performance
+[2025-11-07T11:40:29.995432] [INFO] Configuration loaded
+[2025-11-07T11:40:29.995429] [INFO] Session started
+[2025-11-07T11:40:29.995437] [INFO] User logged in
+[2025-11-07T11:40:29.995463] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.995441] [INFO] User logged in
+[2025-11-07T11:40:29.995434] [INFO] Request processed successfully
+[2025-11-07T11:40:29.995436] [INFO] Transaction completed
+[2025-11-07T11:40:29.995450] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.995454] [ERROR] Service unavailable
+[2025-11-07T11:40:29.995444] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.995425] [INFO] Health check passed
+[2025-11-07T11:40:29.995458] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.995459] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.995457] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.995449] [WARN] Queue size growing
+[2025-11-07T11:40:29.995435] [INFO] Database query executed
+[2025-11-07T11:40:29.995446] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.995461] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.995452] [ERROR] Invalid input data
+[2025-11-07T11:40:29.995460] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.995427] [INFO] Connection established
+[2025-11-07T11:40:29.995433] [INFO] Database query executed
+[2025-11-07T11:40:29.995430] [INFO] Request processed successfully
+[2025-11-07T11:40:29.995439] [INFO] Database query executed
+[2025-11-07T11:40:29.995455] [DEBUG] Thread pool size: 8

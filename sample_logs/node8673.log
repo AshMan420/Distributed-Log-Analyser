@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.212038] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.212043] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.212035] [WARN] High memory usage detected
+[2025-11-07T11:40:30.212020] [INFO] Transaction completed
+[2025-11-07T11:40:30.212040] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.212030] [INFO] Cache hit
+[2025-11-07T11:40:30.212026] [INFO] Health check passed
+[2025-11-07T11:40:30.212045] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.212035] [WARN] Timeout warning
+[2025-11-07T11:40:30.212034] [WARN] Cache miss
+[2025-11-07T11:40:30.212033] [WARN] Disk space low
+[2025-11-07T11:40:30.212023] [INFO] Session started
+[2025-11-07T11:40:30.212025] [INFO] Connection established
+[2025-11-07T11:40:30.212044] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.212042] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.212024] [INFO] Service initialized
+[2025-11-07T11:40:30.212039] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.212027] [INFO] Cache hit
+[2025-11-07T11:40:30.212046] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.212021] [INFO] Configuration loaded
+[2025-11-07T11:40:30.212016] [INFO] User logged in
+[2025-11-07T11:40:30.212019] [INFO] User logged in
+[2025-11-07T11:40:30.212037] [ERROR] Network timeout
+[2025-11-07T11:40:30.212031] [WARN] Slow query performance
+[2025-11-07T11:40:30.212017] [INFO] Database query executed
+[2025-11-07T11:40:30.212022] [INFO] Database query executed
+[2025-11-07T11:40:30.212018] [INFO] Request processed successfully
+[2025-11-07T11:40:30.212028] [INFO] Database query executed
+[2025-11-07T11:40:30.212029] [INFO] Configuration loaded

@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.599701] [INFO] Database query executed
+[2025-11-07T11:40:29.599709] [INFO] Connection established
+[2025-11-07T11:40:29.599736] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.599716] [INFO] Configuration loaded
+[2025-11-07T11:40:29.599708] [INFO] Transaction completed
+[2025-11-07T11:40:29.599720] [WARN] High memory usage detected
+[2025-11-07T11:40:29.599735] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.599726] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.599728] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.599712] [INFO] User logged in
+[2025-11-07T11:40:29.599724] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.599704] [INFO] Configuration loaded
+[2025-11-07T11:40:29.599728] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.599718] [WARN] Disk space low
+[2025-11-07T11:40:29.599722] [ERROR] Permission denied
+[2025-11-07T11:40:29.599706] [INFO] User logged in
+[2025-11-07T11:40:29.599714] [INFO] Session started
+[2025-11-07T11:40:29.599732] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.599733] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.599711] [INFO] Request processed successfully
+[2025-11-07T11:40:29.599702] [INFO] Request processed successfully
+[2025-11-07T11:40:29.599713] [INFO] Cache hit
+[2025-11-07T11:40:29.599710] [INFO] Session started
+[2025-11-07T11:40:29.599737] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.599734] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.599729] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.599715] [INFO] Request processed successfully
+[2025-11-07T11:40:29.599709] [INFO] Database query executed
+[2025-11-07T11:40:29.599717] [INFO] Database query executed
+[2025-11-07T11:40:29.599719] [WARN] Disk space low
+[2025-11-07T11:40:29.599721] [WARN] Cache miss
+[2025-11-07T11:40:29.599703] [INFO] Health check passed
+[2025-11-07T11:40:29.599730] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.599725] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.599707] [INFO] Cache hit
+[2025-11-07T11:40:29.599731] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.599725] [DEBUG] Buffer size: 4096 bytes

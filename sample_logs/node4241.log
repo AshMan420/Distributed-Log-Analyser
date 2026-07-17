@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.745994] [ERROR] Invalid input data
+[2025-11-07T11:40:29.745982] [INFO] Service initialized
+[2025-11-07T11:40:29.745997] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.745986] [INFO] Database query executed
+[2025-11-07T11:40:29.745993] [WARN] Cache miss
+[2025-11-07T11:40:29.745976] [INFO] User logged in
+[2025-11-07T11:40:29.746005] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.745992] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.745985] [INFO] Cache hit
+[2025-11-07T11:40:29.745987] [INFO] Service initialized
+[2025-11-07T11:40:29.745999] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.746002] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.746004] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.745996] [ERROR] Request failed
+[2025-11-07T11:40:29.745984] [INFO] User logged in
+[2025-11-07T11:40:29.745979] [INFO] Service initialized
+[2025-11-07T11:40:29.746007] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.745981] [INFO] Health check passed
+[2025-11-07T11:40:29.746001] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.745998] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.746003] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.745983] [INFO] Configuration loaded
+[2025-11-07T11:40:29.745995] [ERROR] Authentication failed
+[2025-11-07T11:40:29.745980] [INFO] Connection established
+[2025-11-07T11:40:29.745989] [INFO] Service initialized
+[2025-11-07T11:40:29.745991] [WARN] Cache miss
+[2025-11-07T11:40:29.745975] [INFO] Transaction completed
+[2025-11-07T11:40:29.745988] [INFO] Session started
+[2025-11-07T11:40:29.746000] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.746006] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.745978] [INFO] Health check passed
+[2025-11-07T11:40:29.745990] [WARN] Cache miss
+[2025-11-07T11:40:29.745977] [INFO] Connection established

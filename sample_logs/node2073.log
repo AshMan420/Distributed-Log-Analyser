@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.512259] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.512241] [INFO] Service initialized
+[2025-11-07T11:40:29.512261] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.512245] [INFO] Connection established
+[2025-11-07T11:40:29.512233] [INFO] Connection established
+[2025-11-07T11:40:29.512236] [INFO] Service initialized
+[2025-11-07T11:40:29.512254] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.512235] [INFO] Session started
+[2025-11-07T11:40:29.512256] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.512239] [INFO] User logged in
+[2025-11-07T11:40:29.512242] [INFO] Database query executed
+[2025-11-07T11:40:29.512243] [INFO] Health check passed
+[2025-11-07T11:40:29.512253] [ERROR] Invalid input data
+[2025-11-07T11:40:29.512245] [INFO] Configuration loaded
+[2025-11-07T11:40:29.512250] [WARN] Cache miss
+[2025-11-07T11:40:29.512258] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.512248] [WARN] Slow query performance
+[2025-11-07T11:40:29.512237] [INFO] Configuration loaded
+[2025-11-07T11:40:29.512252] [ERROR] File not found
+[2025-11-07T11:40:29.512234] [INFO] Transaction completed
+[2025-11-07T11:40:29.512238] [INFO] User logged in
+[2025-11-07T11:40:29.512255] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.512240] [INFO] Cache hit
+[2025-11-07T11:40:29.512232] [INFO] User logged in
+[2025-11-07T11:40:29.512260] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.512242] [INFO] User logged in
+[2025-11-07T11:40:29.512260] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.512257] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.512250] [WARN] Disk space low
+[2025-11-07T11:40:29.512249] [WARN] Cache miss
+[2025-11-07T11:40:29.512247] [WARN] High memory usage detected

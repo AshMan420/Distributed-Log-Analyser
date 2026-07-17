@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.755839] [WARN] High memory usage detected
+[2025-11-07T11:40:29.755816] [INFO] Request processed successfully
+[2025-11-07T11:40:29.755825] [INFO] Request processed successfully
+[2025-11-07T11:40:29.755826] [INFO] Connection established
+[2025-11-07T11:40:29.755823] [INFO] Session started
+[2025-11-07T11:40:29.755818] [INFO] Configuration loaded
+[2025-11-07T11:40:29.755837] [INFO] Transaction completed
+[2025-11-07T11:40:29.755833] [INFO] Database query executed
+[2025-11-07T11:40:29.755842] [ERROR] Invalid input data
+[2025-11-07T11:40:29.755844] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.755848] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.755845] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.755841] [ERROR] Permission denied
+[2025-11-07T11:40:29.755830] [INFO] User logged in
+[2025-11-07T11:40:29.755822] [INFO] Cache hit
+[2025-11-07T11:40:29.755828] [INFO] Transaction completed
+[2025-11-07T11:40:29.755838] [WARN] Disk space low
+[2025-11-07T11:40:29.755821] [INFO] Session started
+[2025-11-07T11:40:29.755846] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.755829] [INFO] Session started
+[2025-11-07T11:40:29.755836] [INFO] Cache hit
+[2025-11-07T11:40:29.755820] [INFO] Transaction completed
+[2025-11-07T11:40:29.755843] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.755834] [INFO] Request processed successfully
+[2025-11-07T11:40:29.755832] [INFO] Configuration loaded
+[2025-11-07T11:40:29.755849] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.755827] [INFO] Service initialized
+[2025-11-07T11:40:29.755835] [INFO] Request processed successfully
+[2025-11-07T11:40:29.755824] [INFO] Cache hit
+[2025-11-07T11:40:29.755819] [INFO] Configuration loaded
+[2025-11-07T11:40:29.755831] [INFO] Transaction completed
+[2025-11-07T11:40:29.755850] [DEBUG] Variable value: x=42

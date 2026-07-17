@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.224360] [WARN] High memory usage detected
+[2025-11-07T11:40:30.224354] [INFO] Connection established
+[2025-11-07T11:40:30.224370] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.224377] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.224356] [INFO] Transaction completed
+[2025-11-07T11:40:30.224363] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.224357] [INFO] Cache hit
+[2025-11-07T11:40:30.224361] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.224369] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.224366] [ERROR] Database connection lost
+[2025-11-07T11:40:30.224351] [INFO] Database query executed
+[2025-11-07T11:40:30.224353] [INFO] Transaction completed
+[2025-11-07T11:40:30.224368] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.224349] [INFO] Session started
+[2025-11-07T11:40:30.224362] [WARN] Timeout warning
+[2025-11-07T11:40:30.224346] [INFO] Configuration loaded
+[2025-11-07T11:40:30.224345] [INFO] Service initialized
+[2025-11-07T11:40:30.224350] [INFO] Request processed successfully
+[2025-11-07T11:40:30.224347] [INFO] User logged in
+[2025-11-07T11:40:30.224375] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.224365] [ERROR] Invalid input data
+[2025-11-07T11:40:30.224372] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.224374] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.224373] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.224352] [INFO] Session started
+[2025-11-07T11:40:30.224355] [INFO] Service initialized
+[2025-11-07T11:40:30.224340] [INFO] Cache hit
+[2025-11-07T11:40:30.224343] [INFO] Configuration loaded
+[2025-11-07T11:40:30.224358] [INFO] User logged in
+[2025-11-07T11:40:30.224342] [INFO] User logged in
+[2025-11-07T11:40:30.224378] [DEBUG] Memory allocation: 2048 bytes

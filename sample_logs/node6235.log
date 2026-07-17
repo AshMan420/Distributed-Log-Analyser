@@ -1,0 +1,40 @@
+[2025-11-07T11:40:29.956646] [WARN] Timeout warning
+[2025-11-07T11:40:29.956638] [INFO] Database query executed
+[2025-11-07T11:40:29.956659] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.956641] [INFO] Database query executed
+[2025-11-07T11:40:29.956645] [WARN] Cache miss
+[2025-11-07T11:40:29.956630] [INFO] Service initialized
+[2025-11-07T11:40:29.956654] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.956631] [INFO] Cache hit
+[2025-11-07T11:40:29.956635] [INFO] Cache hit
+[2025-11-07T11:40:29.956652] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.956642] [INFO] Configuration loaded
+[2025-11-07T11:40:29.956639] [INFO] Service initialized
+[2025-11-07T11:40:29.956668] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.956637] [INFO] User logged in
+[2025-11-07T11:40:29.956667] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.956661] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.956640] [INFO] Connection established
+[2025-11-07T11:40:29.956636] [INFO] Service initialized
+[2025-11-07T11:40:29.956655] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.956653] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.956647] [WARN] Cache miss
+[2025-11-07T11:40:29.956649] [ERROR] Network timeout
+[2025-11-07T11:40:29.956657] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.956666] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.956660] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.956656] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.956662] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.956629] [INFO] Service initialized
+[2025-11-07T11:40:29.956648] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.956633] [INFO] Connection established
+[2025-11-07T11:40:29.956664] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.956643] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.956634] [INFO] Request processed successfully
+[2025-11-07T11:40:29.956628] [INFO] Transaction completed
+[2025-11-07T11:40:29.956663] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.956650] [ERROR] Service unavailable
+[2025-11-07T11:40:29.956665] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.956658] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.956635] [INFO] Health check passed
+[2025-11-07T11:40:29.956651] [DEBUG] Variable value: x=42

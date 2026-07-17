@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.166272] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.166255] [INFO] User logged in
+[2025-11-07T11:40:30.166274] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.166264] [WARN] Cache miss
+[2025-11-07T11:40:30.166277] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.166263] [WARN] Slow query performance
+[2025-11-07T11:40:30.166259] [INFO] Session started
+[2025-11-07T11:40:30.166270] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.166257] [INFO] User logged in
+[2025-11-07T11:40:30.166248] [INFO] Request processed successfully
+[2025-11-07T11:40:30.166249] [INFO] User logged in
+[2025-11-07T11:40:30.166262] [WARN] Slow query performance
+[2025-11-07T11:40:30.166275] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.166268] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.166261] [INFO] Transaction completed
+[2025-11-07T11:40:30.166258] [INFO] User logged in
+[2025-11-07T11:40:30.166254] [INFO] Service initialized
+[2025-11-07T11:40:30.166251] [INFO] Connection established
+[2025-11-07T11:40:30.166250] [INFO] Transaction completed
+[2025-11-07T11:40:30.166269] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.166267] [ERROR] Invalid input data
+[2025-11-07T11:40:30.166253] [INFO] Database query executed
+[2025-11-07T11:40:30.166273] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.166260] [INFO] Connection established
+[2025-11-07T11:40:30.166256] [INFO] Transaction completed
+[2025-11-07T11:40:30.166276] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.166266] [ERROR] Authentication failed
+[2025-11-07T11:40:30.166265] [WARN] Slow query performance

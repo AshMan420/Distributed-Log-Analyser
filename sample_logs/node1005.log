@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.397005] [ERROR] Disk read failed
+[2025-11-07T11:40:29.397010] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.397014] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.397000] [INFO] Configuration loaded
+[2025-11-07T11:40:29.396999] [INFO] Connection established
+[2025-11-07T11:40:29.397016] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.396996] [INFO] Session started
+[2025-11-07T11:40:29.397011] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.397006] [ERROR] Invalid input data
+[2025-11-07T11:40:29.396997] [INFO] Database query executed
+[2025-11-07T11:40:29.396991] [INFO] Session started
+[2025-11-07T11:40:29.397012] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.397002] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.396992] [INFO] Health check passed
+[2025-11-07T11:40:29.396986] [INFO] Transaction completed
+[2025-11-07T11:40:29.396988] [INFO] Session started
+[2025-11-07T11:40:29.396993] [INFO] Request processed successfully
+[2025-11-07T11:40:29.396989] [INFO] Health check passed
+[2025-11-07T11:40:29.396994] [INFO] Request processed successfully
+[2025-11-07T11:40:29.397013] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.397009] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.396995] [INFO] Session started
+[2025-11-07T11:40:29.397001] [INFO] Transaction completed
+[2025-11-07T11:40:29.396998] [INFO] User logged in
+[2025-11-07T11:40:29.396990] [INFO] Cache hit
+[2025-11-07T11:40:29.397008] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.397015] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.397003] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.397004] [WARN] Slow query performance

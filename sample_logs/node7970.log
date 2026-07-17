@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.136773] [WARN] High memory usage detected
+[2025-11-07T11:40:30.136764] [INFO] Request processed successfully
+[2025-11-07T11:40:30.136786] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.136784] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.136759] [INFO] User logged in
+[2025-11-07T11:40:30.136774] [WARN] Timeout warning
+[2025-11-07T11:40:30.136761] [INFO] Health check passed
+[2025-11-07T11:40:30.136777] [ERROR] Network timeout
+[2025-11-07T11:40:30.136783] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.136785] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.136770] [INFO] Session started
+[2025-11-07T11:40:30.136767] [INFO] Service initialized
+[2025-11-07T11:40:30.136766] [INFO] Database query executed
+[2025-11-07T11:40:30.136771] [INFO] Database query executed
+[2025-11-07T11:40:30.136778] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.136768] [INFO] User logged in
+[2025-11-07T11:40:30.136757] [INFO] Service initialized
+[2025-11-07T11:40:30.136779] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.136782] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.136763] [INFO] Health check passed
+[2025-11-07T11:40:30.136775] [WARN] Timeout warning
+[2025-11-07T11:40:30.136772] [INFO] Health check passed
+[2025-11-07T11:40:30.136780] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.136776] [WARN] Disk space low
+[2025-11-07T11:40:30.136765] [INFO] Cache hit
+[2025-11-07T11:40:30.136781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.136760] [INFO] Connection established
+[2025-11-07T11:40:30.136762] [INFO] Service initialized
+[2025-11-07T11:40:30.136769] [INFO] Database query executed

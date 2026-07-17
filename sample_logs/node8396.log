@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.184270] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.184251] [INFO] Cache hit
+[2025-11-07T11:40:30.184268] [ERROR] Network timeout
+[2025-11-07T11:40:30.184256] [INFO] Cache hit
+[2025-11-07T11:40:30.184261] [INFO] Database query executed
+[2025-11-07T11:40:30.184269] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.184253] [INFO] Cache hit
+[2025-11-07T11:40:30.184260] [INFO] Database query executed
+[2025-11-07T11:40:30.184265] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.184274] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.184267] [WARN] Queue size growing
+[2025-11-07T11:40:30.184262] [INFO] Service initialized
+[2025-11-07T11:40:30.184263] [INFO] Transaction completed
+[2025-11-07T11:40:30.184254] [INFO] User logged in
+[2025-11-07T11:40:30.184266] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.184264] [WARN] Cache miss
+[2025-11-07T11:40:30.184273] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.184252] [INFO] Transaction completed
+[2025-11-07T11:40:30.184272] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.184248] [INFO] Database query executed
+[2025-11-07T11:40:30.184258] [INFO] Request processed successfully
+[2025-11-07T11:40:30.184244] [INFO] Configuration loaded
+[2025-11-07T11:40:30.184246] [INFO] Session started
+[2025-11-07T11:40:30.184250] [INFO] Transaction completed
+[2025-11-07T11:40:30.184255] [INFO] Health check passed
+[2025-11-07T11:40:30.184259] [INFO] Service initialized
+[2025-11-07T11:40:30.184257] [INFO] Health check passed
+[2025-11-07T11:40:30.184271] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.184247] [INFO] Request processed successfully
+[2025-11-07T11:40:30.184249] [INFO] Service initialized

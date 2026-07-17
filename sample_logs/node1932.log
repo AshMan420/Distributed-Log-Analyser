@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.497872] [WARN] Disk space low
+[2025-11-07T11:40:29.497857] [INFO] Cache hit
+[2025-11-07T11:40:29.497886] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.497869] [WARN] Cache miss
+[2025-11-07T11:40:29.497890] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497875] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.497864] [INFO] Transaction completed
+[2025-11-07T11:40:29.497871] [WARN] Cache miss
+[2025-11-07T11:40:29.497867] [INFO] Session started
+[2025-11-07T11:40:29.497870] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.497880] [ERROR] File not found
+[2025-11-07T11:40:29.497887] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497879] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.497863] [INFO] Connection established
+[2025-11-07T11:40:29.497874] [WARN] Queue size growing
+[2025-11-07T11:40:29.497885] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.497887] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.497865] [INFO] Transaction completed
+[2025-11-07T11:40:29.497861] [INFO] User logged in
+[2025-11-07T11:40:29.497876] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.497862] [INFO] Transaction completed
+[2025-11-07T11:40:29.497878] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.497884] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497888] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497889] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.497873] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.497856] [INFO] Health check passed
+[2025-11-07T11:40:29.497859] [INFO] Transaction completed
+[2025-11-07T11:40:29.497868] [INFO] Connection established
+[2025-11-07T11:40:29.497881] [ERROR] Service unavailable
+[2025-11-07T11:40:29.497877] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.497883] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.497858] [INFO] Service initialized
+[2025-11-07T11:40:29.497866] [INFO] Service initialized
+[2025-11-07T11:40:29.497860] [INFO] Database query executed

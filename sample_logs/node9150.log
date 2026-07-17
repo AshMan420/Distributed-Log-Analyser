@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.273456] [INFO] Cache hit
+[2025-11-07T11:40:30.273450] [INFO] Connection established
+[2025-11-07T11:40:30.273458] [INFO] Database query executed
+[2025-11-07T11:40:30.273452] [INFO] Health check passed
+[2025-11-07T11:40:30.273474] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.273475] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.273467] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.273471] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.273466] [ERROR] File not found
+[2025-11-07T11:40:30.273454] [INFO] Health check passed
+[2025-11-07T11:40:30.273470] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.273445] [INFO] Session started
+[2025-11-07T11:40:30.273457] [INFO] Health check passed
+[2025-11-07T11:40:30.273448] [INFO] Cache hit
+[2025-11-07T11:40:30.273472] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.273451] [INFO] Cache hit
+[2025-11-07T11:40:30.273449] [INFO] Cache hit
+[2025-11-07T11:40:30.273455] [INFO] Database query executed
+[2025-11-07T11:40:30.273460] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.273447] [INFO] Request processed successfully
+[2025-11-07T11:40:30.273464] [ERROR] Permission denied
+[2025-11-07T11:40:30.273446] [INFO] Session started
+[2025-11-07T11:40:30.273453] [INFO] Request processed successfully
+[2025-11-07T11:40:30.273444] [INFO] Database query executed
+[2025-11-07T11:40:30.273468] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.273462] [WARN] Cache miss
+[2025-11-07T11:40:30.273459] [WARN] Disk space low
+[2025-11-07T11:40:30.273463] [WARN] Timeout warning

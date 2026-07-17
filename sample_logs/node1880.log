@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.492578] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.492554] [INFO] Database query executed
+[2025-11-07T11:40:29.492574] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.492573] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.492566] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.492577] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.492561] [WARN] High memory usage detected
+[2025-11-07T11:40:29.492575] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.492568] [ERROR] Invalid input data
+[2025-11-07T11:40:29.492563] [WARN] High memory usage detected
+[2025-11-07T11:40:29.492558] [INFO] User logged in
+[2025-11-07T11:40:29.492559] [INFO] Database query executed
+[2025-11-07T11:40:29.492569] [ERROR] Permission denied
+[2025-11-07T11:40:29.492550] [INFO] User logged in
+[2025-11-07T11:40:29.492551] [INFO] Configuration loaded
+[2025-11-07T11:40:29.492555] [INFO] Configuration loaded
+[2025-11-07T11:40:29.492576] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.492557] [INFO] Request processed successfully
+[2025-11-07T11:40:29.492565] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.492562] [WARN] Disk space low
+[2025-11-07T11:40:29.492560] [INFO] Database query executed
+[2025-11-07T11:40:29.492570] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.492553] [INFO] Transaction completed
+[2025-11-07T11:40:29.492552] [INFO] User logged in
+[2025-11-07T11:40:29.492567] [WARN] Queue size growing
+[2025-11-07T11:40:29.492564] [WARN] Queue size growing
+[2025-11-07T11:40:29.492572] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.492549] [INFO] Request processed successfully
+[2025-11-07T11:40:29.492571] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.492556] [INFO] Session started

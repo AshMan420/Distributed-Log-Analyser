@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.688804] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.688793] [ERROR] Authentication failed
+[2025-11-07T11:40:29.688789] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.688790] [WARN] Slow query performance
+[2025-11-07T11:40:29.688796] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.688779] [INFO] Transaction completed
+[2025-11-07T11:40:29.688782] [INFO] User logged in
+[2025-11-07T11:40:29.688776] [INFO] Request processed successfully
+[2025-11-07T11:40:29.688781] [INFO] Cache hit
+[2025-11-07T11:40:29.688783] [INFO] Cache hit
+[2025-11-07T11:40:29.688773] [INFO] Service initialized
+[2025-11-07T11:40:29.688780] [INFO] Session started
+[2025-11-07T11:40:29.688771] [INFO] Transaction completed
+[2025-11-07T11:40:29.688805] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.688775] [INFO] Connection established
+[2025-11-07T11:40:29.688777] [INFO] Health check passed
+[2025-11-07T11:40:29.688801] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.688788] [INFO] Cache hit
+[2025-11-07T11:40:29.688778] [INFO] Session started
+[2025-11-07T11:40:29.688795] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688794] [ERROR] Invalid input data
+[2025-11-07T11:40:29.688774] [INFO] Cache hit
+[2025-11-07T11:40:29.688803] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.688802] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.688785] [INFO] Transaction completed
+[2025-11-07T11:40:29.688784] [INFO] Cache hit
+[2025-11-07T11:40:29.688798] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.688791] [WARN] Timeout warning
+[2025-11-07T11:40:29.688797] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.688786] [INFO] Configuration loaded
+[2025-11-07T11:40:29.688799] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.688800] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688787] [INFO] Transaction completed
+[2025-11-07T11:40:29.688792] [WARN] Queue size growing

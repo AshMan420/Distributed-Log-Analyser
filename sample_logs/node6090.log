@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.939822] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.939826] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.939811] [INFO] Request processed successfully
+[2025-11-07T11:40:29.939809] [INFO] Transaction completed
+[2025-11-07T11:40:29.939827] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.939817] [ERROR] Permission denied
+[2025-11-07T11:40:29.939819] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.939814] [WARN] Disk space low
+[2025-11-07T11:40:29.939816] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.939815] [WARN] Slow query performance
+[2025-11-07T11:40:29.939824] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.939798] [INFO] Session started
+[2025-11-07T11:40:29.939812] [INFO] User logged in
+[2025-11-07T11:40:29.939806] [INFO] Request processed successfully
+[2025-11-07T11:40:29.939818] [ERROR] Disk read failed
+[2025-11-07T11:40:29.939800] [INFO] Session started
+[2025-11-07T11:40:29.939804] [INFO] Session started
+[2025-11-07T11:40:29.939808] [INFO] Connection established
+[2025-11-07T11:40:29.939825] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.939801] [INFO] Request processed successfully
+[2025-11-07T11:40:29.939802] [INFO] User logged in
+[2025-11-07T11:40:29.939810] [INFO] Configuration loaded
+[2025-11-07T11:40:29.939820] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.939827] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.939807] [INFO] Session started
+[2025-11-07T11:40:29.939805] [INFO] Service initialized
+[2025-11-07T11:40:29.939823] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.939813] [WARN] Timeout warning
+[2025-11-07T11:40:29.939803] [INFO] Database query executed

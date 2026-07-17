@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.931481] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.931477] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.931441] [INFO] Request processed successfully
+[2025-11-07T11:40:29.931442] [INFO] Connection established
+[2025-11-07T11:40:29.931478] [ERROR] Disk read failed
+[2025-11-07T11:40:29.931443] [INFO] User logged in
+[2025-11-07T11:40:29.931466] [INFO] Transaction completed
+[2025-11-07T11:40:29.931479] [ERROR] Permission denied
+[2025-11-07T11:40:29.931446] [INFO] Cache hit
+[2025-11-07T11:40:29.931476] [WARN] Slow query performance
+[2025-11-07T11:40:29.931474] [WARN] Cache miss
+[2025-11-07T11:40:29.931445] [INFO] Configuration loaded
+[2025-11-07T11:40:29.931486] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.931488] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.931475] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.931468] [INFO] User logged in
+[2025-11-07T11:40:29.931471] [INFO] Connection established
+[2025-11-07T11:40:29.931447] [INFO] Connection established
+[2025-11-07T11:40:29.931486] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.931484] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.931485] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.931472] [INFO] Service initialized
+[2025-11-07T11:40:29.931439] [INFO] Connection established
+[2025-11-07T11:40:29.931473] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.931444] [INFO] Health check passed
+[2025-11-07T11:40:29.931469] [INFO] Health check passed
+[2025-11-07T11:40:29.931480] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.931467] [INFO] Health check passed
+[2025-11-07T11:40:29.931487] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.931470] [INFO] Cache hit
+[2025-11-07T11:40:29.931482] [DEBUG] Entering function process_data()

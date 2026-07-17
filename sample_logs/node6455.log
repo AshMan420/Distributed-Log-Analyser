@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.980048] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.980043] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.980031] [INFO] Database query executed
+[2025-11-07T11:40:29.980047] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.980037] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.980045] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.980034] [INFO] Request processed successfully
+[2025-11-07T11:40:29.980025] [INFO] User logged in
+[2025-11-07T11:40:29.980023] [INFO] Health check passed
+[2025-11-07T11:40:29.980024] [INFO] Configuration loaded
+[2025-11-07T11:40:29.980040] [ERROR] Request failed
+[2025-11-07T11:40:29.980032] [INFO] Transaction completed
+[2025-11-07T11:40:29.980044] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.980029] [INFO] Request processed successfully
+[2025-11-07T11:40:29.980030] [INFO] Connection established
+[2025-11-07T11:40:29.980021] [INFO] Health check passed
+[2025-11-07T11:40:29.980022] [INFO] Request processed successfully
+[2025-11-07T11:40:29.980041] [ERROR] Request failed
+[2025-11-07T11:40:29.980036] [WARN] Disk space low
+[2025-11-07T11:40:29.980050] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.980038] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.980033] [INFO] Service initialized
+[2025-11-07T11:40:29.980031] [INFO] Health check passed
+[2025-11-07T11:40:29.980042] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.980046] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.980019] [INFO] User logged in
+[2025-11-07T11:40:29.980028] [INFO] Transaction completed
+[2025-11-07T11:40:29.980027] [INFO] User logged in
+[2025-11-07T11:40:29.980035] [WARN] Timeout warning
+[2025-11-07T11:40:29.980049] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.980026] [INFO] Configuration loaded

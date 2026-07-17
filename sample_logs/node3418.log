@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.660159] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.660153] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.660135] [INFO] Health check passed
+[2025-11-07T11:40:29.660132] [INFO] Session started
+[2025-11-07T11:40:29.660147] [WARN] Disk space low
+[2025-11-07T11:40:29.660142] [INFO] Health check passed
+[2025-11-07T11:40:29.660143] [INFO] User logged in
+[2025-11-07T11:40:29.660137] [INFO] Transaction completed
+[2025-11-07T11:40:29.660136] [INFO] Connection established
+[2025-11-07T11:40:29.660131] [INFO] Cache hit
+[2025-11-07T11:40:29.660141] [INFO] Request processed successfully
+[2025-11-07T11:40:29.660145] [INFO] Service initialized
+[2025-11-07T11:40:29.660152] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.660158] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.660156] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.660157] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.660154] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.660149] [ERROR] Invalid input data
+[2025-11-07T11:40:29.660140] [INFO] Session started
+[2025-11-07T11:40:29.660150] [ERROR] Service unavailable
+[2025-11-07T11:40:29.660134] [INFO] Connection established
+[2025-11-07T11:40:29.660160] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.660155] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.660130] [INFO] Health check passed
+[2025-11-07T11:40:29.660148] [WARN] Timeout warning
+[2025-11-07T11:40:29.660139] [INFO] User logged in
+[2025-11-07T11:40:29.660133] [INFO] Connection established
+[2025-11-07T11:40:29.660146] [WARN] Slow query performance
+[2025-11-07T11:40:29.660144] [INFO] Health check passed

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.094986] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.094971] [INFO] Database query executed
+[2025-11-07T11:40:30.094968] [INFO] Connection established
+[2025-11-07T11:40:30.094966] [INFO] Connection established
+[2025-11-07T11:40:30.094984] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.094962] [INFO] User logged in
+[2025-11-07T11:40:30.094969] [INFO] Session started
+[2025-11-07T11:40:30.094972] [WARN] Slow query performance
+[2025-11-07T11:40:30.094968] [INFO] User logged in
+[2025-11-07T11:40:30.094976] [WARN] Slow query performance
+[2025-11-07T11:40:30.094967] [INFO] Service initialized
+[2025-11-07T11:40:30.094980] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.094987] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.094977] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.094964] [INFO] User logged in
+[2025-11-07T11:40:30.094973] [WARN] Disk space low
+[2025-11-07T11:40:30.094960] [INFO] Connection established
+[2025-11-07T11:40:30.094983] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.094959] [INFO] Health check passed
+[2025-11-07T11:40:30.094961] [INFO] Health check passed
+[2025-11-07T11:40:30.094982] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.094979] [ERROR] Service unavailable
+[2025-11-07T11:40:30.094970] [INFO] Cache hit
+[2025-11-07T11:40:30.094975] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.094974] [WARN] Timeout warning
+[2025-11-07T11:40:30.094981] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.094978] [ERROR] Permission denied
+[2025-11-07T11:40:30.094963] [INFO] Cache hit
+[2025-11-07T11:40:30.094957] [INFO] Service initialized
+[2025-11-07T11:40:30.094985] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.094965] [INFO] Request processed successfully
+[2025-11-07T11:40:30.094988] [DEBUG] Timer set: 30 seconds

@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.175620] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.175628] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.175618] [ERROR] Invalid input data
+[2025-11-07T11:40:30.175611] [INFO] Connection established
+[2025-11-07T11:40:30.175602] [INFO] User logged in
+[2025-11-07T11:40:30.175616] [WARN] Queue size growing
+[2025-11-07T11:40:30.175604] [INFO] Configuration loaded
+[2025-11-07T11:40:30.175624] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.175601] [INFO] User logged in
+[2025-11-07T11:40:30.175625] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.175613] [INFO] Connection established
+[2025-11-07T11:40:30.175609] [INFO] Health check passed
+[2025-11-07T11:40:30.175606] [INFO] Session started
+[2025-11-07T11:40:30.175626] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.175600] [INFO] Database query executed
+[2025-11-07T11:40:30.175598] [INFO] Health check passed
+[2025-11-07T11:40:30.175619] [ERROR] Database connection lost
+[2025-11-07T11:40:30.175610] [INFO] User logged in
+[2025-11-07T11:40:30.175623] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.175614] [WARN] Disk space low
+[2025-11-07T11:40:30.175615] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.175622] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.175608] [INFO] Database query executed
+[2025-11-07T11:40:30.175627] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.175621] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.175605] [INFO] Session started
+[2025-11-07T11:40:30.175617] [WARN] Deprecated API usage

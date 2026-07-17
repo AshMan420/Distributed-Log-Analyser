@@ -1,0 +1,28 @@
+[2025-11-07T11:40:30.136159] [INFO] User logged in
+[2025-11-07T11:40:30.136154] [INFO] Health check passed
+[2025-11-07T11:40:30.136152] [INFO] Session started
+[2025-11-07T11:40:30.136166] [INFO] Request processed successfully
+[2025-11-07T11:40:30.136177] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.136167] [WARN] Slow query performance
+[2025-11-07T11:40:30.136151] [INFO] Service initialized
+[2025-11-07T11:40:30.136153] [INFO] Connection established
+[2025-11-07T11:40:30.136163] [INFO] Transaction completed
+[2025-11-07T11:40:30.136176] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.136168] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.136160] [INFO] Service initialized
+[2025-11-07T11:40:30.136169] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.136156] [INFO] Request processed successfully
+[2025-11-07T11:40:30.136165] [INFO] Transaction completed
+[2025-11-07T11:40:30.136170] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.136178] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.136164] [INFO] Request processed successfully
+[2025-11-07T11:40:30.136158] [INFO] Transaction completed
+[2025-11-07T11:40:30.136171] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.136161] [INFO] Service initialized
+[2025-11-07T11:40:30.136157] [INFO] Configuration loaded
+[2025-11-07T11:40:30.136173] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.136172] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.136175] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.136174] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.136162] [INFO] Request processed successfully
+[2025-11-07T11:40:30.136150] [INFO] Health check passed

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.432742] [INFO] Configuration loaded
+[2025-11-07T11:40:29.432748] [INFO] Service initialized
+[2025-11-07T11:40:29.432741] [INFO] Connection established
+[2025-11-07T11:40:29.432763] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.432749] [INFO] Transaction completed
+[2025-11-07T11:40:29.432764] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.432762] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.432745] [INFO] Transaction completed
+[2025-11-07T11:40:29.432750] [INFO] Connection established
+[2025-11-07T11:40:29.432760] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.432753] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.432739] [INFO] Transaction completed
+[2025-11-07T11:40:29.432758] [ERROR] Request failed
+[2025-11-07T11:40:29.432737] [INFO] Database query executed
+[2025-11-07T11:40:29.432765] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.432761] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.432746] [INFO] Session started
+[2025-11-07T11:40:29.432738] [INFO] Connection established
+[2025-11-07T11:40:29.432759] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.432743] [INFO] Transaction completed
+[2025-11-07T11:40:29.432736] [INFO] Session started
+[2025-11-07T11:40:29.432747] [INFO] Session started
+[2025-11-07T11:40:29.432757] [ERROR] Permission denied
+[2025-11-07T11:40:29.432752] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.432744] [INFO] Cache hit
+[2025-11-07T11:40:29.432748] [INFO] Request processed successfully
+[2025-11-07T11:40:29.432754] [ERROR] Permission denied
+[2025-11-07T11:40:29.432756] [ERROR] Database connection lost
+[2025-11-07T11:40:29.432755] [ERROR] Service unavailable

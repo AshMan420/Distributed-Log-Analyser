@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.010523] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.010505] [INFO] Request processed successfully
+[2025-11-07T11:40:30.010528] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.010504] [INFO] Connection established
+[2025-11-07T11:40:30.010513] [INFO] Session started
+[2025-11-07T11:40:30.010519] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.010512] [INFO] Database query executed
+[2025-11-07T11:40:30.010527] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.010503] [INFO] Database query executed
+[2025-11-07T11:40:30.010507] [INFO] Cache hit
+[2025-11-07T11:40:30.010511] [INFO] Session started
+[2025-11-07T11:40:30.010510] [INFO] Request processed successfully
+[2025-11-07T11:40:30.010529] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.010526] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.010515] [INFO] Request processed successfully
+[2025-11-07T11:40:30.010508] [INFO] Cache hit
+[2025-11-07T11:40:30.010502] [INFO] Cache hit
+[2025-11-07T11:40:30.010514] [INFO] Service initialized
+[2025-11-07T11:40:30.010524] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.010506] [INFO] Connection established
+[2025-11-07T11:40:30.010525] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.010517] [WARN] Cache miss
+[2025-11-07T11:40:30.010522] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.010509] [INFO] Request processed successfully
+[2025-11-07T11:40:30.010521] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.010518] [WARN] Slow query performance
+[2025-11-07T11:40:30.010516] [INFO] Health check passed
+[2025-11-07T11:40:30.010528] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.010520] [WARN] Cache miss

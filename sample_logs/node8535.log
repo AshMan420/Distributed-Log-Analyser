@@ -1,0 +1,26 @@
+[2025-11-07T11:40:30.197738] [INFO] Service initialized
+[2025-11-07T11:40:30.197763] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.197753] [INFO] Connection established
+[2025-11-07T11:40:30.197751] [INFO] Connection established
+[2025-11-07T11:40:30.197749] [INFO] User logged in
+[2025-11-07T11:40:30.197760] [ERROR] Service unavailable
+[2025-11-07T11:40:30.197740] [INFO] Cache hit
+[2025-11-07T11:40:30.197769] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.197755] [INFO] Transaction completed
+[2025-11-07T11:40:30.197766] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.197750] [INFO] Configuration loaded
+[2025-11-07T11:40:30.197761] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.197767] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.197756] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.197759] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.197768] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.197765] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.197741] [INFO] Cache hit
+[2025-11-07T11:40:30.197758] [WARN] Slow query performance
+[2025-11-07T11:40:30.197762] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.197764] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.197754] [INFO] Health check passed
+[2025-11-07T11:40:30.197757] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.197752] [INFO] Connection established
+[2025-11-07T11:40:30.197736] [INFO] Cache hit
+[2025-11-07T11:40:30.197739] [INFO] Request processed successfully

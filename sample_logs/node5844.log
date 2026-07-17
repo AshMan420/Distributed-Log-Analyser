@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.910415] [INFO] User logged in
+[2025-11-07T11:40:29.910435] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.910430] [ERROR] Disk read failed
+[2025-11-07T11:40:29.910413] [INFO] Request processed successfully
+[2025-11-07T11:40:29.910436] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.910431] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.910420] [INFO] Transaction completed
+[2025-11-07T11:40:29.910421] [INFO] Health check passed
+[2025-11-07T11:40:29.910418] [INFO] Health check passed
+[2025-11-07T11:40:29.910411] [INFO] Transaction completed
+[2025-11-07T11:40:29.910412] [INFO] Connection established
+[2025-11-07T11:40:29.910422] [INFO] Configuration loaded
+[2025-11-07T11:40:29.910428] [WARN] High memory usage detected
+[2025-11-07T11:40:29.910423] [WARN] Queue size growing
+[2025-11-07T11:40:29.910437] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.910433] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.910432] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.910426] [WARN] Timeout warning
+[2025-11-07T11:40:29.910439] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.910409] [INFO] Session started
+[2025-11-07T11:40:29.910425] [WARN] Timeout warning
+[2025-11-07T11:40:29.910410] [INFO] User logged in
+[2025-11-07T11:40:29.910429] [WARN] Queue size growing
+[2025-11-07T11:40:29.910427] [WARN] Timeout warning
+[2025-11-07T11:40:29.910407] [INFO] Health check passed
+[2025-11-07T11:40:29.910414] [INFO] Session started
+[2025-11-07T11:40:29.910438] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.910434] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.910419] [INFO] Database query executed
+[2025-11-07T11:40:29.910417] [INFO] Session started
+[2025-11-07T11:40:29.910416] [INFO] Database query executed

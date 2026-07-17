@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.209680] [INFO] Request processed successfully
+[2025-11-07T11:40:30.209673] [INFO] Session started
+[2025-11-07T11:40:30.209678] [INFO] Service initialized
+[2025-11-07T11:40:30.209677] [INFO] User logged in
+[2025-11-07T11:40:30.209679] [INFO] Configuration loaded
+[2025-11-07T11:40:30.209676] [INFO] Transaction completed
+[2025-11-07T11:40:30.209674] [INFO] Session started
+[2025-11-07T11:40:30.209675] [INFO] Connection established
+[2025-11-07T11:40:30.209696] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.209683] [INFO] Configuration loaded
+[2025-11-07T11:40:30.209695] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.209682] [INFO] Connection established
+[2025-11-07T11:40:30.209689] [WARN] Cache miss
+[2025-11-07T11:40:30.209686] [INFO] Database query executed
+[2025-11-07T11:40:30.209703] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.209692] [WARN] Slow query performance
+[2025-11-07T11:40:30.209707] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.209694] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.209671] [INFO] Session started
+[2025-11-07T11:40:30.209698] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.209687] [INFO] User logged in
+[2025-11-07T11:40:30.209705] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.209704] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.209702] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.209700] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.209691] [WARN] High memory usage detected
+[2025-11-07T11:40:30.209684] [INFO] Service initialized
+[2025-11-07T11:40:30.209690] [WARN] Cache miss
+[2025-11-07T11:40:30.209693] [ERROR] File not found
+[2025-11-07T11:40:30.209681] [INFO] Database query executed
+[2025-11-07T11:40:30.209685] [INFO] Database query executed
+[2025-11-07T11:40:30.209688] [INFO] User logged in
+[2025-11-07T11:40:30.209699] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.209697] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.209701] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.209706] [DEBUG] HTTP request headers parsed

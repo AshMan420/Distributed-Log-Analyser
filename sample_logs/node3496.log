@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.668130] [INFO] User logged in
+[2025-11-07T11:40:29.668142] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.668144] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.668139] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.668121] [INFO] Connection established
+[2025-11-07T11:40:29.668141] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.668123] [INFO] Configuration loaded
+[2025-11-07T11:40:29.668143] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.668135] [ERROR] File not found
+[2025-11-07T11:40:29.668140] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.668125] [INFO] Health check passed
+[2025-11-07T11:40:29.668138] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.668128] [INFO] Health check passed
+[2025-11-07T11:40:29.668134] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.668122] [INFO] Cache hit
+[2025-11-07T11:40:29.668126] [INFO] Connection established
+[2025-11-07T11:40:29.668124] [INFO] Connection established
+[2025-11-07T11:40:29.668127] [INFO] Transaction completed
+[2025-11-07T11:40:29.668133] [WARN] Cache miss
+[2025-11-07T11:40:29.668131] [INFO] Request processed successfully
+[2025-11-07T11:40:29.668132] [INFO] Service initialized
+[2025-11-07T11:40:29.668129] [INFO] Database query executed
+[2025-11-07T11:40:29.668137] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.668119] [INFO] Request processed successfully
+[2025-11-07T11:40:29.668136] [DEBUG] Buffer size: 4096 bytes

@@ -1,0 +1,36 @@
+[2025-11-07T11:40:30.241960] [INFO] Cache hit
+[2025-11-07T11:40:30.241970] [WARN] Disk space low
+[2025-11-07T11:40:30.241956] [INFO] Health check passed
+[2025-11-07T11:40:30.241985] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.241988] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.241983] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.241966] [INFO] Database query executed
+[2025-11-07T11:40:30.241959] [INFO] Session started
+[2025-11-07T11:40:30.241983] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.241989] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.241961] [INFO] Cache hit
+[2025-11-07T11:40:30.241963] [INFO] Service initialized
+[2025-11-07T11:40:30.241972] [WARN] Cache miss
+[2025-11-07T11:40:30.241968] [INFO] Connection established
+[2025-11-07T11:40:30.241953] [INFO] Session started
+[2025-11-07T11:40:30.241957] [INFO] Cache hit
+[2025-11-07T11:40:30.241974] [ERROR] Authentication failed
+[2025-11-07T11:40:30.241977] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.241976] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.241981] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.241973] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.241975] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.241967] [INFO] Service initialized
+[2025-11-07T11:40:30.241964] [INFO] Cache hit
+[2025-11-07T11:40:30.241980] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.241978] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.241987] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.241962] [INFO] Database query executed
+[2025-11-07T11:40:30.241954] [INFO] Transaction completed
+[2025-11-07T11:40:30.241969] [WARN] Disk space low
+[2025-11-07T11:40:30.241982] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.241971] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.241989] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.241986] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.241965] [INFO] Health check passed
+[2025-11-07T11:40:30.241958] [INFO] Configuration loaded

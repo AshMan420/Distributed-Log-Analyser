@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.914932] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.914935] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.914925] [ERROR] Database connection lost
+[2025-11-07T11:40:29.914919] [INFO] Database query executed
+[2025-11-07T11:40:29.914910] [INFO] Service initialized
+[2025-11-07T11:40:29.914913] [INFO] Connection established
+[2025-11-07T11:40:29.914916] [INFO] Transaction completed
+[2025-11-07T11:40:29.914912] [INFO] Session started
+[2025-11-07T11:40:29.914921] [INFO] Transaction completed
+[2025-11-07T11:40:29.914914] [INFO] Service initialized
+[2025-11-07T11:40:29.914936] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.914922] [INFO] Database query executed
+[2025-11-07T11:40:29.914917] [INFO] Session started
+[2025-11-07T11:40:29.914920] [INFO] Service initialized
+[2025-11-07T11:40:29.914926] [ERROR] Authentication failed
+[2025-11-07T11:40:29.914933] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.914908] [INFO] Request processed successfully
+[2025-11-07T11:40:29.914938] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.914907] [INFO] Service initialized
+[2025-11-07T11:40:29.914911] [INFO] Session started
+[2025-11-07T11:40:29.914934] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.914924] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.914923] [INFO] Health check passed
+[2025-11-07T11:40:29.914928] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.914918] [INFO] Connection established
+[2025-11-07T11:40:29.914937] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.914929] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.914931] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.914915] [INFO] Transaction completed
+[2025-11-07T11:40:29.914927] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.914930] [DEBUG] Timer set: 30 seconds

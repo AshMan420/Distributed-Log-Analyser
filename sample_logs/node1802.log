@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.484233] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.484225] [INFO] Transaction completed
+[2025-11-07T11:40:29.484226] [INFO] Database query executed
+[2025-11-07T11:40:29.484222] [INFO] Health check passed
+[2025-11-07T11:40:29.484213] [INFO] User logged in
+[2025-11-07T11:40:29.484236] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.484240] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.484234] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.484224] [INFO] Database query executed
+[2025-11-07T11:40:29.484241] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.484228] [INFO] Database query executed
+[2025-11-07T11:40:29.484237] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.484229] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.484215] [INFO] Transaction completed
+[2025-11-07T11:40:29.484232] [WARN] High memory usage detected
+[2025-11-07T11:40:29.484246] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.484248] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.484238] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.484217] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484230] [WARN] Slow query performance
+[2025-11-07T11:40:29.484243] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.484245] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.484223] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484235] [ERROR] Permission denied
+[2025-11-07T11:40:29.484219] [INFO] Transaction completed
+[2025-11-07T11:40:29.484218] [INFO] Database query executed
+[2025-11-07T11:40:29.484216] [INFO] Cache hit
+[2025-11-07T11:40:29.484214] [INFO] Transaction completed
+[2025-11-07T11:40:29.484221] [INFO] Session started
+[2025-11-07T11:40:29.484247] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.484212] [INFO] Request processed successfully
+[2025-11-07T11:40:29.484227] [INFO] Transaction completed
+[2025-11-07T11:40:29.484239] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.484242] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.484231] [WARN] Slow query performance

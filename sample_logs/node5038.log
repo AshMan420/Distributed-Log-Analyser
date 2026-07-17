@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.826554] [INFO] Transaction completed
+[2025-11-07T11:40:29.826578] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.826550] [INFO] User logged in
+[2025-11-07T11:40:29.826563] [INFO] Health check passed
+[2025-11-07T11:40:29.826575] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.826577] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.826558] [INFO] Request processed successfully
+[2025-11-07T11:40:29.826564] [INFO] Transaction completed
+[2025-11-07T11:40:29.826551] [INFO] Transaction completed
+[2025-11-07T11:40:29.826559] [INFO] Session started
+[2025-11-07T11:40:29.826557] [INFO] Connection established
+[2025-11-07T11:40:29.826560] [INFO] Session started
+[2025-11-07T11:40:29.826566] [WARN] Slow query performance
+[2025-11-07T11:40:29.826573] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.826574] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.826576] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.826568] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.826570] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.826572] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.826553] [INFO] User logged in
+[2025-11-07T11:40:29.826567] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.826555] [INFO] User logged in
+[2025-11-07T11:40:29.826569] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.826562] [INFO] Configuration loaded
+[2025-11-07T11:40:29.826561] [INFO] Health check passed
+[2025-11-07T11:40:29.826552] [INFO] Cache hit
+[2025-11-07T11:40:29.826556] [INFO] Configuration loaded
+[2025-11-07T11:40:29.826565] [INFO] Session started
+[2025-11-07T11:40:29.826579] [DEBUG] Thread pool size: 8

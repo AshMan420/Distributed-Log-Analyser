@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.330185] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.330155] [INFO] Transaction completed
+[2025-11-07T11:40:30.330182] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.330187] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.330159] [INFO] Database query executed
+[2025-11-07T11:40:30.330157] [INFO] Health check passed
+[2025-11-07T11:40:30.330174] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.330183] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.330161] [INFO] Database query executed
+[2025-11-07T11:40:30.330175] [ERROR] File not found
+[2025-11-07T11:40:30.330166] [INFO] Session started
+[2025-11-07T11:40:30.330160] [INFO] Configuration loaded
+[2025-11-07T11:40:30.330168] [INFO] Service initialized
+[2025-11-07T11:40:30.330164] [INFO] Database query executed
+[2025-11-07T11:40:30.330181] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.330179] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.330167] [INFO] Session started
+[2025-11-07T11:40:30.330176] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.330173] [WARN] Timeout warning
+[2025-11-07T11:40:30.330177] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.330171] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.330178] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.330186] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.330162] [INFO] Session started
+[2025-11-07T11:40:30.330165] [INFO] Connection established
+[2025-11-07T11:40:30.330184] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.330169] [INFO] Session started
+[2025-11-07T11:40:30.330163] [INFO] Transaction completed
+[2025-11-07T11:40:30.330170] [INFO] Session started
+[2025-11-07T11:40:30.330158] [INFO] Connection established
+[2025-11-07T11:40:30.330172] [WARN] Timeout warning

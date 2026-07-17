@@ -1,0 +1,37 @@
+[2025-11-07T11:40:30.251338] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.251316] [WARN] Slow query performance
+[2025-11-07T11:40:30.251334] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.251300] [INFO] Connection established
+[2025-11-07T11:40:30.251317] [WARN] Queue size growing
+[2025-11-07T11:40:30.251335] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.251312] [INFO] Service initialized
+[2025-11-07T11:40:30.251328] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.251322] [WARN] Slow query performance
+[2025-11-07T11:40:30.251308] [INFO] Service initialized
+[2025-11-07T11:40:30.251340] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.251301] [INFO] Connection established
+[2025-11-07T11:40:30.251306] [INFO] User logged in
+[2025-11-07T11:40:30.251337] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251324] [WARN] Timeout warning
+[2025-11-07T11:40:30.251325] [ERROR] Network timeout
+[2025-11-07T11:40:30.251313] [INFO] User logged in
+[2025-11-07T11:40:30.251314] [INFO] Health check passed
+[2025-11-07T11:40:30.251332] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.251303] [INFO] Cache hit
+[2025-11-07T11:40:30.251305] [INFO] Transaction completed
+[2025-11-07T11:40:30.251329] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.251330] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.251304] [INFO] Service initialized
+[2025-11-07T11:40:30.251339] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.251318] [WARN] Queue size growing
+[2025-11-07T11:40:30.251296] [INFO] Database query executed
+[2025-11-07T11:40:30.251341] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.251333] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.251320] [WARN] Disk space low
+[2025-11-07T11:40:30.251310] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251297] [INFO] Connection established
+[2025-11-07T11:40:30.251298] [INFO] Session started
+[2025-11-07T11:40:30.251326] [ERROR] Database connection lost
+[2025-11-07T11:40:30.251299] [INFO] Configuration loaded
+[2025-11-07T11:40:30.251309] [INFO] Transaction completed
+[2025-11-07T11:40:30.251321] [WARN] High memory usage detected

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.172901] [INFO] Transaction completed
+[2025-11-07T11:40:30.172892] [INFO] Connection established
+[2025-11-07T11:40:30.172916] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.172904] [INFO] Cache hit
+[2025-11-07T11:40:30.172896] [INFO] Connection established
+[2025-11-07T11:40:30.172894] [INFO] Connection established
+[2025-11-07T11:40:30.172920] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.172899] [INFO] Configuration loaded
+[2025-11-07T11:40:30.172914] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.172909] [WARN] High memory usage detected
+[2025-11-07T11:40:30.172902] [INFO] Configuration loaded
+[2025-11-07T11:40:30.172910] [ERROR] Authentication failed
+[2025-11-07T11:40:30.172893] [INFO] Request processed successfully
+[2025-11-07T11:40:30.172911] [ERROR] Database connection lost
+[2025-11-07T11:40:30.172903] [INFO] Transaction completed
+[2025-11-07T11:40:30.172900] [INFO] User logged in
+[2025-11-07T11:40:30.172921] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.172906] [INFO] Database query executed
+[2025-11-07T11:40:30.172912] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.172918] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.172897] [INFO] Transaction completed
+[2025-11-07T11:40:30.172922] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.172907] [INFO] Session started
+[2025-11-07T11:40:30.172919] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.172913] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.172898] [INFO] User logged in
+[2025-11-07T11:40:30.172908] [WARN] Slow query performance
+[2025-11-07T11:40:30.172905] [INFO] Request processed successfully
+[2025-11-07T11:40:30.172923] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.172895] [INFO] Transaction completed
+[2025-11-07T11:40:30.172917] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.172915] [DEBUG] Memory allocation: 2048 bytes

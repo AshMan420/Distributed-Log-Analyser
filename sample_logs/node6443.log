@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.978782] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.978770] [INFO] Configuration loaded
+[2025-11-07T11:40:29.978756] [INFO] Connection established
+[2025-11-07T11:40:29.978769] [INFO] Service initialized
+[2025-11-07T11:40:29.978775] [INFO] Transaction completed
+[2025-11-07T11:40:29.978772] [INFO] Configuration loaded
+[2025-11-07T11:40:29.978785] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.978778] [INFO] Session started
+[2025-11-07T11:40:29.978786] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.978774] [INFO] Session started
+[2025-11-07T11:40:29.978783] [ERROR] File not found
+[2025-11-07T11:40:29.978788] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.978787] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.978777] [INFO] Transaction completed
+[2025-11-07T11:40:29.978790] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.978752] [INFO] Service initialized
+[2025-11-07T11:40:29.978793] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.978789] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.978781] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.978754] [INFO] Session started
+[2025-11-07T11:40:29.978771] [INFO] Transaction completed
+[2025-11-07T11:40:29.978792] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.978773] [INFO] Database query executed
+[2025-11-07T11:40:29.978755] [INFO] Connection established
+[2025-11-07T11:40:29.978776] [INFO] Connection established
+[2025-11-07T11:40:29.978780] [WARN] Cache miss
+[2025-11-07T11:40:29.978791] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.978779] [INFO] Database query executed

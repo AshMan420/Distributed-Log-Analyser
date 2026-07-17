@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.298446] [INFO] Configuration loaded
+[2025-11-07T11:40:29.298439] [INFO] Health check passed
+[2025-11-07T11:40:29.298433] [INFO] Configuration loaded
+[2025-11-07T11:40:29.298438] [INFO] Connection established
+[2025-11-07T11:40:29.298460] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.298455] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.298453] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.298456] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.298452] [ERROR] Database connection lost
+[2025-11-07T11:40:29.298435] [INFO] Health check passed
+[2025-11-07T11:40:29.298445] [INFO] Connection established
+[2025-11-07T11:40:29.298449] [INFO] Cache hit
+[2025-11-07T11:40:29.298450] [WARN] Slow query performance
+[2025-11-07T11:40:29.298436] [INFO] User logged in
+[2025-11-07T11:40:29.298447] [INFO] Session started
+[2025-11-07T11:40:29.298440] [INFO] Session started
+[2025-11-07T11:40:29.298437] [INFO] Transaction completed
+[2025-11-07T11:40:29.298454] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.298458] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.298451] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.298442] [INFO] User logged in
+[2025-11-07T11:40:29.298441] [INFO] Configuration loaded
+[2025-11-07T11:40:29.298448] [INFO] Transaction completed
+[2025-11-07T11:40:29.298444] [INFO] Database query executed
+[2025-11-07T11:40:29.298443] [INFO] Cache hit
+[2025-11-07T11:40:29.298462] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.298461] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.298459] [DEBUG] Timer set: 30 seconds

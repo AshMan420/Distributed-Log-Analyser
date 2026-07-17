@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.855966] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.855964] [ERROR] Disk read failed
+[2025-11-07T11:40:29.855946] [INFO] Connection established
+[2025-11-07T11:40:29.855971] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.855970] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.855972] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.855945] [INFO] Connection established
+[2025-11-07T11:40:29.855962] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.855949] [INFO] Configuration loaded
+[2025-11-07T11:40:29.855957] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.855947] [INFO] Configuration loaded
+[2025-11-07T11:40:29.855969] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.855960] [WARN] Timeout warning
+[2025-11-07T11:40:29.855951] [INFO] Connection established
+[2025-11-07T11:40:29.855967] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.855973] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.855968] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.855948] [INFO] User logged in
+[2025-11-07T11:40:29.855950] [INFO] Service initialized
+[2025-11-07T11:40:29.855953] [INFO] Session started
+[2025-11-07T11:40:29.855961] [WARN] Queue size growing
+[2025-11-07T11:40:29.855963] [WARN] Slow query performance
+[2025-11-07T11:40:29.855952] [INFO] Transaction completed
+[2025-11-07T11:40:29.855954] [INFO] Request processed successfully
+[2025-11-07T11:40:29.855965] [ERROR] Disk read failed
+[2025-11-07T11:40:29.855955] [INFO] Configuration loaded
+[2025-11-07T11:40:29.855959] [WARN] Disk space low
+[2025-11-07T11:40:29.855958] [WARN] Timeout warning
+[2025-11-07T11:40:29.855944] [INFO] Database query executed
+[2025-11-07T11:40:29.855974] [DEBUG] Thread pool size: 8

@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.585873] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.585853] [INFO] Health check passed
+[2025-11-07T11:40:29.585881] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.585878] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.585860] [WARN] Cache miss
+[2025-11-07T11:40:29.585857] [INFO] Database query executed
+[2025-11-07T11:40:29.585862] [WARN] Timeout warning
+[2025-11-07T11:40:29.585876] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.585874] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585866] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.585865] [ERROR] Service unavailable
+[2025-11-07T11:40:29.585854] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585849] [INFO] Connection established
+[2025-11-07T11:40:29.585864] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.585855] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585871] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.585872] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585879] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.585856] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585852] [INFO] Connection established
+[2025-11-07T11:40:29.585859] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585877] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.585851] [INFO] Configuration loaded
+[2025-11-07T11:40:29.585863] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.585848] [INFO] Cache hit
+[2025-11-07T11:40:29.585875] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.585858] [INFO] Service initialized
+[2025-11-07T11:40:29.585844] [INFO] Health check passed
+[2025-11-07T11:40:29.585880] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.585867] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.585880] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.585850] [INFO] Cache hit
+[2025-11-07T11:40:29.585846] [INFO] Session started
+[2025-11-07T11:40:29.585868] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.585861] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.585847] [INFO] Database query executed
+[2025-11-07T11:40:29.585870] [DEBUG] Variable value: x=42

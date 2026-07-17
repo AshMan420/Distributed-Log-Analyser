@@ -1,0 +1,24 @@
+[2025-11-07T11:40:30.367373] [INFO] Request processed successfully
+[2025-11-07T11:40:30.367369] [INFO] User logged in
+[2025-11-07T11:40:30.367366] [INFO] User logged in
+[2025-11-07T11:40:30.367381] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.367371] [INFO] Health check passed
+[2025-11-07T11:40:30.367377] [WARN] Slow query performance
+[2025-11-07T11:40:30.367374] [INFO] Health check passed
+[2025-11-07T11:40:30.367385] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.367361] [INFO] Request processed successfully
+[2025-11-07T11:40:30.367368] [INFO] Session started
+[2025-11-07T11:40:30.367367] [INFO] Database query executed
+[2025-11-07T11:40:30.367383] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.367376] [INFO] Cache hit
+[2025-11-07T11:40:30.367375] [INFO] Session started
+[2025-11-07T11:40:30.367364] [INFO] Cache hit
+[2025-11-07T11:40:30.367365] [INFO] Service initialized
+[2025-11-07T11:40:30.367370] [INFO] Request processed successfully
+[2025-11-07T11:40:30.367363] [INFO] Transaction completed
+[2025-11-07T11:40:30.367382] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.367384] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.367379] [ERROR] Authentication failed
+[2025-11-07T11:40:30.367386] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.367380] [ERROR] Permission denied
+[2025-11-07T11:40:30.367372] [INFO] Session started

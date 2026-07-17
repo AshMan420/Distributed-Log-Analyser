@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.810729] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.810718] [WARN] Timeout warning
+[2025-11-07T11:40:29.810709] [INFO] Connection established
+[2025-11-07T11:40:29.810702] [INFO] Cache hit
+[2025-11-07T11:40:29.810723] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.810701] [INFO] Connection established
+[2025-11-07T11:40:29.810708] [INFO] Service initialized
+[2025-11-07T11:40:29.810716] [WARN] Timeout warning
+[2025-11-07T11:40:29.810700] [INFO] Cache hit
+[2025-11-07T11:40:29.810717] [WARN] Cache miss
+[2025-11-07T11:40:29.810722] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.810705] [INFO] User logged in
+[2025-11-07T11:40:29.810714] [INFO] User logged in
+[2025-11-07T11:40:29.810721] [ERROR] Network timeout
+[2025-11-07T11:40:29.810724] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.810714] [INFO] Health check passed
+[2025-11-07T11:40:29.810720] [WARN] Queue size growing
+[2025-11-07T11:40:29.810706] [INFO] Request processed successfully
+[2025-11-07T11:40:29.810710] [INFO] Session started
+[2025-11-07T11:40:29.810707] [INFO] User logged in
+[2025-11-07T11:40:29.810727] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.810704] [INFO] Connection established
+[2025-11-07T11:40:29.810726] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.810711] [INFO] Database query executed
+[2025-11-07T11:40:29.810728] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.810706] [INFO] Transaction completed
+[2025-11-07T11:40:29.810712] [INFO] Health check passed
+[2025-11-07T11:40:29.810719] [WARN] Slow query performance
+[2025-11-07T11:40:29.810725] [DEBUG] Timer set: 30 seconds

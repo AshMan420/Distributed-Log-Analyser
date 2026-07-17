@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.041386] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.041374] [INFO] Cache hit
+[2025-11-07T11:40:30.041371] [INFO] Session started
+[2025-11-07T11:40:30.041381] [WARN] Cache miss
+[2025-11-07T11:40:30.041376] [INFO] User logged in
+[2025-11-07T11:40:30.041369] [INFO] Configuration loaded
+[2025-11-07T11:40:30.041392] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.041370] [INFO] Session started
+[2025-11-07T11:40:30.041367] [INFO] Connection established
+[2025-11-07T11:40:30.041380] [INFO] Health check passed
+[2025-11-07T11:40:30.041365] [INFO] Service initialized
+[2025-11-07T11:40:30.041390] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.041391] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.041395] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.041389] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.041382] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.041394] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.041393] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.041378] [INFO] Connection established
+[2025-11-07T11:40:30.041375] [INFO] Transaction completed
+[2025-11-07T11:40:30.041379] [INFO] Health check passed
+[2025-11-07T11:40:30.041388] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.041377] [INFO] Transaction completed
+[2025-11-07T11:40:30.041373] [INFO] Transaction completed
+[2025-11-07T11:40:30.041372] [INFO] Service initialized
+[2025-11-07T11:40:30.041383] [WARN] Slow query performance
+[2025-11-07T11:40:30.041384] [WARN] Timeout warning
+[2025-11-07T11:40:30.041368] [INFO] Cache hit
+[2025-11-07T11:40:30.041387] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.041385] [ERROR] Request failed

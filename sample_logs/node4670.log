@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.789525] [WARN] Slow query performance
+[2025-11-07T11:40:29.789524] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.789514] [INFO] Health check passed
+[2025-11-07T11:40:29.789508] [INFO] Connection established
+[2025-11-07T11:40:29.789523] [WARN] Timeout warning
+[2025-11-07T11:40:29.789518] [INFO] Cache hit
+[2025-11-07T11:40:29.789513] [INFO] Transaction completed
+[2025-11-07T11:40:29.789517] [INFO] Request processed successfully
+[2025-11-07T11:40:29.789512] [INFO] Health check passed
+[2025-11-07T11:40:29.789535] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.789515] [INFO] Request processed successfully
+[2025-11-07T11:40:29.789536] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.789522] [WARN] Cache miss
+[2025-11-07T11:40:29.789505] [INFO] Health check passed
+[2025-11-07T11:40:29.789519] [INFO] Health check passed
+[2025-11-07T11:40:29.789534] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.789511] [INFO] Configuration loaded
+[2025-11-07T11:40:29.789538] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.789521] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.789528] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.789526] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.789520] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.789510] [INFO] Cache hit
+[2025-11-07T11:40:29.789530] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.789532] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.789509] [INFO] Request processed successfully
+[2025-11-07T11:40:29.789540] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.789537] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.789539] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.789533] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.789506] [INFO] Request processed successfully
+[2025-11-07T11:40:29.789527] [ERROR] Disk read failed
+[2025-11-07T11:40:29.789516] [INFO] Transaction completed
+[2025-11-07T11:40:29.789529] [DEBUG] Thread pool size: 8

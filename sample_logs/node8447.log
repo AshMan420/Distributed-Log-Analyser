@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.189285] [WARN] Timeout warning
+[2025-11-07T11:40:30.189270] [INFO] Connection established
+[2025-11-07T11:40:30.189276] [INFO] Cache hit
+[2025-11-07T11:40:30.189267] [INFO] Transaction completed
+[2025-11-07T11:40:30.189280] [INFO] Service initialized
+[2025-11-07T11:40:30.189273] [INFO] Cache hit
+[2025-11-07T11:40:30.189271] [INFO] Request processed successfully
+[2025-11-07T11:40:30.189282] [INFO] Database query executed
+[2025-11-07T11:40:30.189275] [INFO] Transaction completed
+[2025-11-07T11:40:30.189278] [INFO] User logged in
+[2025-11-07T11:40:30.189294] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.189291] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.189288] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.189289] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.189283] [WARN] Cache miss
+[2025-11-07T11:40:30.189279] [INFO] User logged in
+[2025-11-07T11:40:30.189296] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.189272] [INFO] Health check passed
+[2025-11-07T11:40:30.189286] [ERROR] Database connection lost
+[2025-11-07T11:40:30.189287] [ERROR] Service unavailable
+[2025-11-07T11:40:30.189295] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.189290] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.189284] [WARN] Timeout warning
+[2025-11-07T11:40:30.189268] [INFO] Connection established
+[2025-11-07T11:40:30.189277] [INFO] Request processed successfully
+[2025-11-07T11:40:30.189293] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.189292] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.189281] [INFO] Request processed successfully
+[2025-11-07T11:40:30.189274] [INFO] User logged in

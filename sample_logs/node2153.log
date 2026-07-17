@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.522318] [WARN] Queue size growing
+[2025-11-07T11:40:29.522332] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.522325] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.522333] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.522321] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.522307] [INFO] Transaction completed
+[2025-11-07T11:40:29.522314] [INFO] Database query executed
+[2025-11-07T11:40:29.522303] [INFO] Health check passed
+[2025-11-07T11:40:29.522319] [WARN] Cache miss
+[2025-11-07T11:40:29.522329] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.522326] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.522308] [INFO] Transaction completed
+[2025-11-07T11:40:29.522313] [INFO] Service initialized
+[2025-11-07T11:40:29.522331] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.522304] [INFO] Configuration loaded
+[2025-11-07T11:40:29.522301] [INFO] User logged in
+[2025-11-07T11:40:29.522320] [WARN] High memory usage detected
+[2025-11-07T11:40:29.522323] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.522309] [INFO] User logged in
+[2025-11-07T11:40:29.522327] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.522315] [INFO] Configuration loaded
+[2025-11-07T11:40:29.522306] [INFO] User logged in
+[2025-11-07T11:40:29.522322] [ERROR] Permission denied
+[2025-11-07T11:40:29.522316] [WARN] High memory usage detected
+[2025-11-07T11:40:29.522311] [INFO] Cache hit
+[2025-11-07T11:40:29.522328] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.522302] [INFO] Session started
+[2025-11-07T11:40:29.522312] [INFO] User logged in
+[2025-11-07T11:40:29.522310] [INFO] Connection established
+[2025-11-07T11:40:29.522330] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.522324] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.522305] [INFO] Cache hit

@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.143840] [WARN] High memory usage detected
+[2025-11-07T11:40:30.143824] [INFO] Request processed successfully
+[2025-11-07T11:40:30.143832] [INFO] Configuration loaded
+[2025-11-07T11:40:30.143833] [INFO] Transaction completed
+[2025-11-07T11:40:30.143845] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.143822] [INFO] Cache hit
+[2025-11-07T11:40:30.143849] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.143846] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.143850] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.143829] [INFO] Configuration loaded
+[2025-11-07T11:40:30.143830] [INFO] Database query executed
+[2025-11-07T11:40:30.143827] [INFO] Session started
+[2025-11-07T11:40:30.143839] [WARN] Cache miss
+[2025-11-07T11:40:30.143836] [WARN] Disk space low
+[2025-11-07T11:40:30.143837] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.143831] [INFO] Session started
+[2025-11-07T11:40:30.143820] [INFO] User logged in
+[2025-11-07T11:40:30.143838] [WARN] Slow query performance
+[2025-11-07T11:40:30.143823] [INFO] Cache hit
+[2025-11-07T11:40:30.143848] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.143847] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.143843] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.143835] [WARN] Queue size growing
+[2025-11-07T11:40:30.143851] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.143828] [INFO] Request processed successfully
+[2025-11-07T11:40:30.143841] [ERROR] Invalid input data
+[2025-11-07T11:40:30.143821] [INFO] Database query executed
+[2025-11-07T11:40:30.143825] [INFO] Session started
+[2025-11-07T11:40:30.143844] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.143826] [INFO] Session started
+[2025-11-07T11:40:30.143834] [INFO] Request processed successfully

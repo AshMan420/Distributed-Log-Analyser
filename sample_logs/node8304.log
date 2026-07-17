@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.174987] [INFO] Cache hit
+[2025-11-07T11:40:30.175007] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.175005] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.174999] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.174991] [INFO] Connection established
+[2025-11-07T11:40:30.175004] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.174996] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.174982] [INFO] Connection established
+[2025-11-07T11:40:30.174992] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.174981] [INFO] Session started
+[2025-11-07T11:40:30.174989] [INFO] Database query executed
+[2025-11-07T11:40:30.174990] [INFO] Session started
+[2025-11-07T11:40:30.174993] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.174969] [INFO] Configuration loaded
+[2025-11-07T11:40:30.174986] [INFO] Transaction completed
+[2025-11-07T11:40:30.175000] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.174984] [INFO] Health check passed
+[2025-11-07T11:40:30.174980] [INFO] Session started
+[2025-11-07T11:40:30.174995] [WARN] Timeout warning
+[2025-11-07T11:40:30.175003] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.174998] [ERROR] Authentication failed
+[2025-11-07T11:40:30.175001] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.174988] [INFO] Database query executed
+[2025-11-07T11:40:30.174970] [INFO] Transaction completed
+[2025-11-07T11:40:30.175008] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.174971] [INFO] Configuration loaded
+[2025-11-07T11:40:30.175009] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.174997] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.175006] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.174983] [INFO] Configuration loaded
+[2025-11-07T11:40:30.174994] [WARN] Cache miss
+[2025-11-07T11:40:30.174985] [INFO] Session started

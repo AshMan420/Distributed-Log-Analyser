@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.280145] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.280137] [ERROR] Database connection lost
+[2025-11-07T11:40:30.280140] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.280129] [INFO] Connection established
+[2025-11-07T11:40:30.280120] [INFO] User logged in
+[2025-11-07T11:40:30.280122] [INFO] Request processed successfully
+[2025-11-07T11:40:30.280123] [INFO] User logged in
+[2025-11-07T11:40:30.280138] [ERROR] Request failed
+[2025-11-07T11:40:30.280115] [INFO] User logged in
+[2025-11-07T11:40:30.280134] [WARN] Cache miss
+[2025-11-07T11:40:30.280121] [INFO] Request processed successfully
+[2025-11-07T11:40:30.280136] [WARN] Cache miss
+[2025-11-07T11:40:30.280130] [INFO] Health check passed
+[2025-11-07T11:40:30.280126] [INFO] Health check passed
+[2025-11-07T11:40:30.280132] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.280124] [INFO] Cache hit
+[2025-11-07T11:40:30.280143] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.280131] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.280118] [INFO] Service initialized
+[2025-11-07T11:40:30.280146] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.280142] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.280125] [INFO] Health check passed
+[2025-11-07T11:40:30.280135] [WARN] Cache miss
+[2025-11-07T11:40:30.280139] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.280127] [INFO] Request processed successfully
+[2025-11-07T11:40:30.280119] [INFO] Service initialized
+[2025-11-07T11:40:30.280144] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.280141] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.280117] [INFO] Request processed successfully
+[2025-11-07T11:40:30.280128] [INFO] Configuration loaded
+[2025-11-07T11:40:30.280133] [WARN] Deprecated API usage

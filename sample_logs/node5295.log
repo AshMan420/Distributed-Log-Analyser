@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.852491] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.852486] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.852475] [INFO] Transaction completed
+[2025-11-07T11:40:29.852494] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.852477] [INFO] User logged in
+[2025-11-07T11:40:29.852497] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.852480] [WARN] Queue size growing
+[2025-11-07T11:40:29.852469] [INFO] Request processed successfully
+[2025-11-07T11:40:29.852485] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.852476] [INFO] Connection established
+[2025-11-07T11:40:29.852488] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.852473] [INFO] Connection established
+[2025-11-07T11:40:29.852482] [ERROR] Network timeout
+[2025-11-07T11:40:29.852467] [INFO] Service initialized
+[2025-11-07T11:40:29.852490] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.852468] [INFO] Service initialized
+[2025-11-07T11:40:29.852471] [INFO] Configuration loaded
+[2025-11-07T11:40:29.852492] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.852484] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.852493] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.852495] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.852487] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.852470] [INFO] Service initialized
+[2025-11-07T11:40:29.852472] [INFO] Request processed successfully
+[2025-11-07T11:40:29.852483] [ERROR] Network timeout
+[2025-11-07T11:40:29.852465] [INFO] Session started
+[2025-11-07T11:40:29.852479] [INFO] Cache hit
+[2025-11-07T11:40:29.852489] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.852496] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.852478] [INFO] Transaction completed
+[2025-11-07T11:40:29.852466] [INFO] Transaction completed
+[2025-11-07T11:40:29.852474] [INFO] Connection established

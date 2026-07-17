@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.319277] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.319276] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.319256] [INFO] Transaction completed
+[2025-11-07T11:40:29.319272] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.319248] [INFO] Health check passed
+[2025-11-07T11:40:29.319250] [INFO] Health check passed
+[2025-11-07T11:40:29.319271] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.319264] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.319268] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.319278] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.319253] [INFO] Session started
+[2025-11-07T11:40:29.319260] [WARN] Cache miss
+[2025-11-07T11:40:29.319273] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.319251] [INFO] Session started
+[2025-11-07T11:40:29.319259] [INFO] Cache hit
+[2025-11-07T11:40:29.319277] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.319262] [WARN] Slow query performance
+[2025-11-07T11:40:29.319261] [WARN] Cache miss
+[2025-11-07T11:40:29.319252] [INFO] Request processed successfully
+[2025-11-07T11:40:29.319270] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.319265] [ERROR] Request failed
+[2025-11-07T11:40:29.319275] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.319257] [INFO] Health check passed
+[2025-11-07T11:40:29.319249] [INFO] User logged in
+[2025-11-07T11:40:29.319258] [INFO] Request processed successfully
+[2025-11-07T11:40:29.319247] [INFO] Cache hit
+[2025-11-07T11:40:29.319269] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.319263] [WARN] Cache miss
+[2025-11-07T11:40:29.319274] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.319254] [INFO] Transaction completed
+[2025-11-07T11:40:29.319255] [INFO] Configuration loaded
+[2025-11-07T11:40:29.319266] [ERROR] File not found

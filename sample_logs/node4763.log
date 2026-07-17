@@ -1,0 +1,25 @@
+[2025-11-07T11:40:29.799117] [WARN] Slow query performance
+[2025-11-07T11:40:29.799112] [INFO] Request processed successfully
+[2025-11-07T11:40:29.799116] [INFO] Cache hit
+[2025-11-07T11:40:29.799111] [INFO] Transaction completed
+[2025-11-07T11:40:29.799120] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.799121] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.799109] [INFO] Service initialized
+[2025-11-07T11:40:29.799107] [INFO] Health check passed
+[2025-11-07T11:40:29.799119] [WARN] Queue size growing
+[2025-11-07T11:40:29.799115] [INFO] Health check passed
+[2025-11-07T11:40:29.799129] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.799113] [INFO] Service initialized
+[2025-11-07T11:40:29.799122] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.799130] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.799126] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.799106] [INFO] Cache hit
+[2025-11-07T11:40:29.799108] [INFO] Database query executed
+[2025-11-07T11:40:29.799127] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.799110] [INFO] Cache hit
+[2025-11-07T11:40:29.799118] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.799123] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.799105] [INFO] Database query executed
+[2025-11-07T11:40:29.799128] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.799125] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.799124] [DEBUG] Thread pool size: 8

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.239866] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.239858] [WARN] Disk space low
+[2025-11-07T11:40:30.239867] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.239851] [INFO] Configuration loaded
+[2025-11-07T11:40:30.239869] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.239845] [INFO] Transaction completed
+[2025-11-07T11:40:30.239854] [INFO] Connection established
+[2025-11-07T11:40:30.239855] [INFO] Cache hit
+[2025-11-07T11:40:30.239848] [INFO] Configuration loaded
+[2025-11-07T11:40:30.239865] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.239867] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.239859] [WARN] Timeout warning
+[2025-11-07T11:40:30.239861] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.239857] [INFO] Health check passed
+[2025-11-07T11:40:30.239850] [INFO] Database query executed
+[2025-11-07T11:40:30.239846] [INFO] Transaction completed
+[2025-11-07T11:40:30.239847] [INFO] Health check passed
+[2025-11-07T11:40:30.239852] [INFO] Connection established
+[2025-11-07T11:40:30.239860] [WARN] Timeout warning
+[2025-11-07T11:40:30.239849] [INFO] Health check passed
+[2025-11-07T11:40:30.239870] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.239856] [INFO] Service initialized
+[2025-11-07T11:40:30.239871] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.239864] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.239862] [ERROR] Network timeout
+[2025-11-07T11:40:30.239844] [INFO] User logged in
+[2025-11-07T11:40:30.239872] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.239842] [INFO] Service initialized
+[2025-11-07T11:40:30.239853] [INFO] Transaction completed

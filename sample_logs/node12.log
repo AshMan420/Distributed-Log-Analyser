@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.292515] [INFO] Request processed successfully
+[2025-11-07T11:40:29.292511] [INFO] Service initialized
+[2025-11-07T11:40:29.292535] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.292522] [WARN] Slow query performance
+[2025-11-07T11:40:29.292513] [INFO] Cache hit
+[2025-11-07T11:40:29.292533] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.292524] [WARN] Disk space low
+[2025-11-07T11:40:29.292516] [INFO] Connection established
+[2025-11-07T11:40:29.292519] [INFO] Session started
+[2025-11-07T11:40:29.292539] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.292531] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.292525] [WARN] Slow query performance
+[2025-11-07T11:40:29.292523] [WARN] High memory usage detected
+[2025-11-07T11:40:29.292536] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.292526] [WARN] Timeout warning
+[2025-11-07T11:40:29.292528] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.292512] [INFO] Transaction completed
+[2025-11-07T11:40:29.292510] [INFO] Connection established
+[2025-11-07T11:40:29.292520] [INFO] Connection established
+[2025-11-07T11:40:29.292529] [ERROR] File not found
+[2025-11-07T11:40:29.292532] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.292534] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.292537] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.292514] [INFO] Transaction completed
+[2025-11-07T11:40:29.292518] [INFO] Request processed successfully
+[2025-11-07T11:40:29.292538] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.292521] [INFO] Service initialized
+[2025-11-07T11:40:29.292530] [ERROR] Request failed
+[2025-11-07T11:40:29.292517] [INFO] Session started
+[2025-11-07T11:40:29.292527] [WARN] Resource threshold approaching

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.728677] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.728685] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.728659] [INFO] Health check passed
+[2025-11-07T11:40:29.728661] [INFO] Configuration loaded
+[2025-11-07T11:40:29.728684] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.728660] [INFO] User logged in
+[2025-11-07T11:40:29.728668] [INFO] Service initialized
+[2025-11-07T11:40:29.728663] [INFO] Cache hit
+[2025-11-07T11:40:29.728673] [WARN] Timeout warning
+[2025-11-07T11:40:29.728674] [WARN] Timeout warning
+[2025-11-07T11:40:29.728665] [INFO] Session started
+[2025-11-07T11:40:29.728662] [INFO] Connection established
+[2025-11-07T11:40:29.728678] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.728656] [INFO] Service initialized
+[2025-11-07T11:40:29.728669] [INFO] Cache hit
+[2025-11-07T11:40:29.728672] [WARN] Cache miss
+[2025-11-07T11:40:29.728664] [INFO] User logged in
+[2025-11-07T11:40:29.728658] [INFO] Database query executed
+[2025-11-07T11:40:29.728667] [INFO] Database query executed
+[2025-11-07T11:40:29.728671] [INFO] Database query executed
+[2025-11-07T11:40:29.728682] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.728670] [INFO] Configuration loaded
+[2025-11-07T11:40:29.728683] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.728666] [INFO] Health check passed
+[2025-11-07T11:40:29.728676] [ERROR] Database connection lost
+[2025-11-07T11:40:29.728675] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.728679] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.728681] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.728680] [DEBUG] Timer set: 30 seconds

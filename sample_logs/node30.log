@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.294220] [WARN] High memory usage detected
+[2025-11-07T11:40:29.294229] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.294227] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.294208] [INFO] Cache hit
+[2025-11-07T11:40:29.294211] [INFO] Configuration loaded
+[2025-11-07T11:40:29.294225] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.294204] [INFO] Configuration loaded
+[2025-11-07T11:40:29.294209] [INFO] User logged in
+[2025-11-07T11:40:29.294228] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.294223] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.294213] [INFO] Configuration loaded
+[2025-11-07T11:40:29.294218] [WARN] Slow query performance
+[2025-11-07T11:40:29.294230] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.294212] [INFO] Database query executed
+[2025-11-07T11:40:29.294207] [INFO] Health check passed
+[2025-11-07T11:40:29.294210] [INFO] Service initialized
+[2025-11-07T11:40:29.294231] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.294221] [ERROR] Disk read failed
+[2025-11-07T11:40:29.294215] [INFO] Configuration loaded
+[2025-11-07T11:40:29.294216] [INFO] Request processed successfully
+[2025-11-07T11:40:29.294202] [INFO] Transaction completed
+[2025-11-07T11:40:29.294210] [INFO] Health check passed
+[2025-11-07T11:40:29.294224] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.294206] [INFO] Cache hit
+[2025-11-07T11:40:29.294205] [INFO] Connection established
+[2025-11-07T11:40:29.294214] [INFO] User logged in
+[2025-11-07T11:40:29.294226] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.294219] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.294217] [WARN] Timeout warning
+[2025-11-07T11:40:29.294222] [ERROR] Service unavailable

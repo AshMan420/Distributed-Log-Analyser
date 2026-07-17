@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.607676] [INFO] Session started
+[2025-11-07T11:40:29.607694] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.607674] [INFO] Connection established
+[2025-11-07T11:40:29.607669] [INFO] Configuration loaded
+[2025-11-07T11:40:29.607672] [INFO] Session started
+[2025-11-07T11:40:29.607667] [INFO] Cache hit
+[2025-11-07T11:40:29.607690] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.607692] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.607685] [ERROR] Request failed
+[2025-11-07T11:40:29.607689] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.607675] [INFO] Configuration loaded
+[2025-11-07T11:40:29.607686] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.607678] [INFO] Database query executed
+[2025-11-07T11:40:29.607688] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.607670] [INFO] Database query executed
+[2025-11-07T11:40:29.607678] [INFO] Cache hit
+[2025-11-07T11:40:29.607673] [INFO] User logged in
+[2025-11-07T11:40:29.607680] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.607668] [INFO] Service initialized
+[2025-11-07T11:40:29.607687] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.607671] [INFO] Session started
+[2025-11-07T11:40:29.607683] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.607682] [WARN] Slow query performance
+[2025-11-07T11:40:29.607691] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.607681] [WARN] Disk space low
+[2025-11-07T11:40:29.607693] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.607684] [WARN] Resource threshold approaching

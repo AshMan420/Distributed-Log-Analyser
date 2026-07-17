@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.577362] [INFO] User logged in
+[2025-11-07T11:40:29.577380] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.577371] [INFO] Health check passed
+[2025-11-07T11:40:29.577367] [INFO] Service initialized
+[2025-11-07T11:40:29.577390] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.577358] [INFO] Request processed successfully
+[2025-11-07T11:40:29.577376] [ERROR] File not found
+[2025-11-07T11:40:29.577384] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.577359] [INFO] Transaction completed
+[2025-11-07T11:40:29.577385] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.577383] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.577360] [INFO] Session started
+[2025-11-07T11:40:29.577372] [INFO] Transaction completed
+[2025-11-07T11:40:29.577374] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.577357] [INFO] Cache hit
+[2025-11-07T11:40:29.577363] [INFO] Transaction completed
+[2025-11-07T11:40:29.577381] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.577378] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.577388] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.577361] [INFO] Session started
+[2025-11-07T11:40:29.577369] [INFO] Database query executed
+[2025-11-07T11:40:29.577369] [INFO] Request processed successfully
+[2025-11-07T11:40:29.577389] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.577377] [ERROR] Permission denied
+[2025-11-07T11:40:29.577364] [INFO] Configuration loaded
+[2025-11-07T11:40:29.577387] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.577370] [INFO] Database query executed
+[2025-11-07T11:40:29.577382] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.577375] [WARN] Cache miss
+[2025-11-07T11:40:29.577379] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.577367] [INFO] Service initialized
+[2025-11-07T11:40:29.577365] [INFO] Health check passed
+[2025-11-07T11:40:29.577386] [DEBUG] Memory allocation: 2048 bytes

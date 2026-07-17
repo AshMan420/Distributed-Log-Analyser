@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.393315] [INFO] Service initialized
+[2025-11-07T11:40:29.393323] [INFO] Health check passed
+[2025-11-07T11:40:29.393311] [INFO] User logged in
+[2025-11-07T11:40:29.393329] [ERROR] Request failed
+[2025-11-07T11:40:29.393309] [INFO] Configuration loaded
+[2025-11-07T11:40:29.393333] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.393332] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.393321] [INFO] Database query executed
+[2025-11-07T11:40:29.393314] [INFO] Database query executed
+[2025-11-07T11:40:29.393336] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.393334] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.393331] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.393326] [WARN] High memory usage detected
+[2025-11-07T11:40:29.393320] [INFO] Configuration loaded
+[2025-11-07T11:40:29.393312] [INFO] Database query executed
+[2025-11-07T11:40:29.393327] [WARN] Queue size growing
+[2025-11-07T11:40:29.393335] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.393325] [WARN] Cache miss
+[2025-11-07T11:40:29.393322] [INFO] Service initialized
+[2025-11-07T11:40:29.393324] [INFO] User logged in
+[2025-11-07T11:40:29.393330] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.393318] [INFO] Database query executed
+[2025-11-07T11:40:29.393316] [INFO] Cache hit
+[2025-11-07T11:40:29.393319] [INFO] Connection established
+[2025-11-07T11:40:29.393317] [INFO] Database query executed
+[2025-11-07T11:40:29.393328] [ERROR] Permission denied
+[2025-11-07T11:40:29.393313] [INFO] Transaction completed

@@ -1,0 +1,26 @@
+[2025-11-07T11:40:30.300722] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.300727] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.300706] [INFO] Request processed successfully
+[2025-11-07T11:40:30.300726] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.300711] [INFO] Cache hit
+[2025-11-07T11:40:30.300717] [INFO] Configuration loaded
+[2025-11-07T11:40:30.300728] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.300707] [INFO] Database query executed
+[2025-11-07T11:40:30.300720] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.300729] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.300714] [INFO] Database query executed
+[2025-11-07T11:40:30.300705] [INFO] Transaction completed
+[2025-11-07T11:40:30.300712] [INFO] Request processed successfully
+[2025-11-07T11:40:30.300713] [INFO] Transaction completed
+[2025-11-07T11:40:30.300724] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.300715] [INFO] Transaction completed
+[2025-11-07T11:40:30.300708] [INFO] Configuration loaded
+[2025-11-07T11:40:30.300704] [INFO] User logged in
+[2025-11-07T11:40:30.300721] [ERROR] Request failed
+[2025-11-07T11:40:30.300716] [INFO] Configuration loaded
+[2025-11-07T11:40:30.300718] [WARN] Queue size growing
+[2025-11-07T11:40:30.300725] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.300723] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.300709] [INFO] Transaction completed
+[2025-11-07T11:40:30.300710] [INFO] Request processed successfully
+[2025-11-07T11:40:30.300730] [DEBUG] Memory allocation: 2048 bytes

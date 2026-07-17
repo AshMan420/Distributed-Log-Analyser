@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.115308] [INFO] Service initialized
+[2025-11-07T11:40:30.115317] [INFO] Configuration loaded
+[2025-11-07T11:40:30.115311] [INFO] Configuration loaded
+[2025-11-07T11:40:30.115310] [INFO] Service initialized
+[2025-11-07T11:40:30.115318] [INFO] Transaction completed
+[2025-11-07T11:40:30.115329] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.115307] [INFO] Transaction completed
+[2025-11-07T11:40:30.115323] [ERROR] Authentication failed
+[2025-11-07T11:40:30.115320] [INFO] Health check passed
+[2025-11-07T11:40:30.115313] [INFO] Configuration loaded
+[2025-11-07T11:40:30.115327] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.115334] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.115325] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.115336] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.115332] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.115312] [INFO] Database query executed
+[2025-11-07T11:40:30.115336] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.115316] [INFO] Database query executed
+[2025-11-07T11:40:30.115318] [INFO] Session started
+[2025-11-07T11:40:30.115315] [INFO] Cache hit
+[2025-11-07T11:40:30.115314] [INFO] Database query executed
+[2025-11-07T11:40:30.115333] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.115326] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.115309] [INFO] Configuration loaded
+[2025-11-07T11:40:30.115324] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.115331] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.115328] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.115330] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.115321] [WARN] Cache miss
+[2025-11-07T11:40:30.115319] [INFO] Health check passed
+[2025-11-07T11:40:30.115322] [WARN] Cache miss

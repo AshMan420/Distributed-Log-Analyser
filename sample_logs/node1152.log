@@ -1,0 +1,38 @@
+[2025-11-07T11:40:29.412238] [INFO] Request processed successfully
+[2025-11-07T11:40:29.412263] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.412231] [INFO] Service initialized
+[2025-11-07T11:40:29.412246] [INFO] Request processed successfully
+[2025-11-07T11:40:29.412247] [INFO] Transaction completed
+[2025-11-07T11:40:29.412240] [INFO] Transaction completed
+[2025-11-07T11:40:29.412261] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412237] [INFO] Request processed successfully
+[2025-11-07T11:40:29.412265] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.412234] [INFO] Session started
+[2025-11-07T11:40:29.412266] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.412267] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412245] [INFO] Request processed successfully
+[2025-11-07T11:40:29.412251] [WARN] Timeout warning
+[2025-11-07T11:40:29.412244] [INFO] User logged in
+[2025-11-07T11:40:29.412239] [INFO] Cache hit
+[2025-11-07T11:40:29.412250] [WARN] Slow query performance
+[2025-11-07T11:40:29.412258] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.412249] [WARN] Queue size growing
+[2025-11-07T11:40:29.412256] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.412253] [ERROR] Authentication failed
+[2025-11-07T11:40:29.412264] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412235] [INFO] Request processed successfully
+[2025-11-07T11:40:29.412241] [INFO] Health check passed
+[2025-11-07T11:40:29.412260] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.412248] [WARN] Queue size growing
+[2025-11-07T11:40:29.412255] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412268] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.412243] [INFO] Connection established
+[2025-11-07T11:40:29.412261] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.412232] [INFO] Health check passed
+[2025-11-07T11:40:29.412262] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.412242] [INFO] User logged in
+[2025-11-07T11:40:29.412269] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.412259] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.412252] [ERROR] Service unavailable
+[2025-11-07T11:40:29.412257] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.412236] [INFO] Cache hit

@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.351604] [INFO] User logged in
+[2025-11-07T11:40:29.351612] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.351621] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.351607] [INFO] Configuration loaded
+[2025-11-07T11:40:29.351619] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.351620] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.351622] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.351616] [ERROR] Permission denied
+[2025-11-07T11:40:29.351605] [INFO] User logged in
+[2025-11-07T11:40:29.351606] [INFO] Cache hit
+[2025-11-07T11:40:29.351617] [ERROR] Service unavailable
+[2025-11-07T11:40:29.351625] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.351615] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.351608] [INFO] Session started
+[2025-11-07T11:40:29.351600] [INFO] Database query executed
+[2025-11-07T11:40:29.351597] [INFO] User logged in
+[2025-11-07T11:40:29.351624] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.351623] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.351611] [WARN] High memory usage detected
+[2025-11-07T11:40:29.351598] [INFO] Configuration loaded
+[2025-11-07T11:40:29.351606] [INFO] Configuration loaded
+[2025-11-07T11:40:29.351614] [WARN] High memory usage detected
+[2025-11-07T11:40:29.351602] [INFO] Cache hit
+[2025-11-07T11:40:29.351603] [INFO] Health check passed
+[2025-11-07T11:40:29.351618] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.351601] [INFO] Session started
+[2025-11-07T11:40:29.351609] [INFO] Database query executed
+[2025-11-07T11:40:29.351613] [WARN] Slow query performance
+[2025-11-07T11:40:29.351595] [INFO] Request processed successfully
+[2025-11-07T11:40:29.351596] [INFO] Cache hit

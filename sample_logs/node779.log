@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.373005] [INFO] Database query executed
+[2025-11-07T11:40:29.373017] [INFO] Service initialized
+[2025-11-07T11:40:29.373016] [INFO] Cache hit
+[2025-11-07T11:40:29.373014] [INFO] User logged in
+[2025-11-07T11:40:29.373015] [INFO] Transaction completed
+[2025-11-07T11:40:29.373019] [WARN] Queue size growing
+[2025-11-07T11:40:29.373030] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.373032] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.373010] [INFO] Cache hit
+[2025-11-07T11:40:29.373029] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.373033] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.373003] [INFO] Request processed successfully
+[2025-11-07T11:40:29.373019] [WARN] Queue size growing
+[2025-11-07T11:40:29.373026] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.373031] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.373028] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.373032] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.373009] [INFO] Health check passed
+[2025-11-07T11:40:29.373017] [INFO] Configuration loaded
+[2025-11-07T11:40:29.373021] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.373025] [ERROR] File not found
+[2025-11-07T11:40:29.373027] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.373024] [ERROR] Service unavailable
+[2025-11-07T11:40:29.373006] [INFO] Configuration loaded
+[2025-11-07T11:40:29.373013] [INFO] Connection established
+[2025-11-07T11:40:29.373011] [INFO] Cache hit
+[2025-11-07T11:40:29.373008] [INFO] Transaction completed
+[2025-11-07T11:40:29.373022] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.373020] [WARN] Timeout warning
+[2025-11-07T11:40:29.373007] [INFO] Cache hit
+[2025-11-07T11:40:29.373012] [INFO] Session started

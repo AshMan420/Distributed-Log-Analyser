@@ -1,0 +1,29 @@
+[2025-11-07T11:40:30.206744] [INFO] Session started
+[2025-11-07T11:40:30.206740] [INFO] Database query executed
+[2025-11-07T11:40:30.206754] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.206756] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.206759] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.206751] [ERROR] Request failed
+[2025-11-07T11:40:30.206757] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.206731] [INFO] Service initialized
+[2025-11-07T11:40:30.206747] [INFO] User logged in
+[2025-11-07T11:40:30.206746] [INFO] Connection established
+[2025-11-07T11:40:30.206761] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.206737] [INFO] Session started
+[2025-11-07T11:40:30.206739] [INFO] User logged in
+[2025-11-07T11:40:30.206755] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.206734] [INFO] Session started
+[2025-11-07T11:40:30.206735] [INFO] Transaction completed
+[2025-11-07T11:40:30.206738] [INFO] Request processed successfully
+[2025-11-07T11:40:30.206748] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.206743] [INFO] Cache hit
+[2025-11-07T11:40:30.206741] [INFO] Health check passed
+[2025-11-07T11:40:30.206758] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.206753] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.206750] [ERROR] Service unavailable
+[2025-11-07T11:40:30.206745] [INFO] User logged in
+[2025-11-07T11:40:30.206760] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.206733] [INFO] Connection established
+[2025-11-07T11:40:30.206736] [INFO] User logged in
+[2025-11-07T11:40:30.206742] [INFO] Connection established
+[2025-11-07T11:40:30.206752] [DEBUG] Memory allocation: 2048 bytes

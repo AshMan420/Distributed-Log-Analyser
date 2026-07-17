@@ -1,0 +1,30 @@
+[2025-11-07T11:40:30.014987] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.014972] [INFO] Database query executed
+[2025-11-07T11:40:30.014980] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.014979] [ERROR] Disk read failed
+[2025-11-07T11:40:30.014976] [WARN] Disk space low
+[2025-11-07T11:40:30.014975] [WARN] Queue size growing
+[2025-11-07T11:40:30.014969] [INFO] Database query executed
+[2025-11-07T11:40:30.014971] [INFO] Connection established
+[2025-11-07T11:40:30.014964] [INFO] Database query executed
+[2025-11-07T11:40:30.014965] [INFO] Configuration loaded
+[2025-11-07T11:40:30.014967] [INFO] Connection established
+[2025-11-07T11:40:30.014973] [INFO] Health check passed
+[2025-11-07T11:40:30.014982] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.014947] [INFO] Transaction completed
+[2025-11-07T11:40:30.014977] [WARN] Slow query performance
+[2025-11-07T11:40:30.014966] [INFO] Service initialized
+[2025-11-07T11:40:30.014984] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.014950] [INFO] Connection established
+[2025-11-07T11:40:30.014983] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.014963] [INFO] Transaction completed
+[2025-11-07T11:40:30.014974] [WARN] Disk space low
+[2025-11-07T11:40:30.014985] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.014978] [WARN] High memory usage detected
+[2025-11-07T11:40:30.014968] [INFO] Configuration loaded
+[2025-11-07T11:40:30.014970] [INFO] Session started
+[2025-11-07T11:40:30.014949] [INFO] Database query executed
+[2025-11-07T11:40:30.014981] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.014951] [INFO] Health check passed
+[2025-11-07T11:40:30.014988] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.014986] [DEBUG] Entering function process_data()

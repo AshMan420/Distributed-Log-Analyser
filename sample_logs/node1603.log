@@ -1,0 +1,24 @@
+[2025-11-07T11:40:29.460193] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.460170] [INFO] Database query executed
+[2025-11-07T11:40:29.460186] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.460191] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.460185] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.460177] [INFO] Session started
+[2025-11-07T11:40:29.460174] [INFO] Request processed successfully
+[2025-11-07T11:40:29.460180] [INFO] Service initialized
+[2025-11-07T11:40:29.460187] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.460176] [INFO] Connection established
+[2025-11-07T11:40:29.460181] [INFO] Configuration loaded
+[2025-11-07T11:40:29.460183] [WARN] Slow query performance
+[2025-11-07T11:40:29.460184] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.460189] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.460190] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.460172] [INFO] Connection established
+[2025-11-07T11:40:29.460171] [INFO] Cache hit
+[2025-11-07T11:40:29.460175] [INFO] Session started
+[2025-11-07T11:40:29.460192] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.460188] [ERROR] Database connection lost
+[2025-11-07T11:40:29.460181] [INFO] Request processed successfully
+[2025-11-07T11:40:29.460168] [INFO] Health check passed
+[2025-11-07T11:40:29.460194] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.460173] [INFO] Session started

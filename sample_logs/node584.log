@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.353044] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.353022] [INFO] Health check passed
+[2025-11-07T11:40:29.353029] [WARN] Slow query performance
+[2025-11-07T11:40:29.353045] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.353023] [INFO] Request processed successfully
+[2025-11-07T11:40:29.353033] [ERROR] Authentication failed
+[2025-11-07T11:40:29.353035] [ERROR] Request failed
+[2025-11-07T11:40:29.353027] [INFO] Connection established
+[2025-11-07T11:40:29.353019] [INFO] Database query executed
+[2025-11-07T11:40:29.353041] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.353037] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.353031] [WARN] Queue size growing
+[2025-11-07T11:40:29.353012] [INFO] Health check passed
+[2025-11-07T11:40:29.353028] [INFO] Connection established
+[2025-11-07T11:40:29.353036] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.353040] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.353030] [WARN] Disk space low
+[2025-11-07T11:40:29.353043] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.353025] [INFO] User logged in
+[2025-11-07T11:40:29.353038] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.353042] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.353013] [INFO] Transaction completed
+[2025-11-07T11:40:29.353046] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.353016] [INFO] Health check passed
+[2025-11-07T11:40:29.353014] [INFO] Service initialized
+[2025-11-07T11:40:29.353020] [INFO] Connection established
+[2025-11-07T11:40:29.353026] [INFO] Transaction completed
+[2025-11-07T11:40:29.353021] [INFO] Transaction completed
+[2025-11-07T11:40:29.353018] [INFO] Session started
+[2025-11-07T11:40:29.353032] [WARN] Slow query performance
+[2025-11-07T11:40:29.353039] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.353048] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.353015] [INFO] Connection established
+[2025-11-07T11:40:29.353047] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.353017] [INFO] Transaction completed
+[2025-11-07T11:40:29.353024] [INFO] Request processed successfully
+[2025-11-07T11:40:29.353010] [INFO] Cache hit

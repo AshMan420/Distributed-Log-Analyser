@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.267728] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.267711] [INFO] Connection established
+[2025-11-07T11:40:30.267732] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.267726] [WARN] High memory usage detected
+[2025-11-07T11:40:30.267710] [INFO] User logged in
+[2025-11-07T11:40:30.267725] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.267718] [INFO] Transaction completed
+[2025-11-07T11:40:30.267709] [INFO] Session started
+[2025-11-07T11:40:30.267723] [INFO] Service initialized
+[2025-11-07T11:40:30.267730] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.267713] [INFO] Service initialized
+[2025-11-07T11:40:30.267733] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.267717] [INFO] Session started
+[2025-11-07T11:40:30.267729] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.267715] [INFO] Cache hit
+[2025-11-07T11:40:30.267720] [INFO] Transaction completed
+[2025-11-07T11:40:30.267731] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.267722] [INFO] Service initialized
+[2025-11-07T11:40:30.267724] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.267721] [INFO] Session started
+[2025-11-07T11:40:30.267707] [INFO] Service initialized
+[2025-11-07T11:40:30.267716] [INFO] User logged in
+[2025-11-07T11:40:30.267714] [INFO] Service initialized
+[2025-11-07T11:40:30.267727] [ERROR] Disk read failed
+[2025-11-07T11:40:30.267712] [INFO] Database query executed
+[2025-11-07T11:40:30.267734] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.267719] [INFO] Request processed successfully

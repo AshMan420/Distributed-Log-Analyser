@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.355114] [INFO] User logged in
+[2025-11-07T11:40:29.355113] [INFO] Health check passed
+[2025-11-07T11:40:29.355116] [INFO] User logged in
+[2025-11-07T11:40:29.355121] [WARN] Queue size growing
+[2025-11-07T11:40:29.355125] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.355105] [INFO] Health check passed
+[2025-11-07T11:40:29.355110] [INFO] Request processed successfully
+[2025-11-07T11:40:29.355118] [WARN] Slow query performance
+[2025-11-07T11:40:29.355129] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.355117] [INFO] Cache hit
+[2025-11-07T11:40:29.355102] [INFO] Health check passed
+[2025-11-07T11:40:29.355115] [INFO] Session started
+[2025-11-07T11:40:29.355128] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.355103] [INFO] Cache hit
+[2025-11-07T11:40:29.355112] [INFO] Session started
+[2025-11-07T11:40:29.355132] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.355122] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.355106] [INFO] Cache hit
+[2025-11-07T11:40:29.355108] [INFO] Cache hit
+[2025-11-07T11:40:29.355104] [INFO] User logged in
+[2025-11-07T11:40:29.355107] [INFO] Connection established
+[2025-11-07T11:40:29.355126] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.355130] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.355109] [INFO] Service initialized
+[2025-11-07T11:40:29.355111] [INFO] Database query executed
+[2025-11-07T11:40:29.355127] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.355123] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.355119] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.355124] [ERROR] Authentication failed

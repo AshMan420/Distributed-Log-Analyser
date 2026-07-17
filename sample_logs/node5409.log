@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.863907] [ERROR] Request failed
+[2025-11-07T11:40:29.863900] [WARN] Queue size growing
+[2025-11-07T11:40:29.863898] [INFO] Cache hit
+[2025-11-07T11:40:29.863901] [WARN] Timeout warning
+[2025-11-07T11:40:29.863917] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.863903] [WARN] Cache miss
+[2025-11-07T11:40:29.863886] [INFO] Service initialized
+[2025-11-07T11:40:29.863895] [INFO] Transaction completed
+[2025-11-07T11:40:29.863891] [INFO] Service initialized
+[2025-11-07T11:40:29.863897] [INFO] User logged in
+[2025-11-07T11:40:29.863904] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.863893] [INFO] Health check passed
+[2025-11-07T11:40:29.863899] [INFO] Connection established
+[2025-11-07T11:40:29.863913] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.863905] [WARN] Slow query performance
+[2025-11-07T11:40:29.863914] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.863910] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.863894] [INFO] Database query executed
+[2025-11-07T11:40:29.863916] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.863906] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.863892] [INFO] Request processed successfully
+[2025-11-07T11:40:29.863888] [INFO] Request processed successfully
+[2025-11-07T11:40:29.863890] [INFO] Cache hit
+[2025-11-07T11:40:29.863912] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.863896] [INFO] Cache hit
+[2025-11-07T11:40:29.863908] [ERROR] Request failed
+[2025-11-07T11:40:29.863887] [INFO] Transaction completed
+[2025-11-07T11:40:29.863902] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.863909] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.863915] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.863885] [INFO] Transaction completed
+[2025-11-07T11:40:29.863911] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.863889] [INFO] Service initialized
+[2025-11-07T11:40:29.863897] [INFO] Connection established

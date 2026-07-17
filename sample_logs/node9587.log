@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.317561] [INFO] Cache hit
+[2025-11-07T11:40:30.317572] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.317588] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.317587] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.317586] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.317571] [WARN] High memory usage detected
+[2025-11-07T11:40:30.317567] [INFO] Service initialized
+[2025-11-07T11:40:30.317582] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.317578] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.317566] [INFO] Configuration loaded
+[2025-11-07T11:40:30.317585] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.317532] [INFO] Health check passed
+[2025-11-07T11:40:30.317539] [INFO] User logged in
+[2025-11-07T11:40:30.317565] [INFO] Connection established
+[2025-11-07T11:40:30.317580] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.317577] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.317581] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.317570] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.317559] [INFO] Request processed successfully
+[2025-11-07T11:40:30.317573] [WARN] Slow query performance
+[2025-11-07T11:40:30.317564] [INFO] User logged in
+[2025-11-07T11:40:30.317540] [INFO] Transaction completed
+[2025-11-07T11:40:30.317574] [ERROR] File not found
+[2025-11-07T11:40:30.317583] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.317538] [INFO] Service initialized
+[2025-11-07T11:40:30.317541] [INFO] Configuration loaded
+[2025-11-07T11:40:30.317562] [INFO] Transaction completed
+[2025-11-07T11:40:30.317569] [INFO] Request processed successfully
+[2025-11-07T11:40:30.317589] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.317568] [INFO] Cache hit
+[2025-11-07T11:40:30.317535] [INFO] Transaction completed
+[2025-11-07T11:40:30.317584] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.317576] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.317579] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.317563] [INFO] Cache hit

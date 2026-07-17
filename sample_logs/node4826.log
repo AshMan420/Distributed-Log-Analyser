@@ -1,0 +1,28 @@
+[2025-11-07T11:40:29.805324] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.805317] [WARN] Queue size growing
+[2025-11-07T11:40:29.805330] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.805303] [INFO] Service initialized
+[2025-11-07T11:40:29.805306] [INFO] Database query executed
+[2025-11-07T11:40:29.805314] [INFO] Cache hit
+[2025-11-07T11:40:29.805320] [WARN] Queue size growing
+[2025-11-07T11:40:29.805321] [WARN] Cache miss
+[2025-11-07T11:40:29.805328] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.805315] [INFO] Cache hit
+[2025-11-07T11:40:29.805318] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.805331] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.805319] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.805323] [ERROR] Request failed
+[2025-11-07T11:40:29.805307] [INFO] Cache hit
+[2025-11-07T11:40:29.805325] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.805309] [INFO] Database query executed
+[2025-11-07T11:40:29.805313] [INFO] User logged in
+[2025-11-07T11:40:29.805304] [INFO] User logged in
+[2025-11-07T11:40:29.805310] [INFO] Service initialized
+[2025-11-07T11:40:29.805308] [INFO] Connection established
+[2025-11-07T11:40:29.805327] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.805329] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.805312] [INFO] Database query executed
+[2025-11-07T11:40:29.805322] [ERROR] File not found
+[2025-11-07T11:40:29.805316] [WARN] Slow query performance
+[2025-11-07T11:40:29.805326] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.805311] [INFO] Service initialized

@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.145873] [INFO] Connection established
+[2025-11-07T11:40:30.145878] [INFO] User logged in
+[2025-11-07T11:40:30.145881] [INFO] Database query executed
+[2025-11-07T11:40:30.145887] [INFO] Health check passed
+[2025-11-07T11:40:30.145871] [INFO] Service initialized
+[2025-11-07T11:40:30.145892] [ERROR] Memory allocation error
+[2025-11-07T11:40:30.145900] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.145889] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.145903] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.145874] [INFO] Session started
+[2025-11-07T11:40:30.145875] [INFO] Session started
+[2025-11-07T11:40:30.145896] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.145885] [INFO] Request processed successfully
+[2025-11-07T11:40:30.145894] [ERROR] Network timeout
+[2025-11-07T11:40:30.145904] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.145882] [INFO] Request processed successfully
+[2025-11-07T11:40:30.145902] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.145893] [ERROR] File not found
+[2025-11-07T11:40:30.145898] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.145901] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.145891] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.145876] [INFO] Service initialized
+[2025-11-07T11:40:30.145879] [INFO] User logged in
+[2025-11-07T11:40:30.145880] [INFO] Connection established
+[2025-11-07T11:40:30.145886] [INFO] Health check passed
+[2025-11-07T11:40:30.145884] [INFO] User logged in
+[2025-11-07T11:40:30.145883] [INFO] Transaction completed
+[2025-11-07T11:40:30.145888] [WARN] High memory usage detected
+[2025-11-07T11:40:30.145895] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.145877] [INFO] Request processed successfully
+[2025-11-07T11:40:30.145890] [WARN] Resource threshold approaching
+[2025-11-07T11:40:30.145897] [DEBUG] Entering function process_data()

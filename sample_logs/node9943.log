@@ -1,0 +1,25 @@
+[2025-11-07T11:40:30.365822] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.365808] [INFO] Request processed successfully
+[2025-11-07T11:40:30.365804] [INFO] Health check passed
+[2025-11-07T11:40:30.365820] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.365803] [INFO] Transaction completed
+[2025-11-07T11:40:30.365822] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.365809] [INFO] User logged in
+[2025-11-07T11:40:30.365815] [ERROR] Disk read failed
+[2025-11-07T11:40:30.365810] [INFO] Request processed successfully
+[2025-11-07T11:40:30.365813] [WARN] Slow query performance
+[2025-11-07T11:40:30.365800] [INFO] User logged in
+[2025-11-07T11:40:30.365818] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.365818] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.365816] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.365820] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.365811] [INFO] Session started
+[2025-11-07T11:40:30.365809] [INFO] Request processed successfully
+[2025-11-07T11:40:30.365806] [INFO] Transaction completed
+[2025-11-07T11:40:30.365812] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.365807] [INFO] Health check passed
+[2025-11-07T11:40:30.365805] [INFO] Cache hit
+[2025-11-07T11:40:30.365814] [WARN] Slow query performance
+[2025-11-07T11:40:30.365825] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:30.365823] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.365802] [INFO] Request processed successfully

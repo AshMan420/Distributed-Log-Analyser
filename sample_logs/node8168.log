@@ -1,0 +1,32 @@
+[2025-11-07T11:40:30.158944] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.158926] [INFO] Health check passed
+[2025-11-07T11:40:30.158931] [WARN] Timeout warning
+[2025-11-07T11:40:30.158937] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.158924] [INFO] Session started
+[2025-11-07T11:40:30.158942] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.158928] [INFO] Request processed successfully
+[2025-11-07T11:40:30.158940] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.158939] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.158917] [INFO] Configuration loaded
+[2025-11-07T11:40:30.158934] [ERROR] Authentication failed
+[2025-11-07T11:40:30.158918] [INFO] Session started
+[2025-11-07T11:40:30.158936] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.158919] [INFO] Request processed successfully
+[2025-11-07T11:40:30.158915] [INFO] Request processed successfully
+[2025-11-07T11:40:30.158932] [WARN] Rate limit approaching
+[2025-11-07T11:40:30.158927] [INFO] Transaction completed
+[2025-11-07T11:40:30.158935] [ERROR] File not found
+[2025-11-07T11:40:30.158933] [WARN] Queue size growing
+[2025-11-07T11:40:30.158916] [INFO] Request processed successfully
+[2025-11-07T11:40:30.158914] [INFO] Transaction completed
+[2025-11-07T11:40:30.158941] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.158920] [INFO] Connection established
+[2025-11-07T11:40:30.158921] [INFO] Configuration loaded
+[2025-11-07T11:40:30.158922] [INFO] Connection established
+[2025-11-07T11:40:30.158925] [INFO] Service initialized
+[2025-11-07T11:40:30.158923] [INFO] User logged in
+[2025-11-07T11:40:30.158943] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.158938] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.158929] [WARN] High memory usage detected
+[2025-11-07T11:40:30.158930] [WARN] High memory usage detected
+[2025-11-07T11:40:30.158912] [INFO] User logged in

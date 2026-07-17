@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.933550] [INFO] Service initialized
+[2025-11-07T11:40:29.933573] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.933556] [INFO] Connection established
+[2025-11-07T11:40:29.933574] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.933568] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.933547] [INFO] Transaction completed
+[2025-11-07T11:40:29.933546] [INFO] Configuration loaded
+[2025-11-07T11:40:29.933555] [INFO] Cache hit
+[2025-11-07T11:40:29.933569] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.933558] [INFO] Health check passed
+[2025-11-07T11:40:29.933565] [ERROR] Invalid input data
+[2025-11-07T11:40:29.933571] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.933559] [INFO] Request processed successfully
+[2025-11-07T11:40:29.933561] [WARN] Slow query performance
+[2025-11-07T11:40:29.933549] [INFO] Cache hit
+[2025-11-07T11:40:29.933554] [INFO] User logged in
+[2025-11-07T11:40:29.933542] [INFO] Cache hit
+[2025-11-07T11:40:29.933551] [INFO] Configuration loaded
+[2025-11-07T11:40:29.933566] [ERROR] Authentication failed
+[2025-11-07T11:40:29.933567] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.933548] [INFO] Configuration loaded
+[2025-11-07T11:40:29.933562] [WARN] Disk space low
+[2025-11-07T11:40:29.933575] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.933570] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.933553] [INFO] Configuration loaded
+[2025-11-07T11:40:29.933564] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.933560] [WARN] High memory usage detected
+[2025-11-07T11:40:29.933572] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.933557] [INFO] Service initialized

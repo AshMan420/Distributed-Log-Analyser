@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.706772] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.706753] [INFO] Session started
+[2025-11-07T11:40:29.706777] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.706781] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.706778] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.706771] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.706754] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706763] [WARN] High memory usage detected
+[2025-11-07T11:40:29.706775] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.706784] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.706755] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706762] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.706765] [WARN] Slow query performance
+[2025-11-07T11:40:29.706760] [INFO] Request processed successfully
+[2025-11-07T11:40:29.706773] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706751] [INFO] Transaction completed
+[2025-11-07T11:40:29.706766] [WARN] Slow query performance
+[2025-11-07T11:40:29.706761] [INFO] Connection established
+[2025-11-07T11:40:29.706752] [INFO] Connection established
+[2025-11-07T11:40:29.706768] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.706776] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.706769] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.706764] [WARN] Timeout warning
+[2025-11-07T11:40:29.706757] [INFO] Cache hit
+[2025-11-07T11:40:29.706780] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.706783] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.706774] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.706758] [INFO] Connection established
+[2025-11-07T11:40:29.706770] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.706759] [INFO] Transaction completed
+[2025-11-07T11:40:29.706782] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.706750] [INFO] Health check passed
+[2025-11-07T11:40:29.706756] [INFO] Database query executed
+[2025-11-07T11:40:29.706779] [DEBUG] Variable value: x=42

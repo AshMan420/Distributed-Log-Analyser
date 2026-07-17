@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.959535] [INFO] Session started
+[2025-11-07T11:40:29.959545] [ERROR] Network timeout
+[2025-11-07T11:40:29.959544] [ERROR] Invalid input data
+[2025-11-07T11:40:29.959541] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.959546] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.959527] [INFO] Service initialized
+[2025-11-07T11:40:29.959543] [WARN] Cache miss
+[2025-11-07T11:40:29.959548] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.959539] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.959542] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.959549] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.959525] [INFO] Cache hit
+[2025-11-07T11:40:29.959532] [INFO] Session started
+[2025-11-07T11:40:29.959534] [INFO] Connection established
+[2025-11-07T11:40:29.959526] [INFO] Transaction completed
+[2025-11-07T11:40:29.959530] [INFO] Database query executed
+[2025-11-07T11:40:29.959553] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.959536] [INFO] Database query executed
+[2025-11-07T11:40:29.959535] [INFO] Connection established
+[2025-11-07T11:40:29.959529] [INFO] Configuration loaded
+[2025-11-07T11:40:29.959523] [INFO] Request processed successfully
+[2025-11-07T11:40:29.959538] [INFO] Health check passed
+[2025-11-07T11:40:29.959550] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.959551] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.959531] [INFO] Cache hit
+[2025-11-07T11:40:29.959540] [WARN] Slow query performance
+[2025-11-07T11:40:29.959547] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.959528] [INFO] Transaction completed
+[2025-11-07T11:40:29.959552] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.959554] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.959537] [INFO] Transaction completed
+[2025-11-07T11:40:29.959533] [INFO] Connection established

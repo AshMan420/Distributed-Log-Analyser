@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.610421] [WARN] Slow query performance
+[2025-11-07T11:40:29.610410] [INFO] Health check passed
+[2025-11-07T11:40:29.610416] [WARN] Cache miss
+[2025-11-07T11:40:29.610431] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.610407] [INFO] Connection established
+[2025-11-07T11:40:29.610404] [INFO] Session started
+[2025-11-07T11:40:29.610422] [ERROR] Service unavailable
+[2025-11-07T11:40:29.610423] [ERROR] Database connection lost
+[2025-11-07T11:40:29.610426] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.610418] [WARN] Slow query performance
+[2025-11-07T11:40:29.610414] [INFO] Health check passed
+[2025-11-07T11:40:29.610409] [INFO] Health check passed
+[2025-11-07T11:40:29.610428] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.610402] [INFO] User logged in
+[2025-11-07T11:40:29.610406] [INFO] Connection established
+[2025-11-07T11:40:29.610419] [WARN] Queue size growing
+[2025-11-07T11:40:29.610413] [INFO] Configuration loaded
+[2025-11-07T11:40:29.610420] [WARN] Timeout warning
+[2025-11-07T11:40:29.610427] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.610417] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.610405] [INFO] Connection established
+[2025-11-07T11:40:29.610425] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.610408] [INFO] Session started
+[2025-11-07T11:40:29.610430] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.610411] [INFO] Request processed successfully
+[2025-11-07T11:40:29.610429] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.610403] [INFO] Cache hit
+[2025-11-07T11:40:29.610415] [INFO] Transaction completed
+[2025-11-07T11:40:29.610412] [INFO] Session started

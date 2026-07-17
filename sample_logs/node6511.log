@@ -1,0 +1,26 @@
+[2025-11-07T11:40:29.986195] [WARN] Disk space low
+[2025-11-07T11:40:29.986183] [INFO] Session started
+[2025-11-07T11:40:29.986188] [INFO] Transaction completed
+[2025-11-07T11:40:29.986194] [WARN] Timeout warning
+[2025-11-07T11:40:29.986196] [WARN] High memory usage detected
+[2025-11-07T11:40:29.986193] [INFO] Transaction completed
+[2025-11-07T11:40:29.986200] [ERROR] Database connection lost
+[2025-11-07T11:40:29.986207] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.986189] [INFO] Session started
+[2025-11-07T11:40:29.986203] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.986204] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.986186] [INFO] Database query executed
+[2025-11-07T11:40:29.986185] [INFO] Request processed successfully
+[2025-11-07T11:40:29.986191] [INFO] Connection established
+[2025-11-07T11:40:29.986205] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.986201] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.986206] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.986199] [ERROR] Request failed
+[2025-11-07T11:40:29.986197] [WARN] High memory usage detected
+[2025-11-07T11:40:29.986192] [INFO] Cache hit
+[2025-11-07T11:40:29.986202] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.986187] [INFO] Connection established
+[2025-11-07T11:40:29.986181] [INFO] Transaction completed
+[2025-11-07T11:40:29.986184] [INFO] Database query executed
+[2025-11-07T11:40:29.986190] [INFO] Request processed successfully
+[2025-11-07T11:40:29.986198] [ERROR] Service unavailable

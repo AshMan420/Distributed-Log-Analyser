@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.772982] [INFO] Health check passed
+[2025-11-07T11:40:29.772981] [INFO] Request processed successfully
+[2025-11-07T11:40:29.772996] [WARN] High memory usage detected
+[2025-11-07T11:40:29.773001] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.772997] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.772986] [INFO] Request processed successfully
+[2025-11-07T11:40:29.772994] [WARN] High memory usage detected
+[2025-11-07T11:40:29.773006] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.772985] [INFO] Transaction completed
+[2025-11-07T11:40:29.773003] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.773002] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.773009] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.772990] [INFO] Connection established
+[2025-11-07T11:40:29.772991] [INFO] Database query executed
+[2025-11-07T11:40:29.773007] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.772988] [INFO] Configuration loaded
+[2025-11-07T11:40:29.772980] [INFO] Health check passed
+[2025-11-07T11:40:29.772993] [INFO] Connection established
+[2025-11-07T11:40:29.773005] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.772987] [INFO] Health check passed
+[2025-11-07T11:40:29.772984] [INFO] Database query executed
+[2025-11-07T11:40:29.772983] [INFO] Transaction completed
+[2025-11-07T11:40:29.772995] [WARN] Slow query performance
+[2025-11-07T11:40:29.773004] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.772999] [ERROR] File not found
+[2025-11-07T11:40:29.772989] [INFO] Health check passed
+[2025-11-07T11:40:29.772998] [ERROR] Network timeout
+[2025-11-07T11:40:29.773008] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.772992] [INFO] Cache hit

@@ -1,0 +1,37 @@
+[2025-11-07T11:40:29.626590] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.626599] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.626601] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.626568] [INFO] Configuration loaded
+[2025-11-07T11:40:29.626592] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.626589] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.626586] [WARN] Cache miss
+[2025-11-07T11:40:29.626569] [INFO] Health check passed
+[2025-11-07T11:40:29.626578] [INFO] Cache hit
+[2025-11-07T11:40:29.626566] [INFO] Cache hit
+[2025-11-07T11:40:29.626575] [INFO] User logged in
+[2025-11-07T11:40:29.626580] [INFO] Connection established
+[2025-11-07T11:40:29.626571] [INFO] Session started
+[2025-11-07T11:40:29.626567] [INFO] Service initialized
+[2025-11-07T11:40:29.626570] [INFO] Health check passed
+[2025-11-07T11:40:29.626596] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.626577] [INFO] Configuration loaded
+[2025-11-07T11:40:29.626573] [INFO] Transaction completed
+[2025-11-07T11:40:29.626579] [INFO] Connection established
+[2025-11-07T11:40:29.626582] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.626596] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.626576] [INFO] Health check passed
+[2025-11-07T11:40:29.626602] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.626583] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.626593] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.626594] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.626585] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.626603] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.626587] [ERROR] File not found
+[2025-11-07T11:40:29.626597] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.626584] [WARN] Disk space low
+[2025-11-07T11:40:29.626600] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.626588] [ERROR] Permission denied
+[2025-11-07T11:40:29.626595] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.626578] [INFO] User logged in
+[2025-11-07T11:40:29.626574] [INFO] Request processed successfully
+[2025-11-07T11:40:29.626581] [INFO] Transaction completed

@@ -1,0 +1,33 @@
+[2025-11-07T11:40:29.688609] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.688598] [INFO] Cache hit
+[2025-11-07T11:40:29.688605] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.688600] [INFO] Request processed successfully
+[2025-11-07T11:40:29.688611] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688594] [INFO] User logged in
+[2025-11-07T11:40:29.688606] [ERROR] File not found
+[2025-11-07T11:40:29.688599] [INFO] Transaction completed
+[2025-11-07T11:40:29.688602] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.688593] [INFO] Cache hit
+[2025-11-07T11:40:29.688617] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.688607] [ERROR] Disk read failed
+[2025-11-07T11:40:29.688588] [INFO] Request processed successfully
+[2025-11-07T11:40:29.688612] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.688584] [INFO] Transaction completed
+[2025-11-07T11:40:29.688610] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688597] [INFO] Connection established
+[2025-11-07T11:40:29.688595] [INFO] Transaction completed
+[2025-11-07T11:40:29.688590] [INFO] Health check passed
+[2025-11-07T11:40:29.688604] [WARN] High memory usage detected
+[2025-11-07T11:40:29.688601] [INFO] Service initialized
+[2025-11-07T11:40:29.688603] [WARN] Cache miss
+[2025-11-07T11:40:29.688616] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.688589] [INFO] Request processed successfully
+[2025-11-07T11:40:29.688586] [INFO] Configuration loaded
+[2025-11-07T11:40:29.688613] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688591] [INFO] Cache hit
+[2025-11-07T11:40:29.688587] [INFO] Session started
+[2025-11-07T11:40:29.688613] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.688614] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.688592] [INFO] Service initialized
+[2025-11-07T11:40:29.688598] [INFO] Connection established
+[2025-11-07T11:40:29.688596] [INFO] Cache hit

@@ -1,0 +1,29 @@
+[2025-11-07T11:40:29.486263] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.486257] [INFO] Request processed successfully
+[2025-11-07T11:40:29.486268] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.486274] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.486272] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.486258] [INFO] Transaction completed
+[2025-11-07T11:40:29.486265] [ERROR] Request failed
+[2025-11-07T11:40:29.486261] [WARN] Disk space low
+[2025-11-07T11:40:29.486262] [WARN] Disk space low
+[2025-11-07T11:40:29.486264] [WARN] Cache miss
+[2025-11-07T11:40:29.486259] [INFO] Health check passed
+[2025-11-07T11:40:29.486273] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.486267] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.486266] [ERROR] File not found
+[2025-11-07T11:40:29.486275] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.486248] [INFO] Configuration loaded
+[2025-11-07T11:40:29.486252] [INFO] Health check passed
+[2025-11-07T11:40:29.486256] [INFO] Request processed successfully
+[2025-11-07T11:40:29.486247] [INFO] Database query executed
+[2025-11-07T11:40:29.486269] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.486270] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.486254] [INFO] User logged in
+[2025-11-07T11:40:29.486250] [INFO] Connection established
+[2025-11-07T11:40:29.486251] [INFO] Service initialized
+[2025-11-07T11:40:29.486260] [WARN] Disk space low
+[2025-11-07T11:40:29.486271] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.486246] [INFO] Session started
+[2025-11-07T11:40:29.486255] [INFO] Connection established
+[2025-11-07T11:40:29.486253] [INFO] Database query executed

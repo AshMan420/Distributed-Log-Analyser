@@ -1,0 +1,32 @@
+[2025-11-07T11:40:29.980593] [ERROR] Disk read failed
+[2025-11-07T11:40:29.980603] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.980583] [INFO] Request processed successfully
+[2025-11-07T11:40:29.980578] [INFO] Session started
+[2025-11-07T11:40:29.980580] [INFO] Health check passed
+[2025-11-07T11:40:29.980587] [INFO] Database query executed
+[2025-11-07T11:40:29.980597] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.980592] [WARN] Timeout warning
+[2025-11-07T11:40:29.980585] [INFO] Transaction completed
+[2025-11-07T11:40:29.980604] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.980589] [WARN] Queue size growing
+[2025-11-07T11:40:29.980584] [INFO] Transaction completed
+[2025-11-07T11:40:29.980577] [INFO] Health check passed
+[2025-11-07T11:40:29.980602] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.980590] [WARN] Queue size growing
+[2025-11-07T11:40:29.980569] [INFO] Database query executed
+[2025-11-07T11:40:29.980565] [INFO] Health check passed
+[2025-11-07T11:40:29.980567] [INFO] Session started
+[2025-11-07T11:40:29.980579] [INFO] Cache hit
+[2025-11-07T11:40:29.980601] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.980594] [ERROR] File not found
+[2025-11-07T11:40:29.980595] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.980599] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.980596] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.980588] [WARN] Queue size growing
+[2025-11-07T11:40:29.980568] [INFO] User logged in
+[2025-11-07T11:40:29.980586] [INFO] Health check passed
+[2025-11-07T11:40:29.980600] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.980598] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.980582] [INFO] Database query executed
+[2025-11-07T11:40:29.980581] [INFO] Service initialized
+[2025-11-07T11:40:29.980605] [DEBUG] Connection pool status checked

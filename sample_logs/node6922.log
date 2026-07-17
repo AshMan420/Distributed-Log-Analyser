@@ -1,0 +1,38 @@
+[2025-11-07T11:40:30.029377] [INFO] Request processed successfully
+[2025-11-07T11:40:30.029393] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.029397] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.029364] [INFO] Database query executed
+[2025-11-07T11:40:30.029376] [INFO] Session started
+[2025-11-07T11:40:30.029380] [INFO] User logged in
+[2025-11-07T11:40:30.029386] [ERROR] Request failed
+[2025-11-07T11:40:30.029382] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.029370] [INFO] Health check passed
+[2025-11-07T11:40:30.029378] [INFO] Session started
+[2025-11-07T11:40:30.029381] [INFO] Cache hit
+[2025-11-07T11:40:30.029365] [INFO] Connection established
+[2025-11-07T11:40:30.029389] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.029369] [INFO] Transaction completed
+[2025-11-07T11:40:30.029398] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.029387] [ERROR] Network timeout
+[2025-11-07T11:40:30.029383] [WARN] High memory usage detected
+[2025-11-07T11:40:30.029373] [INFO] Connection established
+[2025-11-07T11:40:30.029366] [INFO] Database query executed
+[2025-11-07T11:40:30.029374] [INFO] Service initialized
+[2025-11-07T11:40:30.029367] [INFO] Transaction completed
+[2025-11-07T11:40:30.029391] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.029379] [INFO] Connection established
+[2025-11-07T11:40:30.029396] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.029383] [WARN] Queue size growing
+[2025-11-07T11:40:30.029395] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.029394] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.029368] [INFO] Connection established
+[2025-11-07T11:40:30.029362] [INFO] Connection established
+[2025-11-07T11:40:30.029372] [INFO] Service initialized
+[2025-11-07T11:40:30.029370] [INFO] User logged in
+[2025-11-07T11:40:30.029392] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.029390] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:30.029384] [WARN] Queue size growing
+[2025-11-07T11:40:30.029375] [INFO] Transaction completed
+[2025-11-07T11:40:30.029371] [INFO] Session started
+[2025-11-07T11:40:30.029388] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.029385] [WARN] Slow query performance

@@ -1,0 +1,34 @@
+[2025-11-07T11:40:29.994590] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.994600] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.994574] [INFO] Request processed successfully
+[2025-11-07T11:40:29.994582] [INFO] Health check passed
+[2025-11-07T11:40:29.994573] [INFO] Service initialized
+[2025-11-07T11:40:29.994581] [INFO] Service initialized
+[2025-11-07T11:40:29.994586] [INFO] Request processed successfully
+[2025-11-07T11:40:29.994599] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.994598] [ERROR] Invalid input data
+[2025-11-07T11:40:29.994589] [WARN] Timeout warning
+[2025-11-07T11:40:29.994606] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.994591] [WARN] Disk space low
+[2025-11-07T11:40:29.994592] [WARN] Timeout warning
+[2025-11-07T11:40:29.994601] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.994594] [WARN] Queue size growing
+[2025-11-07T11:40:29.994578] [INFO] Transaction completed
+[2025-11-07T11:40:29.994575] [INFO] Request processed successfully
+[2025-11-07T11:40:29.994597] [ERROR] Database connection lost
+[2025-11-07T11:40:29.994583] [INFO] Health check passed
+[2025-11-07T11:40:29.994605] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.994585] [INFO] Database query executed
+[2025-11-07T11:40:29.994579] [INFO] Configuration loaded
+[2025-11-07T11:40:29.994604] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.994587] [INFO] Request processed successfully
+[2025-11-07T11:40:29.994607] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.994588] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.994603] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.994602] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.994580] [INFO] Transaction completed
+[2025-11-07T11:40:29.994595] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.994577] [INFO] Database query executed
+[2025-11-07T11:40:29.994596] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.994576] [INFO] Configuration loaded
+[2025-11-07T11:40:29.994584] [INFO] Connection established

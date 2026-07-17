@@ -1,0 +1,27 @@
+[2025-11-07T11:40:29.308322] [ERROR] Permission denied
+[2025-11-07T11:40:29.308329] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.308330] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.308332] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.308327] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.308320] [INFO] Transaction completed
+[2025-11-07T11:40:29.308325] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.308321] [WARN] High memory usage detected
+[2025-11-07T11:40:29.308313] [INFO] Configuration loaded
+[2025-11-07T11:40:29.308315] [INFO] Configuration loaded
+[2025-11-07T11:40:29.308316] [INFO] Cache hit
+[2025-11-07T11:40:29.308323] [ERROR] Invalid input data
+[2025-11-07T11:40:29.308318] [INFO] Transaction completed
+[2025-11-07T11:40:29.308308] [INFO] Configuration loaded
+[2025-11-07T11:40:29.308309] [INFO] Connection established
+[2025-11-07T11:40:29.308324] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.308318] [INFO] Transaction completed
+[2025-11-07T11:40:29.308326] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.308328] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.308312] [INFO] Cache hit
+[2025-11-07T11:40:29.308319] [INFO] Transaction completed
+[2025-11-07T11:40:29.308310] [INFO] Cache hit
+[2025-11-07T11:40:29.308311] [INFO] Cache hit
+[2025-11-07T11:40:29.308331] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.308314] [INFO] Connection established
+[2025-11-07T11:40:29.308317] [INFO] Session started
+[2025-11-07T11:40:29.308306] [INFO] Database query executed

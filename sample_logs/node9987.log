@@ -1,0 +1,31 @@
+[2025-11-07T11:40:30.370112] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.370094] [INFO] Cache hit
+[2025-11-07T11:40:30.370118] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.370114] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:30.370108] [WARN] Cache miss
+[2025-11-07T11:40:30.370098] [INFO] Configuration loaded
+[2025-11-07T11:40:30.370100] [INFO] Transaction completed
+[2025-11-07T11:40:30.370110] [ERROR] Disk read failed
+[2025-11-07T11:40:30.370109] [ERROR] File not found
+[2025-11-07T11:40:30.370103] [INFO] Health check passed
+[2025-11-07T11:40:30.370106] [WARN] Queue size growing
+[2025-11-07T11:40:30.370101] [INFO] Session started
+[2025-11-07T11:40:30.370115] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.370113] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.370097] [INFO] Configuration loaded
+[2025-11-07T11:40:30.370104] [INFO] User logged in
+[2025-11-07T11:40:30.370091] [INFO] Service initialized
+[2025-11-07T11:40:30.370115] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.370092] [INFO] Request processed successfully
+[2025-11-07T11:40:30.370093] [INFO] Cache hit
+[2025-11-07T11:40:30.370090] [INFO] Transaction completed
+[2025-11-07T11:40:30.370096] [INFO] Configuration loaded
+[2025-11-07T11:40:30.370111] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.370119] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.370102] [INFO] Configuration loaded
+[2025-11-07T11:40:30.370117] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.370107] [WARN] Cache miss
+[2025-11-07T11:40:30.370095] [INFO] Service initialized
+[2025-11-07T11:40:30.370116] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.370099] [INFO] Health check passed
+[2025-11-07T11:40:30.370105] [WARN] Disk space low

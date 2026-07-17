@@ -1,0 +1,27 @@
+[2025-11-07T11:40:30.061755] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:30.061737] [INFO] User logged in
+[2025-11-07T11:40:30.061740] [INFO] Cache hit
+[2025-11-07T11:40:30.061738] [INFO] Cache hit
+[2025-11-07T11:40:30.061756] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.061748] [ERROR] Network timeout
+[2025-11-07T11:40:30.061741] [INFO] Cache hit
+[2025-11-07T11:40:30.061745] [WARN] Cache miss
+[2025-11-07T11:40:30.061746] [WARN] Timeout warning
+[2025-11-07T11:40:30.061750] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.061753] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.061751] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.061744] [WARN] Cache miss
+[2025-11-07T11:40:30.061742] [INFO] Service initialized
+[2025-11-07T11:40:30.061749] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.061747] [WARN] Deprecated API usage
+[2025-11-07T11:40:30.061732] [INFO] Service initialized
+[2025-11-07T11:40:30.061752] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.061736] [INFO] Request processed successfully
+[2025-11-07T11:40:30.061741] [INFO] Transaction completed
+[2025-11-07T11:40:30.061743] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.061735] [INFO] Session started
+[2025-11-07T11:40:30.061730] [INFO] Cache hit
+[2025-11-07T11:40:30.061734] [INFO] Cache hit
+[2025-11-07T11:40:30.061733] [INFO] Database query executed
+[2025-11-07T11:40:30.061739] [INFO] Transaction completed
+[2025-11-07T11:40:30.061754] [DEBUG] HTTP request headers parsed

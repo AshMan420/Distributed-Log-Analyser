@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.437588] [INFO] Transaction completed
+[2025-11-07T11:40:29.437601] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.437584] [INFO] Service initialized
+[2025-11-07T11:40:29.437606] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.437582] [INFO] Transaction completed
+[2025-11-07T11:40:29.437600] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.437593] [WARN] Timeout warning
+[2025-11-07T11:40:29.437602] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.437607] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.437592] [INFO] Session started
+[2025-11-07T11:40:29.437594] [WARN] Cache miss
+[2025-11-07T11:40:29.437599] [ERROR] Service unavailable
+[2025-11-07T11:40:29.437577] [INFO] User logged in
+[2025-11-07T11:40:29.437596] [WARN] Cache miss
+[2025-11-07T11:40:29.437581] [INFO] Cache hit
+[2025-11-07T11:40:29.437586] [INFO] Cache hit
+[2025-11-07T11:40:29.437595] [WARN] Queue size growing
+[2025-11-07T11:40:29.437580] [INFO] Request processed successfully
+[2025-11-07T11:40:29.437578] [INFO] Database query executed
+[2025-11-07T11:40:29.437591] [INFO] User logged in
+[2025-11-07T11:40:29.437603] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.437589] [INFO] Cache hit
+[2025-11-07T11:40:29.437604] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.437598] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.437587] [INFO] Request processed successfully
+[2025-11-07T11:40:29.437608] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.437597] [WARN] Slow query performance
+[2025-11-07T11:40:29.437605] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.437585] [INFO] Database query executed
+[2025-11-07T11:40:29.437590] [INFO] Transaction completed
+[2025-11-07T11:40:29.437583] [INFO] Request processed successfully

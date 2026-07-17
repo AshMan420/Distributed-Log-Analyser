@@ -1,0 +1,35 @@
+[2025-11-07T11:40:30.143234] [WARN] Connection retry attempt
+[2025-11-07T11:40:30.143236] [WARN] High memory usage detected
+[2025-11-07T11:40:30.143250] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.143240] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.143232] [INFO] Transaction completed
+[2025-11-07T11:40:30.143253] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.143228] [INFO] Cache hit
+[2025-11-07T11:40:30.143223] [INFO] Cache hit
+[2025-11-07T11:40:30.143221] [INFO] Transaction completed
+[2025-11-07T11:40:30.143246] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:30.143234] [WARN] Slow query performance
+[2025-11-07T11:40:30.143238] [ERROR] Network timeout
+[2025-11-07T11:40:30.143232] [INFO] Service initialized
+[2025-11-07T11:40:30.143251] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.143217] [INFO] Configuration loaded
+[2025-11-07T11:40:30.143245] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:30.143220] [INFO] Transaction completed
+[2025-11-07T11:40:30.143226] [INFO] Service initialized
+[2025-11-07T11:40:30.143231] [INFO] Request processed successfully
+[2025-11-07T11:40:30.143235] [WARN] High memory usage detected
+[2025-11-07T11:40:30.143241] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.143243] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.143242] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:30.143229] [INFO] Transaction completed
+[2025-11-07T11:40:30.143239] [ERROR] Service unavailable
+[2025-11-07T11:40:30.143244] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:30.143230] [INFO] Database query executed
+[2025-11-07T11:40:30.143252] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.143225] [INFO] Request processed successfully
+[2025-11-07T11:40:30.143226] [INFO] Transaction completed
+[2025-11-07T11:40:30.143249] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:30.143222] [INFO] Configuration loaded
+[2025-11-07T11:40:30.143248] [DEBUG] Cache key generated
+[2025-11-07T11:40:30.143219] [INFO] Configuration loaded
+[2025-11-07T11:40:30.143247] [DEBUG] Variable value: x=42

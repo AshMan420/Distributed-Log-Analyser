@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.530814] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.530821] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.530818] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.530797] [INFO] Transaction completed
+[2025-11-07T11:40:29.530799] [INFO] User logged in
+[2025-11-07T11:40:29.530804] [INFO] Cache hit
+[2025-11-07T11:40:29.530824] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.530805] [INFO] Service initialized
+[2025-11-07T11:40:29.530810] [INFO] Cache hit
+[2025-11-07T11:40:29.530800] [INFO] Session started
+[2025-11-07T11:40:29.530798] [INFO] Cache hit
+[2025-11-07T11:40:29.530822] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.530823] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.530816] [ERROR] Permission denied
+[2025-11-07T11:40:29.530819] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.530803] [INFO] Database query executed
+[2025-11-07T11:40:29.530798] [INFO] Database query executed
+[2025-11-07T11:40:29.530802] [INFO] Connection established
+[2025-11-07T11:40:29.530793] [INFO] Cache hit
+[2025-11-07T11:40:29.530809] [INFO] Connection established
+[2025-11-07T11:40:29.530808] [INFO] Health check passed
+[2025-11-07T11:40:29.530806] [INFO] Connection established
+[2025-11-07T11:40:29.530792] [INFO] Request processed successfully
+[2025-11-07T11:40:29.530796] [INFO] Cache hit
+[2025-11-07T11:40:29.530825] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.530813] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.530820] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.530807] [INFO] Cache hit
+[2025-11-07T11:40:29.530795] [INFO] Configuration loaded
+[2025-11-07T11:40:29.530827] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.530812] [WARN] Resource threshold approaching
+[2025-11-07T11:40:29.530817] [ERROR] Database connection lost
+[2025-11-07T11:40:29.530826] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.530811] [WARN] High memory usage detected
+[2025-11-07T11:40:29.530801] [INFO] Service initialized

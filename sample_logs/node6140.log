@@ -1,0 +1,31 @@
+[2025-11-07T11:40:29.945160] [INFO] Service initialized
+[2025-11-07T11:40:29.945184] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.945185] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.945183] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.945163] [INFO] Request processed successfully
+[2025-11-07T11:40:29.945174] [INFO] Connection established
+[2025-11-07T11:40:29.945173] [INFO] Configuration loaded
+[2025-11-07T11:40:29.945172] [INFO] Request processed successfully
+[2025-11-07T11:40:29.945182] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.945176] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.945164] [INFO] Session started
+[2025-11-07T11:40:29.945179] [ERROR] Invalid input data
+[2025-11-07T11:40:29.945169] [INFO] Request processed successfully
+[2025-11-07T11:40:29.945187] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.945186] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.945171] [INFO] Connection established
+[2025-11-07T11:40:29.945170] [INFO] Health check passed
+[2025-11-07T11:40:29.945159] [INFO] Cache hit
+[2025-11-07T11:40:29.945166] [INFO] Request processed successfully
+[2025-11-07T11:40:29.945180] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.945181] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.945167] [INFO] Health check passed
+[2025-11-07T11:40:29.945157] [INFO] Health check passed
+[2025-11-07T11:40:29.945168] [INFO] Request processed successfully
+[2025-11-07T11:40:29.945162] [INFO] Database query executed
+[2025-11-07T11:40:29.945177] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.945188] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.945178] [ERROR] File not found
+[2025-11-07T11:40:29.945175] [WARN] Cache miss
+[2025-11-07T11:40:29.945161] [INFO] Configuration loaded
+[2025-11-07T11:40:29.945165] [INFO] Session started

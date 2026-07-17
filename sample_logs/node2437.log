@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.551607] [INFO] Session started
+[2025-11-07T11:40:29.551634] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.551614] [INFO] Configuration loaded
+[2025-11-07T11:40:29.551608] [INFO] User logged in
+[2025-11-07T11:40:29.551629] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.551610] [INFO] Database query executed
+[2025-11-07T11:40:29.551611] [INFO] Cache hit
+[2025-11-07T11:40:29.551618] [INFO] Transaction completed
+[2025-11-07T11:40:29.551635] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.551615] [INFO] Service initialized
+[2025-11-07T11:40:29.551617] [INFO] Service initialized
+[2025-11-07T11:40:29.551613] [INFO] Database query executed
+[2025-11-07T11:40:29.551620] [INFO] Request processed successfully
+[2025-11-07T11:40:29.551628] [DEBUG] HTTP request headers parsed
+[2025-11-07T11:40:29.551612] [INFO] Health check passed
+[2025-11-07T11:40:29.551616] [INFO] Connection established
+[2025-11-07T11:40:29.551624] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.551619] [INFO] Session started
+[2025-11-07T11:40:29.551625] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.551633] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.551627] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.551632] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.551630] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.551609] [INFO] Health check passed
+[2025-11-07T11:40:29.551626] [ERROR] Memory allocation error
+[2025-11-07T11:40:29.551623] [WARN] Queue size growing
+[2025-11-07T11:40:29.551606] [INFO] Service initialized
+[2025-11-07T11:40:29.551622] [WARN] Rate limit approaching
+[2025-11-07T11:40:29.551621] [INFO] Request processed successfully
+[2025-11-07T11:40:29.551631] [DEBUG] Memory allocation: 2048 bytes

@@ -1,0 +1,35 @@
+[2025-11-07T11:40:29.359763] [INFO] Request processed successfully
+[2025-11-07T11:40:29.359766] [INFO] Cache hit
+[2025-11-07T11:40:29.359776] [WARN] Slow query performance
+[2025-11-07T11:40:29.359781] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.359756] [INFO] Session started
+[2025-11-07T11:40:29.359787] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.359772] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.359777] [ERROR] Request failed
+[2025-11-07T11:40:29.359779] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.359757] [INFO] Service initialized
+[2025-11-07T11:40:29.359771] [WARN] Deprecated API usage
+[2025-11-07T11:40:29.359768] [INFO] Cache hit
+[2025-11-07T11:40:29.359762] [INFO] Connection established
+[2025-11-07T11:40:29.359764] [INFO] Session started
+[2025-11-07T11:40:29.359786] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.359761] [INFO] User logged in
+[2025-11-07T11:40:29.359790] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.359760] [INFO] Session started
+[2025-11-07T11:40:29.359769] [INFO] Transaction completed
+[2025-11-07T11:40:29.359789] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.359765] [INFO] Connection established
+[2025-11-07T11:40:29.359759] [INFO] Connection established
+[2025-11-07T11:40:29.359767] [INFO] Session started
+[2025-11-07T11:40:29.359780] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.359774] [WARN] Disk space low
+[2025-11-07T11:40:29.359783] [DEBUG] Connection pool status checked
+[2025-11-07T11:40:29.359775] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.359791] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.359788] [DEBUG] Thread pool size: 8
+[2025-11-07T11:40:29.359758] [INFO] Configuration loaded
+[2025-11-07T11:40:29.359784] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.359770] [INFO] User logged in
+[2025-11-07T11:40:29.359785] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.359778] [ERROR] Database connection lost
+[2025-11-07T11:40:29.359782] [DEBUG] HTTP request headers parsed

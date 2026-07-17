@@ -1,0 +1,30 @@
+[2025-11-07T11:40:29.532024] [INFO] Cache hit
+[2025-11-07T11:40:29.532049] [DEBUG] Cache key generated
+[2025-11-07T11:40:29.532042] [DEBUG] Memory allocation: 2048 bytes
+[2025-11-07T11:40:29.532021] [INFO] Service initialized
+[2025-11-07T11:40:29.532026] [INFO] Configuration loaded
+[2025-11-07T11:40:29.532034] [WARN] Connection retry attempt
+[2025-11-07T11:40:29.532043] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.532035] [WARN] Cache miss
+[2025-11-07T11:40:29.532030] [INFO] Service initialized
+[2025-11-07T11:40:29.532031] [INFO] Session started
+[2025-11-07T11:40:29.532019] [INFO] Health check passed
+[2025-11-07T11:40:29.532044] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.532048] [DEBUG] Variable value: x=42
+[2025-11-07T11:40:29.532046] [DEBUG] Buffer size: 4096 bytes
+[2025-11-07T11:40:29.532041] [DEBUG] Loop iteration: 15
+[2025-11-07T11:40:29.532032] [INFO] Transaction completed
+[2025-11-07T11:40:29.532022] [INFO] Session started
+[2025-11-07T11:40:29.532027] [INFO] Transaction completed
+[2025-11-07T11:40:29.532023] [INFO] Session started
+[2025-11-07T11:40:29.532029] [INFO] Health check passed
+[2025-11-07T11:40:29.532045] [DEBUG] Timer set: 30 seconds
+[2025-11-07T11:40:29.532038] [WARN] Disk space low
+[2025-11-07T11:40:29.532025] [INFO] Transaction completed
+[2025-11-07T11:40:29.532037] [WARN] Cache miss
+[2025-11-07T11:40:29.532036] [WARN] Disk space low
+[2025-11-07T11:40:29.532047] [DEBUG] Entering function process_data()
+[2025-11-07T11:40:29.532028] [INFO] Request processed successfully
+[2025-11-07T11:40:29.532033] [INFO] Cache hit
+[2025-11-07T11:40:29.532040] [ERROR] Invalid input data
+[2025-11-07T11:40:29.532039] [ERROR] Request failed
